@@ -1,3 +1,917 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6093f9881d1295fdee631a6a90a04adb8a4ab607a6c7a879be348d56daff4ee0
-size 18724
+{
+  "localized title": "Mean Streets",
+  "cast": [
+    {
+      "personID": "0000134",
+      "name": "Robert De Niro",
+      "character": "Johnny Boy"
+    },
+    {
+      "personID": "0000172",
+      "name": "Harvey Keitel",
+      "character": "Charlie"
+    },
+    {
+      "personID": "0698998",
+      "name": "David Proval",
+      "character": "Tony"
+    },
+    {
+      "personID": "0732364",
+      "name": "Amy Robinson",
+      "character": "Teresa"
+    },
+    {
+      "personID": "0739087",
+      "name": "Richard Romanus",
+      "character": "Michael"
+    },
+    {
+      "personID": "0200488",
+      "name": "Cesare Danova",
+      "character": "Giovanni"
+    },
+    {
+      "personID": "0034519",
+      "name": "Victor Argo",
+      "character": "Mario"
+    },
+    {
+      "personID": "0578622",
+      "name": "George Memmoli",
+      "character": "Joey"
+    },
+    {
+      "personID": "0768801",
+      "name": "Lenny Scaletta",
+      "character": "Jimmy"
+    },
+    {
+      "personID": "0068270",
+      "name": "Jeannie Bell",
+      "character": "Diane"
+    },
+    {
+      "personID": "0609231",
+      "name": "Murray Moston",
+      "character": "Oscar"
+    },
+    {
+      "personID": "0001016",
+      "name": "David Carradine",
+      "character": "Drunk"
+    },
+    {
+      "personID": "0001019",
+      "name": "Robert Carradine",
+      "character": "Boy With Gun"
+    },
+    {
+      "personID": "0907087",
+      "name": "Lois Walden",
+      "character": "Jewish Girl"
+    },
+    {
+      "personID": "0636140",
+      "name": "Harry Northup",
+      "character": "Soldier"
+    },
+    {
+      "personID": "0784822",
+      "name": "Dino Seragusa",
+      "character": "Old Man"
+    },
+    {
+      "personID": "0204410",
+      "name": "D'Mitch Davis",
+      "character": "Cop"
+    },
+    {
+      "personID": "0265376",
+      "name": "Peter Fain",
+      "character": "George"
+    },
+    {
+      "personID": "0025917",
+      "name": "Juli Andelman",
+      "character": "Girl At Party"
+    },
+    {
+      "personID": "0928622",
+      "name": "Robert Wilder",
+      "character": "Benton"
+    },
+    {
+      "personID": "0801658",
+      "name": "Ken Sinclair",
+      "character": "Sammy"
+    },
+    {
+      "personID": "0016172",
+      "name": "Jaime Alba",
+      "character": "Young Boy #1"
+    },
+    {
+      "personID": "0465368",
+      "name": "Ken Konstantin",
+      "character": "Young Boy #2"
+    },
+    {
+      "personID": "0032614",
+      "name": "Nicki 'Ack' Aquilino",
+      "character": "Man On Docks"
+    },
+    {
+      "personID": "0715307",
+      "name": "B. Mitchel Reed",
+      "character": "Disc Jockey"
+    },
+    {
+      "personID": "0001637",
+      "name": "Vincent Price",
+      "character": "Verden Fell"
+    },
+    {
+      "personID": "0778734",
+      "name": "Catherine Scorsese",
+      "character": "Woman on Landing"
+    },
+    {
+      "personID": "0000217",
+      "name": "Martin Scorsese",
+      "character": "Jimmy Shorts"
+    }
+  ],
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "runtimes": [
+    "112"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "country codes": [
+    "us"
+  ],
+  "language codes": [
+    "en",
+    "it",
+    "de"
+  ],
+  "color info": [
+    "Black and White"
+  ],
+  "aspect ratio": "1.66 : 1",
+  "sound mix": [
+    "Mono::(Westrex Recording System)",
+    "Dolby::(Westrex Recording System)"
+  ],
+  "box office": {
+    "Budget": "$500,000 (estimated)",
+    "Opening Weekend United States": "$32,645, 15 Mar 1998"
+  },
+  "certificates": [
+    "Argentina:18",
+    "Australia:R",
+    "Brazil:16",
+    "Canada:R",
+    "Canada:R::(DVD rating)",
+    "Canada:18+::(Quebec)",
+    "Canada:13+::(Quebec)",
+    "Canada:18A::(video rating)",
+    "Ecuador:18::(self-applied)",
+    "Egypt:Not Rated::(DVD rating)",
+    "Finland:K-16",
+    "France:16",
+    "France:12",
+    "Germany:16",
+    "Hong Kong:III",
+    "Iceland:16",
+    "India:A",
+    "Ireland:18",
+    "Italy:VM14",
+    "Malaysia:P13",
+    "Mexico:B15",
+    "Netherlands:16",
+    "New Zealand:R18",
+    "Norway:15::(VOD)",
+    "Norway:16::(cinema rating)",
+    "Poland:16::(self-applied)",
+    "Singapore:NC-16",
+    "South Korea:18",
+    "Spain:18",
+    "Sweden:15",
+    "United Kingdom:X",
+    "United Kingdom:18::(video rating)",
+    "United States:R",
+    "West Germany:16"
+  ],
+  "original air date": "14 Oct 1973 (USA)",
+  "rating": 7.2,
+  "votes": 112749,
+  "cover url": "https://m.media-amazon.com/images/M/MV5BMWNmNGY3ZGMtYWQ3OC00Zjg4LWFiN2EtZjM2MDI1YzRiNjg3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg",
+  "imdbID": "0070379",
+  "videos": [
+    "http://www.imdb.com/title/tt0070379/videoplayer/vi429261081",
+    "http://www.imdb.com/title/tt0070379/videoplayer/vi4003249945"
+  ],
+  "plot outline": "The future is set for Tony and Michael -- owning a neighborhood bar and making deals in the mean streets of New York City's Little Italy. For Charlie, the future is less clearly defined. A small-time hood, he works for his uncle, making collections and reclaiming bad debts. In love with a woman of whom his uncle disapproves (due to her epilepsy) and a friend of her disturbed cousin, Johnny Boy, a near psychotic whose trouble-making threatens them all -- Charlie just cannot reconcile opposing values. A failed attempt to escape (to Brooklyn) moves them all a step closer to a bitter, almost preordained future.",
+  "languages": [
+    "English",
+    "Italian",
+    "German"
+  ],
+  "title": "Mean Streets",
+  "year": 1973,
+  "kind": "movie",
+  "original title": "Mean Streets",
+  "director": [
+    {
+      "personID": "0000217",
+      "name": "Martin Scorsese",
+      "character": null
+    }
+  ],
+  "writer": [
+    {
+      "personID": "0000217",
+      "name": "Martin Scorsese",
+      "character": null
+    },
+    {
+      "personID": "0552731",
+      "name": "Mardik Martin",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "0000217",
+      "name": "Martin Scorsese",
+      "character": null
+    }
+  ],
+  "producer": [
+    {
+      "personID": "0675049",
+      "name": "E. Lee Perry",
+      "character": null
+    },
+    {
+      "personID": "0850038",
+      "name": "Jonathan T. Taplin",
+      "character": null
+    }
+  ],
+  "cinematographer": [
+    {
+      "personID": "0906814",
+      "name": "Kent L. Wakeford",
+      "character": null
+    }
+  ],
+  "editor": [
+    {
+      "personID": "0505720",
+      "name": "Sidney Levin",
+      "character": null
+    }
+  ],
+  "editorial department": [
+    {
+      "personID": "0873123",
+      "name": "George Trirogoff",
+      "character": null
+    }
+  ],
+  "production manager": [
+    {
+      "personID": "0667038",
+      "name": "Paul Rapp",
+      "character": null
+    }
+  ],
+  "assistant director": [
+    {
+      "personID": "0766191",
+      "name": "Ron Satlof",
+      "character": null
+    },
+    {
+      "personID": "0904056",
+      "name": "Russell Vreeland",
+      "character": null
+    },
+    {
+      "personID": "0189319",
+      "name": "Paul J. Crossey",
+      "character": null
+    }
+  ],
+  "art department": [
+    {
+      "personID": "0060853",
+      "name": "Bill Bates",
+      "character": null
+    },
+    {
+      "personID": "0355526",
+      "name": "Doyle Hall",
+      "character": null
+    },
+    {
+      "personID": "0629567",
+      "name": "David Nichols",
+      "character": null
+    },
+    {
+      "personID": "0761367",
+      "name": "William Sandell",
+      "character": null
+    }
+  ],
+  "sound crew": [
+    {
+      "personID": "0331586",
+      "name": "Walter Goss",
+      "character": null
+    },
+    {
+      "personID": "0340311",
+      "name": "Charles Grenzbach",
+      "character": null
+    },
+    {
+      "personID": "0424979",
+      "name": "Donald F. Johnson",
+      "character": null
+    },
+    {
+      "personID": "0777607",
+      "name": "Kenneth Schwarz",
+      "character": null
+    },
+    {
+      "personID": "0929414",
+      "name": "John Wilkinson",
+      "character": null
+    }
+  ],
+  "special effects": [
+    {
+      "personID": "0047112",
+      "name": "Bill Balles",
+      "character": null
+    }
+  ],
+  "stunt performer": [
+    {
+      "personID": "0145998",
+      "name": "Bill Catching",
+      "character": null
+    },
+    {
+      "personID": "1660318",
+      "name": "William H. Burton",
+      "character": null
+    },
+    {
+      "personID": "0145998",
+      "name": "Bill Catching",
+      "character": null
+    },
+    {
+      "personID": "0650657",
+      "name": "Bob Orrison",
+      "character": null
+    }
+  ],
+  "camera and electrical department": [
+    {
+      "personID": "0313982",
+      "name": "Norman Gerard",
+      "character": null
+    },
+    {
+      "personID": "0615068",
+      "name": "John Murray",
+      "character": null
+    },
+    {
+      "personID": "0641317",
+      "name": "Pat O'Mara",
+      "character": null
+    },
+    {
+      "personID": "0678855",
+      "name": "Robert A. Petzoldt",
+      "character": null
+    },
+    {
+      "personID": "0848334",
+      "name": "Gene A. Talvin",
+      "character": null
+    },
+    {
+      "personID": "0896546",
+      "name": "Ronald Vidor",
+      "character": null
+    },
+    {
+      "personID": "0949306",
+      "name": "Bill Young",
+      "character": null
+    },
+    {
+      "personID": "0949601",
+      "name": "Harry Young",
+      "character": null
+    },
+    {
+      "personID": "0386580",
+      "name": "Alec Hirschfeld",
+      "character": null
+    },
+    {
+      "personID": "0930110",
+      "name": "Bill Williams",
+      "character": null
+    }
+  ],
+  "costume department": [
+    {
+      "personID": "0758599",
+      "name": "Norman Salling",
+      "character": null
+    }
+  ],
+  "script department": [
+    {
+      "personID": "1086211",
+      "name": "Nancy Nigrosh",
+      "character": null
+    },
+    {
+      "personID": "0797231",
+      "name": "Bobbie Sierks",
+      "character": null
+    }
+  ],
+  "miscellaneous crew": [
+    {
+      "personID": "0192539",
+      "name": "Joe Cupcake",
+      "character": null
+    },
+    {
+      "personID": "0265376",
+      "name": "Peter Fain",
+      "character": null
+    },
+    {
+      "personID": "0573664",
+      "name": "Cornelia McNamara",
+      "character": null
+    },
+    {
+      "personID": "0652356",
+      "name": "David Osterhout",
+      "character": null
+    },
+    {
+      "personID": "0710861",
+      "name": "Neil Rapp",
+      "character": null
+    },
+    {
+      "personID": "0859975",
+      "name": "Chris Thompson",
+      "character": null
+    },
+    {
+      "personID": "0869328",
+      "name": "George Toth",
+      "character": null
+    },
+    {
+      "personID": "0738083",
+      "name": "Sandra Weintraub",
+      "character": null
+    },
+    {
+      "personID": "0931422",
+      "name": "Pamela Williams",
+      "character": null
+    },
+    {
+      "personID": "0068124",
+      "name": "Dale Bell",
+      "character": null
+    },
+    {
+      "personID": "0088753",
+      "name": "Mitchell Block",
+      "character": null
+    },
+    {
+      "personID": "0375046",
+      "name": "Ralph Helfer",
+      "character": null
+    }
+  ],
+  "thanks": [
+    {
+      "personID": "0021975",
+      "name": "Paul Almond",
+      "character": null
+    },
+    {
+      "personID": "0010278",
+      "name": "Frank Aquilino",
+      "character": null
+    },
+    {
+      "personID": "0032614",
+      "name": "Nicki 'Ack' Aquilino",
+      "character": null
+    },
+    {
+      "personID": "1084890",
+      "name": "Frankie Bananas",
+      "character": null
+    },
+    {
+      "personID": "0068124",
+      "name": "Dale Bell",
+      "character": null
+    },
+    {
+      "personID": "0088753",
+      "name": "Mitchell Block",
+      "character": null
+    },
+    {
+      "personID": "1084981",
+      "name": "Dean Bojorquez",
+      "character": null
+    },
+    {
+      "personID": "2904772",
+      "name": "Larry the Box",
+      "character": null
+    },
+    {
+      "personID": "1087890",
+      "name": "Hooter Brown",
+      "character": null
+    },
+    {
+      "personID": "0168379",
+      "name": "Jay Cocks",
+      "character": null
+    },
+    {
+      "personID": "0000361",
+      "name": "Brian De Palma",
+      "character": null
+    },
+    {
+      "personID": "1337368",
+      "name": "Norman Garey",
+      "character": null
+    },
+    {
+      "personID": "1087945",
+      "name": "Jenny Goldberg",
+      "character": null
+    },
+    {
+      "personID": "0386580",
+      "name": "Alec Hirschfeld",
+      "character": null
+    },
+    {
+      "personID": "1087973",
+      "name": "Robert Kahn",
+      "character": null
+    },
+    {
+      "personID": "0441825",
+      "name": "Richard Katz",
+      "character": null
+    },
+    {
+      "personID": "0470309",
+      "name": "John Krauss",
+      "character": null
+    },
+    {
+      "personID": "0483634",
+      "name": "Angelo Lamonea",
+      "character": null
+    },
+    {
+      "personID": "0130646",
+      "name": "James McCalmont",
+      "character": null
+    },
+    {
+      "personID": "0591431",
+      "name": "Bill Minkin",
+      "character": null
+    },
+    {
+      "personID": "0592869",
+      "name": "Michael Mislove",
+      "character": null
+    },
+    {
+      "personID": "1086211",
+      "name": "Nancy Nigrosh",
+      "character": null
+    },
+    {
+      "personID": "0651694",
+      "name": "Lee Osborne",
+      "character": null
+    },
+    {
+      "personID": "1088041",
+      "name": "Sally Red",
+      "character": null
+    },
+    {
+      "personID": "0759178",
+      "name": "Bill Saluga",
+      "character": null
+    },
+    {
+      "personID": "0761367",
+      "name": "William Sandell",
+      "character": null
+    },
+    {
+      "personID": "0778734",
+      "name": "Catherine Scorsese",
+      "character": null
+    },
+    {
+      "personID": "1088064",
+      "name": "Brad Shattuck",
+      "character": null
+    },
+    {
+      "personID": "0808302",
+      "name": "George Smith",
+      "character": null
+    },
+    {
+      "personID": "2904774",
+      "name": "Edward Stable",
+      "character": null
+    },
+    {
+      "personID": "1088077",
+      "name": "Dita Sullivan",
+      "character": null
+    },
+    {
+      "personID": "0841468",
+      "name": "Brian Swain",
+      "character": null
+    },
+    {
+      "personID": "0880036",
+      "name": "Harry J. Ufland",
+      "character": null
+    },
+    {
+      "personID": "2905290",
+      "name": "Anna Uricola",
+      "character": null
+    },
+    {
+      "personID": "1086780",
+      "name": "Dominic Vaccaro",
+      "character": null
+    },
+    {
+      "personID": "1088092",
+      "name": "Fred Vaccaro",
+      "character": null
+    },
+    {
+      "personID": "1086843",
+      "name": "Roger Vreeland",
+      "character": null
+    },
+    {
+      "personID": "0918507",
+      "name": "Barbara Weintraub",
+      "character": null
+    }
+  ],
+  "akas": [
+    "Season of the Witch (United States)",
+    "Mean streets - les rues chaudes (France)",
+    "Die besten Regisseure der Welt (Germany)",
+    "Hexenkessel (Germany)",
+    "Mals carrers (Spain, Catalan title)"
+  ],
+  "production companies": [
+    {
+      "companyID": "0002663",
+      "name": "Warner Bros."
+    },
+    {
+      "companyID": "0025588",
+      "name": "Taplin - Perry - Scorsese Productions"
+    }
+  ],
+  "distributors": [
+    {
+      "companyID": "0002663",
+      "name": "Warner Bros."
+    },
+    {
+      "companyID": "0110090",
+      "name": "Columbia-Warner Distributors"
+    },
+    {
+      "companyID": "0050989",
+      "name": "Svensk Filmindustri (SF)"
+    },
+    {
+      "companyID": "0015327",
+      "name": "Kommunenes Filmcentral (KF)"
+    },
+    {
+      "companyID": "0065243",
+      "name": "Les Films Moli\u00e8re"
+    },
+    {
+      "companyID": "0058792",
+      "name": "Roadshow Films"
+    },
+    {
+      "companyID": "0712536",
+      "name": "Ursulines Distribution S.A."
+    },
+    {
+      "companyID": "0372744",
+      "name": "Warner-Columbia Films"
+    },
+    {
+      "companyID": "0072315",
+      "name": "National Broadcasting Company (NBC)"
+    },
+    {
+      "companyID": "0012065",
+      "name": "Filmes Lusomundo"
+    },
+    {
+      "companyID": "0106073",
+      "name": "Hokushin Audio Visual"
+    },
+    {
+      "companyID": "0059995",
+      "name": "Warner Home Video"
+    },
+    {
+      "companyID": "0048760",
+      "name": "Home Video Hellas (HVH)"
+    },
+    {
+      "companyID": "0111751",
+      "name": "Breien Film"
+    },
+    {
+      "companyID": "0163657",
+      "name": "Golden Lion Video"
+    },
+    {
+      "companyID": "0354724",
+      "name": "Cor Koppies Video"
+    },
+    {
+      "companyID": "0059995",
+      "name": "Warner Home Video"
+    },
+    {
+      "companyID": "0106102",
+      "name": "Encore Entertainment"
+    },
+    {
+      "companyID": "0153714",
+      "name": "Aquarius TV"
+    },
+    {
+      "companyID": "0258711",
+      "name": "Chapel Distribution"
+    },
+    {
+      "companyID": "0166075",
+      "name": "Indies Home Entertainment"
+    },
+    {
+      "companyID": "0003833",
+      "name": "Scanbox Entertainment"
+    },
+    {
+      "companyID": "0227539",
+      "name": "V\u00e9rtice 360"
+    },
+    {
+      "companyID": "0031085",
+      "name": "Argentina Video Home"
+    },
+    {
+      "companyID": "0031085",
+      "name": "Argentina Video Home"
+    },
+    {
+      "companyID": "0059995",
+      "name": "Warner Home Video"
+    },
+    {
+      "companyID": "0089683",
+      "name": "Warner Home V\u00eddeo"
+    },
+    {
+      "companyID": "0110681",
+      "name": "Universal Home Entertainment"
+    },
+    {
+      "companyID": "0003833",
+      "name": "Scanbox Entertainment"
+    },
+    {
+      "companyID": "0376814",
+      "name": "More2C"
+    },
+    {
+      "companyID": "0133933",
+      "name": "Mission"
+    },
+    {
+      "companyID": "0234496",
+      "name": "BBC Two"
+    },
+    {
+      "companyID": "0301581",
+      "name": "Great Movies"
+    },
+    {
+      "companyID": "0108884",
+      "name": "Blue Dolphin Film Distribution"
+    },
+    {
+      "companyID": "0147778",
+      "name": "Arcade Video"
+    },
+    {
+      "companyID": "0298915",
+      "name": "Magic Box"
+    },
+    {
+      "companyID": "0355678",
+      "name": "Thorn-EMI Video"
+    },
+    {
+      "companyID": "0536078",
+      "name": "WME Home Entertainment"
+    },
+    {
+      "companyID": "0089683",
+      "name": "Warner Home V\u00eddeo"
+    }
+  ],
+  "other companies": [
+    {
+      "companyID": "0055031",
+      "name": "Angel Editorial"
+    },
+    {
+      "companyID": "0230717",
+      "name": "F & B Ceco"
+    },
+    {
+      "companyID": "0041499",
+      "name": "Gentle Jungle"
+    },
+    {
+      "companyID": "0000175",
+      "name": "Glen Glenn Sound Company"
+    },
+    {
+      "companyID": "0301390",
+      "name": "San Gennaro Feast Committee"
+    }
+  ]
+}

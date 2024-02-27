@@ -1,3 +1,956 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e9037c79a66bcf792f55cb5db530d2fca6ef07a0d6a010f056758524579f3ecb
-size 19657
+{
+  "localized title": "The Amityville Horror",
+  "cast": [
+    {
+      "personID": "0000981",
+      "name": "James Brolin",
+      "character": "George Lutz"
+    },
+    {
+      "personID": "0452288",
+      "name": "Margot Kidder",
+      "character": "Kathy Lutz"
+    },
+    {
+      "personID": "0001768",
+      "name": "Rod Steiger",
+      "character": "Father Delaney"
+    },
+    {
+      "personID": "0835144",
+      "name": "Don Stroud",
+      "character": "Father Bolen"
+    },
+    {
+      "personID": "0358069",
+      "name": "Murray Hamilton",
+      "character": "Father Ryan"
+    },
+    {
+      "personID": "0488024",
+      "name": "John Larch",
+      "character": "Father Nuncio"
+    },
+    {
+      "personID": "0752757",
+      "name": "Natasha Ryan",
+      "character": "Amy"
+    },
+    {
+      "personID": "0551502",
+      "name": "K.C. Martel",
+      "character": "Greg"
+    },
+    {
+      "personID": "0671375",
+      "name": "Meeno Peluce",
+      "character": "Matt"
+    },
+    {
+      "personID": "0755310",
+      "name": "Michael Sacks",
+      "character": "Jeff"
+    },
+    {
+      "personID": "0001726",
+      "name": "Helen Shaver",
+      "character": "Carolyn"
+    },
+    {
+      "personID": "0942195",
+      "name": "Amy Wright",
+      "character": "Jackie"
+    },
+    {
+      "personID": "0043088",
+      "name": "Val Avery",
+      "character": "Sgt. Gionfriddo"
+    },
+    {
+      "personID": "0197320",
+      "name": "Irene Dailey",
+      "character": "Aunt Helena"
+    },
+    {
+      "personID": "0883135",
+      "name": "Marc Vahanian",
+      "character": "Jimmy"
+    },
+    {
+      "personID": "0712341",
+      "name": "Elsa Raven",
+      "character": "Mrs. Townsend"
+    },
+    {
+      "personID": "0757540",
+      "name": "Ellen Saland",
+      "character": "Bride"
+    },
+    {
+      "personID": "0058532",
+      "name": "Eddie Barth",
+      "character": "Agucci"
+    },
+    {
+      "personID": "0308056",
+      "name": "Hank Garrett",
+      "character": "Bartender"
+    },
+    {
+      "personID": "0866055",
+      "name": "James Tolkan",
+      "character": "Coroner"
+    },
+    {
+      "personID": "0286148",
+      "name": "Carmine Foresta",
+      "character": "Cop at the House"
+    },
+    {
+      "personID": "0540595",
+      "name": "Peter Maloney",
+      "character": "Newspaper Clerk"
+    },
+    {
+      "personID": "0919523",
+      "name": "Charlie Welch",
+      "character": "Carpenter"
+    },
+    {
+      "personID": "0588512",
+      "name": "J.R. Miller",
+      "character": "Boy"
+    },
+    {
+      "personID": "0123788",
+      "name": "Patty Burtt",
+      "character": "Girl"
+    },
+    {
+      "personID": "0370187",
+      "name": "Michael Hawkins",
+      "character": "New York State Trooper"
+    },
+    {
+      "personID": "0400879",
+      "name": "Richard Hughes",
+      "character": "2nd New York State Trooper"
+    },
+    {
+      "personID": "0241149",
+      "name": "James Dukas",
+      "character": "Neighbor"
+    },
+    {
+      "personID": "0364463",
+      "name": "Baxter Harris",
+      "character": "Cop #2 at the House"
+    },
+    {
+      "personID": "0004295",
+      "name": "Michael Stearns",
+      "character": "Policeman"
+    },
+    {
+      "personID": "0472790",
+      "name": "Jack Krupnick",
+      "character": "Dead Father"
+    }
+  ],
+  "genres": [
+    "Horror"
+  ],
+  "runtimes": [
+    "117"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "country codes": [
+    "us"
+  ],
+  "language codes": [
+    "en"
+  ],
+  "color info": [
+    "Color"
+  ],
+  "aspect ratio": "1.85 : 1",
+  "sound mix": [
+    "Stereo",
+    "Dolby Digital"
+  ],
+  "box office": {
+    "Budget": "$4,700,000 (estimated)",
+    "Opening Weekend United States": "$7,843,467, 29 Jul 1979"
+  },
+  "certificates": [
+    "Argentina:18",
+    "Australia:M",
+    "Canada:14A",
+    "Canada:PG::(Canadian Home Video rating)",
+    "Canada:13+::(Quebec)",
+    "Finland:K-18",
+    "France:12::(new rating)",
+    "France:13",
+    "Germany:16::(DVD rating)",
+    "Iceland:16",
+    "India:UA",
+    "India:A",
+    "Italy:VM18",
+    "Italy:VM14",
+    "Mexico:B-15",
+    "Netherlands:16",
+    "New Zealand:R16",
+    "Norway:15::(VOD)",
+    "Norway:18::(cinema rating)",
+    "Norway:16::(video rating)",
+    "Peru:18",
+    "Poland:16::(TV rating)",
+    "Russia:18+",
+    "Singapore:NC-16",
+    "South Korea:12",
+    "South Korea:18::(VOD rating)",
+    "Spain:16",
+    "Spain:13",
+    "Sweden:15",
+    "United Kingdom:15::(video rating)",
+    "United Kingdom:X",
+    "United States:R",
+    "West Germany:16"
+  ],
+  "original air date": "27 Jul 1979 (USA)",
+  "rating": 6.1,
+  "votes": 41575,
+  "cover url": "https://m.media-amazon.com/images/M/MV5BMTc0NDMyNTU3M15BMl5BanBnXkFtZTcwMjM0MTgwNA@@._V1_SX101_CR0,0,101,150_.jpg",
+  "imdbID": "0078767",
+  "videos": [
+    "http://www.imdb.com/title/tt0078767/videoplayer/vi1085325081",
+    "http://www.imdb.com/title/tt0078767/videoplayer/vi796572441"
+  ],
+  "plot outline": "Based on a true story that was claimed by writer Jay Anson, The Amityville Horror is about a large house on the coast of Long Island where newlyweds George and Kathy Lutz and their three children move into the house that they hope will be their dream house which ends up in terror. Despite full disclosure by the real estate agent of the house's history, George and Kathy buy the house. George says, \"Houses don't have memories,\" but they turn to their family priest Father Delaney who believes the house is haunted and performs an exorcism on the house. But satanic forces in the house causes him to become blind and makes him very sick. With the help of another priest Father Bolen and a police detective, George and Kathy face the fears of the house, but not knowing the forces are planning to possess George and then the children.",
+  "languages": [
+    "English"
+  ],
+  "title": "The Amityville Horror",
+  "year": 1979,
+  "kind": "movie",
+  "original title": "The Amityville Horror",
+  "director": [
+    {
+      "personID": "0742341",
+      "name": "Stuart Rosenberg",
+      "character": null
+    }
+  ],
+  "writer": [
+    {
+      "personID": "0827839",
+      "name": "Sandor Stern",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "0030663",
+      "name": "Jay Anson",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "0527567",
+      "name": "George Lutz",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "0527582",
+      "name": "Kathy Lutz",
+      "character": null
+    }
+  ],
+  "producer": [
+    {
+      "personID": "0035098",
+      "name": "Samuel Z. Arkoff",
+      "character": null
+    },
+    {
+      "personID": "0312031",
+      "name": "Elliot Geisinger",
+      "character": null
+    },
+    {
+      "personID": "1274277",
+      "name": "Richard M. Greenberg",
+      "character": null
+    },
+    {
+      "personID": "0757541",
+      "name": "Ronald Saland",
+      "character": null
+    }
+  ],
+  "composer": [
+    {
+      "personID": "0006277",
+      "name": "Lalo Schifrin",
+      "character": null
+    }
+  ],
+  "cinematographer": [
+    {
+      "personID": "0005758",
+      "name": "Fred J. Koenekamp",
+      "character": null
+    }
+  ],
+  "editor": [
+    {
+      "personID": "0114534",
+      "name": "Robert Brown",
+      "character": null
+    }
+  ],
+  "editorial department": [
+    {
+      "personID": "0077496",
+      "name": "Bill Berry",
+      "character": null
+    },
+    {
+      "personID": "0195859",
+      "name": "Dee D'Orazio",
+      "character": null
+    },
+    {
+      "personID": "0292483",
+      "name": "Stanley Frazen",
+      "character": null
+    },
+    {
+      "personID": "1072066",
+      "name": "Dennis Galling",
+      "character": null
+    },
+    {
+      "personID": "0304192",
+      "name": "Barbara Gandolfo-Frady",
+      "character": null
+    }
+  ],
+  "casting director": [
+    {
+      "personID": "0270670",
+      "name": "Jane Feinberg",
+      "character": null
+    },
+    {
+      "personID": "0272067",
+      "name": "Mike Fenton",
+      "character": null
+    },
+    {
+      "personID": "0852677",
+      "name": "Judy Taylor",
+      "character": null
+    }
+  ],
+  "art direction": [
+    {
+      "personID": "0841421",
+      "name": "Kim Swados",
+      "character": null
+    }
+  ],
+  "set decoration": [
+    {
+      "personID": "0072960",
+      "name": "Robert R. Benton",
+      "character": null
+    }
+  ],
+  "make up": [
+    {
+      "personID": "0009401",
+      "name": "Stephen Abrums",
+      "character": null
+    },
+    {
+      "personID": "0497013",
+      "name": "Christine Lee",
+      "character": null
+    }
+  ],
+  "production manager": [
+    {
+      "personID": "0082561",
+      "name": "Salvatore Billitteri",
+      "character": null
+    },
+    {
+      "personID": "0378129",
+      "name": "Jere Henshaw",
+      "character": null
+    },
+    {
+      "personID": "0766951",
+      "name": "Russell Saunders",
+      "character": null
+    }
+  ],
+  "assistant director": [
+    {
+      "personID": "0742176",
+      "name": "Benjamin Rosenberg",
+      "character": null
+    },
+    {
+      "personID": "0891031",
+      "name": "Edward E. Vaughan",
+      "character": null
+    }
+  ],
+  "art department": [
+    {
+      "personID": "0400031",
+      "name": "Mentor Huebner",
+      "character": null
+    },
+    {
+      "personID": "0638047",
+      "name": "Donald B. Nunley",
+      "character": null
+    },
+    {
+      "personID": "0804042",
+      "name": "Bob Skemp",
+      "character": null
+    }
+  ],
+  "sound crew": [
+    {
+      "personID": "0282276",
+      "name": "Stephen Hunter Flick",
+      "character": null
+    },
+    {
+      "personID": "0321903",
+      "name": "Robert W. Glass Jr.",
+      "character": null
+    },
+    {
+      "personID": "0365094",
+      "name": "Maury Harris",
+      "character": null
+    },
+    {
+      "personID": "1389769",
+      "name": "Bill Henderson",
+      "character": null
+    },
+    {
+      "personID": "0708975",
+      "name": "Christopher Ramsey",
+      "character": null
+    },
+    {
+      "personID": "0878889",
+      "name": "Richard Tyler",
+      "character": null
+    },
+    {
+      "personID": "0929414",
+      "name": "John Wilkinson",
+      "character": null
+    }
+  ],
+  "special effects": [
+    {
+      "personID": "0722206",
+      "name": "Dell Rheaume",
+      "character": null
+    }
+  ],
+  "visual effects": [
+    {
+      "personID": "0190148",
+      "name": "William Cruse",
+      "character": null
+    },
+    {
+      "personID": "0086418",
+      "name": "Allen Blaisdell",
+      "character": null
+    }
+  ],
+  "stunt performer": [
+    {
+      "personID": "0053813",
+      "name": "Bruce Paul Barbour",
+      "character": null
+    },
+    {
+      "personID": "0115704",
+      "name": "Brian Bruderlin",
+      "character": null
+    },
+    {
+      "personID": "0187220",
+      "name": "Roger Creed",
+      "character": null
+    },
+    {
+      "personID": "0003886",
+      "name": "Conrad E. Palmisano",
+      "character": null
+    },
+    {
+      "personID": "0780622",
+      "name": "Rick Seaman",
+      "character": null
+    }
+  ],
+  "camera and electrical department": [
+    {
+      "personID": "0032026",
+      "name": "Bob Apger",
+      "character": null
+    },
+    {
+      "personID": "0072593",
+      "name": "Mike Benson",
+      "character": null
+    },
+    {
+      "personID": "0478060",
+      "name": "G\u00e1bor K\u00f6v\u00e9r",
+      "character": null
+    },
+    {
+      "personID": "0604371",
+      "name": "Edward Morey III",
+      "character": null
+    },
+    {
+      "personID": "0615068",
+      "name": "John Murray",
+      "character": null
+    },
+    {
+      "personID": "11509370",
+      "name": "Tibor Ted Nagy",
+      "character": null
+    },
+    {
+      "personID": "0694334",
+      "name": "Thomas P. Powell",
+      "character": null
+    },
+    {
+      "personID": "0832867",
+      "name": "Gene Stout",
+      "character": null
+    },
+    {
+      "personID": "0874440",
+      "name": "Hal Trussell",
+      "character": null
+    }
+  ],
+  "costume department": [
+    {
+      "personID": "0050089",
+      "name": "Cynthia Bales",
+      "character": null
+    },
+    {
+      "personID": "0125477",
+      "name": "Richard Butz",
+      "character": null
+    }
+  ],
+  "location management": [
+    {
+      "personID": "0912596",
+      "name": "Steve Warner",
+      "character": null
+    }
+  ],
+  "music department": [
+    {
+      "personID": "0355792",
+      "name": "Kenneth Hall",
+      "character": null
+    },
+    {
+      "personID": "0734099",
+      "name": "Aaron Rochin",
+      "character": null
+    },
+    {
+      "personID": "0828755",
+      "name": "Sally Stevens",
+      "character": null
+    },
+    {
+      "personID": "1876240",
+      "name": "Israel Baker",
+      "character": null
+    },
+    {
+      "personID": "0424119",
+      "name": "John Graves",
+      "character": null
+    },
+    {
+      "personID": "0371911",
+      "name": "Richard Hazard",
+      "character": null
+    },
+    {
+      "personID": "3049582",
+      "name": "The Hollywood Studio Symphony",
+      "character": null
+    },
+    {
+      "personID": "0573522",
+      "name": "Malcolm McNab",
+      "character": null
+    },
+    {
+      "personID": "0724079",
+      "name": "Emil Richards",
+      "character": null
+    },
+    {
+      "personID": "5948860",
+      "name": "Ethmer Roten",
+      "character": null
+    },
+    {
+      "personID": "0006277",
+      "name": "Lalo Schifrin",
+      "character": null
+    }
+  ],
+  "script department": [
+    {
+      "personID": "0627862",
+      "name": "Mary Ann Newfield",
+      "character": null
+    }
+  ],
+  "transportation department": [
+    {
+      "personID": "1072037",
+      "name": "Johnny Dias",
+      "character": null
+    }
+  ],
+  "miscellaneous crew": [
+    {
+      "personID": "1071974",
+      "name": "Susan Anker",
+      "character": null
+    },
+    {
+      "personID": "0035098",
+      "name": "Samuel Z. Arkoff",
+      "character": null
+    },
+    {
+      "personID": "0075900",
+      "name": "Thomas Bermingham",
+      "character": null
+    },
+    {
+      "personID": "0319249",
+      "name": "Gary Gillingham",
+      "character": null
+    },
+    {
+      "personID": "0339314",
+      "name": "Connie Greenwood",
+      "character": null
+    },
+    {
+      "personID": "0588709",
+      "name": "Karl Lewis Miller",
+      "character": null
+    },
+    {
+      "personID": "0682850",
+      "name": "Barbara Pieters",
+      "character": null
+    }
+  ],
+  "akas": [
+    "Amityville : La Maison du diable (France)",
+    "Amityville Horror (Germany)",
+    "Terror a Amytville (Spain, Catalan title)",
+    "Terror en Amityville (Spain)",
+    "A Cidade do Horror (Brazil)"
+  ],
+  "production companies": [
+    {
+      "companyID": "0022781",
+      "name": "American International Pictures"
+    },
+    {
+      "companyID": "0139616",
+      "name": "Cinema 77"
+    },
+    {
+      "companyID": "0110900",
+      "name": "Professional Films"
+    }
+  ],
+  "distributors": [
+    {
+      "companyID": "0022781",
+      "name": "American International Pictures (AIP)"
+    },
+    {
+      "companyID": "0056715",
+      "name": "Ambassador Film Distributors"
+    },
+    {
+      "companyID": "0601389",
+      "name": "Producciones Imperial"
+    },
+    {
+      "companyID": "0029714",
+      "name": "Europa Film"
+    },
+    {
+      "companyID": "0252851",
+      "name": "Syncron Film"
+    },
+    {
+      "companyID": "0074101",
+      "name": "Actueel Film"
+    },
+    {
+      "companyID": "0055626",
+      "name": "UGC Distribution"
+    },
+    {
+      "companyID": "0075913",
+      "name": "Filmayer"
+    },
+    {
+      "companyID": "0173831",
+      "name": "Magna-Filmi"
+    },
+    {
+      "companyID": "0070627",
+      "name": "CBS"
+    },
+    {
+      "companyID": "0048760",
+      "name": "Home Video Hellas (HVH)"
+    },
+    {
+      "companyID": "0059995",
+      "name": "Warner Home Video"
+    },
+    {
+      "companyID": "0530809",
+      "name": "Antenne 2 (A2)"
+    },
+    {
+      "companyID": "0117463",
+      "name": "Video Diversi\u00f3n S.A."
+    },
+    {
+      "companyID": "0008958",
+      "name": "La Cinq"
+    },
+    {
+      "companyID": "0190332",
+      "name": "RCV Home Entertainment"
+    },
+    {
+      "companyID": "0015461",
+      "name": "MGM Home Entertainment"
+    },
+    {
+      "companyID": "0015461",
+      "name": "MGM Home Entertainment"
+    },
+    {
+      "companyID": "0012065",
+      "name": "Filmes Lusomundo"
+    },
+    {
+      "companyID": "0001995",
+      "name": "Orion Pictures"
+    },
+    {
+      "companyID": "0058792",
+      "name": "Roadshow Films"
+    },
+    {
+      "companyID": "0799090",
+      "name": "United Artists Corporation"
+    },
+    {
+      "companyID": "0150813",
+      "name": "20th Century Fox Home Entertainment"
+    },
+    {
+      "companyID": "0010224",
+      "name": "20th Century Fox Home Entertainment"
+    },
+    {
+      "companyID": "0028560",
+      "name": "CEL Home Video"
+    },
+    {
+      "companyID": "0282170",
+      "name": "Cannon Screen Entertainment"
+    },
+    {
+      "companyID": "0335742",
+      "name": "Espoon OVC Videovision"
+    },
+    {
+      "companyID": "0363592",
+      "name": "FS Film"
+    },
+    {
+      "companyID": "0037033",
+      "name": "Globo V\u00eddeo"
+    },
+    {
+      "companyID": "0081756",
+      "name": "GoodTimes Home Video"
+    },
+    {
+      "companyID": "0754095",
+      "name": "HBO Max"
+    },
+    {
+      "companyID": "0267112",
+      "name": "MGM Home Entertainment"
+    },
+    {
+      "companyID": "0015461",
+      "name": "MGM Home Entertainment"
+    },
+    {
+      "companyID": "0015461",
+      "name": "MGM Home Entertainment"
+    },
+    {
+      "companyID": "0314234",
+      "name": "MTV3"
+    },
+    {
+      "companyID": "0007143",
+      "name": "Metro-Goldwyn-Mayer (MGM)"
+    },
+    {
+      "companyID": "0406524",
+      "name": "NSM Records"
+    },
+    {
+      "companyID": "0406524",
+      "name": "NSM Records"
+    },
+    {
+      "companyID": "0335426",
+      "name": "Nickes Sound City"
+    },
+    {
+      "companyID": "0003850",
+      "name": "Nippon Television Network (NTV)"
+    },
+    {
+      "companyID": "0314985",
+      "name": "Omaxi"
+    },
+    {
+      "companyID": "0235493",
+      "name": "Scream Factory"
+    },
+    {
+      "companyID": "0065933",
+      "name": "Star Video"
+    },
+    {
+      "companyID": "0260673",
+      "name": "Sub"
+    },
+    {
+      "companyID": "0197220",
+      "name": "TV3"
+    },
+    {
+      "companyID": "0215585",
+      "name": "VTC-Video"
+    },
+    {
+      "companyID": "0190565",
+      "name": "Veronica Omroep Organisatie"
+    },
+    {
+      "companyID": "0231846",
+      "name": "Vestron Video International"
+    },
+    {
+      "companyID": "0030983",
+      "name": "Vestron Video"
+    },
+    {
+      "companyID": "0077647",
+      "name": "Viacom"
+    },
+    {
+      "companyID": "0395148",
+      "name": "Vinegar Syndrome"
+    },
+    {
+      "companyID": "0567645",
+      "name": "Warner Bros. Home Entertainment"
+    }
+  ],
+  "other companies": [
+    {
+      "companyID": "0000175",
+      "name": "Glen Glenn Sound Company"
+    },
+    {
+      "companyID": "0190210",
+      "name": "International Alliance of Theatrical Stage Employees (IATSE)"
+    },
+    {
+      "companyID": "0041710",
+      "name": "Neiman-Tillar Associates"
+    },
+    {
+      "companyID": "0082464",
+      "name": "New Jersey Film Commission"
+    },
+    {
+      "companyID": "0001256",
+      "name": "Pacific Title"
+    },
+    {
+      "companyID": "0041930",
+      "name": "Panavision"
+    }
+  ]
+}

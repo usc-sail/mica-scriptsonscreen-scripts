@@ -1,3 +1,949 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:08c9c91c62981b41852125dcc2daa735c8ab76fc1b80df47be9e51a38ce0deb1
-size 19250
+{
+  "localized title": "Friday the 13th",
+  "cast": [
+    {
+      "personID": "0658133",
+      "name": "Betsy Palmer",
+      "character": "Mrs. Voorhees"
+    },
+    {
+      "personID": "0454415",
+      "name": "Adrienne King",
+      "character": "Alice"
+    },
+    {
+      "personID": "0852551",
+      "name": "Jeannine Taylor",
+      "character": "Marcie"
+    },
+    {
+      "personID": "0604987",
+      "name": "Robbi Morgan",
+      "character": "Annie"
+    },
+    {
+      "personID": "0000102",
+      "name": "Kevin Bacon",
+      "character": "Jack"
+    },
+    {
+      "personID": "0188994",
+      "name": "Harry Crosby",
+      "character": "Bill"
+    },
+    {
+      "personID": "0059324",
+      "name": "Laurie Bartram",
+      "character": "Brenda"
+    },
+    {
+      "personID": "0625588",
+      "name": "Mark Nelson",
+      "character": "Ned"
+    },
+    {
+      "personID": "0112829",
+      "name": "Peter Brouwer",
+      "character": "Steve Christy"
+    },
+    {
+      "personID": "0263591",
+      "name": "Rex Everhart",
+      "character": "The Truck Driver"
+    },
+    {
+      "personID": "0140972",
+      "name": "Ronn Carroll",
+      "character": "Sgt. Tierney"
+    },
+    {
+      "personID": "0589798",
+      "name": "Ron Millkie",
+      "character": "Officer Dorf"
+    },
+    {
+      "personID": "0331189",
+      "name": "Walt Gorney",
+      "character": "Crazy Ralph"
+    },
+    {
+      "personID": "0011441",
+      "name": "Willie Adams",
+      "character": "Barry"
+    },
+    {
+      "personID": "0370982",
+      "name": "Debra S. Hayes",
+      "character": "Claudette"
+    },
+    {
+      "personID": "0462196",
+      "name": "Dorothy Kobs",
+      "character": "Trudy"
+    },
+    {
+      "personID": "0325492",
+      "name": "Sally Anne Golden",
+      "character": "Sandy"
+    },
+    {
+      "personID": "0733694",
+      "name": "Mary Rocco",
+      "character": "Operator"
+    },
+    {
+      "personID": "0662410",
+      "name": "Ken L. Parker",
+      "character": "Doctor"
+    },
+    {
+      "personID": "0499614",
+      "name": "Ari Lehman",
+      "character": "Jason"
+    },
+    {
+      "personID": "0192409",
+      "name": "Noel Cunningham",
+      "character": "Boy in 1958 Camping Circle"
+    },
+    {
+      "personID": "0450815",
+      "name": "Irwin Keyes",
+      "character": "Busboy"
+    },
+    {
+      "personID": "0767741",
+      "name": "Tom Savini",
+      "character": "Killer's Hands"
+    }
+  ],
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "runtimes": [
+    "95"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "country codes": [
+    "us"
+  ],
+  "language codes": [
+    "en"
+  ],
+  "color info": [
+    "Color"
+  ],
+  "aspect ratio": "1.85 : 1",
+  "sound mix": [
+    "Mono",
+    "Dolby Digital::(re-mastered version)"
+  ],
+  "box office": {
+    "Budget": "$550,000 (estimated)",
+    "Opening Weekend United States": "$5,816,321, 11 May 1980",
+    "Cumulative Worldwide Gross": "$59,754,601"
+  },
+  "certificates": [
+    "Argentina:18",
+    "Australia:R",
+    "Australia:MA15+::(tv rating)",
+    "Brazil:18",
+    "Bulgaria:D",
+    "Canada:R",
+    "Canada:14A::(Alberta)",
+    "Canada:18A::(British Columbia)",
+    "Canada:18A::(Canadian Home Video rating)",
+    "Canada:R::(Manitoba/Nova Scotia/Ontario)",
+    "Canada:18A::(Manitoba/Nova Scotia/Ontario)",
+    "Canada:18+::(Quebec)",
+    "Canada:13+::(Quebec)",
+    "Chile:14",
+    "Chile:(Banned)",
+    "Chile:14",
+    "Chile:18",
+    "Czechia:15",
+    "Denmark:15",
+    "Finland:K-16",
+    "Finland:K-18::(self applied)",
+    "Finland:(Banned)",
+    "France:16",
+    "Germany:18",
+    "Hungary:18",
+    "Iceland:(Banned)",
+    "Iceland:16",
+    "India:A",
+    "Indonesia:D::(self-applied)",
+    "Ireland:18",
+    "Italy:VM18",
+    "Italy:VM14::(Google Play)",
+    "Japan:R-15",
+    "Lithuania:N-18",
+    "Malaysia:18PL",
+    "Maldives:18+R",
+    "Mexico:C",
+    "Netherlands:16",
+    "New Zealand:R16",
+    "Nigeria:15",
+    "Norway:18",
+    "Norway:16",
+    "Peru:18",
+    "Philippines:R-18::(MTRCB)",
+    "Philippines:SPG::(TV rating)",
+    "Philippines:R-18::(self-applied)",
+    "Poland:16",
+    "Portugal:M/18",
+    "Portugal:M/16",
+    "Russia:16+",
+    "Saudi Arabia:R15",
+    "Singapore:M18",
+    "South Africa:18",
+    "South Korea:15",
+    "Spain:18",
+    "Sweden:15",
+    "Taiwan:R-12",
+    "Thailand:u 15+::(self-applied)",
+    "Turkey:15+",
+    "United Kingdom:18",
+    "United Kingdom:X",
+    "United Kingdom:18",
+    "United States:TV-MA",
+    "United States:TV-14::(D, L, S, V)",
+    "United States:R",
+    "United States:Unrated",
+    "Ukraine:16",
+    "United Arab Emirates:18+::(self-applied)",
+    "Vietnam:C18",
+    "West Germany:18::(nf)",
+    "West Germany:Not Rated::(BPjM restricted)"
+  ],
+  "original air date": "09 May 1980 (USA)",
+  "rating": 6.4,
+  "votes": 145733,
+  "cover url": "https://m.media-amazon.com/images/M/MV5BNWMxYTYzYWQtNGZmNy00MTg5LTk1N2MtNzQ5NjQxYjQ5NTJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg",
+  "imdbID": "0080761",
+  "videos": [
+    "http://www.imdb.com/title/tt0080761/videoplayer/vi3229400601",
+    "http://www.imdb.com/title/tt0080761/videoplayer/vi3900946969"
+  ],
+  "plot outline": "In 1957, a young boy named Jason drowns in a lake near Camp Crystal Lake. The next year, two counselors are murdered. In 1980, a descendant of the original owners reopens Camp Crystal Lake with some counselors' help. The counselors gets killed one by one by a mysterious person. Could it be Jason, out for revenge?",
+  "languages": [
+    "English"
+  ],
+  "title": "Friday the 13th",
+  "year": 1980,
+  "kind": "movie",
+  "original title": "Friday the 13th",
+  "director": [
+    {
+      "personID": "0192446",
+      "name": "Sean S. Cunningham",
+      "character": null
+    }
+  ],
+  "writer": [
+    {
+      "personID": "0566699",
+      "name": "Victor Miller",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "0413826",
+      "name": "Ron Kurz",
+      "character": null
+    }
+  ],
+  "producer": [
+    {
+      "personID": "0192446",
+      "name": "Sean S. Cunningham",
+      "character": null
+    },
+    {
+      "personID": "0311974",
+      "name": "Alvin Geiler",
+      "character": null
+    },
+    {
+      "personID": "0591171",
+      "name": "Steve Miner",
+      "character": null
+    }
+  ],
+  "composer": [
+    {
+      "personID": "0006185",
+      "name": "Harry Manfredini",
+      "character": null
+    }
+  ],
+  "cinematographer": [
+    {
+      "personID": "0009161",
+      "name": "Barry Abrams",
+      "character": null
+    }
+  ],
+  "editor": [
+    {
+      "personID": "0292711",
+      "name": "Bill Freda",
+      "character": null
+    }
+  ],
+  "editorial department": [
+    {
+      "personID": "0192459",
+      "name": "Susan E. Cunningham",
+      "character": null
+    },
+    {
+      "personID": "0450657",
+      "name": "Jay Keuper",
+      "character": null
+    }
+  ],
+  "casting director": [
+    {
+      "personID": "0400715",
+      "name": "Julie Hughes",
+      "character": null
+    },
+    {
+      "personID": "0608912",
+      "name": "Barry Moss",
+      "character": null
+    }
+  ],
+  "production design": [
+    {
+      "personID": "0276066",
+      "name": "Virginia Field",
+      "character": null
+    }
+  ],
+  "art direction": [
+    {
+      "personID": "0276066",
+      "name": "Virginia Field",
+      "character": null
+    },
+    {
+      "personID": "0867705",
+      "name": "Robert Topol",
+      "character": null
+    }
+  ],
+  "set decoration": [
+    {
+      "personID": "13603055",
+      "name": "Tim Niverth Sr.",
+      "character": null
+    }
+  ],
+  "costume designer": [
+    {
+      "personID": "2503967",
+      "name": "Caron Coplan",
+      "character": null
+    }
+  ],
+  "make up": [
+    {
+      "personID": "0767741",
+      "name": "Tom Savini",
+      "character": null
+    },
+    {
+      "personID": "0824003",
+      "name": "Taso N. Stavrakis",
+      "character": null
+    },
+    {
+      "personID": "3184459",
+      "name": "Katharine Vickers",
+      "character": null
+    },
+    {
+      "personID": "0893606",
+      "name": "Cecilia Verardi",
+      "character": null
+    }
+  ],
+  "production manager": [
+    {
+      "personID": "0591171",
+      "name": "Steve Miner",
+      "character": null
+    }
+  ],
+  "assistant director": [
+    {
+      "personID": "3185210",
+      "name": "Stephen Ross",
+      "character": null
+    },
+    {
+      "personID": "1413956",
+      "name": "Cindy Veazey",
+      "character": null
+    },
+    {
+      "personID": "0591171",
+      "name": "Steve Miner",
+      "character": null
+    }
+  ],
+  "art department": [
+    {
+      "personID": "0960944",
+      "name": "Christine Gardyasz",
+      "character": null
+    },
+    {
+      "personID": "5923094",
+      "name": "Alice MaGuire",
+      "character": null
+    },
+    {
+      "personID": "1425431",
+      "name": "Daniel E. Mahon",
+      "character": null
+    }
+  ],
+  "sound crew": [
+    {
+      "personID": "0225226",
+      "name": "Lee Dichter",
+      "character": null
+    },
+    {
+      "personID": "0614649",
+      "name": "Richard Murphy",
+      "character": null
+    },
+    {
+      "personID": "2422480",
+      "name": "David Platt",
+      "character": null
+    },
+    {
+      "personID": "0024612",
+      "name": "Vanessa Theme Ament",
+      "character": null
+    },
+    {
+      "personID": "0373036",
+      "name": "Gary A. Hecker",
+      "character": null
+    },
+    {
+      "personID": "0485850",
+      "name": "Mary Jo Lang",
+      "character": null
+    },
+    {
+      "personID": "0872150",
+      "name": "Jerry Trent",
+      "character": null
+    }
+  ],
+  "special effects": [
+    {
+      "personID": "0456993",
+      "name": "Steven Kirshoff",
+      "character": null
+    },
+    {
+      "personID": "13249312",
+      "name": "Jimmy Corona Rooney",
+      "character": null
+    }
+  ],
+  "stunt performer": [
+    {
+      "personID": "0767741",
+      "name": "Tom Savini",
+      "character": null
+    },
+    {
+      "personID": "4235034",
+      "name": "Robert Tramontin",
+      "character": null
+    }
+  ],
+  "camera and electrical department": [
+    {
+      "personID": "0063925",
+      "name": "Phil Beard",
+      "character": null
+    },
+    {
+      "personID": "1691937",
+      "name": "Jim Bekiaris",
+      "character": null
+    },
+    {
+      "personID": "1886070",
+      "name": "Richard Berger",
+      "character": null
+    },
+    {
+      "personID": "3184939",
+      "name": "Robert Brady",
+      "character": null
+    },
+    {
+      "personID": "0275444",
+      "name": "Richard Feury",
+      "character": null
+    },
+    {
+      "personID": "3184892",
+      "name": "Mike Hirsch",
+      "character": null
+    },
+    {
+      "personID": "0458473",
+      "name": "William Klayer",
+      "character": null
+    },
+    {
+      "personID": "0527550",
+      "name": "Braden Lutz",
+      "character": null
+    },
+    {
+      "personID": "1059137",
+      "name": "Tad Page",
+      "character": null
+    },
+    {
+      "personID": "0677054",
+      "name": "Carl Peterson",
+      "character": null
+    },
+    {
+      "personID": "0716917",
+      "name": "Larry Reibman",
+      "character": null
+    },
+    {
+      "personID": "0795747",
+      "name": "Robert D. Shulman",
+      "character": null
+    },
+    {
+      "personID": "0806003",
+      "name": "Peter Stein",
+      "character": null
+    },
+    {
+      "personID": "0893609",
+      "name": "John Verardi",
+      "character": null
+    },
+    {
+      "personID": "0896546",
+      "name": "Ronald Vidor",
+      "character": null
+    }
+  ],
+  "costume department": [
+    {
+      "personID": "1061214",
+      "name": "Anne King",
+      "character": null
+    },
+    {
+      "personID": "3185157",
+      "name": "Jan Shoebridge",
+      "character": null
+    }
+  ],
+  "location management": [
+    {
+      "personID": "3184722",
+      "name": "Michael Calvello",
+      "character": null
+    }
+  ],
+  "music department": [
+    {
+      "personID": "0089581",
+      "name": "Harry Bluestone",
+      "character": null
+    },
+    {
+      "personID": "2036352",
+      "name": "Tom Boyd",
+      "character": null
+    },
+    {
+      "personID": "0006021",
+      "name": "Alexander Courage",
+      "character": null
+    },
+    {
+      "personID": "0214010",
+      "name": "Sandy DeCrescent",
+      "character": null
+    },
+    {
+      "personID": "0230392",
+      "name": "George Doering",
+      "character": null
+    },
+    {
+      "personID": "0231289",
+      "name": "Chuck Domanico",
+      "character": null
+    },
+    {
+      "personID": "0273044",
+      "name": "Robert Fernandez",
+      "character": null
+    },
+    {
+      "personID": "1161586",
+      "name": "Dan Goldwasser",
+      "character": null
+    },
+    {
+      "personID": "0355792",
+      "name": "Kenneth Hall",
+      "character": null
+    },
+    {
+      "personID": "0449205",
+      "name": "Randy Kerber",
+      "character": null
+    },
+    {
+      "personID": "0006185",
+      "name": "Harry Manfredini",
+      "character": null
+    },
+    {
+      "personID": "0857125",
+      "name": "James Thatcher",
+      "character": null
+    },
+    {
+      "personID": "0863271",
+      "name": "Jack K. Tillar",
+      "character": null
+    }
+  ],
+  "script department": [
+    {
+      "personID": "0457725",
+      "name": "Martin Kitrosser",
+      "character": null
+    }
+  ],
+  "transportation department": [
+    {
+      "personID": "1384450",
+      "name": "Rudy Churny",
+      "character": null
+    }
+  ],
+  "miscellaneous crew": [
+    {
+      "personID": "0011441",
+      "name": "Willie Adams",
+      "character": null
+    },
+    {
+      "personID": "3184551",
+      "name": "Michael Barry",
+      "character": null
+    },
+    {
+      "personID": "3184430",
+      "name": "Ted Lowry",
+      "character": null
+    },
+    {
+      "personID": "0006947",
+      "name": "Denise Pinckley",
+      "character": null
+    },
+    {
+      "personID": "0355903",
+      "name": "Michael Rall",
+      "character": null
+    },
+    {
+      "personID": "0893606",
+      "name": "Cecilia Verardi",
+      "character": null
+    }
+  ],
+  "thanks": [
+    {
+      "personID": "3184554",
+      "name": "Norman Bedell",
+      "character": null
+    },
+    {
+      "personID": "3184748",
+      "name": "Richard Skow",
+      "character": null
+    }
+  ],
+  "akas": [
+    "A Long Night at Camp Blood (United States)",
+    "Vendredi 13 (France)",
+    "Freitag, der 13. (Germany)",
+    "Viernes 13 (Spain)",
+    "Divendres 13 (Spain, Catalan title)"
+  ],
+  "production companies": [
+    {
+      "companyID": "0023400",
+      "name": "Paramount Pictures"
+    },
+    {
+      "companyID": "0059493",
+      "name": "Georgetown Productions Inc."
+    },
+    {
+      "companyID": "0108859",
+      "name": "Sean S. Cunningham Films"
+    }
+  ],
+  "distributors": [
+    {
+      "companyID": "0023400",
+      "name": "Paramount Pictures"
+    },
+    {
+      "companyID": "0106070",
+      "name": "Columbia-EMI-Warner"
+    },
+    {
+      "companyID": "0819892",
+      "name": "Paramount Pictures"
+    },
+    {
+      "companyID": "0009993",
+      "name": "Produzione Intercontinentale Cinematografica (PIC)"
+    },
+    {
+      "companyID": "0058792",
+      "name": "Roadshow Films"
+    },
+    {
+      "companyID": "0002663",
+      "name": "Warner Bros."
+    },
+    {
+      "companyID": "0002663",
+      "name": "Warner Bros."
+    },
+    {
+      "companyID": "0032440",
+      "name": "Warner Espa\u00f1ola S.A."
+    },
+    {
+      "companyID": "0214905",
+      "name": "Warner-Columbia Film"
+    },
+    {
+      "companyID": "0051891",
+      "name": "Paramount Home Entertainment"
+    },
+    {
+      "companyID": "0002663",
+      "name": "Warner Bros."
+    },
+    {
+      "companyID": "0149423",
+      "name": "VideoVisa"
+    },
+    {
+      "companyID": "0049479",
+      "name": "Victor Michailides"
+    },
+    {
+      "companyID": "0059759",
+      "name": "T&O Film"
+    },
+    {
+      "companyID": "0438107",
+      "name": "Columbia-Warner Filmes de Portugal"
+    },
+    {
+      "companyID": "0036998",
+      "name": "Cinema International Corporation (CIC)"
+    },
+    {
+      "companyID": "0051891",
+      "name": "Paramount Home Entertainment"
+    },
+    {
+      "companyID": "0342489",
+      "name": "Warner Bros Pictures"
+    },
+    {
+      "companyID": "0037052",
+      "name": "American Broadcasting Company (ABC)"
+    },
+    {
+      "companyID": "0006126",
+      "name": "Audio Visual Enterprises"
+    },
+    {
+      "companyID": "0006383",
+      "name": "Warner Home Video"
+    },
+    {
+      "companyID": "0189793",
+      "name": "Warner Home Video"
+    },
+    {
+      "companyID": "0059995",
+      "name": "Warner Home Video"
+    },
+    {
+      "companyID": "0031085",
+      "name": "Argentina Video Home"
+    },
+    {
+      "companyID": "0051891",
+      "name": "Paramount Home Entertainment"
+    },
+    {
+      "companyID": "0051891",
+      "name": "Paramount Home Entertainment"
+    },
+    {
+      "companyID": "0314234",
+      "name": "MTV3"
+    },
+    {
+      "companyID": "0095832",
+      "name": "Prem'er Video Fil'm"
+    },
+    {
+      "companyID": "0050310",
+      "name": "Sandrew Metronome Distribution"
+    },
+    {
+      "companyID": "0094757",
+      "name": "Warner Home Video"
+    },
+    {
+      "companyID": "0189793",
+      "name": "Warner Home Video"
+    },
+    {
+      "companyID": "0059995",
+      "name": "Warner Home Video"
+    },
+    {
+      "companyID": "0175224",
+      "name": "Das Vierte"
+    },
+    {
+      "companyID": "0051891",
+      "name": "Paramount Home Entertainment"
+    },
+    {
+      "companyID": "0051891",
+      "name": "Paramount Home Entertainment"
+    },
+    {
+      "companyID": "0051891",
+      "name": "Paramount Home Entertainment"
+    },
+    {
+      "companyID": "0260673",
+      "name": "Sub"
+    },
+    {
+      "companyID": "0011555",
+      "name": "Warner Bros. Entertainment Finland"
+    },
+    {
+      "companyID": "0758947",
+      "name": "Warner Bros. Home Entertainment"
+    },
+    {
+      "companyID": "0059995",
+      "name": "Warner Home Video"
+    },
+    {
+      "companyID": "0356734",
+      "name": "Mediaset Italia 2"
+    },
+    {
+      "companyID": "0235493",
+      "name": "Scream Factory"
+    },
+    {
+      "companyID": "0024706",
+      "name": "Malofilm Home Video"
+    },
+    {
+      "companyID": "0643891",
+      "name": "Twentieth Century Fox Home Entertainment"
+    },
+    {
+      "companyID": "0089683",
+      "name": "Warner Home V\u00eddeo"
+    }
+  ],
+  "other companies": [
+    {
+      "companyID": "0251997",
+      "name": "Blairstown Fire Department"
+    },
+    {
+      "companyID": "0251975",
+      "name": "Blairstown Police Department"
+    },
+    {
+      "companyID": "0108566",
+      "name": "La-La Land Records"
+    },
+    {
+      "companyID": "0251929",
+      "name": "Logo Music"
+    },
+    {
+      "companyID": "0041930",
+      "name": "Panavision"
+    },
+    {
+      "companyID": "0084536",
+      "name": "Ross-Gaffney Inc."
+    },
+    {
+      "companyID": "0251974",
+      "name": "Six Feet Under"
+    },
+    {
+      "companyID": "0015313",
+      "name": "TNI Casting"
+    },
+    {
+      "companyID": "0025465",
+      "name": "The Optical House"
+    },
+    {
+      "companyID": "0841124",
+      "name": "Waxwork Records"
+    }
+  ]
+}

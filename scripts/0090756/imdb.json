@@ -1,3 +1,1384 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9e50af3f5dbfc646d3958343456c7d574c10d8bbd5f3f5e4a9b4a795ed0a8e20
-size 29035
+{
+  "localized title": "Blue Velvet",
+  "cast": [
+    {
+      "personID": "0000618",
+      "name": "Isabella Rossellini",
+      "character": "Dorothy Vallens"
+    },
+    {
+      "personID": "0001492",
+      "name": "Kyle MacLachlan",
+      "character": "Jeffrey Beaumont"
+    },
+    {
+      "personID": "0000454",
+      "name": "Dennis Hopper",
+      "character": "Frank Booth"
+    },
+    {
+      "personID": "0000368",
+      "name": "Laura Dern",
+      "character": "Sandy Williams"
+    },
+    {
+      "personID": "0486136",
+      "name": "Hope Lange",
+      "character": "Mrs. Williams"
+    },
+    {
+      "personID": "0001777",
+      "name": "Dean Stockwell",
+      "character": "Ben"
+    },
+    {
+      "personID": "0225419",
+      "name": "George Dickerson",
+      "character": "Detective Williams"
+    },
+    {
+      "personID": "0688467",
+      "name": "Priscilla Pointer",
+      "character": "Mrs. Beaumont"
+    },
+    {
+      "personID": "0062844",
+      "name": "Frances Bay",
+      "character": "Aunt Barbara"
+    },
+    {
+      "personID": "0367558",
+      "name": "Jack Harvey",
+      "character": "Mr. Beaumont"
+    },
+    {
+      "personID": "0832944",
+      "name": "Ken Stovitz",
+      "character": "Mike"
+    },
+    {
+      "personID": "0000374",
+      "name": "Brad Dourif",
+      "character": "Raymond"
+    },
+    {
+      "personID": "0620756",
+      "name": "Jack Nance",
+      "character": "Paul"
+    },
+    {
+      "personID": "0402853",
+      "name": "J. Michael Hunter",
+      "character": "Hunter"
+    },
+    {
+      "personID": "0337792",
+      "name": "Dick Green",
+      "character": "Don Vallens"
+    },
+    {
+      "personID": "0681947",
+      "name": "Fred Pickler",
+      "character": "Yellow Man"
+    },
+    {
+      "personID": "0548373",
+      "name": "Philip Markert",
+      "character": "Dr. Gynde"
+    },
+    {
+      "personID": "0914348",
+      "name": "Leonard Watkins",
+      "character": "Double Ed"
+    },
+    {
+      "personID": "0317130",
+      "name": "Moses Gibson",
+      "character": "Double Ed"
+    },
+    {
+      "personID": "0809913",
+      "name": "Selden Smith",
+      "character": "Nurse Cindy"
+    },
+    {
+      "personID": "0136878",
+      "name": "Peter Carew",
+      "character": "Coroner"
+    },
+    {
+      "personID": "0811169",
+      "name": "Jon Jon Snipes",
+      "character": "Little Donny"
+    },
+    {
+      "personID": "0000823",
+      "name": "Angelo Badalamenti",
+      "character": "Piano Player"
+    },
+    {
+      "personID": "0895618",
+      "name": "Jean Pierre Viale",
+      "character": "Master of Ceremonies"
+    },
+    {
+      "personID": "0601135",
+      "name": "Donald Moore",
+      "character": "Desk Sergeant"
+    },
+    {
+      "personID": "0220101",
+      "name": "A. Michelle Depland",
+      "character": "Party Girl"
+    },
+    {
+      "personID": "0765964",
+      "name": "Michelle Sasser",
+      "character": "Party Girl"
+    },
+    {
+      "personID": "0717322",
+      "name": "Katie Reid",
+      "character": "Party Girl"
+    },
+    {
+      "personID": "1790728",
+      "name": "Sparky",
+      "character": "The Dog"
+    },
+    {
+      "personID": "0142301",
+      "name": "Fred C. Caruso",
+      "character": "The Ear"
+    },
+    {
+      "personID": "1266478",
+      "name": "Robert J. Maxwell",
+      "character": "Slow Club Customer"
+    }
+  ],
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "runtimes": [
+    "120"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "country codes": [
+    "us"
+  ],
+  "language codes": [
+    "en"
+  ],
+  "color info": [
+    "Color"
+  ],
+  "aspect ratio": "2.35 : 1",
+  "sound mix": [
+    "Dolby Stereo"
+  ],
+  "box office": {
+    "Budget": "$6,000,000 (estimated)",
+    "Opening Weekend United States": "$789,409, 21 Sep 1986"
+  },
+  "certificates": [
+    "Argentina:18",
+    "Australia:R",
+    "Australia:R18+::(current rating)",
+    "Brazil:16",
+    "Brazil:14::(DVD)",
+    "Canada:18A::(Alberta)",
+    "Canada:18A::(British Columbia)",
+    "Canada:R::(Manitoba/Nova Scotia/Ontario)",
+    "Canada:(Banned)::(New Brunswick)",
+    "Canada:R::(New Brunswick)",
+    "Canada:18+::(Quebec)",
+    "Canada:13+::(Quebec)",
+    "Czechia:15",
+    "Denmark:15",
+    "Egypt:R::(self-applied)",
+    "Finland:K-16",
+    "Finland:K-18",
+    "France:12",
+    "France:Tous publics avec avertissement::(DVD/Blu-ray)",
+    "Germany:16",
+    "Greece:K-16",
+    "Greece:K-17::(tv rating)",
+    "Hong Kong:III",
+    "Hungary:16",
+    "Iceland:16",
+    "India:A",
+    "Ireland:18",
+    "Israel:18",
+    "Italy:T",
+    "Italy:VM18::(VHS rating)",
+    "Japan:R-15",
+    "Lithuania:N-16",
+    "Malaysia:18PL",
+    "Mexico:C",
+    "Netherlands:12",
+    "New Zealand:R18",
+    "Nigeria:15",
+    "Norway:15",
+    "Norway:18",
+    "Peru:18",
+    "Philippines:R-18",
+    "Poland:16::(self-applied)",
+    "Portugal:M/16",
+    "Russia:18+",
+    "Saudi Arabia:R15",
+    "Singapore:R(A)",
+    "Singapore:M18",
+    "South Africa:16",
+    "South Korea:18",
+    "Spain:18",
+    "Sweden:15",
+    "Switzerland:16",
+    "Switzerland:14::(canton of Geneva)",
+    "Switzerland:18::(canton of Vaud)",
+    "Switzerland:18::(canton of the Grisons)",
+    "Taiwan:R-15",
+    "Turkey:18+",
+    "United Kingdom:18",
+    "United States:R",
+    "Ukraine:18",
+    "United Arab Emirates:18+::(self-applied)",
+    "Vietnam:C16",
+    "West Germany:16",
+    "West Germany:18"
+  ],
+  "original air date": "23 Oct 1986 (Italy)",
+  "rating": 7.7,
+  "votes": 205351,
+  "cover url": "https://m.media-amazon.com/images/M/MV5BMzExOTczNTgtN2Q1Yy00MmI1LWE0NjgtNmIwMzdmZGNlODU1XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SY150_CR0,0,101,150_.jpg",
+  "imdbID": "0090756",
+  "videos": [
+    "http://www.imdb.com/title/tt0090756/videoplayer/vi438091289",
+    "http://www.imdb.com/title/tt0090756/videoplayer/vi1419821849"
+  ],
+  "plot outline": "College student Jeffrey Beaumont returns to his idyllic hometown of Lumberton to manage his father's hardware store while his father is hospitalized. Walking though a grassy meadow near the family home, Jeffrey finds a severed human ear. After an initial investigation, lead police Detective John Williams advises Jeffrey not to speak to anyone about the case as they investigate further. Detective Williams also tells Jeffrey that he cannot divulge any information about what the police know. Detective Williams' high school aged daughter, Sandy Williams, tells Jeffrey what she knows about the case from overhearing her father's private conversations on the matter: that it has to do with a nightclub singer named Dorothy Vallens, who lives in an older apartment building near the Beaumont home. His curiosity getting the better of him, Jeffrey, with Sandy's help, decides to find out more about the woman at the center of the case by breaking into Dorothy's apartment while he knows she's at work. What Jeffrey finds is a world unfamiliar to him, one that he doesn't truly understand but one that he is unable to deny the lure of despite the inherent dangers of being associated with a possible murder. Still, he is torn between this world and the prospect of a relationship with Sandy, the two who are falling for each other, despite Sandy already being in a relationship with Mike, the school's star football player.",
+  "languages": [
+    "English"
+  ],
+  "title": "Blue Velvet",
+  "year": 1986,
+  "kind": "movie",
+  "original title": "Blue Velvet",
+  "director": [
+    {
+      "personID": "0000186",
+      "name": "David Lynch",
+      "character": null
+    }
+  ],
+  "writer": [
+    {
+      "personID": "0000186",
+      "name": "David Lynch",
+      "character": null
+    }
+  ],
+  "producer": [
+    {
+      "personID": "0142301",
+      "name": "Fred C. Caruso",
+      "character": null
+    },
+    {
+      "personID": "0209569",
+      "name": "Dino De Laurentiis",
+      "character": null
+    },
+    {
+      "personID": "10607011",
+      "name": "Richard N. Roth",
+      "character": null
+    }
+  ],
+  "composer": [
+    {
+      "personID": "0000823",
+      "name": "Angelo Badalamenti",
+      "character": null
+    }
+  ],
+  "cinematographer": [
+    {
+      "personID": "0005695",
+      "name": "Frederick Elmes",
+      "character": null
+    }
+  ],
+  "editor": [
+    {
+      "personID": "0242271",
+      "name": "Duwayne Dunham",
+      "character": null
+    }
+  ],
+  "editorial department": [
+    {
+      "personID": "0060205",
+      "name": "Donah Bassett",
+      "character": null
+    },
+    {
+      "personID": "0002644",
+      "name": "Brian Berdan",
+      "character": null
+    },
+    {
+      "personID": "0186033",
+      "name": "Tim Craig",
+      "character": null
+    },
+    {
+      "personID": "0789804",
+      "name": "Jonathan P. Shaw",
+      "character": null
+    },
+    {
+      "personID": "0842156",
+      "name": "Mary Sweeney",
+      "character": null
+    },
+    {
+      "personID": "0295827",
+      "name": "Daniel Frisch",
+      "character": null
+    }
+  ],
+  "casting director": [
+    {
+      "personID": "0325479",
+      "name": "Pat Golden",
+      "character": null
+    },
+    {
+      "personID": "0346416",
+      "name": "Pamela Guest",
+      "character": null
+    },
+    {
+      "personID": "0712874",
+      "name": "Johanna Ray",
+      "character": null
+    }
+  ],
+  "production design": [
+    {
+      "personID": "0635876",
+      "name": "Patricia Norris",
+      "character": null
+    }
+  ],
+  "set decoration": [
+    {
+      "personID": "0506131",
+      "name": "Edward 'Tantar' LeViseur",
+      "character": null
+    }
+  ],
+  "make up": [
+    {
+      "personID": "0329480",
+      "name": "Jeff Goodwin",
+      "character": null
+    },
+    {
+      "personID": "0427896",
+      "name": "Dean Jones",
+      "character": null
+    },
+    {
+      "personID": "0656111",
+      "name": "Barbara Page",
+      "character": null
+    },
+    {
+      "personID": "0006436",
+      "name": "Dean Gates",
+      "character": null
+    }
+  ],
+  "production manager": [
+    {
+      "personID": "0142301",
+      "name": "Fred C. Caruso",
+      "character": null
+    },
+    {
+      "personID": "0444002",
+      "name": "Gail Kearns",
+      "character": null
+    }
+  ],
+  "assistant director": [
+    {
+      "personID": "0711999",
+      "name": "Ellen Rauch",
+      "character": null
+    },
+    {
+      "personID": "0941147",
+      "name": "Ian Woolf",
+      "character": null
+    }
+  ],
+  "art department": [
+    {
+      "personID": "0027205",
+      "name": "Michel Anderson",
+      "character": null
+    },
+    {
+      "personID": "0122478",
+      "name": "Shaw Burney",
+      "character": null
+    },
+    {
+      "personID": "0204323",
+      "name": "Catherine Davis",
+      "character": null
+    },
+    {
+      "personID": "0364124",
+      "name": "Vernon Harrell",
+      "character": null
+    },
+    {
+      "personID": "0506131",
+      "name": "Edward 'Tantar' LeViseur",
+      "character": null
+    },
+    {
+      "personID": "0523060",
+      "name": "Tanya Lowe",
+      "character": null
+    },
+    {
+      "personID": "0573702",
+      "name": "Loren McNamara",
+      "character": null
+    },
+    {
+      "personID": "0671734",
+      "name": "Les Pendleton",
+      "character": null
+    },
+    {
+      "personID": "0780964",
+      "name": "Paul Sebastian",
+      "character": null
+    },
+    {
+      "personID": "0785302",
+      "name": "Dawn Serody",
+      "character": null
+    },
+    {
+      "personID": "0856476",
+      "name": "Robert Testerman",
+      "character": null
+    },
+    {
+      "personID": "3465662",
+      "name": "Tim Viereck",
+      "character": null
+    },
+    {
+      "personID": "0476589",
+      "name": "Arron Waitz",
+      "character": null
+    },
+    {
+      "personID": "0924742",
+      "name": "Doug White",
+      "character": null
+    },
+    {
+      "personID": "0201816",
+      "name": "Keith Darwin",
+      "character": null
+    },
+    {
+      "personID": "0798310",
+      "name": "Frank Silva",
+      "character": null
+    },
+    {
+      "personID": "0877743",
+      "name": "Mark S. Turner",
+      "character": null
+    },
+    {
+      "personID": "6679239",
+      "name": "Harley Whitehurst",
+      "character": null
+    }
+  ],
+  "sound crew": [
+    {
+      "personID": "0009078",
+      "name": "Alan Abrams",
+      "character": null
+    },
+    {
+      "personID": "0074281",
+      "name": "Mark Berger",
+      "character": null
+    },
+    {
+      "personID": "0091250",
+      "name": "Todd Boekelheide",
+      "character": null
+    },
+    {
+      "personID": "0110478",
+      "name": "Karen Brocco",
+      "character": null
+    },
+    {
+      "personID": "0262361",
+      "name": "Frank E. Eulner",
+      "character": null
+    },
+    {
+      "personID": "0296638",
+      "name": "Rob Fruchtman",
+      "character": null
+    },
+    {
+      "personID": "0326127",
+      "name": "Sarah Goldsmith",
+      "character": null
+    },
+    {
+      "personID": "0319126",
+      "name": "Vivien Hillgrove",
+      "character": null
+    },
+    {
+      "personID": "0405232",
+      "name": "Richard Hymns",
+      "character": null
+    },
+    {
+      "personID": "0413913",
+      "name": "Pat Jackson",
+      "character": null
+    },
+    {
+      "personID": "0471848",
+      "name": "Ann Kroeber",
+      "character": null
+    },
+    {
+      "personID": "0605366",
+      "name": "Patrick Moriarty",
+      "character": null
+    },
+    {
+      "personID": "0606660",
+      "name": "John Morris",
+      "character": null
+    },
+    {
+      "personID": "0638340",
+      "name": "John Nutt",
+      "character": null
+    },
+    {
+      "personID": "0662188",
+      "name": "David Parker",
+      "character": null
+    },
+    {
+      "personID": "0765679",
+      "name": "Paige Sartorius",
+      "character": null
+    },
+    {
+      "personID": "0799011",
+      "name": "Michael Silvers",
+      "character": null
+    },
+    {
+      "personID": "0819263",
+      "name": "Alan Splet",
+      "character": null
+    },
+    {
+      "personID": "0861658",
+      "name": "Dennie Thorpe",
+      "character": null
+    },
+    {
+      "personID": "0893622",
+      "name": "John Verbeck",
+      "character": null
+    },
+    {
+      "personID": "0108752",
+      "name": "Jim Bridges",
+      "character": null
+    },
+    {
+      "personID": "0262361",
+      "name": "Frank E. Eulner",
+      "character": null
+    },
+    {
+      "personID": "0737129",
+      "name": "Philip Rogers",
+      "character": null
+    }
+  ],
+  "special effects": [
+    {
+      "personID": "0384275",
+      "name": "George R. Hill",
+      "character": null
+    },
+    {
+      "personID": "0401432",
+      "name": "Greg Hull",
+      "character": null
+    }
+  ],
+  "stunt performer": [
+    {
+      "personID": "0055479",
+      "name": "Reginald Barnes Jr.",
+      "character": null
+    },
+    {
+      "personID": "0100208",
+      "name": "David Boushey",
+      "character": null
+    },
+    {
+      "personID": "0123702",
+      "name": "Robert Burton",
+      "character": null
+    },
+    {
+      "personID": "0277383",
+      "name": "Mark Fincannon",
+      "character": null
+    },
+    {
+      "personID": "0486048",
+      "name": "Richard Langdon",
+      "character": null
+    },
+    {
+      "personID": "0486055",
+      "name": "Sherrie Ann Langdon",
+      "character": null
+    },
+    {
+      "personID": "0568528",
+      "name": "John W. McEuen",
+      "character": null
+    },
+    {
+      "personID": "0612583",
+      "name": "Dean Mumford",
+      "character": null
+    },
+    {
+      "personID": "0795573",
+      "name": "Debra Shuckman",
+      "character": null
+    },
+    {
+      "personID": "0819885",
+      "name": "Ken Sprunt Jr.",
+      "character": null
+    }
+  ],
+  "camera and electrical department": [
+    {
+      "personID": "0104680",
+      "name": "Jock Brandis",
+      "character": null
+    },
+    {
+      "personID": "0199912",
+      "name": "Donne Daniels",
+      "character": null
+    },
+    {
+      "personID": "0205105",
+      "name": "Mark Shane Davis",
+      "character": null
+    },
+    {
+      "personID": "0223590",
+      "name": "Monte Dhooge",
+      "character": null
+    },
+    {
+      "personID": "0243269",
+      "name": "Lex duPont",
+      "character": null
+    },
+    {
+      "personID": "0268531",
+      "name": "Tim Farrow",
+      "character": null
+    },
+    {
+      "personID": "0331551",
+      "name": "Austin Goss",
+      "character": null
+    },
+    {
+      "personID": "3456053",
+      "name": "Mike Hall",
+      "character": null
+    },
+    {
+      "personID": "0380902",
+      "name": "Douglas Evan Hersh",
+      "character": null
+    },
+    {
+      "personID": "0388478",
+      "name": "Robert Hoelen",
+      "character": null
+    },
+    {
+      "personID": "0390098",
+      "name": "Neil Holcomb",
+      "character": null
+    },
+    {
+      "personID": "0441797",
+      "name": "Michael Katz",
+      "character": null
+    },
+    {
+      "personID": "0464266",
+      "name": "Ross Kolman",
+      "character": null
+    },
+    {
+      "personID": "0561732",
+      "name": "Joe C. Maxwell",
+      "character": null
+    },
+    {
+      "personID": "0600107",
+      "name": "Umberto Montiroli",
+      "character": null
+    },
+    {
+      "personID": "0748606",
+      "name": "David Rudd",
+      "character": null
+    },
+    {
+      "personID": "0750909",
+      "name": "Roger Russ",
+      "character": null
+    },
+    {
+      "personID": "0757525",
+      "name": "David Salamone",
+      "character": null
+    },
+    {
+      "personID": "0791324",
+      "name": "Dennis E. Shelton",
+      "character": null
+    },
+    {
+      "personID": "1302540",
+      "name": "Anthony Stephens",
+      "character": null
+    },
+    {
+      "personID": "0834962",
+      "name": "David W. Strong",
+      "character": null
+    },
+    {
+      "personID": "0866392",
+      "name": "James Tomaro",
+      "character": null
+    },
+    {
+      "personID": "0893052",
+      "name": "Steve Venetis",
+      "character": null
+    },
+    {
+      "personID": "1277976",
+      "name": "Franklin Williams Jr.",
+      "character": null
+    },
+    {
+      "personID": "3446089",
+      "name": "Jeff Williams",
+      "character": null
+    },
+    {
+      "personID": "0950386",
+      "name": "Jay W. Yowler",
+      "character": null
+    },
+    {
+      "personID": "0194967",
+      "name": "Joe D'Alessandro",
+      "character": null
+    },
+    {
+      "personID": "0460638",
+      "name": "Dan Kneece",
+      "character": null
+    },
+    {
+      "personID": "2742396",
+      "name": "Katherine Ray",
+      "character": null
+    }
+  ],
+  "casting department": [
+    {
+      "personID": "0080544",
+      "name": "Sharon Bialy",
+      "character": null
+    },
+    {
+      "personID": "0043497",
+      "name": "Nina Axelrod",
+      "character": null
+    }
+  ],
+  "costume department": [
+    {
+      "personID": "0323352",
+      "name": "Gloria Glynn",
+      "character": null
+    },
+    {
+      "personID": "0495117",
+      "name": "Ronald Leamon",
+      "character": null
+    },
+    {
+      "personID": "0507263",
+      "name": "Henry Earl Lewis",
+      "character": null
+    }
+  ],
+  "location management": [
+    {
+      "personID": "0040634",
+      "name": "Morris Atkins",
+      "character": null
+    },
+    {
+      "personID": "0100834",
+      "name": "Edward Bowen",
+      "character": null
+    }
+  ],
+  "music department": [
+    {
+      "personID": "0012206",
+      "name": "Mark Adler",
+      "character": null
+    },
+    {
+      "personID": "0000823",
+      "name": "Angelo Badalamenti",
+      "character": null
+    },
+    {
+      "personID": "0047653",
+      "name": "Sandina Bailo-Lape",
+      "character": null
+    },
+    {
+      "personID": "0091250",
+      "name": "Todd Boekelheide",
+      "character": null
+    },
+    {
+      "personID": "0000186",
+      "name": "David Lynch",
+      "character": null
+    },
+    {
+      "personID": "0796567",
+      "name": "Allen Sides",
+      "character": null
+    }
+  ],
+  "script department": [
+    {
+      "personID": "0827972",
+      "name": "Rena Sternfeld-Allon",
+      "character": null
+    }
+  ],
+  "transportation department": [
+    {
+      "personID": "0052268",
+      "name": "John Bankson",
+      "character": null
+    },
+    {
+      "personID": "0244286",
+      "name": "Doug DuRose",
+      "character": null
+    },
+    {
+      "personID": "0384555",
+      "name": "Pat Hill",
+      "character": null
+    },
+    {
+      "personID": "0433016",
+      "name": "Cynthia Jarose",
+      "character": null
+    },
+    {
+      "personID": "0483361",
+      "name": "A. Welch Lambeth",
+      "character": null
+    }
+  ],
+  "miscellaneous crew": [
+    {
+      "personID": "0055534",
+      "name": "Celia Claire Barnes",
+      "character": null
+    },
+    {
+      "personID": "2405118",
+      "name": "Frank Behnke",
+      "character": null
+    },
+    {
+      "personID": "0102606",
+      "name": "Peter Braatz",
+      "character": null
+    },
+    {
+      "personID": "0108776",
+      "name": "Mary Bridges",
+      "character": null
+    },
+    {
+      "personID": "0164357",
+      "name": "Patty Clark",
+      "character": null
+    },
+    {
+      "personID": "0170284",
+      "name": "Kathryn Colbert",
+      "character": null
+    },
+    {
+      "personID": "0204362",
+      "name": "Chrissie Davis",
+      "character": null
+    },
+    {
+      "personID": "0206592",
+      "name": "Steve Day",
+      "character": null
+    },
+    {
+      "personID": "0285127",
+      "name": "Roe Fonvielle",
+      "character": null
+    },
+    {
+      "personID": "0336526",
+      "name": "Cindy J. Gray",
+      "character": null
+    },
+    {
+      "personID": "0444033",
+      "name": "Bobby Kearns",
+      "character": null
+    },
+    {
+      "personID": "0505866",
+      "name": "Kathi Levine",
+      "character": null
+    },
+    {
+      "personID": "0524605",
+      "name": "Lyn Lucibello",
+      "character": null
+    },
+    {
+      "personID": "0528337",
+      "name": "Jennifer Lynch",
+      "character": null
+    },
+    {
+      "personID": "0921128",
+      "name": "John Wentworth",
+      "character": null
+    },
+    {
+      "personID": "0928651",
+      "name": "John Wildermuth",
+      "character": null
+    },
+    {
+      "personID": "7888148",
+      "name": "Greg Ferris",
+      "character": null
+    }
+  ],
+  "akas": [
+    "Blue Velvet: Verbotene Blicke (Germany)",
+    "Terciopelo azul (Blue velvet) (Spain)",
+    "Terciopelo azul (Spain)",
+    "Vellut blau (Spain, Catalan title)",
+    "\u84dd\u4e1d\u7ed2 (China, Mandarin title)"
+  ],
+  "production companies": [
+    {
+      "companyID": "0046277",
+      "name": "De Laurentiis Entertainment Group (DEG)"
+    }
+  ],
+  "distributors": [
+    {
+      "companyID": "0296943",
+      "name": "20th Century Fox Home Entertainment"
+    },
+    {
+      "companyID": "0001757",
+      "name": "AMLF"
+    },
+    {
+      "companyID": "0028075",
+      "name": "Alamode Film"
+    },
+    {
+      "companyID": "0070291",
+      "name": "Arthaus"
+    },
+    {
+      "companyID": "0084798",
+      "name": "Asociace Cesk\u00fdch Filmov\u00fdch Klubu (ACFK)"
+    },
+    {
+      "companyID": "0035106",
+      "name": "Avalon"
+    },
+    {
+      "companyID": "0258711",
+      "name": "Chapel Distribution"
+    },
+    {
+      "companyID": "0016688",
+      "name": "Columbus Film"
+    },
+    {
+      "companyID": "0051881",
+      "name": "Concorde Film"
+    },
+    {
+      "companyID": "0012770",
+      "name": "Concorde Filmverleih"
+    },
+    {
+      "companyID": "0046277",
+      "name": "De Laurentiis Entertainment Group (DEG)"
+    },
+    {
+      "companyID": "0042190",
+      "name": "Filmauro"
+    },
+    {
+      "companyID": "0005178",
+      "name": "Filmmuseum Distributie"
+    },
+    {
+      "companyID": "0014703",
+      "name": "Finnkino"
+    },
+    {
+      "companyID": "0050640",
+      "name": "Hoyts Distribution"
+    },
+    {
+      "companyID": "0774691",
+      "name": "Metro Goldwyn Mayer"
+    },
+    {
+      "companyID": "0808354",
+      "name": "Paramount Pictures"
+    },
+    {
+      "companyID": "0071942",
+      "name": "Shochiku-Fuji Company"
+    },
+    {
+      "companyID": "0759562",
+      "name": "Summer Classics"
+    },
+    {
+      "companyID": "0050989",
+      "name": "Svensk Filmindustri (SF)"
+    },
+    {
+      "companyID": "0252851",
+      "name": "Syncron Film"
+    },
+    {
+      "companyID": "0027133",
+      "name": "Transmundo Films"
+    },
+    {
+      "companyID": "0000756",
+      "name": "Twentieth Century Fox"
+    },
+    {
+      "companyID": "0150813",
+      "name": "20th Century Fox Home Entertainment"
+    },
+    {
+      "companyID": "0280047",
+      "name": "20th Century Fox Home Entertainment"
+    },
+    {
+      "companyID": "0010224",
+      "name": "20th Century Fox Home Entertainment"
+    },
+    {
+      "companyID": "0608555",
+      "name": "Arthaus"
+    },
+    {
+      "companyID": "0608555",
+      "name": "Arthaus"
+    },
+    {
+      "companyID": "0106097",
+      "name": "CBS / Fox Video"
+    },
+    {
+      "companyID": "0042311",
+      "name": "CBS/Fox Home Video"
+    },
+    {
+      "companyID": "0031516",
+      "name": "Canale 5"
+    },
+    {
+      "companyID": "0136706",
+      "name": "Canvas"
+    },
+    {
+      "companyID": "0106062",
+      "name": "Castle Home Video"
+    },
+    {
+      "companyID": "0117449",
+      "name": "Fox Video"
+    },
+    {
+      "companyID": "0044350",
+      "name": "Gativideo"
+    },
+    {
+      "companyID": "0563467",
+      "name": "Iris"
+    },
+    {
+      "companyID": "0090055",
+      "name": "Jovem Pan Home V\u00eddeo"
+    },
+    {
+      "companyID": "0108607",
+      "name": "Karl-Lorimar Home Video (KLV-TV)"
+    },
+    {
+      "companyID": "0015461",
+      "name": "MGM Home Entertainment"
+    },
+    {
+      "companyID": "0015461",
+      "name": "MGM Home Entertainment"
+    },
+    {
+      "companyID": "0015461",
+      "name": "MGM Home Entertainment"
+    },
+    {
+      "companyID": "0015461",
+      "name": "MGM Home Entertainment"
+    },
+    {
+      "companyID": "0069920",
+      "name": "Mainostelevisio (MTV3)"
+    },
+    {
+      "companyID": "0890175",
+      "name": "Metro Goldwyn Mayer Home Entertainment"
+    },
+    {
+      "companyID": "0890175",
+      "name": "Metro Goldwyn Mayer Home Entertainment"
+    },
+    {
+      "companyID": "0112383",
+      "name": "RTL Entertainment"
+    },
+    {
+      "companyID": "0019016",
+      "name": "Scanbox Entertainment"
+    },
+    {
+      "companyID": "0019016",
+      "name": "Scanbox Entertainment"
+    },
+    {
+      "companyID": "0019016",
+      "name": "Scanbox Entertainment"
+    },
+    {
+      "companyID": "0125198",
+      "name": "Scanbox Norge"
+    },
+    {
+      "companyID": "0137851",
+      "name": "Sony Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0102030",
+      "name": "SubTV"
+    },
+    {
+      "companyID": "0007113",
+      "name": "SundanceTV"
+    },
+    {
+      "companyID": "0197220",
+      "name": "TV3"
+    },
+    {
+      "companyID": "0804141",
+      "name": "The Criterion Channel"
+    },
+    {
+      "companyID": "0044076",
+      "name": "The Criterion Collection"
+    },
+    {
+      "companyID": "0044076",
+      "name": "The Criterion Collection"
+    },
+    {
+      "companyID": "0040022",
+      "name": "Transmundo Home Video (THV)"
+    },
+    {
+      "companyID": "0189783",
+      "name": "Twentieth Century Fox Home Entertainment"
+    },
+    {
+      "companyID": "0189783",
+      "name": "Twentieth Century Fox Home Entertainment"
+    },
+    {
+      "companyID": "0357598",
+      "name": "Videomax"
+    },
+    {
+      "companyID": "0059995",
+      "name": "Warner Home Video"
+    },
+    {
+      "companyID": "0059995",
+      "name": "Warner Home Video"
+    }
+  ],
+  "other companies": [
+    {
+      "companyID": "0077020",
+      "name": "Cherokee Studios"
+    },
+    {
+      "companyID": "0216495",
+      "name": "City of Wilmington, North Carolina"
+    },
+    {
+      "companyID": "0020192",
+      "name": "DEG Film Studios Inc."
+    },
+    {
+      "companyID": "0047023",
+      "name": "Dolby Laboratories"
+    },
+    {
+      "companyID": "0273702",
+      "name": "Film Symphony of Prague"
+    },
+    {
+      "companyID": "0081156",
+      "name": "Fincannon & Associates"
+    },
+    {
+      "companyID": "0081156",
+      "name": "Fincannon & Associates"
+    },
+    {
+      "companyID": "0073575",
+      "name": "Great Northern Brokerage Services"
+    },
+    {
+      "companyID": "0030911",
+      "name": "Joe Dunton Cameras America"
+    },
+    {
+      "companyID": "0140145",
+      "name": "Motion Picture Association (MPA)"
+    },
+    {
+      "companyID": "0273684",
+      "name": "New Hanover Memorial Hospital"
+    },
+    {
+      "companyID": "0064084",
+      "name": "North Carolina Film Office"
+    },
+    {
+      "companyID": "0032617",
+      "name": "Saul Zaentz Film Center"
+    },
+    {
+      "companyID": "0273671",
+      "name": "The State of North Carolina"
+    },
+    {
+      "companyID": "0047102",
+      "name": "Toronto International Film Festival"
+    },
+    {
+      "companyID": "0041344",
+      "name": "Van der Veer Photo Effects"
+    },
+    {
+      "companyID": "0017459",
+      "name": "Var\u00e8se Sarabande"
+    }
+  ]
+}

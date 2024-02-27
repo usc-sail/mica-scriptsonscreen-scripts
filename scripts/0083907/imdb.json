@@ -1,3 +1,878 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:649839090540d3266692a6af274b0b130e958c8c8679758eb76f7f59e2e1f3f3
-size 18341
+{
+  "localized title": "The Evil Dead",
+  "cast": [
+    {
+      "personID": "0132257",
+      "name": "Bruce Campbell",
+      "character": "Ashley 'Ash' J. Williams"
+    },
+    {
+      "personID": "0762445",
+      "name": "Ellen Sandweiss",
+      "character": "Cheryl"
+    },
+    {
+      "personID": "0217822",
+      "name": "Richard DeManincor",
+      "character": "Scott"
+    },
+    {
+      "personID": "0048260",
+      "name": "Betsy Baker",
+      "character": "Linda"
+    },
+    {
+      "personID": "0863462",
+      "name": "Theresa Tilly",
+      "character": "Shelly"
+    },
+    {
+      "personID": "0319310",
+      "name": "Philip A. Gillis",
+      "character": "Fake Shemp"
+    },
+    {
+      "personID": "0849962",
+      "name": "Dorothy Tapert",
+      "character": "Fake Shemp"
+    },
+    {
+      "personID": "0349762",
+      "name": "Cheryl Guttridge",
+      "character": "Fake Shemp"
+    },
+    {
+      "personID": "0136908",
+      "name": "Barbara Carey",
+      "character": "Fake Shemp"
+    },
+    {
+      "personID": "1177888",
+      "name": "David Horton",
+      "character": "Fake Shemp"
+    },
+    {
+      "personID": "0859642",
+      "name": "Wendall Thomas",
+      "character": "Fake Shemp"
+    },
+    {
+      "personID": "0518948",
+      "name": "Don Long",
+      "character": "Fake Shemp"
+    },
+    {
+      "personID": "0810047",
+      "name": "Stu Smith",
+      "character": "Fake Shemp"
+    },
+    {
+      "personID": "0712049",
+      "name": "Kurt Rauf",
+      "character": "Fake Shemp"
+    },
+    {
+      "personID": "0001646",
+      "name": "Ted Raimi",
+      "character": "Fake Shemp"
+    },
+    {
+      "personID": "0706898",
+      "name": "Ivan Raimi",
+      "character": "Fake Shemp"
+    },
+    {
+      "personID": "0898588",
+      "name": "Bill Vincent",
+      "character": "Fake Shemp"
+    },
+    {
+      "personID": "0849963",
+      "name": "Mary Beth Tapert",
+      "character": "Fake Shemp"
+    },
+    {
+      "personID": "0818547",
+      "name": "Scott Spiegel",
+      "character": "Fake Shemp"
+    },
+    {
+      "personID": "0131625",
+      "name": "John Cameron",
+      "character": "Fake Shemp"
+    },
+    {
+      "personID": "0472847",
+      "name": "Joanne Kruse",
+      "character": "Fake Shemp"
+    },
+    {
+      "personID": "0168107",
+      "name": "Gwen Cochanski",
+      "character": "Fake Shemp"
+    },
+    {
+      "personID": "0418591",
+      "name": "Debie Jarczewski",
+      "character": "Fake Shemp"
+    },
+    {
+      "personID": "0065471",
+      "name": "Josh Becker",
+      "character": "Car Shemp"
+    },
+    {
+      "personID": "0233646",
+      "name": "Bob Dorian",
+      "character": "Person on Recorder"
+    },
+    {
+      "personID": "0000600",
+      "name": "Sam Raimi"
+    },
+    {
+      "personID": "0838385",
+      "name": "Tom Sullivan",
+      "character": "Demon Hands"
+    },
+    {
+      "personID": "0849964",
+      "name": "Rob Tapert",
+      "character": "Local Yokel"
+    }
+  ],
+  "genres": [
+    "Horror"
+  ],
+  "runtimes": [
+    "85"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "country codes": [
+    "us"
+  ],
+  "language codes": [
+    "en"
+  ],
+  "color info": [
+    "Color"
+  ],
+  "aspect ratio": "1.33 : 1 (original ratio) (open matte)",
+  "sound mix": [
+    "Mono",
+    "DTS::(re-mastered version)",
+    "Dolby Digital::(re-mastered version)"
+  ],
+  "box office": {
+    "Budget": "$350,000 (estimated)",
+    "Cumulative Worldwide Gross": "$29,400,000, 31 Dec 2008"
+  },
+  "certificates": [
+    "Argentina:18",
+    "Australia:R",
+    "Australia:MA15+::(TV rating)",
+    "Australia:R18+::(current rating)",
+    "Belgium:16",
+    "Belgium:KNT/ENA",
+    "Brazil:18",
+    "Brazil:14::(DVD)",
+    "Bulgaria:D",
+    "Canada:R",
+    "Canada:18A::(Alberta)",
+    "Canada:14A::(British Columbia)",
+    "Canada:18A::(Manitoba/Nova Scotia)",
+    "Canada:R::(Manitoba/Nova Scotia/Ontario)",
+    "Canada:18A::(Ontario)",
+    "Canada:13+::(Qu\u00e9bec)",
+    "Canada:14A::(rated 2006)",
+    "Canada:18+::(tv rating)",
+    "Chile:14::(2006 DVD Rating)",
+    "Chile:(Banned)::(1981-2006)",
+    "Colombia:18",
+    "Denmark:15",
+    "Ecuador:Sin Calificaci\u00f3n::(self-applied)",
+    "Finland:K-18",
+    "Finland:K-16",
+    "France:12",
+    "Germany:18::(Google Play)",
+    "Germany:16",
+    "Hong Kong:III",
+    "Hungary:18",
+    "Iceland:(Banned)",
+    "Iceland:16::(recommended rating)",
+    "India:A",
+    "India:UA::(Google Play)",
+    "Indonesia:21::(self-applied)",
+    "Ireland:(Banned)",
+    "Ireland:18",
+    "Israel:18::(self-applied)",
+    "Italy:VM14",
+    "Japan:R-15",
+    "Japan:R18+::(internet)",
+    "Malaysia:(Banned)",
+    "Malaysia:18::(video)",
+    "Maldives:18+R",
+    "Malta:18",
+    "Mexico:C",
+    "Mexico:B15",
+    "Netherlands:16",
+    "New Zealand:R16",
+    "Nigeria:18",
+    "Norway:15::(DVD rating)",
+    "Peru:14",
+    "Philippines:R-16",
+    "Philippines:SPG::(TV rating)",
+    "Philippines:R-18::(new-rating)",
+    "Poland:18::(self-applied)",
+    "Portugal:M/16::(DVD rating)",
+    "Portugal:M/18",
+    "Russia:18+",
+    "Saudi Arabia:R18",
+    "Singapore:(Banned)",
+    "Singapore:M18",
+    "Singapore:R21",
+    "South Africa:18::(self-applied)",
+    "South Korea:18",
+    "South Korea:15",
+    "Spain:18",
+    "Sweden:15",
+    "Sweden:15",
+    "Taiwan:R-18",
+    "Thailand:18",
+    "Turkey:18+",
+    "United Kingdom:18",
+    "United Kingdom:18",
+    "United Kingdom:18::(video)",
+    "United Kingdom:(Banned)::(1983-1990)",
+    "United Kingdom:X",
+    "United States:TV-MA",
+    "United States:TV-14::(LSV)",
+    "United States:NC-17",
+    "United States:TV-14",
+    "United States:Not Rated::(video rating)",
+    "Ukraine:18",
+    "United Arab Emirates:18+::(Blu-ray rating)",
+    "Vietnam:C16",
+    "West Germany:Not Rated::(banned)"
+  ],
+  "original air date": "15 Apr 1983 (USA)",
+  "rating": 7.4,
+  "votes": 218723,
+  "cover url": "https://m.media-amazon.com/images/M/MV5BODc2MmVjZmUtNjAzMS00MDNiLWIyM2YtOGEzMjg0YjRhMzRmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg",
+  "imdbID": "0083907",
+  "videos": [
+    "http://www.imdb.com/title/tt0083907/videoplayer/vi37529113",
+    "http://www.imdb.com/title/tt0083907/videoplayer/vi3438346521"
+  ],
+  "plot outline": "Five college students take time off to spend a peaceful vacation in a remote cabin. A book and audio tape are discovered, and its evil is found to be powerful once the incantations are read out loud. The friends find themselves helpless to stop the evil as it takes them one by one, with only one survivor left with the evil dead who desperately tries to fight to live until morning.",
+  "languages": [
+    "English"
+  ],
+  "title": "The Evil Dead",
+  "year": 1981,
+  "kind": "movie",
+  "original title": "The Evil Dead",
+  "director": [
+    {
+      "personID": "0000600",
+      "name": "Sam Raimi",
+      "character": null
+    }
+  ],
+  "writer": [
+    {
+      "personID": "0000600",
+      "name": "Sam Raimi",
+      "character": null
+    }
+  ],
+  "producer": [
+    {
+      "personID": "0132257",
+      "name": "Bruce Campbell",
+      "character": null
+    },
+    {
+      "personID": "0392428",
+      "name": "Gary Holt",
+      "character": null
+    },
+    {
+      "personID": "0000600",
+      "name": "Sam Raimi",
+      "character": null
+    },
+    {
+      "personID": "0788523",
+      "name": "Irvin Shapiro",
+      "character": null
+    },
+    {
+      "personID": "0849964",
+      "name": "Rob Tapert",
+      "character": null
+    }
+  ],
+  "composer": [
+    {
+      "personID": "0006173",
+      "name": "Joseph LoDuca",
+      "character": null
+    }
+  ],
+  "cinematographer": [
+    {
+      "personID": "0680924",
+      "name": "Tim Philo",
+      "character": null
+    }
+  ],
+  "editor": [
+    {
+      "personID": "0666819",
+      "name": "Edna Ruth Paul",
+      "character": null
+    }
+  ],
+  "editorial department": [
+    {
+      "personID": "0001054",
+      "name": "Joel Coen",
+      "character": null
+    },
+    {
+      "personID": "0409197",
+      "name": "Chris Innis",
+      "character": null
+    },
+    {
+      "personID": "0613657",
+      "name": "Bob Murawski",
+      "character": null
+    }
+  ],
+  "art direction": [
+    {
+      "personID": "0838385",
+      "name": "Tom Sullivan",
+      "character": null
+    }
+  ],
+  "make up": [
+    {
+      "personID": "0838385",
+      "name": "Tom Sullivan",
+      "character": null
+    },
+    {
+      "personID": "0132257",
+      "name": "Bruce Campbell",
+      "character": null
+    }
+  ],
+  "art department": [
+    {
+      "personID": "0291249",
+      "name": "Steve Frankel",
+      "character": null
+    },
+    {
+      "personID": "0838385",
+      "name": "Tom Sullivan",
+      "character": null
+    }
+  ],
+  "sound crew": [
+    {
+      "personID": "0065471",
+      "name": "Josh Becker",
+      "character": null
+    },
+    {
+      "personID": "0254428",
+      "name": "Dolores Elliott",
+      "character": null
+    },
+    {
+      "personID": "0292792",
+      "name": "Jerrell Frederick",
+      "character": null
+    },
+    {
+      "personID": "0459117",
+      "name": "Lou Kleinman",
+      "character": null
+    },
+    {
+      "personID": "0556240",
+      "name": "Joe Masefield",
+      "character": null
+    },
+    {
+      "personID": "0556780",
+      "name": "John Mason",
+      "character": null
+    },
+    {
+      "personID": "0954676",
+      "name": "Mel Zelniker",
+      "character": null
+    }
+  ],
+  "special effects": [
+    {
+      "personID": "0838385",
+      "name": "Tom Sullivan",
+      "character": null
+    },
+    {
+      "personID": "0682291",
+      "name": "Bart Pierce",
+      "character": null
+    },
+    {
+      "personID": "0000600",
+      "name": "Sam Raimi",
+      "character": null
+    },
+    {
+      "personID": "0712049",
+      "name": "Kurt Rauf",
+      "character": null
+    },
+    {
+      "personID": "0838385",
+      "name": "Tom Sullivan",
+      "character": null
+    }
+  ],
+  "visual effects": [
+    {
+      "personID": "0682291",
+      "name": "Bart Pierce",
+      "character": null
+    },
+    {
+      "personID": "2548891",
+      "name": "Alastor Arnold",
+      "character": null
+    }
+  ],
+  "camera and electrical department": [
+    {
+      "personID": "0065471",
+      "name": "Josh Becker",
+      "character": null
+    },
+    {
+      "personID": "0228602",
+      "name": "Mike Ditz",
+      "character": null
+    },
+    {
+      "personID": "0680924",
+      "name": "Tim Philo",
+      "character": null
+    }
+  ],
+  "animation department": [
+    {
+      "personID": "0838385",
+      "name": "Tom Sullivan",
+      "character": null
+    }
+  ],
+  "music department": [
+    {
+      "personID": "0006173",
+      "name": "Joseph LoDuca",
+      "character": null
+    },
+    {
+      "personID": "0938405",
+      "name": "Ed Wolfrum",
+      "character": null
+    }
+  ],
+  "transportation department": [
+    {
+      "personID": "0329049",
+      "name": "David M. Goodman",
+      "character": null
+    }
+  ],
+  "miscellaneous crew": [
+    {
+      "personID": "0132394",
+      "name": "Don Campbell",
+      "character": null
+    },
+    {
+      "personID": "0302410",
+      "name": "John A. Gallagher",
+      "character": null
+    },
+    {
+      "personID": "0033977",
+      "name": "Bridget Hoffman",
+      "character": null
+    }
+  ],
+  "thanks": [
+    {
+      "personID": "0302410",
+      "name": "John A. Gallagher",
+      "character": null
+    },
+    {
+      "personID": "0637726",
+      "name": "Simon Nuchtern",
+      "character": null
+    },
+    {
+      "personID": "0731578",
+      "name": "Sheila Roberts",
+      "character": null
+    },
+    {
+      "personID": "0884106",
+      "name": "Carol Valenti",
+      "character": null
+    }
+  ],
+  "akas": [
+    "Sam Raimi's The Evil Dead (United States)",
+    "The Evil Dead, the Ultimate Experience in Grueling Horror (United States)",
+    "Into the Woods (United States)",
+    "Book of the Dead (United States)",
+    "Evil Dead (United States)"
+  ],
+  "production companies": [
+    {
+      "companyID": "0047594",
+      "name": "Renaissance Pictures"
+    }
+  ],
+  "distributors": [
+    {
+      "companyID": "0046718",
+      "name": "New Line Cinema"
+    },
+    {
+      "companyID": "0088883",
+      "name": "Citadel Films"
+    },
+    {
+      "companyID": "0103598",
+      "name": "Palace Pictures"
+    },
+    {
+      "companyID": "0069337",
+      "name": "Filmways Australasian Distributors"
+    },
+    {
+      "companyID": "0074007",
+      "name": "Gofilex"
+    },
+    {
+      "companyID": "0013658",
+      "name": "Metropolitan Filmexport"
+    },
+    {
+      "companyID": "0036795",
+      "name": "Filmways Home Video"
+    },
+    {
+      "companyID": "0423846",
+      "name": "Ecran Distribuci\u00f3n"
+    },
+    {
+      "companyID": "0299782",
+      "name": "Film 2"
+    },
+    {
+      "companyID": "0460089",
+      "name": "S.S. Nihalini Movies"
+    },
+    {
+      "companyID": "0049905",
+      "name": "Sahamongkolfilm Co."
+    },
+    {
+      "companyID": "0179145",
+      "name": "Magnum Video"
+    },
+    {
+      "companyID": "0765072",
+      "name": "New Line Cinema"
+    },
+    {
+      "companyID": "0018207",
+      "name": "Nippon Herald Films"
+    },
+    {
+      "companyID": "0729466",
+      "name": "K-Tel Filmways VTC"
+    },
+    {
+      "companyID": "0362844",
+      "name": "Toshiba Eizo Soft"
+    },
+    {
+      "companyID": "0357598",
+      "name": "Videomax"
+    },
+    {
+      "companyID": "0048855",
+      "name": "VCL Communications"
+    },
+    {
+      "companyID": "0003692",
+      "name": "Congress Video Group"
+    },
+    {
+      "companyID": "0448986",
+      "name": "Moon HWA Productions"
+    },
+    {
+      "companyID": "0014957",
+      "name": "USA Network"
+    },
+    {
+      "companyID": "0795402",
+      "name": "Aim Pictures"
+    },
+    {
+      "companyID": "0357598",
+      "name": "Videomax"
+    },
+    {
+      "companyID": "0182772",
+      "name": "Atlantic Film"
+    },
+    {
+      "companyID": "0067793",
+      "name": "Anchor Bay Entertainment"
+    },
+    {
+      "companyID": "0050978",
+      "name": "HGV Video Productions"
+    },
+    {
+      "companyID": "0067793",
+      "name": "Anchor Bay Entertainment"
+    },
+    {
+      "companyID": "0716033",
+      "name": "Palermo"
+    },
+    {
+      "companyID": "0100424",
+      "name": "Japan Video Distribution (JVD) Co. Ltd."
+    },
+    {
+      "companyID": "0017313",
+      "name": "Astro Distribution"
+    },
+    {
+      "companyID": "0129656",
+      "name": "CMV Laservision"
+    },
+    {
+      "companyID": "0024325",
+      "name": "Dutch FilmWorks (DFW)"
+    },
+    {
+      "companyID": "0113373",
+      "name": "Anchor Bay Entertainment (UK)"
+    },
+    {
+      "companyID": "0124380",
+      "name": "Big Sky Video"
+    },
+    {
+      "companyID": "0059453",
+      "name": "A-Film Distribution"
+    },
+    {
+      "companyID": "0079555",
+      "name": "Future Film"
+    },
+    {
+      "companyID": "0100424",
+      "name": "Japan Video Distribution (JVD) Co. Ltd."
+    },
+    {
+      "companyID": "0113335",
+      "name": "A-Film Home Entertainment"
+    },
+    {
+      "companyID": "0227539",
+      "name": "V\u00e9rtice 360"
+    },
+    {
+      "companyID": "0182772",
+      "name": "Atlantic Film"
+    },
+    {
+      "companyID": "0341347",
+      "name": "Crest Movies"
+    },
+    {
+      "companyID": "0079555",
+      "name": "Future Film"
+    },
+    {
+      "companyID": "0079546",
+      "name": "Sveriges Television (SVT)"
+    },
+    {
+      "companyID": "0102030",
+      "name": "SubTV"
+    },
+    {
+      "companyID": "0314234",
+      "name": "MTV3"
+    },
+    {
+      "companyID": "0113335",
+      "name": "A-Film Home Entertainment"
+    },
+    {
+      "companyID": "0052145",
+      "name": "Sony Pictures Entertainment"
+    },
+    {
+      "companyID": "0052145",
+      "name": "Sony Pictures Entertainment"
+    },
+    {
+      "companyID": "0770268",
+      "name": "Sony Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0185481",
+      "name": "Sony Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0802090",
+      "name": "Sony Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0802090",
+      "name": "Sony Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0852957",
+      "name": "Sony Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0852957",
+      "name": "Sony Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0795863",
+      "name": "Sony Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0795863",
+      "name": "Sony Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0185481",
+      "name": "Sony Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0765733",
+      "name": "Sony Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0765733",
+      "name": "Sony Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0587894",
+      "name": "Nameless Media"
+    },
+    {
+      "companyID": "0587894",
+      "name": "Nameless Media"
+    },
+    {
+      "companyID": "0769046",
+      "name": "Sony Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0769046",
+      "name": "Sony Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0106776",
+      "name": "Grindhouse Releasing"
+    },
+    {
+      "companyID": "0019190",
+      "name": "Elite Entertainment"
+    },
+    {
+      "companyID": "0409235",
+      "name": "Favorit Video"
+    },
+    {
+      "companyID": "0114708",
+      "name": "HBO/Cannon Video"
+    },
+    {
+      "companyID": "0013585",
+      "name": "Image Entertainment"
+    },
+    {
+      "companyID": "0100424",
+      "name": "Japan Video Distribution (JVD) Co. Ltd."
+    },
+    {
+      "companyID": "0094750",
+      "name": "LW Editora"
+    },
+    {
+      "companyID": "0081777",
+      "name": "Look Filmes"
+    },
+    {
+      "companyID": "0072490",
+      "name": "Look V\u00eddeo"
+    },
+    {
+      "companyID": "0268852",
+      "name": "Video Screen"
+    }
+  ],
+  "other companies": [
+    {
+      "companyID": "0186918",
+      "name": "Audiographics"
+    },
+    {
+      "companyID": "0051002",
+      "name": "Sound One Corporation"
+    },
+    {
+      "companyID": "0134009",
+      "name": "Dynamic Effects"
+    },
+    {
+      "companyID": "0045593",
+      "name": "J.G. Films"
+    },
+    {
+      "companyID": "0020699",
+      "name": "August Films"
+    },
+    {
+      "companyID": "0027968",
+      "name": "Investors of Evil Dead I"
+    }
+  ]
+}

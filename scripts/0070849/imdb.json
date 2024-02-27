@@ -1,3 +1,794 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b2af15d73762636622616d5e7eca74da47efd8ee86b2a047c1d3015a946fb766
-size 16430
+{
+  "localized title": "Last Tango in Paris",
+  "cast": [
+    {
+      "personID": "0000008",
+      "name": "Marlon Brando",
+      "character": "Paul"
+    },
+    {
+      "personID": "0773932",
+      "name": "Maria Schneider",
+      "character": "Jeanne"
+    },
+    {
+      "personID": "0585170",
+      "name": "Maria Michi"
+    },
+    {
+      "personID": "0302815",
+      "name": "Giovanna Galletti"
+    },
+    {
+      "personID": "0536507",
+      "name": "Gitt Magrini"
+    },
+    {
+      "personID": "0021691",
+      "name": "Catherine All\u00e9gret",
+      "character": "Catherine"
+    },
+    {
+      "personID": "0549656",
+      "name": "Luce Marquand",
+      "character": "Olympia"
+    },
+    {
+      "personID": "0106925",
+      "name": "Marie-H\u00e9l\u00e8ne Breillat",
+      "character": "Monique"
+    },
+    {
+      "personID": "0106924",
+      "name": "Catherine Breillat",
+      "character": "Mouchette"
+    },
+    {
+      "personID": "0224576",
+      "name": "Dan Diament"
+    },
+    {
+      "personID": "0812568",
+      "name": "Catherine Sola"
+    },
+    {
+      "personID": "0545578",
+      "name": "Mauro Marchetti"
+    },
+    {
+      "personID": "0529543",
+      "name": "Jean-Pierre L\u00e9aud",
+      "character": "Tom - un cin\u00e9aste, le fianc\u00e9 de Jeanne"
+    },
+    {
+      "personID": "0320988",
+      "name": "Massimo Girotti",
+      "character": "Marcel"
+    },
+    {
+      "personID": "0774731",
+      "name": "Peter Schommer"
+    },
+    {
+      "personID": "0493691",
+      "name": "Veronica Lazar",
+      "character": "Rosa"
+    },
+    {
+      "personID": "0450443",
+      "name": "Rachel Kesterber",
+      "character": "Christine"
+    },
+    {
+      "personID": "0579153",
+      "name": "Ram\u00f3n Mendiz\u00e1bal"
+    },
+    {
+      "personID": "0684551",
+      "name": "Mimi Pinson"
+    },
+    {
+      "personID": "0529587",
+      "name": "Darling L\u00e9gitimus",
+      "character": "La concierge"
+    },
+    {
+      "personID": "1441972",
+      "name": "G\u00e9rard Lepennec",
+      "character": "Un d\u00e9m\u00e9nageur"
+    },
+    {
+      "personID": "0468853",
+      "name": "St\u00e9phan Koziak",
+      "character": "Un d\u00e9m\u00e9nageur"
+    },
+    {
+      "personID": "0008798",
+      "name": "Armand Abplanalp"
+    },
+    {
+      "personID": "0079341",
+      "name": "Laura Betti",
+      "character": "Miss Blandish"
+    },
+    {
+      "personID": "0081175",
+      "name": "Jean-Luc Bideau",
+      "character": "Le capitaine de la p\u00e9niche"
+    },
+    {
+      "personID": "0216155",
+      "name": "Michel Delahaye"
+    },
+    {
+      "personID": "0700478",
+      "name": "Gianni Pulone",
+      "character": "Man on street"
+    },
+    {
+      "personID": "0778532",
+      "name": "Franca Sciutto",
+      "character": "Woman on street"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "runtimes": [
+    "129"
+  ],
+  "countries": [
+    "Italy",
+    "France"
+  ],
+  "country codes": [
+    "it",
+    "fr"
+  ],
+  "language codes": [
+    "en",
+    "fr"
+  ],
+  "color info": [
+    "Color"
+  ],
+  "aspect ratio": "1.85 : 1",
+  "sound mix": [
+    "Mono"
+  ],
+  "box office": {
+    "Budget": "$1,250,000 (estimated)"
+  },
+  "certificates": [
+    "Argentina:X",
+    "Argentina:18",
+    "Australia:R",
+    "Brazil:18",
+    "Brazil:14",
+    "Brazil:18",
+    "Brazil:(Banned)::(1972-1979)",
+    "Canada:18A",
+    "Canada:18A::(British Columbia)",
+    "Canada:R::(Manitoba/Nova Scotia/Ontario)",
+    "Canada:16+::(Quebec)",
+    "Canada:18+::(Quebec)",
+    "Canada:16+::(Quebec)",
+    "Chile:(Banned)::(1973-1992)",
+    "Denmark:16",
+    "Denmark:15",
+    "Egypt:18+",
+    "Finland:K-18",
+    "France:16",
+    "Germany:16",
+    "Hong Kong:III",
+    "Hong Kong:IIB::(Google Play)",
+    "Hungary:18",
+    "India:A",
+    "Ireland:18",
+    "Italy:VM18",
+    "Italy:VM18",
+    "Italy:VM14",
+    "Italy:VM18",
+    "Italy:(Banned)::(1972-1987)",
+    "Japan:R18+",
+    "Malaysia:18",
+    "Mexico:C",
+    "Netherlands:18::(orginal rating)",
+    "New Zealand:R18",
+    "New Zealand:(Banned)",
+    "Nigeria:18",
+    "Norway:18",
+    "Philippines:R-18",
+    "Poland:18",
+    "Portugal:M/18",
+    "Portugal:(Banned)::(1973-1974)",
+    "Russia:18+",
+    "Saudi Arabia:R18",
+    "Singapore:(Banned)",
+    "Singapore:NC16::(Google Play)",
+    "Singapore:R21::(recommended rating)",
+    "South Korea:(Banned)",
+    "South Korea:18",
+    "Spain:(Banned)",
+    "Sweden:15",
+    "Turkey:15+::(self-applied)",
+    "United Kingdom:18::(current rating)",
+    "United Kingdom:X",
+    "United Kingdom:18::(video rating)",
+    "United States:TV-MA::(TV rating)",
+    "United States:NC-17",
+    "United States:X",
+    "United Arab Emirates:R::(self-applied)",
+    "West Germany:18"
+  ],
+  "original air date": "07 Feb 1973 (USA)",
+  "rating": 6.9,
+  "votes": 55684,
+  "cover url": "https://m.media-amazon.com/images/M/MV5BNDFjN2UwMmItNmMzNi00NTdhLWJlY2EtZmI3MGJiMmQ5MzUxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX101_CR0,0,101,150_.jpg",
+  "imdbID": "0070849",
+  "videos": [
+    "http://www.imdb.com/title/tt0070849/videoplayer/vi2392129817",
+    "http://www.imdb.com/title/tt0070849/videoplayer/vi4059546649"
+  ],
+  "plot outline": "While looking for an apartment, Jeanne, a beautiful young Parisienne, encounters Paul, a mysterious American expatriate mourning his wife's recent suicide. Instantly drawn to each other, they have a stormy, passionate affair, in which they do not reveal their names to each other. Their relationship deeply affects their lives, as Paul struggles with his wife's death and Jeanne prepares to marry her fiance, Tom, a film director making a cinema-verite documentary about her.",
+  "languages": [
+    "English",
+    "French"
+  ],
+  "title": "Last Tango in Paris",
+  "year": 1972,
+  "kind": "movie",
+  "original title": "Ultimo tango a Parigi",
+  "director": [
+    {
+      "personID": "0000934",
+      "name": "Bernardo Bertolucci",
+      "character": null
+    }
+  ],
+  "writer": [
+    {
+      "personID": "0000934",
+      "name": "Bernardo Bertolucci",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "0000934",
+      "name": "Bernardo Bertolucci",
+      "character": null
+    },
+    {
+      "personID": "0033490",
+      "name": "Franco Arcalli",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "0889513",
+      "name": "Agn\u00e8s Varda",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "0004462",
+      "name": "Jean-Louis Trintignant",
+      "character": null
+    }
+  ],
+  "producer": [
+    {
+      "personID": "0342090",
+      "name": "Alberto Grimaldi",
+      "character": null
+    }
+  ],
+  "composer": [
+    {
+      "personID": "0053658",
+      "name": "Gato Barbieri",
+      "character": null
+    }
+  ],
+  "cinematographer": [
+    {
+      "personID": "0005886",
+      "name": "Vittorio Storaro",
+      "character": null
+    }
+  ],
+  "editor": [
+    {
+      "personID": "0033490",
+      "name": "Franco Arcalli",
+      "character": null
+    },
+    {
+      "personID": "0674487",
+      "name": "Roberto Perpignani",
+      "character": null
+    }
+  ],
+  "editorial department": [
+    {
+      "personID": "0188098",
+      "name": "Gabriella Cristiani",
+      "character": null
+    },
+    {
+      "personID": "0637026",
+      "name": "Ernesto Novelli",
+      "character": null
+    },
+    {
+      "personID": "0643836",
+      "name": "Enzo Ocone",
+      "character": null
+    },
+    {
+      "personID": "0814782",
+      "name": "Elvio Sordoni",
+      "character": null
+    }
+  ],
+  "production design": [
+    {
+      "personID": "0877265",
+      "name": "Philippe Turlure",
+      "character": null
+    }
+  ],
+  "set decoration": [
+    {
+      "personID": "0877265",
+      "name": "Philippe Turlure",
+      "character": null
+    }
+  ],
+  "costume designer": [
+    {
+      "personID": "0536507",
+      "name": "Gitt Magrini",
+      "character": null
+    }
+  ],
+  "make up": [
+    {
+      "personID": "0066802",
+      "name": "Maud Begon",
+      "character": null
+    },
+    {
+      "personID": "0147629",
+      "name": "Iole Cecchini",
+      "character": null
+    },
+    {
+      "personID": "0722504",
+      "name": "Phil Rhodes",
+      "character": null
+    }
+  ],
+  "production manager": [
+    {
+      "personID": "0189096",
+      "name": "G\u00e9rard Crosnier",
+      "character": null
+    },
+    {
+      "personID": "0223670",
+      "name": "Mario Di Biase",
+      "character": null
+    },
+    {
+      "personID": "0643836",
+      "name": "Enzo Ocone",
+      "character": null
+    },
+    {
+      "personID": "0671312",
+      "name": "Francis Peltier",
+      "character": null
+    },
+    {
+      "personID": "0699039",
+      "name": "Enzo Provenzale",
+      "character": null
+    }
+  ],
+  "assistant director": [
+    {
+      "personID": "0033490",
+      "name": "Franco Arcalli",
+      "character": null
+    },
+    {
+      "personID": "1293361",
+      "name": "Jean-David Lefebvre",
+      "character": null
+    },
+    {
+      "personID": "0608775",
+      "name": "Fernand Moszkowicz",
+      "character": null
+    }
+  ],
+  "art department": [
+    {
+      "personID": "0537761",
+      "name": "Maria Paola Maino",
+      "character": null
+    },
+    {
+      "personID": "0707368",
+      "name": "Albert Rajau",
+      "character": null
+    },
+    {
+      "personID": "0769162",
+      "name": "Ferdinando Scarfiotti",
+      "character": null
+    },
+    {
+      "personID": "0877265",
+      "name": "Philippe Turlure",
+      "character": null
+    }
+  ],
+  "sound crew": [
+    {
+      "personID": "0025831",
+      "name": "Fausto Ancillai",
+      "character": null
+    },
+    {
+      "personID": "0031746",
+      "name": "Luciano Anzellotti",
+      "character": null
+    },
+    {
+      "personID": "0031747",
+      "name": "Massimo Anzellotti",
+      "character": null
+    },
+    {
+      "personID": "0082522",
+      "name": "Michael Billingsley",
+      "character": null
+    },
+    {
+      "personID": "0094376",
+      "name": "Antoine Bonfanti",
+      "character": null
+    }
+  ],
+  "camera and electrical department": [
+    {
+      "personID": "0076491",
+      "name": "Luigi Bernardini",
+      "character": null
+    },
+    {
+      "personID": "0302861",
+      "name": "Luciano Galli",
+      "character": null
+    },
+    {
+      "personID": "0545558",
+      "name": "Alfredo Marchetti",
+      "character": null
+    },
+    {
+      "personID": "0545578",
+      "name": "Mauro Marchetti",
+      "character": null
+    },
+    {
+      "personID": "0637017",
+      "name": "Alberico Novelli",
+      "character": null
+    },
+    {
+      "personID": "0637064",
+      "name": "Angelo Novi",
+      "character": null
+    },
+    {
+      "personID": "0785011",
+      "name": "Eva Sereny",
+      "character": null
+    },
+    {
+      "personID": "0880866",
+      "name": "Enrico Umetelli",
+      "character": null
+    }
+  ],
+  "music department": [
+    {
+      "personID": "0053658",
+      "name": "Gato Barbieri",
+      "character": null
+    },
+    {
+      "personID": "0625648",
+      "name": "Oliver Nelson",
+      "character": null
+    }
+  ],
+  "script department": [
+    {
+      "personID": "0244367",
+      "name": "Suzanne Durrenberger",
+      "character": null
+    }
+  ],
+  "miscellaneous crew": [
+    {
+      "personID": "0287244",
+      "name": "Maurizio Forti",
+      "character": null
+    },
+    {
+      "personID": "0342090",
+      "name": "Alberto Grimaldi",
+      "character": null
+    },
+    {
+      "personID": "1614301",
+      "name": "Jos\u00e9 Lichtig",
+      "character": null
+    },
+    {
+      "personID": "0577193",
+      "name": "Ginette Mejinsky",
+      "character": null
+    },
+    {
+      "personID": "0275071",
+      "name": "Christian Ferry",
+      "character": null
+    }
+  ],
+  "thanks": [
+    {
+      "personID": "1066980",
+      "name": "Francis Bacon",
+      "character": null
+    }
+  ],
+  "akas": [
+    "Le dernier Tango \u00e0 Paris (France)",
+    "Last Tango in Paris (Indonesia, English title)",
+    "Last Tango in Paris (Canada, English title)",
+    "Ultimo Tango a Parigi (India, English title)",
+    "Last Tango in Paris (Hong Kong, English title)"
+  ],
+  "production companies": [
+    {
+      "companyID": "0013844",
+      "name": "Produzioni Europee Associate (PEA)"
+    },
+    {
+      "companyID": "0026336",
+      "name": "Les Productions Artistes Associ\u00e9s"
+    }
+  ],
+  "distributors": [
+    {
+      "companyID": "0289659",
+      "name": "Les Artistes Associ\u00e9s"
+    },
+    {
+      "companyID": "0304136",
+      "name": "Nova Film"
+    },
+    {
+      "companyID": "0809114",
+      "name": "United Artists"
+    },
+    {
+      "companyID": "0026841",
+      "name": "United Artists"
+    },
+    {
+      "companyID": "0026841",
+      "name": "United Artists"
+    },
+    {
+      "companyID": "0663286",
+      "name": "United Artists (A-Asia)"
+    },
+    {
+      "companyID": "0103797",
+      "name": "United Artists"
+    },
+    {
+      "companyID": "0026841",
+      "name": "United Artists"
+    },
+    {
+      "companyID": "0015327",
+      "name": "Kommunenes Filmcentral (KF)"
+    },
+    {
+      "companyID": "0119598",
+      "name": "Intervision Video"
+    },
+    {
+      "companyID": "0051030",
+      "name": "VidAmerica"
+    },
+    {
+      "companyID": "0089127",
+      "name": "Magnetic Video"
+    },
+    {
+      "companyID": "0605838",
+      "name": "20th Century Fox Video"
+    },
+    {
+      "companyID": "0036219",
+      "name": "RCA (II)"
+    },
+    {
+      "companyID": "0006383",
+      "name": "Warner Home Video"
+    },
+    {
+      "companyID": "0059995",
+      "name": "Warner Home Video"
+    },
+    {
+      "companyID": "0007496",
+      "name": "CBS/Fox"
+    },
+    {
+      "companyID": "0061460",
+      "name": "France 3"
+    },
+    {
+      "companyID": "0021293",
+      "name": "Key Video"
+    },
+    {
+      "companyID": "0001770",
+      "name": "MGM/UA Home Entertainment"
+    },
+    {
+      "companyID": "0044076",
+      "name": "The Criterion Collection"
+    },
+    {
+      "companyID": "0059995",
+      "name": "Warner Home Video"
+    },
+    {
+      "companyID": "0031085",
+      "name": "Argentina Video Home"
+    },
+    {
+      "companyID": "0258711",
+      "name": "Chapel Distribution"
+    },
+    {
+      "companyID": "0015461",
+      "name": "MGM Home Entertainment"
+    },
+    {
+      "companyID": "0059995",
+      "name": "Warner Home Video"
+    },
+    {
+      "companyID": "0015461",
+      "name": "MGM Home Entertainment"
+    },
+    {
+      "companyID": "0150813",
+      "name": "20th Century Fox Home Entertainment"
+    },
+    {
+      "companyID": "0044350",
+      "name": "Gativideo"
+    },
+    {
+      "companyID": "0051199",
+      "name": "Cinema Mondo"
+    },
+    {
+      "companyID": "0015461",
+      "name": "MGM Home Entertainment"
+    },
+    {
+      "companyID": "0130598",
+      "name": "Park Circus"
+    },
+    {
+      "companyID": "0010224",
+      "name": "20th Century Fox Home Entertainment"
+    },
+    {
+      "companyID": "0059055",
+      "name": "Eagle Pictures"
+    },
+    {
+      "companyID": "0010224",
+      "name": "20th Century Fox Home Entertainment"
+    },
+    {
+      "companyID": "0078852",
+      "name": "New Star"
+    },
+    {
+      "companyID": "0480858",
+      "name": "Park Circus"
+    },
+    {
+      "companyID": "0110676",
+      "name": "Rank Filmes de Portugal"
+    },
+    {
+      "companyID": "0033120",
+      "name": "United Artists Europa"
+    },
+    {
+      "companyID": "0026841",
+      "name": "United Artists"
+    },
+    {
+      "companyID": "0026841",
+      "name": "United Artists"
+    },
+    {
+      "companyID": "0084798",
+      "name": "Asociace Cesk\u00fdch Filmov\u00fdch Klubu (ACFK)"
+    },
+    {
+      "companyID": "0061460",
+      "name": "France 3"
+    },
+    {
+      "companyID": "0044350",
+      "name": "Gativideo"
+    },
+    {
+      "companyID": "0754095",
+      "name": "HBO Max"
+    },
+    {
+      "companyID": "0347055",
+      "name": "Rai Movie"
+    },
+    {
+      "companyID": "0091775",
+      "name": "Varus Video"
+    },
+    {
+      "companyID": "0059995",
+      "name": "Warner Home Video"
+    },
+    {
+      "companyID": "0089683",
+      "name": "Warner Home V\u00eddeo"
+    }
+  ],
+  "other companies": [
+    {
+      "companyID": "0015461",
+      "name": "MGM Home Entertainment"
+    }
+  ]
+}

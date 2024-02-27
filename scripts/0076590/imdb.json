@@ -1,3 +1,956 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b03a7747b6418ecc94da5ce8cadebe30aaad7e98665bcf375a07bd11ee1d0fee
-size 20195
+{
+  "localized title": "Rabid",
+  "cast": [
+    {
+      "personID": "0001032",
+      "name": "Marilyn Chambers",
+      "character": "Rose"
+    },
+    {
+      "personID": "0774750",
+      "name": "Terry Schonblum",
+      "character": "Judy Glasberg"
+    },
+    {
+      "personID": "0601210",
+      "name": "Frank Moore",
+      "character": "Hart Read"
+    },
+    {
+      "personID": "0798718",
+      "name": "Joe Silver",
+      "character": "Murray Cypher"
+    },
+    {
+      "personID": "0753447",
+      "name": "Howard Ryshpan",
+      "character": "Dr. Dan Keloid"
+    },
+    {
+      "personID": "0300833",
+      "name": "Patricia Gage",
+      "character": "Dr. Roxanne Keloid"
+    },
+    {
+      "personID": "0738751",
+      "name": "Susan Roman",
+      "character": "Mindy Kent"
+    },
+    {
+      "personID": "0673718",
+      "name": "Roger Periard",
+      "character": "Lloyd Walsh"
+    },
+    {
+      "personID": "0220198",
+      "name": "Lynne Deragon",
+      "character": "Nurse Louise"
+    },
+    {
+      "personID": "0246390",
+      "name": "Victor D\u00e9sy",
+      "character": "Claude LaPointe"
+    },
+    {
+      "personID": "0030240",
+      "name": "Julie Anna",
+      "character": "Nurse Rita"
+    },
+    {
+      "personID": "0571228",
+      "name": "Gary McKeehan",
+      "character": "Smooth Eddy"
+    },
+    {
+      "personID": "0743877",
+      "name": "Terence G. Ross",
+      "character": "Farmer"
+    },
+    {
+      "personID": "0272883",
+      "name": "Miguel Fernandes",
+      "character": "Man In Cinema"
+    },
+    {
+      "personID": "0642383",
+      "name": "Robert O'Ree",
+      "character": "Police Sergeant"
+    },
+    {
+      "personID": "0887826",
+      "name": "Greg Van Riel",
+      "character": "Young Man In Plaza"
+    },
+    {
+      "personID": "0862582",
+      "name": "J\u00e9r\u00f4me Tiberghien",
+      "character": "Dr. Karl"
+    },
+    {
+      "personID": "0610496",
+      "name": "Allan Moyle",
+      "character": "Young Man In Lobby"
+    },
+    {
+      "personID": "4070756",
+      "name": "Richard W. Farrell",
+      "character": "Camper Man"
+    },
+    {
+      "personID": "0143323",
+      "name": "Jeannette Casenave",
+      "character": "Camper Lady"
+    },
+    {
+      "personID": "0913686",
+      "name": "Karl Wasserman",
+      "character": "Camper Child"
+    },
+    {
+      "personID": "0102164",
+      "name": "John Boylan",
+      "character": "Young Cop In Plaza"
+    },
+    {
+      "personID": "0625826",
+      "name": "Malcolm Nelthorpe",
+      "character": "Older Cop In Plaza"
+    },
+    {
+      "personID": "0903985",
+      "name": "Vlasta Vrana",
+      "character": "Cop At Clinic"
+    },
+    {
+      "personID": "0566105",
+      "name": "Kirk McColl",
+      "character": "Desk Sergeant"
+    },
+    {
+      "personID": "0582213",
+      "name": "Jack Messinger",
+      "character": "Policeman On Highway"
+    },
+    {
+      "personID": "0496281",
+      "name": "Yvon Lecompte",
+      "character": "Policeman"
+    },
+    {
+      "personID": "0522947",
+      "name": "Grant Lowe",
+      "character": "Trucker"
+    },
+    {
+      "personID": "0318106",
+      "name": "John Gilbert",
+      "character": "Dr. Royce Gentry"
+    },
+    {
+      "personID": "0029698",
+      "name": "Tony Angelo",
+      "character": "Dispatcher"
+    },
+    {
+      "personID": "0534132",
+      "name": "Peter MacNeill",
+      "character": "Loader"
+    },
+    {
+      "personID": "0443199",
+      "name": "Una Kay",
+      "character": "Jackie"
+    },
+    {
+      "personID": "0656387",
+      "name": "Madeleine Pageau",
+      "character": "Beatrice Owen"
+    },
+    {
+      "personID": "0908008",
+      "name": "Mark Walker",
+      "character": "Steve"
+    },
+    {
+      "personID": "0798887",
+      "name": "Robert A. Silverman",
+      "character": "Man In Hospital"
+    },
+    {
+      "personID": "0126838",
+      "name": "Monique B\u00e9lisle",
+      "character": "Sheila"
+    },
+    {
+      "personID": "0594865",
+      "name": "Ronald Mlodzik",
+      "character": "Male Patient"
+    },
+    {
+      "personID": "0482048",
+      "name": "Isabelle Lajeunesse",
+      "character": "Waitress"
+    },
+    {
+      "personID": "0232052",
+      "name": "Terry Donald",
+      "character": "Cook"
+    },
+    {
+      "personID": "0624369",
+      "name": "Louis Negin",
+      "character": "Maxim"
+    },
+    {
+      "personID": "0320949",
+      "name": "Robert V. Girolami",
+      "character": "Newscaster"
+    },
+    {
+      "personID": "0384312",
+      "name": "Harry Hill",
+      "character": "Stasiuk"
+    },
+    {
+      "personID": "0444424",
+      "name": "Kathy Keefler",
+      "character": "Interviewer"
+    },
+    {
+      "personID": "0288517",
+      "name": "Marcel Fournier",
+      "character": "Cab Driver"
+    },
+    {
+      "personID": "0198368",
+      "name": "Valda Dalton",
+      "character": "Lady in Car"
+    },
+    {
+      "personID": "0809425",
+      "name": "Murray Smith",
+      "character": "Interviewer"
+    },
+    {
+      "personID": "0818627",
+      "name": "Riva Spier",
+      "character": "Cecile"
+    },
+    {
+      "personID": "0480297",
+      "name": "Denis Lacroix",
+      "character": "Drunken Indian"
+    },
+    {
+      "personID": "0542008",
+      "name": "Sherman Maness",
+      "character": "Indian"
+    },
+    {
+      "personID": "0280414",
+      "name": "Basil Fitzgibbon",
+      "character": "Crazy In Plaza"
+    },
+    {
+      "personID": "0285405",
+      "name": "Sonny Forbes",
+      "character": "Police Captain"
+    }
+  ],
+  "genres": [
+    "Horror",
+    "Sci-Fi"
+  ],
+  "runtimes": [
+    "91"
+  ],
+  "countries": [
+    "Canada"
+  ],
+  "country codes": [
+    "ca"
+  ],
+  "language codes": [
+    "en"
+  ],
+  "color info": [
+    "Color::(Eastmancolor)"
+  ],
+  "aspect ratio": "1.66 : 1 (director specified)",
+  "sound mix": [
+    "Mono"
+  ],
+  "box office": {
+    "Budget": "CAD530,000 (estimated)"
+  },
+  "certificates": [
+    "Australia:R",
+    "Canada:14A::(Alberta)",
+    "Canada:R::(Manitoba/Nova Scotia/Ontario)",
+    "Canada:R::(Manitoba/Ontario)",
+    "Canada:18::(Nova Scotia)",
+    "Canada:13+::(Quebec)",
+    "Finland:K-18",
+    "France:16::(new rating)",
+    "France:18",
+    "Germany:16",
+    "India:Not Rated",
+    "Ireland:18",
+    "Italy:VM14",
+    "Mexico:C",
+    "Netherlands:16",
+    "Norway:15::(iTunes rating)",
+    "Norway:18::(video rating)",
+    "Poland:18::(TV rating)",
+    "Russia:18+",
+    "Sweden:15",
+    "United Kingdom:15",
+    "United Kingdom:18",
+    "United Kingdom:X",
+    "United States:R",
+    "United Arab Emirates:Not Rated",
+    "West Germany:18::(nf)",
+    "West Germany:Not Rated::(BPjM restricted)"
+  ],
+  "original air date": "08 Apr 1977 (USA)",
+  "rating": 6.3,
+  "votes": 20163,
+  "cover url": "https://m.media-amazon.com/images/M/MV5BZmNjNGY5ZTEtODQ2Yi00ZTFiLTg3YjAtYWQ4NWU1YmZjODY1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg",
+  "imdbID": "0076590",
+  "videos": [
+    "http://www.imdb.com/title/tt0076590/videoplayer/vi3273572121",
+    "http://www.imdb.com/title/tt0076590/videoplayer/vi4144940313"
+  ],
+  "plot outline": "In Camelford, while swinging his van across a narrow road to make a u-turn, a driver stalls the vehicle that does not restart. Hart Read is driving his motorcycle with his girlfriend Rose and he drives off the road to avoid the collision. Hart suffers minor injuries while Rosie is injured and burned by the flames when the motorcycle explodes. The ambulance from the nearby Keloid Clinic for Plastic Surgery brings the couple and Rose, who is in coma, is submitted to an emergency surgery and to an experimental plastic-surgery technique by Dr. Dan Keloid to retrieve her skin in the chest and abdomen. Hart is discharged but Rose stays in coma in the intensive care unit (ICU) to recover. Out of the blue, Rose awakens from her coma one month later and screams. A nurse helps her but is wounded by her and then he cannot remember what has happened. He is sent to a hospital in Montreal while Rose realizes that she needs to feed with blood. However her victims become zombie-like creatures. Rose flees from the clinic to Montreal to meet her friend Mindy Kent spreading her infection in the big city. Meanwhile Hart is seeking for her.",
+  "languages": [
+    "English"
+  ],
+  "title": "Rabid",
+  "year": 1977,
+  "kind": "movie",
+  "original title": "Rabid",
+  "director": [
+    {
+      "personID": "0000343",
+      "name": "David Cronenberg",
+      "character": null
+    }
+  ],
+  "writer": [
+    {
+      "personID": "0000343",
+      "name": "David Cronenberg",
+      "character": null
+    }
+  ],
+  "producer": [
+    {
+      "personID": "0138502",
+      "name": "Don Carmody",
+      "character": null
+    },
+    {
+      "personID": "0242949",
+      "name": "John Dunning",
+      "character": null
+    },
+    {
+      "personID": "0325178",
+      "name": "Danny Goldberg",
+      "character": null
+    },
+    {
+      "personID": "0512857",
+      "name": "Andr\u00e9 Link",
+      "character": null
+    },
+    {
+      "personID": "0718645",
+      "name": "Ivan Reitman",
+      "character": null
+    }
+  ],
+  "cinematographer": [
+    {
+      "personID": "0005915",
+      "name": "Ren\u00e9 Verzier",
+      "character": null
+    }
+  ],
+  "editor": [
+    {
+      "personID": "0480879",
+      "name": "Jean LaFleur",
+      "character": null
+    }
+  ],
+  "editorial department": [
+    {
+      "personID": "0439389",
+      "name": "Debbie Karjala",
+      "character": null
+    }
+  ],
+  "casting director": [
+    {
+      "personID": "0908484",
+      "name": "Sharron Wall",
+      "character": null
+    }
+  ],
+  "art direction": [
+    {
+      "personID": "0545373",
+      "name": "Claude Marchand",
+      "character": null
+    }
+  ],
+  "make up": [
+    {
+      "personID": "0019932",
+      "name": "Heather Allan",
+      "character": null
+    },
+    {
+      "personID": "0087673",
+      "name": "Joe Blasco",
+      "character": null
+    },
+    {
+      "personID": "0283516",
+      "name": "Kathy Flynn",
+      "character": null
+    },
+    {
+      "personID": "0208868",
+      "name": "Byrd Holland",
+      "character": null
+    },
+    {
+      "personID": "0714555",
+      "name": "Mireille Recton",
+      "character": null
+    },
+    {
+      "personID": "0908484",
+      "name": "Sharron Wall",
+      "character": null
+    },
+    {
+      "personID": "0045219",
+      "name": "Mike Bacarella",
+      "character": null
+    },
+    {
+      "personID": "0087673",
+      "name": "Joe Blasco",
+      "character": null
+    }
+  ],
+  "production manager": [
+    {
+      "personID": "0138502",
+      "name": "Don Carmody",
+      "character": null
+    },
+    {
+      "personID": "0242185",
+      "name": "Sarah Dundas",
+      "character": null
+    }
+  ],
+  "assistant director": [
+    {
+      "personID": "0221305",
+      "name": "Phil Desjardins",
+      "character": null
+    },
+    {
+      "personID": "0294424",
+      "name": "John Fretz",
+      "character": null
+    },
+    {
+      "personID": "0480879",
+      "name": "Jean LaFleur",
+      "character": null
+    }
+  ],
+  "art department": [
+    {
+      "personID": "0003147",
+      "name": "Andrew Deskin",
+      "character": null
+    },
+    {
+      "personID": "0492043",
+      "name": "Jean Lavigne",
+      "character": null
+    },
+    {
+      "personID": "0876987",
+      "name": "Rom\u00e9o Turcotte",
+      "character": null
+    }
+  ],
+  "sound crew": [
+    {
+      "personID": "0089676",
+      "name": "Len Blum",
+      "character": null
+    },
+    {
+      "personID": "0230107",
+      "name": "Patrick Dodd",
+      "character": null
+    },
+    {
+      "personID": "0325178",
+      "name": "Danny Goldberg",
+      "character": null
+    },
+    {
+      "personID": "0342100",
+      "name": "Austin Grimaldi",
+      "character": null
+    },
+    {
+      "personID": "0342122",
+      "name": "Joe Grimaldi",
+      "character": null
+    },
+    {
+      "personID": "1389769",
+      "name": "Bill Henderson",
+      "character": null
+    },
+    {
+      "personID": "0510035",
+      "name": "Richard Lightstone",
+      "character": null
+    },
+    {
+      "personID": "0860293",
+      "name": "Jim Thompson",
+      "character": null
+    }
+  ],
+  "special effects": [
+    {
+      "personID": "0255679",
+      "name": "Joe Elsner",
+      "character": null
+    },
+    {
+      "personID": "0342650",
+      "name": "Al Griswold",
+      "character": null
+    }
+  ],
+  "camera and electrical department": [
+    {
+      "personID": "0077366",
+      "name": "John Berrie",
+      "character": null
+    },
+    {
+      "personID": "0200824",
+      "name": "John Daoust",
+      "character": null
+    },
+    {
+      "personID": "0208280",
+      "name": "Louis de Ernsted",
+      "character": null
+    },
+    {
+      "personID": "0208281",
+      "name": "Marc de Ernsted",
+      "character": null
+    },
+    {
+      "personID": "0315031",
+      "name": "Jean-Jacques Gervais",
+      "character": null
+    },
+    {
+      "personID": "0320014",
+      "name": "Denis Gingras",
+      "character": null
+    },
+    {
+      "personID": "0396511",
+      "name": "Jean-Paul Houle",
+      "character": null
+    },
+    {
+      "personID": "0653490",
+      "name": "Andr\u00e9 Ouellette",
+      "character": null
+    },
+    {
+      "personID": "0839931",
+      "name": "Joel Sussman",
+      "character": null
+    }
+  ],
+  "costume department": [
+    {
+      "personID": "0322906",
+      "name": "Erla Gliserman",
+      "character": null
+    },
+    {
+      "personID": "0730913",
+      "name": "Carolynne Roberts",
+      "character": null
+    }
+  ],
+  "music department": [
+    {
+      "personID": "0718645",
+      "name": "Ivan Reitman",
+      "character": null
+    }
+  ],
+  "script department": [
+    {
+      "personID": "0586134",
+      "name": "Tatiana Mihailoff",
+      "character": null
+    }
+  ],
+  "miscellaneous crew": [
+    {
+      "personID": "0047425",
+      "name": "Norma Bailey",
+      "character": null
+    },
+    {
+      "personID": "0128690",
+      "name": "Patricia Cahill",
+      "character": null
+    },
+    {
+      "personID": "0135888",
+      "name": "John Caradonna",
+      "character": null
+    },
+    {
+      "personID": "0138504",
+      "name": "Jacqueline Carmody",
+      "character": null
+    },
+    {
+      "personID": "0954320",
+      "name": "Carolyn Cronenberg",
+      "character": null
+    },
+    {
+      "personID": "0603374",
+      "name": "Claude Moreau",
+      "character": null
+    }
+  ],
+  "akas": [
+    "Rage (Canada, French title)",
+    "Mosquitoes (Canada, English title)",
+    "Rage (United States)",
+    "Rage (France)",
+    "Rage ! (France)"
+  ],
+  "production companies": [
+    {
+      "companyID": "0772452",
+      "name": "Dunning/Link/Reitman Productions"
+    },
+    {
+      "companyID": "0067872",
+      "name": "Cin\u00e9pix Film Properties"
+    },
+    {
+      "companyID": "0671667",
+      "name": "Cinema Entertainment Enterprises"
+    },
+    {
+      "companyID": "0051074",
+      "name": "Canadian Film Development Corporation"
+    },
+    {
+      "companyID": "0695373",
+      "name": "Famous Players"
+    }
+  ],
+  "distributors": [
+    {
+      "companyID": "0067872",
+      "name": "Cin\u00e9pix Film Properties (CFP)"
+    },
+    {
+      "companyID": "0064409",
+      "name": "New World Pictures"
+    },
+    {
+      "companyID": "0348712",
+      "name": "Alpha Films"
+    },
+    {
+      "companyID": "0017317",
+      "name": "Indipendenti Regionali"
+    },
+    {
+      "companyID": "0005561",
+      "name": "GeBe Film"
+    },
+    {
+      "companyID": "0050607",
+      "name": "F.F.C.M."
+    },
+    {
+      "companyID": "0058792",
+      "name": "Roadshow Films"
+    },
+    {
+      "companyID": "0009167",
+      "name": "Adige Film 76"
+    },
+    {
+      "companyID": "0572434",
+      "name": "Fariza Films / Catalonia Films"
+    },
+    {
+      "companyID": "0220068",
+      "name": "Mega Films"
+    },
+    {
+      "companyID": "0119598",
+      "name": "Intervision Video"
+    },
+    {
+      "companyID": "0072246",
+      "name": "Toshiba EMI"
+    },
+    {
+      "companyID": "0025931",
+      "name": "Astral Video"
+    },
+    {
+      "companyID": "0250164",
+      "name": "Harley Video"
+    },
+    {
+      "companyID": "0006451",
+      "name": "Roadshow Home Video"
+    },
+    {
+      "companyID": "0059995",
+      "name": "Warner Home Video"
+    },
+    {
+      "companyID": "0041475",
+      "name": "EuroVideo"
+    },
+    {
+      "companyID": "0363588",
+      "name": "Europa Vision"
+    },
+    {
+      "companyID": "0048972",
+      "name": "F.J. Lucas"
+    },
+    {
+      "companyID": "0102029",
+      "name": "Kolmoskanava"
+    },
+    {
+      "companyID": "0920950",
+      "name": "Super Video"
+    },
+    {
+      "companyID": "0089149",
+      "name": "CIC Video"
+    },
+    {
+      "companyID": "0014957",
+      "name": "USA Network"
+    },
+    {
+      "companyID": "0077647",
+      "name": "Viacom"
+    },
+    {
+      "companyID": "0078852",
+      "name": "New Star"
+    },
+    {
+      "companyID": "0357725",
+      "name": "Telefilm Hellas"
+    },
+    {
+      "companyID": "0106083",
+      "name": "4 Front Video"
+    },
+    {
+      "companyID": "0671669",
+      "name": "Avalanche Home Entertainment"
+    },
+    {
+      "companyID": "0023943",
+      "name": "New Concorde Home Entertainment"
+    },
+    {
+      "companyID": "0227539",
+      "name": "V\u00e9rtice 360"
+    },
+    {
+      "companyID": "0136640",
+      "name": "Somerville House"
+    },
+    {
+      "companyID": "0013420",
+      "name": "Ventura Distribution"
+    },
+    {
+      "companyID": "0072847",
+      "name": "Splendid Film"
+    },
+    {
+      "companyID": "0042468",
+      "name": "Arrow Films"
+    },
+    {
+      "companyID": "0504711",
+      "name": "La Casa del Cine para Todos"
+    },
+    {
+      "companyID": "0235493",
+      "name": "Scream Factory"
+    },
+    {
+      "companyID": "0173285",
+      "name": "Lionsgate"
+    },
+    {
+      "companyID": "0309225",
+      "name": "101 Films"
+    },
+    {
+      "companyID": "0309225",
+      "name": "101 Films"
+    },
+    {
+      "companyID": "0671698",
+      "name": "Indeed Film"
+    },
+    {
+      "companyID": "0088822",
+      "name": "Fuji Eiga Company"
+    },
+    {
+      "companyID": "0007001",
+      "name": "Shochiku"
+    },
+    {
+      "companyID": "0724460",
+      "name": "Tubi TV"
+    }
+  ],
+  "other companies": [
+    {
+      "companyID": "0054251",
+      "name": "Air France"
+    },
+    {
+      "companyID": "0145007",
+      "name": "Boutin Sanitary Services Inc."
+    },
+    {
+      "companyID": "0145008",
+      "name": "Brimaco Cycle Leathers"
+    },
+    {
+      "companyID": "0145009",
+      "name": "Cahill Lingerie"
+    },
+    {
+      "companyID": "0145010",
+      "name": "Carl Zeiss Canada Ltd."
+    },
+    {
+      "companyID": "0145011",
+      "name": "Clarke Transportation Ltd."
+    },
+    {
+      "companyID": "0145013",
+      "name": "Department of Transport Quebec"
+    },
+    {
+      "companyID": "0145014",
+      "name": "Empire Dehydrated Products"
+    },
+    {
+      "companyID": "0145015",
+      "name": "F.I.T.S. Ltd."
+    },
+    {
+      "companyID": "0145016",
+      "name": "Frito-Lay Canada"
+    },
+    {
+      "companyID": "0145017",
+      "name": "Helen Harper Sweaters"
+    },
+    {
+      "companyID": "0145018",
+      "name": "Hotel Meridien"
+    },
+    {
+      "companyID": "0145019",
+      "name": "Liberte Jeans Ltd."
+    },
+    {
+      "companyID": "0145020",
+      "name": "M.U.C.T.C."
+    },
+    {
+      "companyID": "0145021",
+      "name": "McGregor Clothes a division of S. Cohen Ltd."
+    },
+    {
+      "companyID": "0145022",
+      "name": "Melo Polystyrenes Ltd."
+    },
+    {
+      "companyID": "0145023",
+      "name": "Missy House Inc."
+    },
+    {
+      "companyID": "0145024",
+      "name": "Molyclaire Ltd."
+    },
+    {
+      "companyID": "0145025",
+      "name": "Notre Dame Hospital"
+    },
+    {
+      "companyID": "0145026",
+      "name": "S. Kuretsky Furs"
+    },
+    {
+      "companyID": "0145027",
+      "name": "The Cavendish Mall"
+    },
+    {
+      "companyID": "0130419",
+      "name": "The Coca-Cola Company"
+    },
+    {
+      "companyID": "0145028",
+      "name": "Uniroyal Ltd."
+    },
+    {
+      "companyID": "0145029",
+      "name": "Verdun Excavation Inc."
+    }
+  ]
+}

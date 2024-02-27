@@ -1,3 +1,958 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:752039ac4675e1470340baa74d88c2f09a97e7b893c3417ebd2311f75922d639
-size 19530
+{
+  "localized title": "Silkwood",
+  "cast": [
+    {
+      "personID": "0000658",
+      "name": "Meryl Streep",
+      "character": "Karen Silkwood"
+    },
+    {
+      "personID": "0000621",
+      "name": "Kurt Russell",
+      "character": "Drew Stephens"
+    },
+    {
+      "personID": "0000333",
+      "name": "Cher",
+      "character": "Dolly Pelliker"
+    },
+    {
+      "personID": "0005266",
+      "name": "Craig T. Nelson",
+      "character": "Winston"
+    },
+    {
+      "personID": "0769311",
+      "name": "Diana Scarwid",
+      "character": "Angela"
+    },
+    {
+      "personID": "0911542",
+      "name": "Fred Ward",
+      "character": "Morgan"
+    },
+    {
+      "personID": "0798779",
+      "name": "Ron Silver",
+      "character": "Paul Stone"
+    },
+    {
+      "personID": "0356251",
+      "name": "Charles Hallahan",
+      "character": "Earl Lapin"
+    },
+    {
+      "personID": "0813977",
+      "name": "Josef Sommer",
+      "character": "Max Richter"
+    },
+    {
+      "personID": "0094048",
+      "name": "Sudie Bond",
+      "character": "Thelma Rice"
+    },
+    {
+      "personID": "0287098",
+      "name": "Henderson Forsythe",
+      "character": "Quincy Bissell"
+    },
+    {
+      "personID": "0449684",
+      "name": "E. Katherine Kerr",
+      "character": "Gilda Schultz"
+    },
+    {
+      "personID": "0569226",
+      "name": "Bruce McGill",
+      "character": "Mace Hurley"
+    },
+    {
+      "personID": "0000657",
+      "name": "David Strathairn",
+      "character": "Wesley"
+    },
+    {
+      "personID": "0703862",
+      "name": "J.C. Quinn",
+      "character": "Curtis Schultz"
+    },
+    {
+      "personID": "0110398",
+      "name": "Kent Broadhurst",
+      "character": "Carl"
+    },
+    {
+      "personID": "0358118",
+      "name": "Richard Hamilton",
+      "character": "Georgie"
+    },
+    {
+      "personID": "0486985",
+      "name": "Les Lannom",
+      "character": "Jimmy"
+    },
+    {
+      "personID": "0001826",
+      "name": "M. Emmet Walsh",
+      "character": "Walt Yarborough"
+    },
+    {
+      "personID": "0419054",
+      "name": "Graham Jarvis",
+      "character": "Doctor at Union Meeting"
+    },
+    {
+      "personID": "0714310",
+      "name": "James Rebhorn",
+      "character": "Los Alamos Doctor"
+    },
+    {
+      "personID": "0048844",
+      "name": "Ray Baker",
+      "character": "Pete Dawson"
+    },
+    {
+      "personID": "0093999",
+      "name": "Michael Bond",
+      "character": "2nd Los Alamos Doctor"
+    },
+    {
+      "personID": "0167850",
+      "name": "Bill Cobbs",
+      "character": "Man in Lunchroom"
+    },
+    {
+      "personID": "0173445",
+      "name": "Norman Colvin",
+      "character": "Zachary"
+    },
+    {
+      "personID": "0186660",
+      "name": "Haskell Craver",
+      "character": "Ham"
+    },
+    {
+      "personID": "0212833",
+      "name": "Kathie Dean",
+      "character": "Stewardess"
+    },
+    {
+      "personID": "0344196",
+      "name": "Gary Grubbs",
+      "character": "Randy Fox"
+    },
+    {
+      "personID": "0567440",
+      "name": "Susan McDaniel",
+      "character": "Karen's Child"
+    },
+    {
+      "personID": "0378179",
+      "name": "Tana Hensley",
+      "character": "Karen's Child"
+    },
+    {
+      "personID": "0272938",
+      "name": "Anthony Fernandez",
+      "character": "Karen's Child"
+    },
+    {
+      "personID": "0363821",
+      "name": "Betty Harper",
+      "character": "May Bissell"
+    },
+    {
+      "personID": "0002128",
+      "name": "Tess Harper",
+      "character": "Linda Dawson"
+    },
+    {
+      "personID": "0372217",
+      "name": "Anthony Heald",
+      "character": "2nd Doctor at Union Meeting"
+    },
+    {
+      "personID": "0394476",
+      "name": "Nancy Hopton",
+      "character": "Nurse"
+    },
+    {
+      "personID": "0454487",
+      "name": "Betty King",
+      "character": "Nurse"
+    },
+    {
+      "personID": "0512345",
+      "name": "Dan Lindsey",
+      "character": "Man at Fence"
+    },
+    {
+      "personID": "0552536",
+      "name": "John Martin",
+      "character": "Man with Flashlight"
+    },
+    {
+      "personID": "0001599",
+      "name": "Will Patton",
+      "character": "Joe"
+    },
+    {
+      "personID": "0692324",
+      "name": "Vern Porter",
+      "character": "Bill Charlton"
+    },
+    {
+      "personID": "0768515",
+      "name": "Christopher Saylors",
+      "character": "Buddy"
+    },
+    {
+      "personID": "0805497",
+      "name": "Don Slatton",
+      "character": "Man in Moonsuit"
+    },
+    {
+      "personID": "0832915",
+      "name": "Tom Stovall",
+      "character": "3rd Los Alamos Doctor"
+    },
+    {
+      "personID": "0011671",
+      "name": "John Addington",
+      "character": "Airline passenger"
+    },
+    {
+      "personID": "0064769",
+      "name": "Jim Beaver",
+      "character": "Plant Manager"
+    },
+    {
+      "personID": "0165557",
+      "name": "Pamela Clay",
+      "character": "Woman in Bar"
+    }
+  ],
+  "genres": [
+    "Biography",
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "runtimes": [
+    "131"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "country codes": [
+    "us"
+  ],
+  "language codes": [
+    "en"
+  ],
+  "color info": [
+    "Color::(Technicolor)"
+  ],
+  "aspect ratio": "1.85 : 1",
+  "sound mix": [
+    "Mono"
+  ],
+  "box office": {
+    "Budget": "$10,000,000 (estimated)",
+    "Opening Weekend United States": "$1,218,322, 18 Dec 1983"
+  },
+  "certificates": [
+    "Argentina:18",
+    "Australia:M",
+    "Finland:K-12",
+    "Iceland:16",
+    "India:A",
+    "Ireland:15",
+    "Norway:16",
+    "Peru:18",
+    "Portugal:M/12",
+    "Singapore:NC-16",
+    "Spain:18",
+    "Sweden:11",
+    "United Kingdom:15",
+    "United States:R",
+    "West Germany:16"
+  ],
+  "original air date": "27 Jan 1984 (USA)",
+  "rating": 7.1,
+  "votes": 21165,
+  "cover url": "https://m.media-amazon.com/images/M/MV5BMGQ0N2U0YzMtNWIxYi00NWVhLWI3OTYtNTE5YjU0YTQwMGYxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg",
+  "imdbID": "0086312",
+  "videos": [
+    "http://www.imdb.com/title/tt0086312/videoplayer/vi918012185"
+  ],
+  "plot outline": "Fairly accurate recounting of the story of Karen Silkwood, the Oklahoma nuclear-plant worker who blew the whistle on dangerous practices at the Kerr-McGee plant and who died under circumstances which are still under debate. Karen Silkwood lives a free-spirited existence with two friends, Drew Stephens and Dolly Pelliker, who work with her at an Oklahoma nuclear facility. It's only when she discovers she has been exposed to radiation that Karen's conscience awakens, and soon she is digging for evidence of wrongdoing. But her sudden zeal for safer working conditions may come at a high price as she alienates friends...and possibly even puts her own life in peril.",
+  "languages": [
+    "English"
+  ],
+  "title": "Silkwood",
+  "year": 1983,
+  "kind": "movie",
+  "original title": "Silkwood",
+  "director": [
+    {
+      "personID": "0001566",
+      "name": "Mike Nichols",
+      "character": null
+    }
+  ],
+  "writer": [
+    {
+      "personID": "0001188",
+      "name": "Nora Ephron",
+      "character": null
+    },
+    {
+      "personID": "0035146",
+      "name": "Alice Arlen",
+      "character": null
+    }
+  ],
+  "producer": [
+    {
+      "personID": "0134330",
+      "name": "Larry Cano",
+      "character": null
+    },
+    {
+      "personID": "0369592",
+      "name": "Michael Hausman",
+      "character": null
+    },
+    {
+      "personID": "0386449",
+      "name": "Buzz Hirsch",
+      "character": null
+    },
+    {
+      "personID": "0001566",
+      "name": "Mike Nichols",
+      "character": null
+    },
+    {
+      "personID": "0832915",
+      "name": "Tom Stovall",
+      "character": null
+    },
+    {
+      "personID": "0875636",
+      "name": "Joel Tuber",
+      "character": null
+    }
+  ],
+  "composer": [
+    {
+      "personID": "0000016",
+      "name": "Georges Delerue",
+      "character": null
+    }
+  ],
+  "cinematographer": [
+    {
+      "personID": "0005816",
+      "name": "Miroslav Ondr\u00edcek",
+      "character": null
+    }
+  ],
+  "editor": [
+    {
+      "personID": "0642714",
+      "name": "Sam O'Steen",
+      "character": null
+    }
+  ],
+  "editorial department": [
+    {
+      "personID": "0293435",
+      "name": "Jeff Freeman",
+      "character": null
+    },
+    {
+      "personID": "0310077",
+      "name": "Leslie Gaulin",
+      "character": null
+    },
+    {
+      "personID": "0564851",
+      "name": "David McCann",
+      "character": null
+    },
+    {
+      "personID": "0615069",
+      "name": "John Murray",
+      "character": null
+    },
+    {
+      "personID": "0796913",
+      "name": "David Siegel",
+      "character": null
+    },
+    {
+      "personID": "0118665",
+      "name": "Norman Buckley",
+      "character": null
+    }
+  ],
+  "casting director": [
+    {
+      "personID": "0325263",
+      "name": "Mary Goldberg",
+      "character": null
+    }
+  ],
+  "production design": [
+    {
+      "personID": "0902038",
+      "name": "Patrizia von Brandenstein",
+      "character": null
+    }
+  ],
+  "art direction": [
+    {
+      "personID": "0416868",
+      "name": "Richard D. James",
+      "character": null
+    }
+  ],
+  "set decoration": [
+    {
+      "personID": "0384192",
+      "name": "Derek R. Hill",
+      "character": null
+    },
+    {
+      "personID": "0670198",
+      "name": "Dennis W. Peeples",
+      "character": null
+    }
+  ],
+  "costume designer": [
+    {
+      "personID": "0744778",
+      "name": "Ann Roth",
+      "character": null
+    }
+  ],
+  "make up": [
+    {
+      "personID": "0007710",
+      "name": "Silvia Abascal",
+      "character": null
+    },
+    {
+      "personID": "0375187",
+      "name": "J. Roy Helland",
+      "character": null
+    },
+    {
+      "personID": "0589923",
+      "name": "Bob Mills",
+      "character": null
+    },
+    {
+      "personID": "0670063",
+      "name": "Marina Pedraza",
+      "character": null
+    }
+  ],
+  "production manager": [
+    {
+      "personID": "0003673",
+      "name": "Richard Brick",
+      "character": null
+    },
+    {
+      "personID": "0420597",
+      "name": "Herb Jellinek",
+      "character": null
+    }
+  ],
+  "assistant director": [
+    {
+      "personID": "0369592",
+      "name": "Michael Hausman",
+      "character": null
+    },
+    {
+      "personID": "0875636",
+      "name": "Joel Tuber",
+      "character": null
+    }
+  ],
+  "art department": [
+    {
+      "personID": "0010138",
+      "name": "Joe Acord",
+      "character": null
+    },
+    {
+      "personID": "0106962",
+      "name": "Bradly E. Breitbarth",
+      "character": null
+    },
+    {
+      "personID": "0200859",
+      "name": "John Dapper",
+      "character": null
+    },
+    {
+      "personID": "0264534",
+      "name": "Mark Fabert",
+      "character": null
+    },
+    {
+      "personID": "0323644",
+      "name": "Russell Goble",
+      "character": null
+    },
+    {
+      "personID": "2165480",
+      "name": "Michael D. Murray",
+      "character": null
+    },
+    {
+      "personID": "0058653",
+      "name": "Tom Bartholomew",
+      "character": null
+    },
+    {
+      "personID": "0242577",
+      "name": "Glenn Dunn",
+      "character": null
+    },
+    {
+      "personID": "0313171",
+      "name": "Floyd Gentry",
+      "character": null
+    }
+  ],
+  "sound crew": [
+    {
+      "personID": "0022809",
+      "name": "Clint Althouse",
+      "character": null
+    },
+    {
+      "personID": "0090619",
+      "name": "Stan Bochner",
+      "character": null
+    },
+    {
+      "personID": "0281530",
+      "name": "Tom Fleischman",
+      "character": null
+    },
+    {
+      "personID": "0333025",
+      "name": "Randal A. Goya",
+      "character": null
+    },
+    {
+      "personID": "0430928",
+      "name": "Larry Jost",
+      "character": null
+    },
+    {
+      "personID": "0509413",
+      "name": "Stuart Lieberman",
+      "character": null
+    },
+    {
+      "personID": "0509424",
+      "name": "Dan Lieberstein",
+      "character": null
+    },
+    {
+      "personID": "0737129",
+      "name": "Philip Rogers",
+      "character": null
+    },
+    {
+      "personID": "0742213",
+      "name": "Fred Rosenberg",
+      "character": null
+    },
+    {
+      "personID": "0903459",
+      "name": "Dick Vorisek",
+      "character": null
+    },
+    {
+      "personID": "0645963",
+      "name": "Bob Olari",
+      "character": null
+    },
+    {
+      "personID": "0736842",
+      "name": "Donald C. Rogers",
+      "character": null
+    }
+  ],
+  "stunt performer": [
+    {
+      "personID": "0276499",
+      "name": "Randy Fife",
+      "character": null
+    },
+    {
+      "personID": "0666837",
+      "name": "Gary Paul",
+      "character": null
+    },
+    {
+      "personID": "0006441",
+      "name": "Dick Warlock",
+      "character": null
+    }
+  ],
+  "camera and electrical department": [
+    {
+      "personID": "0168704",
+      "name": "Greg Coelho",
+      "character": null
+    },
+    {
+      "personID": "0175539",
+      "name": "Robert Connors",
+      "character": null
+    },
+    {
+      "personID": "0319211",
+      "name": "Tom Gilligan",
+      "character": null
+    },
+    {
+      "personID": "0355353",
+      "name": "Bob Hall",
+      "character": null
+    },
+    {
+      "personID": "0395057",
+      "name": "Robert Horne",
+      "character": null
+    },
+    {
+      "personID": "0450110",
+      "name": "Billy Kerwick",
+      "character": null
+    },
+    {
+      "personID": "0548266",
+      "name": "Mary Ellen Mark",
+      "character": null
+    },
+    {
+      "personID": "0697357",
+      "name": "Tom Priestley Jr.",
+      "character": null
+    },
+    {
+      "personID": "0703730",
+      "name": "Richard Quinlan",
+      "character": null
+    },
+    {
+      "personID": "0703830",
+      "name": "Ed Quinn",
+      "character": null
+    },
+    {
+      "personID": "0714756",
+      "name": "Don Reddy",
+      "character": null
+    },
+    {
+      "personID": "0721613",
+      "name": "Brian H. Reynolds",
+      "character": null
+    },
+    {
+      "personID": "0726931",
+      "name": "Kerry Rike",
+      "character": null
+    },
+    {
+      "personID": "0742837",
+      "name": "Zade Rosenthal",
+      "character": null
+    }
+  ],
+  "casting department": [
+    {
+      "personID": "1719052",
+      "name": "Joan Sauers",
+      "character": null
+    }
+  ],
+  "location management": [
+    {
+      "personID": "0562598",
+      "name": "Lee R. Mayes",
+      "character": null
+    }
+  ],
+  "music department": [
+    {
+      "personID": "0000016",
+      "name": "Georges Delerue",
+      "character": null
+    },
+    {
+      "personID": "0280657",
+      "name": "Jack Fitzstephens",
+      "character": null
+    },
+    {
+      "personID": "0006290",
+      "name": "Howard Shore",
+      "character": null
+    }
+  ],
+  "script department": [
+    {
+      "personID": "0772410",
+      "name": "Marshall Schlom",
+      "character": null
+    }
+  ],
+  "transportation department": [
+    {
+      "personID": "0285214",
+      "name": "James E. Foote",
+      "character": null
+    },
+    {
+      "personID": "1224508",
+      "name": "Jack Mounger",
+      "character": null
+    },
+    {
+      "personID": "0833698",
+      "name": "Andy Straub",
+      "character": null
+    }
+  ],
+  "miscellaneous crew": [
+    {
+      "personID": "1140524",
+      "name": "John Anderson",
+      "character": null
+    },
+    {
+      "personID": "0184465",
+      "name": "Lynn Covey",
+      "character": null
+    },
+    {
+      "personID": "0277856",
+      "name": "Stuart Fink",
+      "character": null
+    },
+    {
+      "personID": "3822401",
+      "name": "Karen A. Hall",
+      "character": null
+    },
+    {
+      "personID": "1502754",
+      "name": "Cathy Hausman",
+      "character": null
+    },
+    {
+      "personID": "0462346",
+      "name": "Karen Koch",
+      "character": null
+    },
+    {
+      "personID": "0534056",
+      "name": "Susan MacNair",
+      "character": null
+    },
+    {
+      "personID": "0557323",
+      "name": "John F. Massie",
+      "character": null
+    },
+    {
+      "personID": "0774957",
+      "name": "Mark Schotte",
+      "character": null
+    },
+    {
+      "personID": "2962775",
+      "name": "Tom Styron",
+      "character": null
+    },
+    {
+      "personID": "0157539",
+      "name": "Mike Childress",
+      "character": null
+    }
+  ],
+  "akas": [
+    "Karen Silkwood (United States)",
+    "The Karen Silkwood Story (United States)",
+    "Karen Silkwood 1946-1974 (United States)",
+    "Chain Reaction (United States)",
+    "Le myst\u00e8re Silkwood (France)"
+  ],
+  "production companies": [
+    {
+      "companyID": "0044833",
+      "name": "ABC Motion Pictures"
+    },
+    {
+      "companyID": "0641809",
+      "name": "ABC Motion Pictures"
+    }
+  ],
+  "distributors": [
+    {
+      "companyID": "0000756",
+      "name": "Twentieth Century Fox"
+    },
+    {
+      "companyID": "0040156",
+      "name": "Rank Film Distributors"
+    },
+    {
+      "companyID": "0006451",
+      "name": "Roadshow Home Video"
+    },
+    {
+      "companyID": "0072972",
+      "name": "Aries Cinematogr\u00e1fica Argentina"
+    },
+    {
+      "companyID": "0051881",
+      "name": "Concorde Film"
+    },
+    {
+      "companyID": "0029714",
+      "name": "Europa Film"
+    },
+    {
+      "companyID": "0550223",
+      "name": "Fram Film"
+    },
+    {
+      "companyID": "0058792",
+      "name": "Roadshow Films"
+    },
+    {
+      "companyID": "0042482",
+      "name": "Scotia International Filmverleih"
+    },
+    {
+      "companyID": "0086452",
+      "name": "Herald Ace"
+    },
+    {
+      "companyID": "0037052",
+      "name": "American Broadcasting Company (ABC)"
+    },
+    {
+      "companyID": "0052747",
+      "name": "Pioneer"
+    },
+    {
+      "companyID": "0156538",
+      "name": "Summa Video"
+    },
+    {
+      "companyID": "0013585",
+      "name": "Image Entertainment"
+    },
+    {
+      "companyID": "0067793",
+      "name": "Anchor Bay Entertainment"
+    },
+    {
+      "companyID": "0067793",
+      "name": "Anchor Bay Entertainment"
+    },
+    {
+      "companyID": "0041475",
+      "name": "EuroVideo"
+    },
+    {
+      "companyID": "0024325",
+      "name": "Dutch FilmWorks (DFW)"
+    },
+    {
+      "companyID": "0015461",
+      "name": "MGM Home Entertainment"
+    },
+    {
+      "companyID": "0798381",
+      "name": "National Film Development Corporation"
+    },
+    {
+      "companyID": "0038548",
+      "name": "Algemene Vereniging Radio Omroep (AVRO)"
+    },
+    {
+      "companyID": "0233366",
+      "name": "JVC Entertainment"
+    },
+    {
+      "companyID": "0199296",
+      "name": "Kadokawa Entertainment"
+    },
+    {
+      "companyID": "0291948",
+      "name": "Kino Lorber"
+    },
+    {
+      "companyID": "0291948",
+      "name": "Kino Lorber"
+    },
+    {
+      "companyID": "0211950",
+      "name": "NHK S\u00f4g\u00f4"
+    },
+    {
+      "companyID": "0347055",
+      "name": "Rai Movie"
+    },
+    {
+      "companyID": "0037200",
+      "name": "Transv\u00eddeo"
+    },
+    {
+      "companyID": "0061915",
+      "name": "Victor Entertainment"
+    },
+    {
+      "companyID": "0357598",
+      "name": "Videomax"
+    },
+    {
+      "companyID": "0021311",
+      "name": "marketing-film"
+    }
+  ],
+  "other companies": [
+    {
+      "companyID": "0190210",
+      "name": "International Alliance of Theatrical Stage Employees (IATSE)"
+    },
+    {
+      "companyID": "0072943",
+      "name": "R/Greenberg Associates"
+    },
+    {
+      "companyID": "0025465",
+      "name": "The Optical House"
+    },
+    {
+      "companyID": "0017459",
+      "name": "Var\u00e8se Sarabande"
+    }
+  ]
+}

@@ -1,3 +1,2585 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bd18231c51c4dcb72bcde982577cfbe66789b7d08b79b6e849fae0dabb57a5d1
-size 51136
+{
+  "localized title": "Heavy Metal",
+  "cast": [
+    {
+      "personID": "0290475",
+      "name": "Don Francks"
+    },
+    {
+      "personID": "0760098",
+      "name": "Caroline Semple",
+      "character": "Girl"
+    },
+    {
+      "personID": "0739087",
+      "name": "Richard Romanus",
+      "character": "Harry Canyon"
+    },
+    {
+      "personID": "0738751",
+      "name": "Susan Roman"
+    },
+    {
+      "personID": "0915382",
+      "name": "Al Waxman",
+      "character": "Rudnick"
+    },
+    {
+      "personID": "0014873",
+      "name": "Harvey Atkin"
+    },
+    {
+      "personID": "0001006",
+      "name": "John Candy"
+    },
+    {
+      "personID": "0343375",
+      "name": "Glenis Wootton Gross",
+      "character": "Whore"
+    },
+    {
+      "personID": "0510032",
+      "name": "Marilyn Lightstone"
+    },
+    {
+      "personID": "0123201",
+      "name": "Jackie Burroughs",
+      "character": "Katherine"
+    },
+    {
+      "personID": "0492275",
+      "name": "Martin Lavut",
+      "character": "Ard"
+    },
+    {
+      "personID": "0770763",
+      "name": "August Schellenberg"
+    },
+    {
+      "personID": "0006893",
+      "name": "John Vernon",
+      "character": "Prosecutor"
+    },
+    {
+      "personID": "0506405",
+      "name": "Eugene Levy"
+    },
+    {
+      "personID": "0280886",
+      "name": "Joe Flaherty"
+    },
+    {
+      "personID": "0120309",
+      "name": "Rodger Bumpass"
+    },
+    {
+      "personID": "0448469",
+      "name": "Douglas Kenney",
+      "character": "Regolian"
+    },
+    {
+      "personID": "0869548",
+      "name": "George Touliatos"
+    },
+    {
+      "personID": "0946255",
+      "name": "Zal Yanovsky"
+    },
+    {
+      "personID": "0245441",
+      "name": "Patty Freedman",
+      "character": "Woman Reporter"
+    },
+    {
+      "personID": "0613240",
+      "name": "Warren Munson",
+      "character": "Senator"
+    },
+    {
+      "personID": "0687029",
+      "name": "Alice Playten",
+      "character": "Gloria"
+    },
+    {
+      "personID": "0000601",
+      "name": "Harold Ramis",
+      "character": "Zeke"
+    },
+    {
+      "personID": "0903985",
+      "name": "Vlasta Vrana",
+      "character": "Barbarian Leader"
+    },
+    {
+      "personID": "0601603",
+      "name": "Mavor Moore",
+      "character": "Elder"
+    },
+    {
+      "personID": "0084225",
+      "name": "Thor Bishopric",
+      "character": "Boy"
+    },
+    {
+      "personID": "0232338",
+      "name": "Len Doncheff",
+      "character": "Barbarian"
+    },
+    {
+      "personID": "0807649",
+      "name": "Cedric Smith",
+      "character": "Bartender"
+    },
+    {
+      "personID": "0326550",
+      "name": "Joseph Golland",
+      "character": "Councilman"
+    },
+    {
+      "personID": "0427173",
+      "name": "Charles Jolliffe",
+      "character": "Councilman"
+    },
+    {
+      "personID": "0174853",
+      "name": "Ned Conlon",
+      "character": "Councilman"
+    },
+    {
+      "personID": "1119475",
+      "name": "Robby the Robot",
+      "character": "Hot Dog Vendor"
+    },
+    {
+      "personID": "0735471",
+      "name": "Percy Rodrigues",
+      "character": "Loknar"
+    }
+  ],
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "runtimes": [
+    "86"
+  ],
+  "countries": [
+    "Canada",
+    "United Kingdom",
+    "United States"
+  ],
+  "country codes": [
+    "ca",
+    "gb",
+    "us"
+  ],
+  "language codes": [
+    "en"
+  ],
+  "color info": [
+    "Color"
+  ],
+  "aspect ratio": "1.37 : 1 (original ratio)",
+  "sound mix": [
+    "Dolby Stereo",
+    "Dolby Atmos",
+    "Dolby Digital"
+  ],
+  "box office": {
+    "Budget": "$9,300,000 (estimated)"
+  },
+  "certificates": [
+    "Argentina:18",
+    "Australia:M",
+    "Australia:MA",
+    "Brazil:18",
+    "Canada:18A",
+    "Canada:18A::(British Columbia)",
+    "Canada:PA::(Manitoba)",
+    "Canada:R::(Nova Scotia)",
+    "Canada:AA::(Ontario)",
+    "Canada:13+::(Quebec)",
+    "Canada:14A::(Alberta)",
+    "Chile:14",
+    "Denmark:15",
+    "Finland:K-16",
+    "France:Tous publics",
+    "France:12::(blu-ray)",
+    "Germany:16",
+    "Iceland:12",
+    "India:A::(Bombay)",
+    "Ireland:15::(Blu-ray)",
+    "Ireland:18::(DVD/UMD)",
+    "Italy:VM14",
+    "Japan:R18+",
+    "Japan:16+::(self-applied)",
+    "Mexico:B15",
+    "Netherlands:16",
+    "Netherlands:12",
+    "New Zealand:R16",
+    "Nigeria:15",
+    "Norway:18",
+    "Philippines:R-18",
+    "Poland:15::(self-applied)",
+    "Saudi Arabia:R15",
+    "Singapore:M18",
+    "South Africa:13::(L,S)",
+    "South Korea:18",
+    "Spain:16",
+    "Sweden:15",
+    "United Kingdom:AA",
+    "United Kingdom:15::(video)",
+    "United States:R",
+    "United Arab Emirates:Not Rated",
+    "West Germany:16"
+  ],
+  "original air date": "07 Aug 1981 (USA)",
+  "rating": 6.6,
+  "votes": 36454,
+  "cover url": "https://m.media-amazon.com/images/M/MV5BOTc2NzM1ODgtM2RkYi00M2U4LWE4NzEtMDMzZGUzYmI1ZDUzL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX101_CR0,0,101,150_.jpg",
+  "imdbID": "0082509",
+  "videos": [
+    "http://www.imdb.com/title/tt0082509/videoplayer/vi4004249881",
+    "http://www.imdb.com/title/tt0082509/videoplayer/vi2695627033"
+  ],
+  "plot outline": "As Loc-Nar, a pulsating green orb from deep space, finds its way into the Earth, a multifaceted story of cosmic malice that transcends the strict boundaries of our universe unfolds. No one knows the origin of the floating crystalline sphere; however, all those who have encountered mystical Loc-Nar--men and women across galaxies and dimensions--have fallen prey to the corrosive power of the ancient, green-hued entity. As the tentacles of the parasitic intergalactic force spread across time and space, the question remains. Who can stand in the way of pure evil? Will a noble defender answer humankind's urgent call for help?",
+  "languages": [
+    "English"
+  ],
+  "title": "Heavy Metal",
+  "year": 1981,
+  "kind": "movie",
+  "original title": "Heavy Metal",
+  "director": [
+    {
+      "personID": "0693376",
+      "name": "Gerald Potterton",
+      "character": null
+    },
+    {
+      "personID": "0116497",
+      "name": "John Bruno",
+      "character": null
+    },
+    {
+      "personID": "0354691",
+      "name": "John Halas",
+      "character": null
+    },
+    {
+      "personID": "0844301",
+      "name": "Julian Harris",
+      "character": null
+    },
+    {
+      "personID": "0613471",
+      "name": "Jimmy T. Murakami",
+      "character": null
+    },
+    {
+      "personID": "0625166",
+      "name": "Barrie Nelson",
+      "character": null
+    },
+    {
+      "personID": "0754678",
+      "name": "Paul Sabella",
+      "character": null
+    },
+    {
+      "personID": "0831349",
+      "name": "Jack Stokes",
+      "character": null
+    },
+    {
+      "personID": "0887351",
+      "name": "Pino Van Lamsweerde",
+      "character": null
+    },
+    {
+      "personID": "0924266",
+      "name": "Harold Whitaker",
+      "character": null
+    }
+  ],
+  "writer": [
+    {
+      "personID": "0325175",
+      "name": "Daniel Goldberg",
+      "character": null
+    },
+    {
+      "personID": "0089676",
+      "name": "Len Blum",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "0639321",
+      "name": "Dan O'Bannon",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "0325175",
+      "name": "Daniel Goldberg",
+      "character": null
+    },
+    {
+      "personID": "0089676",
+      "name": "Len Blum",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "0179120",
+      "name": "Richard Corben",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "0942951",
+      "name": "Bernie Wrightson",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "0639321",
+      "name": "Dan O'Bannon",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "0571729",
+      "name": "Angus McKie",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "0325175",
+      "name": "Daniel Goldberg",
+      "character": null
+    },
+    {
+      "personID": "0089676",
+      "name": "Len Blum",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "0320786",
+      "name": "Jean 'Moebius' Giraud",
+      "character": null
+    }
+  ],
+  "producer": [
+    {
+      "personID": "0040810",
+      "name": "Vic Atkinson",
+      "character": null
+    },
+    {
+      "personID": "0167641",
+      "name": "John Coates",
+      "character": null
+    },
+    {
+      "personID": "0343453",
+      "name": "Michael C. Gross",
+      "character": null
+    },
+    {
+      "personID": "0354691",
+      "name": "John Halas",
+      "character": null
+    },
+    {
+      "personID": "7525535",
+      "name": "Richard Hawley",
+      "character": null
+    },
+    {
+      "personID": "1598180",
+      "name": "Jerry Hibbert",
+      "character": null
+    },
+    {
+      "personID": "0495602",
+      "name": "Peter Lebensold",
+      "character": null
+    },
+    {
+      "personID": "0595706",
+      "name": "Leonard Mogel",
+      "character": null
+    },
+    {
+      "personID": "0626429",
+      "name": "Larry Nesis",
+      "character": null
+    },
+    {
+      "personID": "0718645",
+      "name": "Ivan Reitman",
+      "character": null
+    },
+    {
+      "personID": "0828213",
+      "name": "W.H. Stevens Jr.",
+      "character": null
+    }
+  ],
+  "composer": [
+    {
+      "personID": "0000930",
+      "name": "Elmer Bernstein",
+      "character": null
+    }
+  ],
+  "editor": [
+    {
+      "personID": "0515649",
+      "name": "Ian Llande",
+      "character": null
+    },
+    {
+      "personID": "0543340",
+      "name": "Mick Manning",
+      "character": null
+    },
+    {
+      "personID": "0873089",
+      "name": "Gerald Tripp",
+      "character": null
+    }
+  ],
+  "editorial department": [
+    {
+      "personID": "0034793",
+      "name": "Peter Aries",
+      "character": null
+    },
+    {
+      "personID": "0113792",
+      "name": "Janice Brown",
+      "character": null
+    },
+    {
+      "personID": "0124251",
+      "name": "Jeff Bushelman",
+      "character": null
+    },
+    {
+      "personID": "0128224",
+      "name": "Thomas Cadieux",
+      "character": null
+    },
+    {
+      "personID": "3027477",
+      "name": "Marc Kaskouski",
+      "character": null
+    },
+    {
+      "personID": "0506454",
+      "name": "Jason Levy",
+      "character": null
+    },
+    {
+      "personID": "0749462",
+      "name": "Eva Ruggiero",
+      "character": null
+    },
+    {
+      "personID": "0867485",
+      "name": "Gary Toole",
+      "character": null
+    }
+  ],
+  "production design": [
+    {
+      "personID": "0343453",
+      "name": "Michael C. Gross",
+      "character": null
+    }
+  ],
+  "art direction": [
+    {
+      "personID": "0310561",
+      "name": "Pat Gavin",
+      "character": null
+    }
+  ],
+  "production manager": [
+    {
+      "personID": "0025823",
+      "name": "Dominic Anciano",
+      "character": null
+    },
+    {
+      "personID": "3026495",
+      "name": "Francis Gallagher",
+      "character": null
+    },
+    {
+      "personID": "1918777",
+      "name": "Valerie Gifford",
+      "character": null
+    },
+    {
+      "personID": "0325175",
+      "name": "Daniel Goldberg",
+      "character": null
+    },
+    {
+      "personID": "11884877",
+      "name": "Andrew Grynn",
+      "character": null
+    },
+    {
+      "personID": "0438148",
+      "name": "Susan Kapigian",
+      "character": null
+    },
+    {
+      "personID": "1201692",
+      "name": "Jack King",
+      "character": null
+    },
+    {
+      "personID": "0488476",
+      "name": "Christine Larocque",
+      "character": null
+    },
+    {
+      "personID": "3026771",
+      "name": "Philip Lynch",
+      "character": null
+    },
+    {
+      "personID": "3026646",
+      "name": "Elizabeth Murdoch",
+      "character": null
+    },
+    {
+      "personID": "2655521",
+      "name": "Bob Yuile",
+      "character": null
+    }
+  ],
+  "assistant director": [
+    {
+      "personID": "2655521",
+      "name": "Bob Yuile",
+      "character": null
+    },
+    {
+      "personID": "7525535",
+      "name": "Richard Hawley",
+      "character": null
+    }
+  ],
+  "art department": [
+    {
+      "personID": "1691384",
+      "name": "Chris Achilleos",
+      "character": null
+    },
+    {
+      "personID": "0011240",
+      "name": "Neal Adams",
+      "character": null
+    },
+    {
+      "personID": "0090221",
+      "name": "Brent Boates",
+      "character": null
+    },
+    {
+      "personID": "2682283",
+      "name": "Christian B\u00e9nard",
+      "character": null
+    },
+    {
+      "personID": "0154674",
+      "name": "Howard Chaykin",
+      "character": null
+    },
+    {
+      "personID": "0175160",
+      "name": "Kurt Conner",
+      "character": null
+    },
+    {
+      "personID": "0179120",
+      "name": "Richard Corben",
+      "character": null
+    },
+    {
+      "personID": "0233768",
+      "name": "John Dorman",
+      "character": null
+    },
+    {
+      "personID": "0309721",
+      "name": "Jeffrey Gatrall",
+      "character": null
+    },
+    {
+      "personID": "0319207",
+      "name": "Rusty Gilligan",
+      "character": null
+    },
+    {
+      "personID": "0319865",
+      "name": "Juan Gim\u00e9nez",
+      "character": null
+    },
+    {
+      "personID": "2970455",
+      "name": "J.S. Goert",
+      "character": null
+    },
+    {
+      "personID": "0416308",
+      "name": "Blake James",
+      "character": null
+    },
+    {
+      "personID": "0479407",
+      "name": "Sherman Labby",
+      "character": null
+    },
+    {
+      "personID": "0488264",
+      "name": "Brian Larkin",
+      "character": null
+    },
+    {
+      "personID": "0571729",
+      "name": "Angus McKie",
+      "character": null
+    },
+    {
+      "personID": "0592767",
+      "name": "Lee Mishkin",
+      "character": null
+    },
+    {
+      "personID": "0636404",
+      "name": "Phillip Norwood",
+      "character": null
+    },
+    {
+      "personID": "0687396",
+      "name": "Michael G. Ploog",
+      "character": null
+    },
+    {
+      "personID": "0851789",
+      "name": "Alex Tavoularis",
+      "character": null
+    },
+    {
+      "personID": "0875879",
+      "name": "Hank Tucker",
+      "character": null
+    },
+    {
+      "personID": "0877008",
+      "name": "Ira Turek",
+      "character": null
+    },
+    {
+      "personID": "0881089",
+      "name": "George Ungar",
+      "character": null
+    },
+    {
+      "personID": "0912293",
+      "name": "Thomas Warkentin",
+      "character": null
+    },
+    {
+      "personID": "0924266",
+      "name": "Harold Whitaker",
+      "character": null
+    },
+    {
+      "personID": "1048839",
+      "name": "Charles White III",
+      "character": null
+    },
+    {
+      "personID": "0942951",
+      "name": "Bernie Wrightson",
+      "character": null
+    },
+    {
+      "personID": "0170508",
+      "name": "Corny Cole",
+      "character": null
+    }
+  ],
+  "sound crew": [
+    {
+      "personID": "0157090",
+      "name": "Marc Chiasson",
+      "character": null
+    },
+    {
+      "personID": "0187025",
+      "name": "Rod Crawley",
+      "character": null
+    },
+    {
+      "personID": "0342100",
+      "name": "Austin Grimaldi",
+      "character": null
+    },
+    {
+      "personID": "0342122",
+      "name": "Joe Grimaldi",
+      "character": null
+    },
+    {
+      "personID": "3027406",
+      "name": "Joanne Hovey",
+      "character": null
+    },
+    {
+      "personID": "0421980",
+      "name": "Peter Jermyn",
+      "character": null
+    },
+    {
+      "personID": "0539085",
+      "name": "Andy Malcolm",
+      "character": null
+    },
+    {
+      "personID": "0564405",
+      "name": "Peter McBurnie",
+      "character": null
+    },
+    {
+      "personID": "0715728",
+      "name": "Tony Reed",
+      "character": null
+    },
+    {
+      "personID": "0745486",
+      "name": "Nick Rotundo",
+      "character": null
+    },
+    {
+      "personID": "0858129",
+      "name": "Peter Thillaye",
+      "character": null
+    },
+    {
+      "personID": "0860178",
+      "name": "Gord Thompson",
+      "character": null
+    },
+    {
+      "personID": "0924719",
+      "name": "Don White",
+      "character": null
+    }
+  ],
+  "special effects": [
+    {
+      "personID": "0421980",
+      "name": "Peter Jermyn",
+      "character": null
+    }
+  ],
+  "visual effects": [
+    {
+      "personID": "3027884",
+      "name": "Jerry L. Allen",
+      "character": null
+    },
+    {
+      "personID": "3027708",
+      "name": "Judy Allen",
+      "character": null
+    },
+    {
+      "personID": "3026937",
+      "name": "Terry Allen",
+      "character": null
+    },
+    {
+      "personID": "3026974",
+      "name": "Don Amundson",
+      "character": null
+    },
+    {
+      "personID": "0040675",
+      "name": "Barry Atkinson",
+      "character": null
+    },
+    {
+      "personID": "2655814",
+      "name": "Lee Atkinson",
+      "character": null
+    },
+    {
+      "personID": "1017556",
+      "name": "Lisa Atkinson",
+      "character": null
+    },
+    {
+      "personID": "0044124",
+      "name": "Rodolfo Azaro",
+      "character": null
+    },
+    {
+      "personID": "2352698",
+      "name": "Brian Borthwick",
+      "character": null
+    },
+    {
+      "personID": "0116497",
+      "name": "John Bruno",
+      "character": null
+    },
+    {
+      "personID": "0183559",
+      "name": "Gordon Coulthart",
+      "character": null
+    },
+    {
+      "personID": "2658046",
+      "name": "Mick Crane",
+      "character": null
+    },
+    {
+      "personID": "0245753",
+      "name": "Lee Dyer",
+      "character": null
+    },
+    {
+      "personID": "2112878",
+      "name": "Vance Frederick",
+      "character": null
+    },
+    {
+      "personID": "0298754",
+      "name": "Alex Funke",
+      "character": null
+    },
+    {
+      "personID": "2418605",
+      "name": "Dale Herigstad",
+      "character": null
+    },
+    {
+      "personID": "3027280",
+      "name": "Wayne Kimball",
+      "character": null
+    },
+    {
+      "personID": "0503425",
+      "name": "John Leprovost",
+      "character": null
+    },
+    {
+      "personID": "0595474",
+      "name": "Michele Moen",
+      "character": null
+    },
+    {
+      "personID": "0603389",
+      "name": "Harry Moreau",
+      "character": null
+    },
+    {
+      "personID": "0604895",
+      "name": "Max Morgan",
+      "character": null
+    },
+    {
+      "personID": "0627472",
+      "name": "Rex Neville",
+      "character": null
+    },
+    {
+      "personID": "2158938",
+      "name": "Peter Petronio",
+      "character": null
+    },
+    {
+      "personID": "0680908",
+      "name": "Philip Phillipson",
+      "character": null
+    },
+    {
+      "personID": "1646364",
+      "name": "Arthur Provis",
+      "character": null
+    },
+    {
+      "personID": "0769654",
+      "name": "Robert Schaefer",
+      "character": null
+    },
+    {
+      "personID": "3026638",
+      "name": "Gregory Schafer",
+      "character": null
+    },
+    {
+      "personID": "0783873",
+      "name": "Eric Semones",
+      "character": null
+    },
+    {
+      "personID": "3026885",
+      "name": "Scott Sinclair",
+      "character": null
+    },
+    {
+      "personID": "0854079",
+      "name": "Jay Teitzell",
+      "character": null
+    },
+    {
+      "personID": "3027910",
+      "name": "Tim Tondreault",
+      "character": null
+    },
+    {
+      "personID": "1017556",
+      "name": "Lisa Atkinson",
+      "character": null
+    },
+    {
+      "personID": "0050896",
+      "name": "Ben Ballon",
+      "character": null
+    },
+    {
+      "personID": "1076458",
+      "name": "Christopher Dusendschon",
+      "character": null
+    }
+  ],
+  "camera and electrical department": [
+    {
+      "personID": "0064509",
+      "name": "Andr\u00e9 Beaulieu",
+      "character": null
+    },
+    {
+      "personID": "1135460",
+      "name": "Peter Bromley",
+      "character": null
+    },
+    {
+      "personID": "3027749",
+      "name": "Peter Brown",
+      "character": null
+    },
+    {
+      "personID": "3026579",
+      "name": "Mich\u00e8le Carrier",
+      "character": null
+    },
+    {
+      "personID": "3027525",
+      "name": "Gabriel Caya",
+      "character": null
+    },
+    {
+      "personID": "2437095",
+      "name": "Peter Jones",
+      "character": null
+    },
+    {
+      "personID": "0486606",
+      "name": "Serge Langlois",
+      "character": null
+    },
+    {
+      "personID": "0487533",
+      "name": "Claude Lapierre",
+      "character": null
+    },
+    {
+      "personID": "0513875",
+      "name": "Warren Lipton",
+      "character": null
+    },
+    {
+      "personID": "0650654",
+      "name": "Graham Orrin",
+      "character": null
+    },
+    {
+      "personID": "2158938",
+      "name": "Peter Petronio",
+      "character": null
+    },
+    {
+      "personID": "3027660",
+      "name": "Richard Potterton",
+      "character": null
+    },
+    {
+      "personID": "0732150",
+      "name": "Jean Robillard",
+      "character": null
+    },
+    {
+      "personID": "0877804",
+      "name": "Peter Turner",
+      "character": null
+    },
+    {
+      "personID": "0886320",
+      "name": "Paul Van der Linden",
+      "character": null
+    },
+    {
+      "personID": "0938313",
+      "name": "Richard Wolff",
+      "character": null
+    },
+    {
+      "personID": "0186943",
+      "name": "Robert Edward Crawford",
+      "character": null
+    },
+    {
+      "personID": "0263144",
+      "name": "Ray Evans",
+      "character": null
+    },
+    {
+      "personID": "0354290",
+      "name": "Ron Haines",
+      "character": null
+    }
+  ],
+  "animation department": [
+    {
+      "personID": "0008462",
+      "name": "Jos\u00e9 Abel",
+      "character": null
+    },
+    {
+      "personID": "0027556",
+      "name": "Viki Anderson",
+      "character": null
+    },
+    {
+      "personID": "0031495",
+      "name": "Danny Antonucci",
+      "character": null
+    },
+    {
+      "personID": "0040675",
+      "name": "Barry Atkinson",
+      "character": null
+    },
+    {
+      "personID": "2655814",
+      "name": "Lee Atkinson",
+      "character": null
+    },
+    {
+      "personID": "0040810",
+      "name": "Vic Atkinson",
+      "character": null
+    },
+    {
+      "personID": "0996406",
+      "name": "Hilary Audus",
+      "character": null
+    },
+    {
+      "personID": "13210428",
+      "name": "Carlos Lillo Baeza",
+      "character": null
+    },
+    {
+      "personID": "0048347",
+      "name": "Colin Baker",
+      "character": null
+    },
+    {
+      "personID": "0051135",
+      "name": "Robert Balser",
+      "character": null
+    },
+    {
+      "personID": "2969220",
+      "name": "Michael Bannon",
+      "character": null
+    },
+    {
+      "personID": "2648785",
+      "name": "Jean Bello",
+      "character": null
+    },
+    {
+      "personID": "0078887",
+      "name": "Alan Best",
+      "character": null
+    },
+    {
+      "personID": "2877401",
+      "name": "Alexandra Bex",
+      "character": null
+    },
+    {
+      "personID": "2969445",
+      "name": "Christiane Bissonnette",
+      "character": null
+    },
+    {
+      "personID": "2847621",
+      "name": "Phyllis Blumenfeld",
+      "character": null
+    },
+    {
+      "personID": "0090221",
+      "name": "Brent Boates",
+      "character": null
+    },
+    {
+      "personID": "2965054",
+      "name": "Andrew Breen",
+      "character": null
+    },
+    {
+      "personID": "0107892",
+      "name": "Michel Breton",
+      "character": null
+    },
+    {
+      "personID": "0995157",
+      "name": "Kevin Brownie",
+      "character": null
+    },
+    {
+      "personID": "0116497",
+      "name": "John Bruno",
+      "character": null
+    },
+    {
+      "personID": "0117101",
+      "name": "Errol Bryant",
+      "character": null
+    },
+    {
+      "personID": "0125356",
+      "name": "Sue Butterworth",
+      "character": null
+    },
+    {
+      "personID": "2682283",
+      "name": "Christian B\u00e9nard",
+      "character": null
+    },
+    {
+      "personID": "1788238",
+      "name": "Roland Carter",
+      "character": null
+    },
+    {
+      "personID": "0145117",
+      "name": "Kathi Castillo",
+      "character": null
+    },
+    {
+      "personID": "1341314",
+      "name": "Anne Chevalier",
+      "character": null
+    },
+    {
+      "personID": "0157092",
+      "name": "Roger Chiasson",
+      "character": null
+    },
+    {
+      "personID": "2845490",
+      "name": "Chris Chu",
+      "character": null
+    },
+    {
+      "personID": "0161444",
+      "name": "Joan Churchill",
+      "character": null
+    },
+    {
+      "personID": "4875449",
+      "name": "Scott Claus",
+      "character": null
+    },
+    {
+      "personID": "0165968",
+      "name": "Vanessa Clegg",
+      "character": null
+    },
+    {
+      "personID": "2655451",
+      "name": "Jim Cleland",
+      "character": null
+    },
+    {
+      "personID": "0166355",
+      "name": "Bobby Clennell",
+      "character": null
+    },
+    {
+      "personID": "0167916",
+      "name": "Hester Coblentz",
+      "character": null
+    },
+    {
+      "personID": "2673800",
+      "name": "Richard Coleman",
+      "character": null
+    },
+    {
+      "personID": "0175160",
+      "name": "Kurt Conner",
+      "character": null
+    },
+    {
+      "personID": "0183559",
+      "name": "Gordon Coulthart",
+      "character": null
+    },
+    {
+      "personID": "0184024",
+      "name": "John Cousen",
+      "character": null
+    },
+    {
+      "personID": "1112359",
+      "name": "Paul Cowen",
+      "character": null
+    },
+    {
+      "personID": "2969649",
+      "name": "John Cox",
+      "character": null
+    },
+    {
+      "personID": "0185209",
+      "name": "Rich Cox",
+      "character": null
+    },
+    {
+      "personID": "0185821",
+      "name": "Dan Craig",
+      "character": null
+    },
+    {
+      "personID": "2755007",
+      "name": "Ian Craig",
+      "character": null
+    },
+    {
+      "personID": "0185982",
+      "name": "Phyllis Craig",
+      "character": null
+    },
+    {
+      "personID": "8274032",
+      "name": "Doug Crane",
+      "character": null
+    },
+    {
+      "personID": "2969701",
+      "name": "Jane Jurasek Currie",
+      "character": null
+    },
+    {
+      "personID": "0202029",
+      "name": "Ray daSilva",
+      "character": null
+    },
+    {
+      "personID": "0203465",
+      "name": "Retta Davidson",
+      "character": null
+    },
+    {
+      "personID": "2969275",
+      "name": "Daniel de Niger",
+      "character": null
+    },
+    {
+      "personID": "0207955",
+      "name": "Daniel DeCelles",
+      "character": null
+    },
+    {
+      "personID": "0219268",
+      "name": "Bernie Denk",
+      "character": null
+    },
+    {
+      "personID": "2956249",
+      "name": "Joanne Disensi",
+      "character": null
+    },
+    {
+      "personID": "0233768",
+      "name": "John Dorman",
+      "character": null
+    },
+    {
+      "personID": "0236159",
+      "name": "Charlie Downs",
+      "character": null
+    },
+    {
+      "personID": "0237156",
+      "name": "Malcolm Draper",
+      "character": null
+    },
+    {
+      "personID": "0237696",
+      "name": "Norman Drew",
+      "character": null
+    },
+    {
+      "personID": "0240196",
+      "name": "Michael Dudok de Wit",
+      "character": null
+    },
+    {
+      "personID": "1730791",
+      "name": "Helga Egilson",
+      "character": null
+    },
+    {
+      "personID": "0255831",
+      "name": "David Elvin",
+      "character": null
+    },
+    {
+      "personID": "2970244",
+      "name": "Marie Faucher",
+      "character": null
+    },
+    {
+      "personID": "2614544",
+      "name": "Richard Fawdry",
+      "character": null
+    },
+    {
+      "personID": "0270763",
+      "name": "David Feiss",
+      "character": null
+    },
+    {
+      "personID": "0293188",
+      "name": "Ian Freedman",
+      "character": null
+    },
+    {
+      "personID": "2007887",
+      "name": "Euan Frizzell",
+      "character": null
+    },
+    {
+      "personID": "1129922",
+      "name": "Al Gaivoto",
+      "character": null
+    },
+    {
+      "personID": "0309247",
+      "name": "Zdenko Gasparovic",
+      "character": null
+    },
+    {
+      "personID": "0318782",
+      "name": "Joseph Gilland",
+      "character": null
+    },
+    {
+      "personID": "0323368",
+      "name": "Scott Glynn",
+      "character": null
+    },
+    {
+      "personID": "0336836",
+      "name": "Milton Gray",
+      "character": null
+    },
+    {
+      "personID": "1136338",
+      "name": "Sebastian Grunstra",
+      "character": null
+    },
+    {
+      "personID": "0340502",
+      "name": "Paul Gruwell",
+      "character": null
+    },
+    {
+      "personID": "1964654",
+      "name": "Michel Guerin",
+      "character": null
+    },
+    {
+      "personID": "0354691",
+      "name": "John Halas",
+      "character": null
+    },
+    {
+      "personID": "0354934",
+      "name": "Jeff Hale",
+      "character": null
+    },
+    {
+      "personID": "3002859",
+      "name": "Jackie Hall",
+      "character": null
+    },
+    {
+      "personID": "0844301",
+      "name": "Julian Harris",
+      "character": null
+    },
+    {
+      "personID": "1299810",
+      "name": "Joanna Harrison",
+      "character": null
+    },
+    {
+      "personID": "2148015",
+      "name": "Michael Hayes",
+      "character": null
+    },
+    {
+      "personID": "0375519",
+      "name": "Fred Hellmich",
+      "character": null
+    },
+    {
+      "personID": "1598180",
+      "name": "Jerry Hibbert",
+      "character": null
+    },
+    {
+      "personID": "0382509",
+      "name": "Mike Hibbert",
+      "character": null
+    },
+    {
+      "personID": "1828683",
+      "name": "Michael Hirsh",
+      "character": null
+    },
+    {
+      "personID": "0392503",
+      "name": "Renee Holt",
+      "character": null
+    },
+    {
+      "personID": "2233389",
+      "name": "Richard Hoover",
+      "character": null
+    },
+    {
+      "personID": "0394818",
+      "name": "Dick Horn",
+      "character": null
+    },
+    {
+      "personID": "0396365",
+      "name": "Pierre Houde",
+      "character": null
+    },
+    {
+      "personID": "0416308",
+      "name": "Blake James",
+      "character": null
+    },
+    {
+      "personID": "0438148",
+      "name": "Susan Kapigian",
+      "character": null
+    },
+    {
+      "personID": "0440782",
+      "name": "J\u00e1nos Kass",
+      "character": null
+    },
+    {
+      "personID": "0442963",
+      "name": "Michael Kaweski",
+      "character": null
+    },
+    {
+      "personID": "3368328",
+      "name": "Tayk Kim",
+      "character": null
+    },
+    {
+      "personID": "0457001",
+      "name": "Sam Kirson",
+      "character": null
+    },
+    {
+      "personID": "0457386",
+      "name": "Ruth Kissane",
+      "character": null
+    },
+    {
+      "personID": "0457634",
+      "name": "Bert Kitchen",
+      "character": null
+    },
+    {
+      "personID": "0461851",
+      "name": "Tapani Knuutila",
+      "character": null
+    },
+    {
+      "personID": "0463283",
+      "name": "Lureline Kohler",
+      "character": null
+    },
+    {
+      "personID": "2969462",
+      "name": "Julie Krasniewicz",
+      "character": null
+    },
+    {
+      "personID": "0488264",
+      "name": "Brian Larkin",
+      "character": null
+    },
+    {
+      "personID": "2662684",
+      "name": "Richard Larose",
+      "character": null
+    },
+    {
+      "personID": "1878190",
+      "name": "Raymond Lebrun",
+      "character": null
+    },
+    {
+      "personID": "0501341",
+      "name": "Michel Lemire",
+      "character": null
+    },
+    {
+      "personID": "0504292",
+      "name": "Michael Lessa",
+      "character": null
+    },
+    {
+      "personID": "0507159",
+      "name": "Elizabeth Lewis",
+      "character": null
+    },
+    {
+      "personID": "1073237",
+      "name": "Leticia Lichtwardt",
+      "character": null
+    },
+    {
+      "personID": "0514722",
+      "name": "Bill Littlejohn",
+      "character": null
+    },
+    {
+      "personID": "0515181",
+      "name": "Dave Livesey",
+      "character": null
+    },
+    {
+      "personID": "0516064",
+      "name": "Lonnie Lloyd",
+      "character": null
+    },
+    {
+      "personID": "2957941",
+      "name": "Mike Lodge",
+      "character": null
+    },
+    {
+      "personID": "0517111",
+      "name": "Reg Lodge",
+      "character": null
+    },
+    {
+      "personID": "0519276",
+      "name": "Michael Longden",
+      "character": null
+    },
+    {
+      "personID": "2193585",
+      "name": "Ernesto Lopez",
+      "character": null
+    },
+    {
+      "personID": "1137142",
+      "name": "Roger Mainwood",
+      "character": null
+    },
+    {
+      "personID": "0538588",
+      "name": "Rick Maki",
+      "character": null
+    },
+    {
+      "personID": "2969872",
+      "name": "Sue Mantle",
+      "character": null
+    },
+    {
+      "personID": "0544837",
+      "name": "Hasmig Marangian",
+      "character": null
+    },
+    {
+      "personID": "0546520",
+      "name": "Mauro Maressa",
+      "character": null
+    },
+    {
+      "personID": "1263784",
+      "name": "Danielle Marleau",
+      "character": null
+    },
+    {
+      "personID": "2964963",
+      "name": "Brenda Martin",
+      "character": null
+    },
+    {
+      "personID": "0553614",
+      "name": "Lorenzo Martinez",
+      "character": null
+    },
+    {
+      "personID": "1058912",
+      "name": "Gaston Marzio",
+      "character": null
+    },
+    {
+      "personID": "2969378",
+      "name": "Alain Masicotte",
+      "character": null
+    },
+    {
+      "personID": "0558867",
+      "name": "Marie-Christiane Mathieu",
+      "character": null
+    },
+    {
+      "personID": "2965057",
+      "name": "Paul McGarry",
+      "character": null
+    },
+    {
+      "personID": "0570535",
+      "name": "Alastair McIlwain",
+      "character": null
+    },
+    {
+      "personID": "0571729",
+      "name": "Angus McKie",
+      "character": null
+    },
+    {
+      "personID": "2662261",
+      "name": "Robyn Milks",
+      "character": null
+    },
+    {
+      "personID": "2655455",
+      "name": "Peter Miller",
+      "character": null
+    },
+    {
+      "personID": "2969357",
+      "name": "Bernie Mireault",
+      "character": null
+    },
+    {
+      "personID": "0600724",
+      "name": "Gary Mooney",
+      "character": null
+    },
+    {
+      "personID": "1172823",
+      "name": "Russ Mooney",
+      "character": null
+    },
+    {
+      "personID": "0607003",
+      "name": "Wayne Morris",
+      "character": null
+    },
+    {
+      "personID": "0613471",
+      "name": "Jimmy T. Murakami",
+      "character": null
+    },
+    {
+      "personID": "1502879",
+      "name": "Sharon Murray",
+      "character": null
+    },
+    {
+      "personID": "2969165",
+      "name": "Art Nelles",
+      "character": null
+    },
+    {
+      "personID": "0625166",
+      "name": "Barrie Nelson",
+      "character": null
+    },
+    {
+      "personID": "0628591",
+      "name": "Sean Newton",
+      "character": null
+    },
+    {
+      "personID": "0633132",
+      "name": "Judith Niver",
+      "character": null
+    },
+    {
+      "personID": "0636404",
+      "name": "Phillip Norwood",
+      "character": null
+    },
+    {
+      "personID": "2944809",
+      "name": "Belinda Oldford",
+      "character": null
+    },
+    {
+      "personID": "0647362",
+      "name": "Richard Ollive",
+      "character": null
+    },
+    {
+      "personID": "0651363",
+      "name": "Les Orton",
+      "character": null
+    },
+    {
+      "personID": "1600941",
+      "name": "Fabio Pacifico",
+      "character": null
+    },
+    {
+      "personID": "0670249",
+      "name": "Spencer Peel",
+      "character": null
+    },
+    {
+      "personID": "2487801",
+      "name": "Bill Perkins",
+      "character": null
+    },
+    {
+      "personID": "0673973",
+      "name": "John Perkins",
+      "character": null
+    },
+    {
+      "personID": "2969551",
+      "name": "Anne E. Petersen",
+      "character": null
+    },
+    {
+      "personID": "0678500",
+      "name": "Ted Pettengell",
+      "character": null
+    },
+    {
+      "personID": "0680908",
+      "name": "Philip Phillipson",
+      "character": null
+    },
+    {
+      "personID": "0687794",
+      "name": "Weldon Poapst",
+      "character": null
+    },
+    {
+      "personID": "2380386",
+      "name": "Corina Poore",
+      "character": null
+    },
+    {
+      "personID": "0704747",
+      "name": "Steve Rabatich",
+      "character": null
+    },
+    {
+      "personID": "0705311",
+      "name": "Edric Radage",
+      "character": null
+    },
+    {
+      "personID": "0708855",
+      "name": "Shivan Ramsaran",
+      "character": null
+    },
+    {
+      "personID": "2964960",
+      "name": "Irene Rappaport",
+      "character": null
+    },
+    {
+      "personID": "0714482",
+      "name": "William Recinos",
+      "character": null
+    },
+    {
+      "personID": "0721491",
+      "name": "Greg Reyna",
+      "character": null
+    },
+    {
+      "personID": "0096486",
+      "name": "B\u00f8rge Ring",
+      "character": null
+    },
+    {
+      "personID": "2970370",
+      "name": "Louise Robinson",
+      "character": null
+    },
+    {
+      "personID": "0733882",
+      "name": "Mitch Rochon",
+      "character": null
+    },
+    {
+      "personID": "0736403",
+      "name": "Norm Roen",
+      "character": null
+    },
+    {
+      "personID": "0752506",
+      "name": "Denis Ryan",
+      "character": null
+    },
+    {
+      "personID": "0754678",
+      "name": "Paul Sabella",
+      "character": null
+    },
+    {
+      "personID": "2516446",
+      "name": "Mike Salter",
+      "character": null
+    },
+    {
+      "personID": "1243060",
+      "name": "Jean Sarault",
+      "character": null
+    },
+    {
+      "personID": "2593890",
+      "name": "Mireille Sarault",
+      "character": null
+    },
+    {
+      "personID": "1733974",
+      "name": "Philip Scarrold",
+      "character": null
+    },
+    {
+      "personID": "2969133",
+      "name": "Pat Schaverien",
+      "character": null
+    },
+    {
+      "personID": "0774996",
+      "name": "Chris Schouten",
+      "character": null
+    },
+    {
+      "personID": "0780117",
+      "name": "George Scribner",
+      "character": null
+    },
+    {
+      "personID": "0788725",
+      "name": "Paul Shardlow",
+      "character": null
+    },
+    {
+      "personID": "0793589",
+      "name": "Kunio Shimamura",
+      "character": null
+    },
+    {
+      "personID": "0822248",
+      "name": "Ron Stangl",
+      "character": null
+    },
+    {
+      "personID": "1138234",
+      "name": "Grace Stanzell",
+      "character": null
+    },
+    {
+      "personID": "0827275",
+      "name": "Ken Stephenson",
+      "character": null
+    },
+    {
+      "personID": "0831349",
+      "name": "Jack Stokes",
+      "character": null
+    },
+    {
+      "personID": "0832095",
+      "name": "Paul Stone",
+      "character": null
+    },
+    {
+      "personID": "1663408",
+      "name": "Joanne Storch",
+      "character": null
+    },
+    {
+      "personID": "0834321",
+      "name": "Mike Stribling",
+      "character": null
+    },
+    {
+      "personID": "0837522",
+      "name": "Susan Sugita",
+      "character": null
+    },
+    {
+      "personID": "2970231",
+      "name": "Daniel Tarondo",
+      "character": null
+    },
+    {
+      "personID": "1707584",
+      "name": "Marilyn Taylor",
+      "character": null
+    },
+    {
+      "personID": "0859661",
+      "name": "Wynn Thomas",
+      "character": null
+    },
+    {
+      "personID": "0860014",
+      "name": "Dan Thompson",
+      "character": null
+    },
+    {
+      "personID": "0867533",
+      "name": "Marshall Lee Toomey",
+      "character": null
+    },
+    {
+      "personID": "2656136",
+      "name": "Pierre Tremblay",
+      "character": null
+    },
+    {
+      "personID": "2969966",
+      "name": "Richard Tremblay",
+      "character": null
+    },
+    {
+      "personID": "0874033",
+      "name": "France Trudeau",
+      "character": null
+    },
+    {
+      "personID": "0875939",
+      "name": "Marianne Tucker",
+      "character": null
+    },
+    {
+      "personID": "0881089",
+      "name": "George Ungar",
+      "character": null
+    },
+    {
+      "personID": "0887351",
+      "name": "Pino Van Lamsweerde",
+      "character": null
+    },
+    {
+      "personID": "0898303",
+      "name": "Rick Villeneuve",
+      "character": null
+    },
+    {
+      "personID": "0899329",
+      "name": "Norton Virgien",
+      "character": null
+    },
+    {
+      "personID": "1453759",
+      "name": "Barry Ward",
+      "character": null
+    },
+    {
+      "personID": "1277903",
+      "name": "Neal Warner",
+      "character": null
+    },
+    {
+      "personID": "0919649",
+      "name": "Rosemary Welch",
+      "character": null
+    },
+    {
+      "personID": "2655787",
+      "name": "Helen Wenzelbach",
+      "character": null
+    },
+    {
+      "personID": "0923013",
+      "name": "Stephen Weston",
+      "character": null
+    },
+    {
+      "personID": "0924266",
+      "name": "Harold Whitaker",
+      "character": null
+    },
+    {
+      "personID": "1593018",
+      "name": "Robin White",
+      "character": null
+    },
+    {
+      "personID": "2969634",
+      "name": "Mike Williams",
+      "character": null
+    },
+    {
+      "personID": "0934664",
+      "name": "Terry Windell",
+      "character": null
+    },
+    {
+      "personID": "0937874",
+      "name": "Michael Wolf",
+      "character": null
+    },
+    {
+      "personID": "0938935",
+      "name": "Arnie Wong",
+      "character": null
+    },
+    {
+      "personID": "2658708",
+      "name": "Don Wong",
+      "character": null
+    },
+    {
+      "personID": "2853197",
+      "name": "Ronald Wong",
+      "character": null
+    },
+    {
+      "personID": "1731280",
+      "name": "Hugh Workman",
+      "character": null
+    },
+    {
+      "personID": "0945710",
+      "name": "Lynn Yamazaki",
+      "character": null
+    },
+    {
+      "personID": "0948294",
+      "name": "Woody Yocum",
+      "character": null
+    },
+    {
+      "personID": "0777113",
+      "name": "M\u00e1ria Zseb\u00e9nyi",
+      "character": null
+    },
+    {
+      "personID": "11039258",
+      "name": "Russell Billingsley",
+      "character": null
+    },
+    {
+      "personID": "1061088",
+      "name": "Kimie Calvert",
+      "character": null
+    },
+    {
+      "personID": "0170508",
+      "name": "Corny Cole",
+      "character": null
+    },
+    {
+      "personID": "0184879",
+      "name": "Duane Crowther",
+      "character": null
+    },
+    {
+      "personID": "0280195",
+      "name": "Katherine Fitzgerald",
+      "character": null
+    },
+    {
+      "personID": "12063652",
+      "name": "Elizabeth Holtzman",
+      "character": null
+    },
+    {
+      "personID": "2656133",
+      "name": "George Murphy",
+      "character": null
+    },
+    {
+      "personID": "0673853",
+      "name": "Hans Perk",
+      "character": null
+    },
+    {
+      "personID": "3048748",
+      "name": "Kathy St. Germain",
+      "character": null
+    },
+    {
+      "personID": "0822143",
+      "name": "Gordon Stanfield",
+      "character": null
+    }
+  ],
+  "music department": [
+    {
+      "personID": "0044363",
+      "name": "Irving Azoff",
+      "character": null
+    },
+    {
+      "personID": "0000930",
+      "name": "Elmer Bernstein",
+      "character": null
+    },
+    {
+      "personID": "0003367",
+      "name": "Peter Bernstein",
+      "character": null
+    },
+    {
+      "personID": "0141258",
+      "name": "Jeff Carson",
+      "character": null
+    },
+    {
+      "personID": "0221827",
+      "name": "Bob Destocki",
+      "character": null
+    },
+    {
+      "personID": "0335499",
+      "name": "Keith Grant",
+      "character": null
+    },
+    {
+      "personID": "3026971",
+      "name": "Jeanne Loriod",
+      "character": null
+    },
+    {
+      "personID": "0658169",
+      "name": "Christopher Palmer",
+      "character": null
+    },
+    {
+      "personID": "0817295",
+      "name": "David Spear",
+      "character": null
+    },
+    {
+      "personID": "0225503",
+      "name": "Bruce Dickinson",
+      "character": null
+    },
+    {
+      "personID": "0811356",
+      "name": "Jonathan Snowden",
+      "character": null
+    }
+  ],
+  "script department": [
+    {
+      "personID": "3027062",
+      "name": "Debby Tiffin",
+      "character": null
+    }
+  ],
+  "transportation department": [
+    {
+      "personID": "0280195",
+      "name": "Katherine Fitzgerald",
+      "character": null
+    }
+  ],
+  "miscellaneous crew": [
+    {
+      "personID": "3027220",
+      "name": "Christina Asimacopoulos",
+      "character": null
+    },
+    {
+      "personID": "3027481",
+      "name": "Nicole Beaudry-Pilon",
+      "character": null
+    },
+    {
+      "personID": "2677112",
+      "name": "Gerard Brunet",
+      "character": null
+    },
+    {
+      "personID": "3026579",
+      "name": "Mich\u00e8le Carrier",
+      "character": null
+    },
+    {
+      "personID": "3830970",
+      "name": "Carole Desbiens",
+      "character": null
+    },
+    {
+      "personID": "3026978",
+      "name": "Jacqueline Johnson",
+      "character": null
+    },
+    {
+      "personID": "3027613",
+      "name": "Michael Larocque",
+      "character": null
+    },
+    {
+      "personID": "3026964",
+      "name": "Christian Lecour",
+      "character": null
+    },
+    {
+      "personID": "3027574",
+      "name": "Wendy Loblaw",
+      "character": null
+    },
+    {
+      "personID": "0560490",
+      "name": "Burke Mattsson",
+      "character": null
+    },
+    {
+      "personID": "0575817",
+      "name": "Joe Medjuck",
+      "character": null
+    },
+    {
+      "personID": "3027660",
+      "name": "Richard Potterton",
+      "character": null
+    },
+    {
+      "personID": "2964960",
+      "name": "Irene Rappaport",
+      "character": null
+    },
+    {
+      "personID": "2387086",
+      "name": "Clennell Rawson",
+      "character": null
+    },
+    {
+      "personID": "1129324",
+      "name": "Nick Roberts",
+      "character": null
+    },
+    {
+      "personID": "3027183",
+      "name": "David B. Simpson",
+      "character": null
+    },
+    {
+      "personID": "3027560",
+      "name": "Tracy Stundon",
+      "character": null
+    },
+    {
+      "personID": "4113112",
+      "name": "Joel Thingvall",
+      "character": null
+    },
+    {
+      "personID": "0003653",
+      "name": "Craig Miller",
+      "character": null
+    }
+  ],
+  "akas": [
+    "M\u00e9tal hurlant (Canada, French title)",
+    "M\u00e9tal hurlant (France)",
+    "Vary metallo (Greece)",
+    "\u0422\u044f\u0436\u0435\u043b\u044b\u0439 \u043c\u0435\u0442\u0430\u043b (Soviet Union, Russian title)",
+    "Heavy Metal - Universo em Fantasia (Brazil)"
+  ],
+  "production companies": [
+    {
+      "companyID": "0050868",
+      "name": "Columbia Pictures"
+    },
+    {
+      "companyID": "0053910",
+      "name": "Guardian Trust Company"
+    },
+    {
+      "companyID": "0051074",
+      "name": "Canadian Film Development Corporation"
+    },
+    {
+      "companyID": "0695373",
+      "name": "Famous Players"
+    },
+    {
+      "companyID": "0477006",
+      "name": "Heavy Metal"
+    },
+    {
+      "companyID": "0032648",
+      "name": "Potterton Productions"
+    }
+  ],
+  "distributors": [
+    {
+      "companyID": "0050868",
+      "name": "Columbia Pictures"
+    },
+    {
+      "companyID": "0106070",
+      "name": "Columbia-EMI-Warner"
+    },
+    {
+      "companyID": "0629458",
+      "name": "Fox Columbia Film Distributors"
+    },
+    {
+      "companyID": "0215270",
+      "name": "Columbia Films"
+    },
+    {
+      "companyID": "0215257",
+      "name": "Columbia Films of India"
+    },
+    {
+      "companyID": "0488192",
+      "name": "Columbia"
+    },
+    {
+      "companyID": "0214905",
+      "name": "Warner-Columbia Film"
+    },
+    {
+      "companyID": "0001850",
+      "name": "Columbia TriStar Home Video"
+    },
+    {
+      "companyID": "0001850",
+      "name": "Columbia TriStar Home Video"
+    },
+    {
+      "companyID": "0001850",
+      "name": "Columbia TriStar Home Video"
+    },
+    {
+      "companyID": "0127120",
+      "name": "Columbia TriStar Home Entertainment"
+    },
+    {
+      "companyID": "0001850",
+      "name": "Columbia TriStar Home Video"
+    },
+    {
+      "companyID": "0001850",
+      "name": "Columbia TriStar Home Video"
+    },
+    {
+      "companyID": "0057923",
+      "name": "RCA/Columbia-Hoyts Home Video"
+    },
+    {
+      "companyID": "0137851",
+      "name": "Sony Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0183474",
+      "name": "TBS Superstation"
+    },
+    {
+      "companyID": "0122766",
+      "name": "Umbrella Entertainment"
+    }
+  ],
+  "special effects companies": [
+    {
+      "companyID": "0119695",
+      "name": "Clearwater Productions"
+    },
+    {
+      "companyID": "0018547",
+      "name": "Camera Effects"
+    },
+    {
+      "companyID": "0239245",
+      "name": "Precision Film Group"
+    },
+    {
+      "companyID": "0239180",
+      "name": "Systems Simulation"
+    },
+    {
+      "companyID": "0239245",
+      "name": "Precision Film Group"
+    }
+  ],
+  "other companies": [
+    {
+      "companyID": "0103341",
+      "name": "TVC London"
+    },
+    {
+      "companyID": "0103239",
+      "name": "Halas and Batchelor Cartoon Films"
+    },
+    {
+      "companyID": "0002657",
+      "name": "Atkinson Film Arts"
+    },
+    {
+      "companyID": "0209308",
+      "name": "Haines-Camron"
+    },
+    {
+      "companyID": "0223442",
+      "name": "Votetone"
+    },
+    {
+      "companyID": "0168853",
+      "name": "Boxcar Films"
+    },
+    {
+      "companyID": "0239118",
+      "name": "Wally Bulloch-Anicam"
+    },
+    {
+      "companyID": "0070547",
+      "name": "Path\u00e9 Sound and Post Production Center"
+    },
+    {
+      "companyID": "0012172",
+      "name": "Sonolab"
+    },
+    {
+      "companyID": "0073056",
+      "name": "Studio Film Laboratories Ltd."
+    },
+    {
+      "companyID": "0175097",
+      "name": "Humphries Laboratories"
+    },
+    {
+      "companyID": "0066932",
+      "name": "MGM Title Department"
+    },
+    {
+      "companyID": "0152601",
+      "name": "Olympic Studios"
+    },
+    {
+      "companyID": "0045253",
+      "name": "The Royal Philharmonic Orchestra"
+    },
+    {
+      "companyID": "0148182",
+      "name": "London Voices"
+    },
+    {
+      "companyID": "0130848",
+      "name": "Metrocolor"
+    },
+    {
+      "companyID": "0389069",
+      "name": "Dolby Stereo"
+    },
+    {
+      "companyID": "0239210",
+      "name": "Full Moon/Asylum Records"
+    },
+    {
+      "companyID": "0830664",
+      "name": "Canimage Production,"
+    },
+    {
+      "companyID": "0055524",
+      "name": "Columbia Pictures Industries"
+    },
+    {
+      "companyID": "0328771",
+      "name": "Duck Soup Produckions"
+    },
+    {
+      "companyID": "0105122",
+      "name": "Lee Lighting"
+    }
+  ]
+}

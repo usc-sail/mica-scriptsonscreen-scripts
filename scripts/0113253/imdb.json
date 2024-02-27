@@ -1,3 +1,945 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6ec616af9f1307d7851c002a25628fb88d95873f0200b5c81909a6cff6218dd6
-size 19333
+{
+  "localized title": "Halloween: The Curse of Michael Myers",
+  "cast": [
+    {
+      "personID": "0000587",
+      "name": "Donald Pleasence",
+      "character": "Dr. Loomis"
+    },
+    {
+      "personID": "0748620",
+      "name": "Paul Rudd",
+      "character": "Tommy Doyle"
+    },
+    {
+      "personID": "0353238",
+      "name": "Marianne Hagan",
+      "character": "Kara Strode"
+    },
+    {
+      "personID": "0752751",
+      "name": "Mitchell Ryan",
+      "character": "Dr. Wynn"
+    },
+    {
+      "personID": "0200981",
+      "name": "Kim Darby",
+      "character": "Debra Strode"
+    },
+    {
+      "personID": "0257588",
+      "name": "Bradford English",
+      "character": "John Strode"
+    },
+    {
+      "personID": "0091569",
+      "name": "Keith Bogart",
+      "character": "Tim Strode"
+    },
+    {
+      "personID": "0639686",
+      "name": "Mariah O'Brien",
+      "character": "Beth"
+    },
+    {
+      "personID": "0315210",
+      "name": "Leo Geter",
+      "character": "Barry Simms"
+    },
+    {
+      "personID": "0105046",
+      "name": "J.C. Brandy",
+      "character": "Jamie Lloyd"
+    },
+    {
+      "personID": "0306894",
+      "name": "Devin Gardner",
+      "character": "Danny Strode"
+    },
+    {
+      "personID": "0842630",
+      "name": "Susan Swift",
+      "character": "Mary"
+    },
+    {
+      "personID": "0928111",
+      "name": "George P. Wilbur",
+      "character": "The Shape"
+    },
+    {
+      "personID": "0460758",
+      "name": "Janice Knickrehm",
+      "character": "Mrs. Blankenship"
+    },
+    {
+      "personID": "0248430",
+      "name": "Alan Echeverria",
+      "character": "Dr. Bonham"
+    },
+    {
+      "personID": "0750539",
+      "name": "Hildur Ruriks",
+      "character": "Dawn"
+    },
+    {
+      "personID": "0382959",
+      "name": "Sheri Hicks",
+      "character": "Paramedic"
+    },
+    {
+      "personID": "0698354",
+      "name": "Tom Proctor",
+      "character": "Motorist"
+    },
+    {
+      "personID": "0606408",
+      "name": "Bryan Morris",
+      "character": "Attendant"
+    },
+    {
+      "personID": "0156806",
+      "name": "Lee Ju Chew",
+      "character": "Nurse"
+    },
+    {
+      "personID": "0027309",
+      "name": "Raquelle Anderson",
+      "character": "Ballerina"
+    },
+    {
+      "personID": "0838741",
+      "name": "Kristine Summers",
+      "character": "College Coed"
+    },
+    {
+      "personID": "0232172",
+      "name": "Elyse Donalson",
+      "character": "Lunatic"
+    },
+    {
+      "personID": "0503583",
+      "name": "A. Michael Lerner",
+      "character": "Additional Shape"
+    },
+    {
+      "personID": "1115786",
+      "name": "Jimmy Chunga",
+      "character": "Drunk College Student"
+    },
+    {
+      "personID": "1355220",
+      "name": "Brad Hardin",
+      "character": "The Shape - Second Unit additional photography"
+    },
+    {
+      "personID": "0503610",
+      "name": "Fred Lerner",
+      "character": "Smith's Grove Doctor"
+    },
+    {
+      "personID": "1083984",
+      "name": "James Woodson",
+      "character": "Deputy"
+    }
+  ],
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "runtimes": [
+    "87"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "country codes": [
+    "us"
+  ],
+  "language codes": [
+    "en"
+  ],
+  "color info": [
+    "Color"
+  ],
+  "aspect ratio": "1.85 : 1",
+  "sound mix": [
+    "Ultra Stereo",
+    "Dolby Digital"
+  ],
+  "box office": {
+    "Budget": "$5,000,000 (estimated)",
+    "Opening Weekend United States": "$7,308,529, 01 Oct 1995"
+  },
+  "certificates": [
+    "Argentina:13",
+    "Australia:MA",
+    "Brazil:18",
+    "Bulgaria:D",
+    "Canada:18A",
+    "Canada:R::(Manitoba/Ontario)",
+    "Canada:18::(Nova Scotia)",
+    "Canada:16+::(Quebec)",
+    "Canada:13+::(Quebec)",
+    "Finland:K-18",
+    "France:12",
+    "Germany:18",
+    "Germany:16",
+    "Greece:K-16",
+    "Hong Kong:IIB",
+    "Iceland:(Banned)",
+    "India:A",
+    "Ireland:18",
+    "Italy:T",
+    "Japan:R15+",
+    "Mexico:C",
+    "Mexico:B",
+    "Mexico:B15",
+    "Netherlands:16",
+    "New Zealand:R18",
+    "Nigeria:18",
+    "Norway:18::(VOD)",
+    "Russia:16+",
+    "Saudi Arabia:R18",
+    "Singapore:PG",
+    "South Korea:Not Rated",
+    "Spain:18",
+    "Sweden:15",
+    "Turkey:18+",
+    "United Kingdom:18",
+    "United States:R",
+    "United Arab Emirates:Not Rated"
+  ],
+  "original air date": "29 Sep 1995 (USA)",
+  "rating": 4.7,
+  "votes": 39495,
+  "cover url": "https://m.media-amazon.com/images/M/MV5BMzQ3MjgzMWMtMjJhMy00MmVjLTllMzMtMWVjMmMxNTIzNWQ0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg",
+  "imdbID": "0113253",
+  "videos": [
+    "http://www.imdb.com/title/tt0113253/videoplayer/vi1391435289",
+    "http://www.imdb.com/title/tt0113253/videoplayer/vi96403481"
+  ],
+  "plot outline": "Six years after Michael Myers' last massacre in Haddonfield, Jamie Lloyd has a child, but is then killed by Michael. Michael is allied with the Cult of Thorn, who both protect him and gave him the Curse of Thorn, the reason he killed all of his family. The Strode Family also moved into the Myers' house and are stalked by Michael. Sam Loomis and Tommy Doyle, a boy Laurie babysat during Michael's first rampage, are now out to stop Michael and the cult. Michael heads to kill Jamie's son and the rest of Laurie's family, but Dr. Loomis and Tommy plan to stop the curse, defeat the cult, stop Michael, and put an end to his murderous rampages, once and for all.",
+  "languages": [
+    "English"
+  ],
+  "title": "Halloween: The Curse of Michael Myers",
+  "year": 1995,
+  "kind": "movie",
+  "original title": "Halloween: The Curse of Michael Myers",
+  "director": [
+    {
+      "personID": "0152640",
+      "name": "Joe Chappelle",
+      "character": null
+    }
+  ],
+  "writer": [
+    {
+      "personID": "0384185",
+      "name": "Debra Hill",
+      "character": null
+    },
+    {
+      "personID": "0000118",
+      "name": "John Carpenter",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "0268107",
+      "name": "Daniel Farrands",
+      "character": null
+    }
+  ],
+  "producer": [
+    {
+      "personID": "0015443",
+      "name": "Malek Akkad",
+      "character": null
+    },
+    {
+      "personID": "0002160",
+      "name": "Moustapha Akkad",
+      "character": null
+    },
+    {
+      "personID": "0293551",
+      "name": "Paul Freeman",
+      "character": null
+    }
+  ],
+  "composer": [
+    {
+      "personID": "0397697",
+      "name": "Alan Howarth",
+      "character": null
+    },
+    {
+      "personID": "0704979",
+      "name": "Paul Rabjohns",
+      "character": null
+    }
+  ],
+  "cinematographer": [
+    {
+      "personID": "0225621",
+      "name": "Billy Dickson",
+      "character": null
+    }
+  ],
+  "editor": [
+    {
+      "personID": "0108585",
+      "name": "Randy Bricker",
+      "character": null
+    }
+  ],
+  "editorial department": [
+    {
+      "personID": "0581568",
+      "name": "Mike Mertens",
+      "character": null
+    }
+  ],
+  "casting director": [
+    {
+      "personID": "0114598",
+      "name": "Ross Brown",
+      "character": null
+    },
+    {
+      "personID": "0922232",
+      "name": "Mary West",
+      "character": null
+    }
+  ],
+  "production design": [
+    {
+      "personID": "0753361",
+      "name": "Bryan Ryman",
+      "character": null
+    }
+  ],
+  "art direction": [
+    {
+      "personID": "0456760",
+      "name": "T.K. Kirkpatrick",
+      "character": null
+    }
+  ],
+  "costume designer": [
+    {
+      "personID": "0483068",
+      "name": "Ann Gray Lambert",
+      "character": null
+    }
+  ],
+  "make up": [
+    {
+      "personID": "0057108",
+      "name": "David Barrett",
+      "character": null
+    },
+    {
+      "personID": "0119106",
+      "name": "John Carl Buechler",
+      "character": null
+    },
+    {
+      "personID": "1355220",
+      "name": "Brad Hardin",
+      "character": null
+    },
+    {
+      "personID": "0566549",
+      "name": "Ryan McCormick",
+      "character": null
+    },
+    {
+      "personID": "13249312",
+      "name": "Jimmy Corona Rooney",
+      "character": null
+    },
+    {
+      "personID": "0759946",
+      "name": "Linda Samodral",
+      "character": null
+    },
+    {
+      "personID": "0876683",
+      "name": "Gary J. Tunnicliffe",
+      "character": null
+    },
+    {
+      "personID": "0904349",
+      "name": "Laurie Vukich",
+      "character": null
+    },
+    {
+      "personID": "0006635",
+      "name": "Tom Irvin",
+      "character": null
+    }
+  ],
+  "production manager": [
+    {
+      "personID": "0286421",
+      "name": "S. Michael Formica",
+      "character": null
+    },
+    {
+      "personID": "0505693",
+      "name": "Paul A. Levin",
+      "character": null
+    },
+    {
+      "personID": "0937153",
+      "name": "David Witz",
+      "character": null
+    }
+  ],
+  "assistant director": [
+    {
+      "personID": "0314766",
+      "name": "Christopher T. Gerrity",
+      "character": null
+    },
+    {
+      "personID": "0737565",
+      "name": "Troy Rohovit",
+      "character": null
+    }
+  ],
+  "art department": [
+    {
+      "personID": "0036202",
+      "name": "Scott Arneman",
+      "character": null
+    },
+    {
+      "personID": "1913374",
+      "name": "Brent Astrope",
+      "character": null
+    },
+    {
+      "personID": "0114210",
+      "name": "Mark W. Brown",
+      "character": null
+    },
+    {
+      "personID": "4872126",
+      "name": "Emily M. Cannon",
+      "character": null
+    },
+    {
+      "personID": "0204330",
+      "name": "J. Chad Davis",
+      "character": null
+    },
+    {
+      "personID": "2535814",
+      "name": "Carla Formica",
+      "character": null
+    },
+    {
+      "personID": "1279662",
+      "name": "Joe Henderson",
+      "character": null
+    },
+    {
+      "personID": "1165518",
+      "name": "George Karnoff",
+      "character": null
+    },
+    {
+      "personID": "0477351",
+      "name": "Dick Kyker",
+      "character": null
+    },
+    {
+      "personID": "0600446",
+      "name": "Barton Moody",
+      "character": null
+    },
+    {
+      "personID": "4872506",
+      "name": "Scott Chase Rully",
+      "character": null
+    },
+    {
+      "personID": "1281555",
+      "name": "Patrick Vandervoort",
+      "character": null
+    },
+    {
+      "personID": "0919499",
+      "name": "Alan Welch",
+      "character": null
+    },
+    {
+      "personID": "1301410",
+      "name": "Christopher Patrick Nolan",
+      "character": null
+    }
+  ],
+  "sound crew": [
+    {
+      "personID": "0096488",
+      "name": "Robert E. Borge",
+      "character": null
+    },
+    {
+      "personID": "0157668",
+      "name": "Tim Chilton",
+      "character": null
+    },
+    {
+      "personID": "0182418",
+      "name": "Bob Costanza",
+      "character": null
+    },
+    {
+      "personID": "0326763",
+      "name": "Ed Golya",
+      "character": null
+    },
+    {
+      "personID": "0334046",
+      "name": "G. Michael Graham",
+      "character": null
+    },
+    {
+      "personID": "0502591",
+      "name": "Chet Leonard",
+      "character": null
+    },
+    {
+      "personID": "0573540",
+      "name": "Mark Hopkins McNabb",
+      "character": null
+    },
+    {
+      "personID": "0589108",
+      "name": "Paul E. Miller",
+      "character": null
+    },
+    {
+      "personID": "0737147",
+      "name": "Richard D. Rogers",
+      "character": null
+    },
+    {
+      "personID": "5918359",
+      "name": "Jesse Mestas",
+      "character": null
+    }
+  ],
+  "special effects": [
+    {
+      "personID": "0147861",
+      "name": "Frank Ceglia",
+      "character": null
+    },
+    {
+      "personID": "1858419",
+      "name": "John Cluff",
+      "character": null
+    },
+    {
+      "personID": "0217668",
+      "name": "Stephen DeLollis",
+      "character": null
+    },
+    {
+      "personID": "1355220",
+      "name": "Brad Hardin",
+      "character": null
+    }
+  ],
+  "stunt performer": [
+    {
+      "personID": "0016366",
+      "name": "Mary Albee",
+      "character": null
+    },
+    {
+      "personID": "0419080",
+      "name": "Kathy Jarvis",
+      "character": null
+    },
+    {
+      "personID": "0703744",
+      "name": "Fenton Quinn",
+      "character": null
+    },
+    {
+      "personID": "0708015",
+      "name": "J.P. Romano",
+      "character": null
+    },
+    {
+      "personID": "0743351",
+      "name": "Debby Lynn Ross",
+      "character": null
+    },
+    {
+      "personID": "0759344",
+      "name": "Lynn Salvatori",
+      "character": null
+    },
+    {
+      "personID": "0928111",
+      "name": "George P. Wilbur",
+      "character": null
+    }
+  ],
+  "camera and electrical department": [
+    {
+      "personID": "1404687",
+      "name": "Walter Byrnes",
+      "character": null
+    },
+    {
+      "personID": "0174322",
+      "name": "Robert Conder",
+      "character": null
+    },
+    {
+      "personID": "0268030",
+      "name": "John K. Farr",
+      "character": null
+    },
+    {
+      "personID": "0276492",
+      "name": "Jason Fife",
+      "character": null
+    },
+    {
+      "personID": "1318102",
+      "name": "Samuel Fischer",
+      "character": null
+    },
+    {
+      "personID": "0349986",
+      "name": "Anthony D. Guzman",
+      "character": null
+    },
+    {
+      "personID": "0005619",
+      "name": "Tom Jensen",
+      "character": null
+    },
+    {
+      "personID": "0447629",
+      "name": "Ned Kendall",
+      "character": null
+    },
+    {
+      "personID": "4115546",
+      "name": "James Kitel",
+      "character": null
+    },
+    {
+      "personID": "0544346",
+      "name": "Duane Charles Manwiller",
+      "character": null
+    },
+    {
+      "personID": "0597314",
+      "name": "Gary Molyneux",
+      "character": null
+    },
+    {
+      "personID": "0662931",
+      "name": "David A. Parks",
+      "character": null
+    },
+    {
+      "personID": "0713187",
+      "name": "John Raymer",
+      "character": null
+    },
+    {
+      "personID": "0799678",
+      "name": "Alvin Simmons",
+      "character": null
+    },
+    {
+      "personID": "0817971",
+      "name": "James Lawrence Spencer",
+      "character": null
+    },
+    {
+      "personID": "1815055",
+      "name": "Robert Stone",
+      "character": null
+    },
+    {
+      "personID": "0909517",
+      "name": "Jason Walser",
+      "character": null
+    },
+    {
+      "personID": "0956720",
+      "name": "Jason Zimmerman",
+      "character": null
+    }
+  ],
+  "costume department": [
+    {
+      "personID": "4706727",
+      "name": "Marsha Horiuchi Barton",
+      "character": null
+    }
+  ],
+  "music department": [
+    {
+      "personID": "0000118",
+      "name": "John Carpenter",
+      "character": null
+    }
+  ],
+  "script department": [
+    {
+      "personID": "0544343",
+      "name": "Mary Jo Manwill-Conder",
+      "character": null
+    }
+  ],
+  "miscellaneous crew": [
+    {
+      "personID": "0256643",
+      "name": "Erin Empey-Baxter",
+      "character": null
+    },
+    {
+      "personID": "0274842",
+      "name": "Chad Ferrin",
+      "character": null
+    },
+    {
+      "personID": "0295100",
+      "name": "Ira Friedlander",
+      "character": null
+    },
+    {
+      "personID": "2314830",
+      "name": "Cecily Gambrell",
+      "character": null
+    },
+    {
+      "personID": "0471514",
+      "name": "Judi Kriss",
+      "character": null
+    },
+    {
+      "personID": "1457500",
+      "name": "Jeffrey Kurz",
+      "character": null
+    },
+    {
+      "personID": "2272022",
+      "name": "Deborah Landis",
+      "character": null
+    },
+    {
+      "personID": "9573931",
+      "name": "Jay Miller",
+      "character": null
+    },
+    {
+      "personID": "0716286",
+      "name": "Robert Andrew Reeves",
+      "character": null
+    },
+    {
+      "personID": "0713189",
+      "name": "Mari Raymer",
+      "character": null
+    }
+  ],
+  "thanks": [
+    {
+      "personID": "0000587",
+      "name": "Donald Pleasence",
+      "character": null
+    }
+  ],
+  "akas": [
+    "Halloween 6 (United States)",
+    "Halloween 6: Michael's Back (United States)",
+    "Hall6ween (United States)",
+    "Halloween 666: The Origin of Michael Myers (United States)",
+    "Halloween 6: The Curse of Michael Myers (United States)"
+  ],
+  "production companies": [
+    {
+      "companyID": "0756494",
+      "name": "Halloween VI Productions"
+    },
+    {
+      "companyID": "0022594",
+      "name": "Miramax"
+    },
+    {
+      "companyID": "0091393",
+      "name": "Nightfall Productions"
+    },
+    {
+      "companyID": "0005891",
+      "name": "Trancas International Films"
+    }
+  ],
+  "distributors": [
+    {
+      "companyID": "0019626",
+      "name": "Dimension Films"
+    },
+    {
+      "companyID": "0005584",
+      "name": "Alliance"
+    },
+    {
+      "companyID": "0005608",
+      "name": "Arcade Pictures"
+    },
+    {
+      "companyID": "0051881",
+      "name": "Concorde Film"
+    },
+    {
+      "companyID": "0080682",
+      "name": "Laurenfilm"
+    },
+    {
+      "companyID": "0794429",
+      "name": "Modi Films International"
+    },
+    {
+      "companyID": "0061879",
+      "name": "RCV Film Distribution"
+    },
+    {
+      "companyID": "0021311",
+      "name": "marketing-film"
+    },
+    {
+      "companyID": "0189874",
+      "name": "Arcade Movie Company"
+    },
+    {
+      "companyID": "0017313",
+      "name": "Astro Distribution"
+    },
+    {
+      "companyID": "0234667",
+      "name": "BBC One"
+    },
+    {
+      "companyID": "0049546",
+      "name": "Buena Vista Home Entertainment"
+    },
+    {
+      "companyID": "0000779",
+      "name": "Buena Vista International"
+    },
+    {
+      "companyID": "0112177",
+      "name": "Cecchi Gori Home Video"
+    },
+    {
+      "companyID": "0087311",
+      "name": "Dimension Home Video"
+    },
+    {
+      "companyID": "0165912",
+      "name": "Echo Bridge Home Entertainment"
+    },
+    {
+      "companyID": "0044350",
+      "name": "Gativideo"
+    },
+    {
+      "companyID": "0106148",
+      "name": "Hollywood Pictures Home Video"
+    },
+    {
+      "companyID": "0106148",
+      "name": "Hollywood Pictures Home Video"
+    },
+    {
+      "companyID": "0292909",
+      "name": "Lionsgate Home Entertainment"
+    },
+    {
+      "companyID": "0173285",
+      "name": "Lionsgate"
+    },
+    {
+      "companyID": "0118565",
+      "name": "MAWA Film & Medien"
+    },
+    {
+      "companyID": "0108153",
+      "name": "Panorama Distributions"
+    },
+    {
+      "companyID": "0820547",
+      "name": "Paramount+"
+    },
+    {
+      "companyID": "0049524",
+      "name": "RTL"
+    },
+    {
+      "companyID": "0062012",
+      "name": "RTL2"
+    },
+    {
+      "companyID": "0010521",
+      "name": "SPO"
+    },
+    {
+      "companyID": "0019016",
+      "name": "Scanbox Entertainment"
+    },
+    {
+      "companyID": "0019016",
+      "name": "Scanbox Entertainment"
+    },
+    {
+      "companyID": "0235493",
+      "name": "Scream Factory"
+    },
+    {
+      "companyID": "0052980",
+      "name": "Showtime Networks"
+    },
+    {
+      "companyID": "0052507",
+      "name": "Spentzos Film Home Video"
+    },
+    {
+      "companyID": "0149423",
+      "name": "VideoVisa"
+    },
+    {
+      "companyID": "0076262",
+      "name": "Zima Entertainment"
+    }
+  ],
+  "other companies": [
+    {
+      "companyID": "0007445",
+      "name": "Film Finances"
+    },
+    {
+      "companyID": "0078273",
+      "name": "Redman Movies and Stories"
+    }
+  ]
+}

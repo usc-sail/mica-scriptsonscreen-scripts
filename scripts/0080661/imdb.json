@@ -1,3 +1,978 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7e59e0b2809a278b1a016fa8ef391d3e32a4ffc39d2162185ef0665573189d96
-size 20507
+{
+  "localized title": "Dressed to Kill",
+  "cast": [
+    {
+      "personID": "0000323",
+      "name": "Michael Caine",
+      "character": "Doctor Robert Elliott"
+    },
+    {
+      "personID": "0001141",
+      "name": "Angie Dickinson",
+      "character": "Kate Miller"
+    },
+    {
+      "personID": "0000262",
+      "name": "Nancy Allen",
+      "character": "Liz Blake"
+    },
+    {
+      "personID": "0330360",
+      "name": "Keith Gordon",
+      "character": "Peter Miller"
+    },
+    {
+      "personID": "0001240",
+      "name": "Dennis Franz",
+      "character": "Detective Marino"
+    },
+    {
+      "personID": "0546868",
+      "name": "David Margulies",
+      "character": "Dr. Levy"
+    },
+    {
+      "personID": "0048644",
+      "name": "Ken Baker",
+      "character": "Warren Lockman"
+    },
+    {
+      "personID": "0166290",
+      "name": "Susanna Clemm",
+      "character": "Betty Luce"
+    },
+    {
+      "personID": "0535933",
+      "name": "Brandon Maggart",
+      "character": "Cleveland Sam"
+    },
+    {
+      "personID": "0171876",
+      "name": "Amalie Collier",
+      "character": "Cleaning Woman"
+    },
+    {
+      "personID": "0202629",
+      "name": "Mary Davenport",
+      "character": "Woman in Restaurant"
+    },
+    {
+      "personID": "0223986",
+      "name": "Anneka Di Lorenzo",
+      "character": "Nurse"
+    },
+    {
+      "personID": "0263107",
+      "name": "Norman Evans",
+      "character": "Ted"
+    },
+    {
+      "personID": "0567571",
+      "name": "Robbie L. McDermott",
+      "character": "Man in Shower"
+    },
+    {
+      "personID": "0709876",
+      "name": "Bill Randolph",
+      "character": "Chase Cabbie"
+    },
+    {
+      "personID": "0642508",
+      "name": "Sean O'Rinn",
+      "character": "Museum Cabbie"
+    },
+    {
+      "personID": "0916568",
+      "name": "Fred Weber",
+      "character": "Mike Miller"
+    },
+    {
+      "personID": "0931638",
+      "name": "Samm-Art Williams",
+      "character": "Subway Cop"
+    },
+    {
+      "personID": "0750703",
+      "name": "Robert Lee Rush",
+      "character": "Hood #1"
+    },
+    {
+      "personID": "0780144",
+      "name": "Anthony Boyd Scriven",
+      "character": "Hood #2"
+    },
+    {
+      "personID": "0568344",
+      "name": "Robert McDuffie",
+      "character": "Hood #3"
+    },
+    {
+      "personID": "0761554",
+      "name": "Frederick Sanders",
+      "character": "Hood #4"
+    },
+    {
+      "personID": "10119858",
+      "name": "Paul DeCeglie",
+      "character": "TV Reporter"
+    },
+    {
+      "personID": "0278073",
+      "name": "William Finley",
+      "character": "Bobbi"
+    },
+    {
+      "personID": "2046860",
+      "name": "Wendell Hauser",
+      "character": null
+    },
+    {
+      "personID": "0441699",
+      "name": "Erika Katz",
+      "character": "Girl in Elevator"
+    },
+    {
+      "personID": "0546797",
+      "name": "Mark Margolis",
+      "character": "Patient at Bellvue Hospital"
+    },
+    {
+      "personID": "0671398",
+      "name": "Lisa Peluso",
+      "character": "Museum Girl"
+    },
+    {
+      "personID": "0775094",
+      "name": "Jerry Schram",
+      "character": "Building Tenant"
+    }
+  ],
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "runtimes": [
+    "104"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "country codes": [
+    "us"
+  ],
+  "language codes": [
+    "en"
+  ],
+  "color info": [
+    "Color::(Technicolor)"
+  ],
+  "aspect ratio": "2.35 : 1",
+  "sound mix": [
+    "Mono",
+    "Dolby Digital"
+  ],
+  "box office": {
+    "Budget": "$6,500,000 (estimated)"
+  },
+  "certificates": [
+    "Argentina:18",
+    "Australia:R",
+    "Brazil:14",
+    "Canada:R",
+    "Canada:R::(Manitoba/Nova Scotia/Ontario)",
+    "Canada:13+::(Quebec)",
+    "Denmark:15",
+    "Finland:K-16",
+    "Finland:K-18",
+    "France:16",
+    "Germany:16::(Blu-ray rating)",
+    "Germany:16",
+    "Iceland:16",
+    "India:A",
+    "Ireland:18",
+    "Ireland:18::(DVD rating)",
+    "Italy:VM18",
+    "Mexico:C",
+    "Netherlands:16",
+    "New Zealand:R18",
+    "Norway:15::(recommended rating)",
+    "Norway:16::(video rating)",
+    "Norway:18::(cinema rating)",
+    "Peru:18",
+    "Poland:16::(self-applied)",
+    "Portugal:M/16",
+    "Russia:16+",
+    "Singapore:R21",
+    "South Korea:18",
+    "Spain:18",
+    "Sweden:15",
+    "United Kingdom:18",
+    "United Kingdom:18::(Blu-ray rating)",
+    "United Kingdom:18::(DVD rating)",
+    "United Kingdom:X",
+    "United States:R",
+    "United States:Unrated",
+    "West Germany:18"
+  ],
+  "original air date": "25 Jul 1980 (USA)",
+  "rating": 7.1,
+  "votes": 44297,
+  "cover url": "https://m.media-amazon.com/images/M/MV5BN2Q2MzczNjItOTAxMS00ZDMzLThiZTktZDFjYzRhYTcyYWU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg",
+  "imdbID": "0080661",
+  "videos": [
+    "http://www.imdb.com/title/tt0080661/videoplayer/vi1987886617",
+    "http://www.imdb.com/title/tt0080661/videoplayer/vi1524745241"
+  ],
+  "plot outline": "While taking a shower, Kate Miller, a middle-aged, sexually frustrated New York City housewife, has a rape fantasy while her husband stands at the sink shaving. Later that day, after complaining to her psychiatrist Dr. Robert Elliott about her husband's pathetic performance in bed, she meets a strange man at a museum and returns to his apartment where they continue an adulterous encounter that began in the taxicab. Before she leaves his apartment, she finds papers which certify that the man has a venereal disease. Panicked, Kate rushes into the elevator, but has to return to his apartment when she realizes she's forgotten her wedding ring. When the elevator doors open, she's brutally slashed to death by a tall blonde woman wearing dark sunglasses. Liz Blake, a high-class call girl, is the only witness to the murder and she becomes the prime suspect and the murderer's next target. Liz is rescued from being killed by Kate's son Peter, who enlists the help of Liz to catch his mother's killer as Detective Marino, who's in charge of the case, is uncooperative in the investigation.",
+  "languages": [
+    "English"
+  ],
+  "title": "Dressed to Kill",
+  "year": 1980,
+  "kind": "movie",
+  "original title": "Dressed to Kill",
+  "director": [
+    {
+      "personID": "0000361",
+      "name": "Brian De Palma",
+      "character": null
+    }
+  ],
+  "writer": [
+    {
+      "personID": "0000361",
+      "name": "Brian De Palma",
+      "character": null
+    }
+  ],
+  "producer": [
+    {
+      "personID": "0035098",
+      "name": "Samuel Z. Arkoff",
+      "character": null
+    },
+    {
+      "personID": "0142301",
+      "name": "Fred C. Caruso",
+      "character": null
+    },
+    {
+      "personID": "0514788",
+      "name": "George Litto",
+      "character": null
+    }
+  ],
+  "composer": [
+    {
+      "personID": "0006043",
+      "name": "Pino Donaggio",
+      "character": null
+    }
+  ],
+  "cinematographer": [
+    {
+      "personID": "0005659",
+      "name": "Ralf D. Bode",
+      "character": null
+    }
+  ],
+  "editor": [
+    {
+      "personID": "0338513",
+      "name": "Gerald B. Greenberg",
+      "character": null
+    }
+  ],
+  "editorial department": [
+    {
+      "personID": "0399523",
+      "name": "Ray Hubley",
+      "character": null
+    },
+    {
+      "personID": "0406341",
+      "name": "Maria Iano",
+      "character": null
+    },
+    {
+      "personID": "0659597",
+      "name": "Bill Pankow",
+      "character": null
+    },
+    {
+      "personID": "0679879",
+      "name": "Wende Phifer Mate",
+      "character": null
+    }
+  ],
+  "casting director": [
+    {
+      "personID": "0708525",
+      "name": "Vic Ramos",
+      "character": null
+    }
+  ],
+  "art direction": [
+    {
+      "personID": "0919328",
+      "name": "Gary Weist",
+      "character": null
+    }
+  ],
+  "set decoration": [
+    {
+      "personID": "0109549",
+      "name": "Gary J. Brink",
+      "character": null
+    }
+  ],
+  "costume designer": [
+    {
+      "personID": "0428105",
+      "name": "Gary Jones",
+      "character": null
+    },
+    {
+      "personID": "0744778",
+      "name": "Ann Roth",
+      "character": null
+    }
+  ],
+  "make up": [
+    {
+      "personID": "0186530",
+      "name": "Joe Cranzano",
+      "character": null
+    },
+    {
+      "personID": "0342102",
+      "name": "Bob Grimaldi",
+      "character": null
+    },
+    {
+      "personID": "0480507",
+      "name": "Robert Laden",
+      "character": null
+    },
+    {
+      "personID": "0516156",
+      "name": "Tony Lloyd",
+      "character": null
+    }
+  ],
+  "production manager": [
+    {
+      "personID": "0142301",
+      "name": "Fred C. Caruso",
+      "character": null
+    }
+  ],
+  "assistant director": [
+    {
+      "personID": "0262400",
+      "name": "William Eustace",
+      "character": null
+    },
+    {
+      "personID": "0563394",
+      "name": "Paula Mazur",
+      "character": null
+    },
+    {
+      "personID": "2489804",
+      "name": "Michael Rauch",
+      "character": null
+    },
+    {
+      "personID": "0745074",
+      "name": "Robert Rothbard",
+      "character": null
+    }
+  ],
+  "art department": [
+    {
+      "personID": "0314987",
+      "name": "Gilbert H. Gertsen",
+      "character": null
+    },
+    {
+      "personID": "0437464",
+      "name": "William Kane",
+      "character": null
+    },
+    {
+      "personID": "0523377",
+      "name": "William Lowry",
+      "character": null
+    },
+    {
+      "personID": "0816121",
+      "name": "Ernest W. Southern",
+      "character": null
+    },
+    {
+      "personID": "0933954",
+      "name": "Paul J. Wilson",
+      "character": null
+    }
+  ],
+  "sound crew": [
+    {
+      "personID": "0008513",
+      "name": "Ed Abele",
+      "character": null
+    },
+    {
+      "personID": "0093490",
+      "name": "John H. Bolz",
+      "character": null
+    },
+    {
+      "personID": "0407589",
+      "name": "Peter Ilardi",
+      "character": null
+    },
+    {
+      "personID": "0558197",
+      "name": "Lowell Mate",
+      "character": null
+    },
+    {
+      "personID": "0610555",
+      "name": "Michael Moyse",
+      "character": null
+    },
+    {
+      "personID": "0754797",
+      "name": "Dan Sable",
+      "character": null
+    },
+    {
+      "personID": "0903459",
+      "name": "Dick Vorisek",
+      "character": null
+    },
+    {
+      "personID": "0912043",
+      "name": "Jean Fraser Wardle",
+      "character": null
+    },
+    {
+      "personID": "0171185",
+      "name": "Randall Coleman",
+      "character": null
+    }
+  ],
+  "stunt performer": [
+    {
+      "personID": "0536312",
+      "name": "Victor Magnotta",
+      "character": null
+    },
+    {
+      "personID": "0202835",
+      "name": "BJ Davis",
+      "character": null
+    },
+    {
+      "personID": "0302941",
+      "name": "Tim Gallin",
+      "character": null
+    },
+    {
+      "personID": "0416944",
+      "name": "Steve James",
+      "character": null
+    }
+  ],
+  "camera and electrical department": [
+    {
+      "personID": "0100966",
+      "name": "Holly Bower",
+      "character": null
+    },
+    {
+      "personID": "0386590",
+      "name": "Marc Hirschfeld",
+      "character": null
+    },
+    {
+      "personID": "0448077",
+      "name": "Jack Kennedy",
+      "character": null
+    },
+    {
+      "personID": "0703830",
+      "name": "Ed Quinn",
+      "character": null
+    },
+    {
+      "personID": "0002686",
+      "name": "Michael Stone",
+      "character": null
+    },
+    {
+      "personID": "0906182",
+      "name": "David Wagreich",
+      "character": null
+    },
+    {
+      "personID": "0909681",
+      "name": "James C. Walsh",
+      "character": null
+    },
+    {
+      "personID": "0911924",
+      "name": "William Ward",
+      "character": null
+    },
+    {
+      "personID": "0225144",
+      "name": "Craig DiBona",
+      "character": null
+    },
+    {
+      "personID": "0453981",
+      "name": "Adam Kimmel",
+      "character": null
+    }
+  ],
+  "costume department": [
+    {
+      "personID": "0269232",
+      "name": "Greg Fauss",
+      "character": null
+    },
+    {
+      "personID": "0771910",
+      "name": "Alba Schipari",
+      "character": null
+    }
+  ],
+  "location management": [
+    {
+      "personID": "0188340",
+      "name": "Edward Crocitto",
+      "character": null
+    },
+    {
+      "personID": "0798711",
+      "name": "Jeffrey Silver",
+      "character": null
+    }
+  ],
+  "music department": [
+    {
+      "personID": "0440696",
+      "name": "Todd Kasow",
+      "character": null
+    },
+    {
+      "personID": "0557140",
+      "name": "Natale Massara",
+      "character": null
+    },
+    {
+      "personID": "0608585",
+      "name": "John Moses",
+      "character": null
+    }
+  ],
+  "script department": [
+    {
+      "personID": "0684549",
+      "name": "Martha Pinson",
+      "character": null
+    }
+  ],
+  "transportation department": [
+    {
+      "personID": "0639859",
+      "name": "Tom O'Brien",
+      "character": null
+    },
+    {
+      "personID": "0389598",
+      "name": "Patrick Hogan",
+      "character": null
+    }
+  ],
+  "miscellaneous crew": [
+    {
+      "personID": "0035098",
+      "name": "Samuel Z. Arkoff",
+      "character": null
+    },
+    {
+      "personID": "0210585",
+      "name": "Jean De Niro",
+      "character": null
+    },
+    {
+      "personID": "0384263",
+      "name": "Gary Hill",
+      "character": null
+    },
+    {
+      "personID": "0006787",
+      "name": "Sam Irvin",
+      "character": null
+    },
+    {
+      "personID": "0444002",
+      "name": "Gail Kearns",
+      "character": null
+    },
+    {
+      "personID": "0546183",
+      "name": "Shirley Marcus",
+      "character": null
+    },
+    {
+      "personID": "0558060",
+      "name": "Danny Matalon",
+      "character": null
+    },
+    {
+      "personID": "1956719",
+      "name": "Curtis Sayblack",
+      "character": null
+    },
+    {
+      "personID": "0001797",
+      "name": "Rachel Ticotin",
+      "character": null
+    },
+    {
+      "personID": "0017377",
+      "name": "Rutanya Alda",
+      "character": null
+    },
+    {
+      "personID": "0217858",
+      "name": "Dick Delson",
+      "character": null
+    },
+    {
+      "personID": "0321565",
+      "name": "Joy Glaccum",
+      "character": null
+    },
+    {
+      "personID": "0426399",
+      "name": "Victoria Johnson",
+      "character": null
+    }
+  ],
+  "akas": [
+    "Pulsions (France)",
+    "Vestida para matar (Spain)",
+    "Pregatit pentru a ucide (Romania)",
+    "\u041e\u0434\u044f\u0433\u043d\u0435\u043d\u0438\u0439 \u0434\u043b\u044f \u0432\u0431\u0438\u0432\u0441\u0442\u0432\u0430 (Ukraine)",
+    "Vestito per uccidere (Italy)"
+  ],
+  "production companies": [
+    {
+      "companyID": "0065715",
+      "name": "Filmways Pictures"
+    },
+    {
+      "companyID": "0024409",
+      "name": "Cinema 77 Films"
+    },
+    {
+      "companyID": "0022781",
+      "name": "American International Pictures"
+    }
+  ],
+  "distributors": [
+    {
+      "companyID": "0065715",
+      "name": "Filmways Pictures"
+    },
+    {
+      "companyID": "0022781",
+      "name": "American International Pictures (AIP)"
+    },
+    {
+      "companyID": "0029714",
+      "name": "Europa Film"
+    },
+    {
+      "companyID": "0060952",
+      "name": "Adams Filmi"
+    },
+    {
+      "companyID": "0069524",
+      "name": "Union G\u00e9n\u00e9rale Cin\u00e9matographique (UGC)"
+    },
+    {
+      "companyID": "0001995",
+      "name": "Orion Pictures"
+    },
+    {
+      "companyID": "0072315",
+      "name": "National Broadcasting Company (NBC)"
+    },
+    {
+      "companyID": "0030983",
+      "name": "Vestron Video"
+    },
+    {
+      "companyID": "0008958",
+      "name": "La Cinq"
+    },
+    {
+      "companyID": "0231846",
+      "name": "Vestron Video International"
+    },
+    {
+      "companyID": "0059995",
+      "name": "Warner Home Video"
+    },
+    {
+      "companyID": "0197220",
+      "name": "TV3"
+    },
+    {
+      "companyID": "0013585",
+      "name": "Image Entertainment"
+    },
+    {
+      "companyID": "0081756",
+      "name": "GoodTimes Home Video"
+    },
+    {
+      "companyID": "0013585",
+      "name": "Image Entertainment"
+    },
+    {
+      "companyID": "0007143",
+      "name": "Metro-Goldwyn-Mayer (MGM)"
+    },
+    {
+      "companyID": "0139598",
+      "name": "Sandrew Film & Teater"
+    },
+    {
+      "companyID": "0081756",
+      "name": "GoodTimes Home Video"
+    },
+    {
+      "companyID": "0037047",
+      "name": "Carlotta Films"
+    },
+    {
+      "companyID": "0013526",
+      "name": "Yleisradio (YLE)"
+    },
+    {
+      "companyID": "0015461",
+      "name": "MGM Home Entertainment"
+    },
+    {
+      "companyID": "0015461",
+      "name": "MGM Home Entertainment"
+    },
+    {
+      "companyID": "0189783",
+      "name": "Twentieth Century Fox Home Entertainment"
+    },
+    {
+      "companyID": "0015461",
+      "name": "MGM Home Entertainment"
+    },
+    {
+      "companyID": "0069920",
+      "name": "Mainostelevisio (MTV3)"
+    },
+    {
+      "companyID": "0108097",
+      "name": "Emerald"
+    },
+    {
+      "companyID": "0079555",
+      "name": "Future Film"
+    },
+    {
+      "companyID": "0267142",
+      "name": "Lumi\u00e8re Home Entertainment"
+    },
+    {
+      "companyID": "0056715",
+      "name": "Ambassador Film Distributors"
+    },
+    {
+      "companyID": "0115412",
+      "name": "Cinedaf"
+    },
+    {
+      "companyID": "0023689",
+      "name": "Condor Filmes"
+    },
+    {
+      "companyID": "0133933",
+      "name": "Mission"
+    },
+    {
+      "companyID": "0802347",
+      "name": "Orion Pictures International"
+    },
+    {
+      "companyID": "0001995",
+      "name": "Orion Pictures"
+    },
+    {
+      "companyID": "0058792",
+      "name": "Roadshow Films"
+    },
+    {
+      "companyID": "0008003",
+      "name": "Sonoro Filme"
+    },
+    {
+      "companyID": "0150813",
+      "name": "20th Century Fox Home Entertainment"
+    },
+    {
+      "companyID": "0042468",
+      "name": "Arrow Films"
+    },
+    {
+      "companyID": "0028560",
+      "name": "CEL Home Video"
+    },
+    {
+      "companyID": "0281971",
+      "name": "Cannon/VMP"
+    },
+    {
+      "companyID": "0299302",
+      "name": "Filmconfect Home Entertainment"
+    },
+    {
+      "companyID": "0299302",
+      "name": "Filmconfect Home Entertainment"
+    },
+    {
+      "companyID": "0004090",
+      "name": "Flashstar"
+    },
+    {
+      "companyID": "0048760",
+      "name": "Home Video Hellas (HVH)"
+    },
+    {
+      "companyID": "0015461",
+      "name": "MGM Home Entertainment"
+    },
+    {
+      "companyID": "0774691",
+      "name": "Metro Goldwyn Mayer"
+    },
+    {
+      "companyID": "0774691",
+      "name": "Metro Goldwyn Mayer"
+    },
+    {
+      "companyID": "0086419",
+      "name": "Odeon"
+    },
+    {
+      "companyID": "0036219",
+      "name": "RCA (II)"
+    },
+    {
+      "companyID": "0190332",
+      "name": "RCV Home Entertainment"
+    },
+    {
+      "companyID": "0065933",
+      "name": "Star Video"
+    },
+    {
+      "companyID": "0804141",
+      "name": "The Criterion Channel"
+    },
+    {
+      "companyID": "0044076",
+      "name": "The Criterion Collection"
+    },
+    {
+      "companyID": "0044076",
+      "name": "The Criterion Collection"
+    },
+    {
+      "companyID": "0079204",
+      "name": "T\u00e9l\u00e9vision Suisse-Romande (TSR)"
+    },
+    {
+      "companyID": "0215585",
+      "name": "VTC-Video"
+    },
+    {
+      "companyID": "0077647",
+      "name": "Viacom"
+    },
+    {
+      "companyID": "0149423",
+      "name": "VideoVisa"
+    },
+    {
+      "companyID": "0149423",
+      "name": "VideoVisa"
+    },
+    {
+      "companyID": "0059995",
+      "name": "Warner Home Video"
+    }
+  ],
+  "other companies": [
+    {
+      "companyID": "0119132",
+      "name": "Sylvia Fay Casting"
+    },
+    {
+      "companyID": "0036479",
+      "name": "Trans / Audio"
+    },
+    {
+      "companyID": "0098880",
+      "name": "Hastings Sound Editorial"
+    },
+    {
+      "companyID": "0050708",
+      "name": "John Springer Associates Inc."
+    },
+    {
+      "companyID": "0025465",
+      "name": "The Optical House"
+    },
+    {
+      "companyID": "0068270",
+      "name": "Cinemobile System"
+    },
+    {
+      "companyID": "0065861",
+      "name": "Technicolor"
+    },
+    {
+      "companyID": "0169798",
+      "name": "Movielab"
+    },
+    {
+      "companyID": "0041930",
+      "name": "Panavision"
+    },
+    {
+      "companyID": "0379622",
+      "name": "Multimedia Broadcasting Company"
+    },
+    {
+      "companyID": "0190210",
+      "name": "International Alliance of Theatrical Stage Employees (IATSE)"
+    }
+  ]
+}

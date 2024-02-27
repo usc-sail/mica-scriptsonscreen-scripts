@@ -1,3 +1,4910 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:40777cfb2c5541a1961e5013c1484009ec0afe63ebf5b6b8194c8c7ab29ee1da
-size 98561
+{
+  "localized title": "Atomic Blonde",
+  "cast": [
+    {
+      "personID": "0000234",
+      "name": "Charlize Theron",
+      "character": "Lorraine Broughton"
+    },
+    {
+      "personID": "0564215",
+      "name": "James McAvoy",
+      "character": "David Percival"
+    },
+    {
+      "personID": "0550371",
+      "name": "Eddie Marsan",
+      "character": "Spyglass"
+    },
+    {
+      "personID": "0000422",
+      "name": "John Goodman",
+      "character": "Emmett Kurzfeld"
+    },
+    {
+      "personID": "0429363",
+      "name": "Toby Jones",
+      "character": "Eric Gray"
+    },
+    {
+      "personID": "0269077",
+      "name": "James Faulkner",
+      "character": "Chief 'C'"
+    },
+    {
+      "personID": "3435612",
+      "name": "Roland M\u00f8ller",
+      "character": "Aleksander Bremovych"
+    },
+    {
+      "personID": "1154749",
+      "name": "Sofia Boutella",
+      "character": "Delphine Lasalle"
+    },
+    {
+      "personID": "0803889",
+      "name": "Bill Skarsg\u00e5rd",
+      "character": "Merkel"
+    },
+    {
+      "personID": "1092087",
+      "name": "Sam Hargrave",
+      "character": "James Gasciogne"
+    },
+    {
+      "personID": "1778512",
+      "name": "J\u00f3hannes Haukur J\u00f3hannesson",
+      "character": "Yuri Bakhtin"
+    },
+    {
+      "personID": "0001709",
+      "name": "Til Schweiger",
+      "character": "Watchmaker"
+    },
+    {
+      "personID": "0837784",
+      "name": "Barbara Sukowa",
+      "character": "Coroner"
+    },
+    {
+      "personID": "0037074",
+      "name": "Attila Arpa",
+      "character": "East German Guard #1"
+    },
+    {
+      "personID": "2567625",
+      "name": "Martin Angerbauer",
+      "character": "East German Guard #2"
+    },
+    {
+      "personID": "1505397",
+      "name": "Lili Gesler",
+      "character": "Helena"
+    },
+    {
+      "personID": "9147680",
+      "name": "Sara Natasa Szonda",
+      "character": "Audrey"
+    },
+    {
+      "personID": "0360426",
+      "name": "Declan Hannigan",
+      "character": "Driver"
+    },
+    {
+      "personID": "3284347",
+      "name": "Balazs Lengyel",
+      "character": "Gentleman"
+    },
+    {
+      "personID": "5045679",
+      "name": "Daniel Hargrave",
+      "character": "Sniper"
+    },
+    {
+      "personID": "4609551",
+      "name": "Greg Rementer",
+      "character": "Spotter"
+    },
+    {
+      "personID": "0076780",
+      "name": "Daniel Bernhardt",
+      "character": "Soldier"
+    },
+    {
+      "personID": "4897417",
+      "name": "Cale Schultz",
+      "character": "Boris"
+    },
+    {
+      "personID": "6525412",
+      "name": "Attila Hasznosi",
+      "character": "Protester in Berlin"
+    },
+    {
+      "personID": "0517064",
+      "name": "Kurt Loder",
+      "character": "Self"
+    },
+    {
+      "personID": "0001654",
+      "name": "Ronald Reagan",
+      "character": "Self"
+    },
+    {
+      "personID": "7835945",
+      "name": "Bal\u00e1zs Veres",
+      "character": "Berlin Protester"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "runtimes": [
+    "115"
+  ],
+  "countries": [
+    "United States",
+    "Germany",
+    "Sweden",
+    "Hungary"
+  ],
+  "country codes": [
+    "us",
+    "de",
+    "se",
+    "hu"
+  ],
+  "language codes": [
+    "en",
+    "de",
+    "ru",
+    "sv"
+  ],
+  "color info": [
+    "Color"
+  ],
+  "aspect ratio": "2.39 : 1",
+  "sound mix": [
+    "Dolby Atmos",
+    "Dolby Digital",
+    "DTS::(DTS: X)"
+  ],
+  "box office": {
+    "Budget": "$30,000,000 (estimated)",
+    "Opening Weekend United States": "$18,286,420, 30 Jul 2017",
+    "Cumulative Worldwide Gross": "$100,014,025"
+  },
+  "certificates": [
+    "Argentina:16",
+    "Australia:MA15+",
+    "Austria:16",
+    "Brazil:16",
+    "Canada:14A::(Alberta)",
+    "Canada:14A::(British Columbia)",
+    "Canada:18A::(Canadian Home Video rating)",
+    "Canada:18A::(Manitoba)",
+    "Canada:18A::(Ontario)",
+    "Canada:13+::(Quebec)",
+    "Chile:14",
+    "Colombia:15",
+    "Egypt:R::(self-applied)",
+    "Finland:K-16",
+    "France:12",
+    "Germany:16",
+    "Hong Kong:III",
+    "Hong Kong:IIB",
+    "Hungary:18",
+    "Iceland:16",
+    "India:A",
+    "India:A",
+    "India:UA::(edited)",
+    "Indonesia:21+",
+    "Ireland:16",
+    "Ireland:15::(DVD rating)",
+    "Israel:16",
+    "Italy:T",
+    "Japan:R15+",
+    "Lithuania:N-16",
+    "Luxembourg:16",
+    "Malaysia:18",
+    "Malta:15",
+    "Mexico:B15",
+    "Netherlands:16",
+    "New Zealand:R16",
+    "Norway:15::(cinema rating)",
+    "Philippines:R-16",
+    "Poland:16::(self-applied)",
+    "Portugal:M/16",
+    "Russia:18+",
+    "Singapore:R21",
+    "South Africa:16",
+    "South Korea:18",
+    "Spain:12",
+    "Sweden:15::(self-applied)",
+    "Switzerland:16",
+    "Taiwan:R-18",
+    "Thailand:18",
+    "Turkey:18+",
+    "United Kingdom:15",
+    "United States:R",
+    "Ukraine:16",
+    "United Arab Emirates:18+::(self-applied)",
+    "Vietnam:C18"
+  ],
+  "original air date": "28 Jul 2017 (USA)",
+  "rating": 6.7,
+  "votes": 198892,
+  "cover url": "https://m.media-amazon.com/images/M/MV5BMjM5NDYzMzg5N15BMl5BanBnXkFtZTgwOTM2NDU1MjI@._V1_SX101_CR0,0,101,150_.jpg",
+  "imdbID": "2406566",
+  "videos": [
+    "http://www.imdb.com/title/tt2406566/videoplayer/vi500742425",
+    "http://www.imdb.com/title/tt2406566/videoplayer/vi365476121"
+  ],
+  "plot outline": "The crown jewel of Her Majesty's Secret Intelligence Service, Agent Lorraine Broughton (Theron) is equal parts spycraft, sensuality and savagery, willing to deploy any of her skills to stay alive on her impossible mission. Sent alone into Berlin to deliver a priceless dossier out of the destabilized city, she partners with embedded station chief David Percival (James McAvoy) to navigate her way through the deadliest game of spies.",
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Swedish"
+  ],
+  "title": "Atomic Blonde",
+  "year": 2017,
+  "kind": "movie",
+  "original title": "Atomic Blonde",
+  "director": [
+    {
+      "personID": "0500610",
+      "name": "David Leitch",
+      "character": null
+    }
+  ],
+  "writer": [
+    {
+      "personID": "0426500",
+      "name": "Kurt Johnstad",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "2985952",
+      "name": "Antony Johnston",
+      "character": null
+    },
+    {
+      "personID": "8697009",
+      "name": "Sam Hart",
+      "character": null
+    }
+  ],
+  "producer": [
+    {
+      "personID": "0228690",
+      "name": "A.J. Dix",
+      "character": null
+    },
+    {
+      "personID": "0321218",
+      "name": "Eric Gitter",
+      "character": null
+    },
+    {
+      "personID": "0347128",
+      "name": "David Guillod",
+      "character": null
+    },
+    {
+      "personID": "0426500",
+      "name": "Kurt Johnstad",
+      "character": null
+    },
+    {
+      "personID": "2985952",
+      "name": "Antony Johnston",
+      "character": null
+    },
+    {
+      "personID": "0447189",
+      "name": "Ildiko Kemeny",
+      "character": null
+    },
+    {
+      "personID": "1461537",
+      "name": "Beth Kono",
+      "character": null
+    },
+    {
+      "personID": "0566555",
+      "name": "Kelly McCormick",
+      "character": null
+    },
+    {
+      "personID": "0583293",
+      "name": "Nick Meyer",
+      "character": null
+    },
+    {
+      "personID": "0591459",
+      "name": "David Minkowski",
+      "character": null
+    },
+    {
+      "personID": "2249759",
+      "name": "Jeff Morrone",
+      "character": null
+    },
+    {
+      "personID": "8999500",
+      "name": "Anthony Muir",
+      "character": null
+    },
+    {
+      "personID": "1060496",
+      "name": "Joe Nozemack",
+      "character": null
+    },
+    {
+      "personID": "2324489",
+      "name": "Steven V. Scavelli",
+      "character": null
+    },
+    {
+      "personID": "0972107",
+      "name": "Marc Schaberg",
+      "character": null
+    },
+    {
+      "personID": "0777910",
+      "name": "Peter Schwerin",
+      "character": null
+    },
+    {
+      "personID": "0808178",
+      "name": "Ethan Smith",
+      "character": null
+    },
+    {
+      "personID": "0000234",
+      "name": "Charlize Theron",
+      "character": null
+    },
+    {
+      "personID": "0867833",
+      "name": "Jasmina Torbati",
+      "character": null
+    },
+    {
+      "personID": "0952868",
+      "name": "Fredrik Zander",
+      "character": null
+    }
+  ],
+  "composer": [
+    {
+      "personID": "0061045",
+      "name": "Tyler Bates",
+      "character": null
+    }
+  ],
+  "cinematographer": [
+    {
+      "personID": "0782930",
+      "name": "Jonathan Sela",
+      "character": null
+    }
+  ],
+  "editor": [
+    {
+      "personID": "0739894",
+      "name": "El\u00edsabet Ronaldsd\u00f3ttir",
+      "character": null
+    }
+  ],
+  "editorial department": [
+    {
+      "personID": "0003691",
+      "name": "Matt Absher",
+      "character": null
+    },
+    {
+      "personID": "1874610",
+      "name": "H\u00e5kan Blomdahl",
+      "character": null
+    },
+    {
+      "personID": "4408237",
+      "name": "Zach Chamberlin",
+      "character": null
+    },
+    {
+      "personID": "3201710",
+      "name": "Ireneusz Dabrowski",
+      "character": null
+    },
+    {
+      "personID": "2245768",
+      "name": "Matyas Fekete",
+      "character": null
+    },
+    {
+      "personID": "9000676",
+      "name": "Brian Gaideski",
+      "character": null
+    },
+    {
+      "personID": "5053955",
+      "name": "Christoffer Holmberg",
+      "character": null
+    },
+    {
+      "personID": "0392124",
+      "name": "Mats Holmgren",
+      "character": null
+    },
+    {
+      "personID": "1523544",
+      "name": "Andreas Hylander",
+      "character": null
+    },
+    {
+      "personID": "4414599",
+      "name": "Hilton Jones",
+      "character": null
+    },
+    {
+      "personID": "8391717",
+      "name": "Quinn Kawata",
+      "character": null
+    },
+    {
+      "personID": "5099678",
+      "name": "Susanne Kujala",
+      "character": null
+    },
+    {
+      "personID": "6252950",
+      "name": "Vincent Larsson",
+      "character": null
+    },
+    {
+      "personID": "0605214",
+      "name": "Fredrik Morheden",
+      "character": null
+    },
+    {
+      "personID": "0651800",
+      "name": "Anneli Oscarsson",
+      "character": null
+    },
+    {
+      "personID": "7859402",
+      "name": "Jakub Sokolowski",
+      "character": null
+    },
+    {
+      "personID": "5755624",
+      "name": "Tove T\u00f6rbacka",
+      "character": null
+    },
+    {
+      "personID": "4275152",
+      "name": "Varun Viswanath",
+      "character": null
+    },
+    {
+      "personID": "2140479",
+      "name": "Charlotta Weckstr\u00f6m",
+      "character": null
+    },
+    {
+      "personID": "0652368",
+      "name": "Per-Erik \u00d6sterlund",
+      "character": null
+    },
+    {
+      "personID": "3322134",
+      "name": "Bori Bartucz",
+      "character": null
+    },
+    {
+      "personID": "3357012",
+      "name": "Francesco Luigi Giardiello",
+      "character": null
+    },
+    {
+      "personID": "8685314",
+      "name": "Axel Hedberg",
+      "character": null
+    },
+    {
+      "personID": "5079531",
+      "name": "Adam Jurkovich",
+      "character": null
+    },
+    {
+      "personID": "6767902",
+      "name": "Szab\u00f3 M\u00e1t\u00e9",
+      "character": null
+    }
+  ],
+  "casting director": [
+    {
+      "personID": "0079667",
+      "name": "Lucy Bevan",
+      "character": null
+    },
+    {
+      "personID": "0190783",
+      "name": "Zsolt Csutak",
+      "character": null
+    },
+    {
+      "personID": "14776261",
+      "name": "Luise Eigner",
+      "character": null
+    },
+    {
+      "personID": "5477810",
+      "name": "Marisol Roncali",
+      "character": null
+    },
+    {
+      "personID": "0894611",
+      "name": "Mary Vernieu",
+      "character": null
+    }
+  ],
+  "production design": [
+    {
+      "personID": "2030911",
+      "name": "David Scheunemann",
+      "character": null
+    }
+  ],
+  "art direction": [
+    {
+      "personID": "2435298",
+      "name": "Zsuzsa Kismarty-Lechner",
+      "character": null
+    },
+    {
+      "personID": "0529486",
+      "name": "Tibor L\u00e1z\u00e1r",
+      "character": null
+    },
+    {
+      "personID": "2824062",
+      "name": "Wolfgang Metschan",
+      "character": null
+    }
+  ],
+  "set decoration": [
+    {
+      "personID": "1386368",
+      "name": "Zsuzsa Mihalek",
+      "character": null
+    },
+    {
+      "personID": "1868851",
+      "name": "Mark Rosinski",
+      "character": null
+    }
+  ],
+  "costume designer": [
+    {
+      "personID": "0262639",
+      "name": "Cindy Evans",
+      "character": null
+    }
+  ],
+  "make up": [
+    {
+      "personID": "0029837",
+      "name": "Enzo Angileri",
+      "character": null
+    },
+    {
+      "personID": "2018591",
+      "name": "Csilla Blake-Horv\u00e1th",
+      "character": null
+    },
+    {
+      "personID": "1104722",
+      "name": "Erzs\u00e9bet Bodor",
+      "character": null
+    },
+    {
+      "personID": "0117639",
+      "name": "Babette Br\u00f6seke",
+      "character": null
+    },
+    {
+      "personID": "1834917",
+      "name": "M\u00f3ni Csom\u00f3s",
+      "character": null
+    },
+    {
+      "personID": "0353987",
+      "name": "Gabriele Hahn-Laue",
+      "character": null
+    },
+    {
+      "personID": "2465191",
+      "name": "N\u00f3ra Kap\u00e1s",
+      "character": null
+    },
+    {
+      "personID": "1276217",
+      "name": "Klaudia Kir\u00e1ly",
+      "character": null
+    },
+    {
+      "personID": "0467289",
+      "name": "Grit Kosse",
+      "character": null
+    },
+    {
+      "personID": "0509666",
+      "name": "Monika Lienig",
+      "character": null
+    },
+    {
+      "personID": "0509667",
+      "name": "Wolfgang Lienig",
+      "character": null
+    },
+    {
+      "personID": "0514109",
+      "name": "Silka Lisku",
+      "character": null
+    },
+    {
+      "personID": "2877699",
+      "name": "R\u00e9ka Mar\u00f3ti",
+      "character": null
+    },
+    {
+      "personID": "0559893",
+      "name": "Winnie Mattheus",
+      "character": null
+    },
+    {
+      "personID": "6417173",
+      "name": "Karla Meirer",
+      "character": null
+    },
+    {
+      "personID": "4446622",
+      "name": "Ernst-Oskar Modrow",
+      "character": null
+    },
+    {
+      "personID": "5324637",
+      "name": "Brigitta Mogony",
+      "character": null
+    },
+    {
+      "personID": "0666519",
+      "name": "Paul Pattison",
+      "character": null
+    },
+    {
+      "personID": "0866207",
+      "name": "Francesca Tolot",
+      "character": null
+    },
+    {
+      "personID": "4763260",
+      "name": "Jeannette Tripodi",
+      "character": null
+    },
+    {
+      "personID": "9875233",
+      "name": "Lili Turi",
+      "character": null
+    },
+    {
+      "personID": "0050502",
+      "name": "Rita Balla",
+      "character": null
+    },
+    {
+      "personID": "1349569",
+      "name": "Kevin Carter",
+      "character": null
+    },
+    {
+      "personID": "9740960",
+      "name": "Judit Farkas-Arful",
+      "character": null
+    },
+    {
+      "personID": "3900400",
+      "name": "Krisztina Feh\u00e9r",
+      "character": null
+    },
+    {
+      "personID": "2837270",
+      "name": "D\u00f3ra Horv\u00e1th Kertai",
+      "character": null
+    },
+    {
+      "personID": "2706721",
+      "name": "Rita Horv\u00e1th",
+      "character": null
+    },
+    {
+      "personID": "8918228",
+      "name": "G\u00e1bor Moln\u00e1r",
+      "character": null
+    },
+    {
+      "personID": "0809931",
+      "name": "Shaun Smith",
+      "character": null
+    },
+    {
+      "personID": "8076256",
+      "name": "No\u00e9mi Varr\u00f3",
+      "character": null
+    }
+  ],
+  "production manager": [
+    {
+      "personID": "3969634",
+      "name": "Roland Birtha",
+      "character": null
+    },
+    {
+      "personID": "1874465",
+      "name": "Nora Feher",
+      "character": null
+    },
+    {
+      "personID": "3291686",
+      "name": "\u00c1d\u00e1m Gonda",
+      "character": null
+    },
+    {
+      "personID": "0398780",
+      "name": "Vickie M. Hsieh",
+      "character": null
+    },
+    {
+      "personID": "1394455",
+      "name": "M\u00f3nika Nagy",
+      "character": null
+    },
+    {
+      "personID": "2087778",
+      "name": "J\u00f3zsef N\u00e9meth",
+      "character": null
+    },
+    {
+      "personID": "0669838",
+      "name": "Tim Pedegana",
+      "character": null
+    },
+    {
+      "personID": "0808178",
+      "name": "Ethan Smith",
+      "character": null
+    },
+    {
+      "personID": "2946695",
+      "name": "Henrik Szab\u00f3",
+      "character": null
+    },
+    {
+      "personID": "1820756",
+      "name": "Richard Szab\u00f3",
+      "character": null
+    },
+    {
+      "personID": "2261284",
+      "name": "Jason Pomerantz",
+      "character": null
+    },
+    {
+      "personID": "0867833",
+      "name": "Jasmina Torbati",
+      "character": null
+    }
+  ],
+  "assistant director": [
+    {
+      "personID": "3871299",
+      "name": "Dennis Becker",
+      "character": null
+    },
+    {
+      "personID": "4479965",
+      "name": "Veronika Binder",
+      "character": null
+    },
+    {
+      "personID": "5346176",
+      "name": "Andras Boza",
+      "character": null
+    },
+    {
+      "personID": "0003932",
+      "name": "Josy Capkun",
+      "character": null
+    },
+    {
+      "personID": "12520316",
+      "name": "Kat Dietl",
+      "character": null
+    },
+    {
+      "personID": "7030452",
+      "name": "Mil\u00e1n Gajdos",
+      "character": null
+    },
+    {
+      "personID": "12520358",
+      "name": "Mielle Gerard",
+      "character": null
+    },
+    {
+      "personID": "5346086",
+      "name": "P\u00e9ter Haj\u00f3s",
+      "character": null
+    },
+    {
+      "personID": "1092087",
+      "name": "Sam Hargrave",
+      "character": null
+    },
+    {
+      "personID": "4819085",
+      "name": "Christiana Hug",
+      "character": null
+    },
+    {
+      "personID": "4192610",
+      "name": "Andr\u00e1s Krucsai",
+      "character": null
+    },
+    {
+      "personID": "1144051",
+      "name": "Frank Kusche",
+      "character": null
+    },
+    {
+      "personID": "9240756",
+      "name": "Marian M\u00e4chler",
+      "character": null
+    },
+    {
+      "personID": "6545007",
+      "name": "Benedek Nagy",
+      "character": null
+    },
+    {
+      "personID": "10101486",
+      "name": "Joe Newson",
+      "character": null
+    },
+    {
+      "personID": "3336869",
+      "name": "Rickie-Lee Roberts",
+      "character": null
+    },
+    {
+      "personID": "9320564",
+      "name": "Oliver Santa",
+      "character": null
+    },
+    {
+      "personID": "0004176",
+      "name": "Lisa C. Satriano",
+      "character": null
+    },
+    {
+      "personID": "3663432",
+      "name": "Roxana Szarisz",
+      "character": null
+    },
+    {
+      "personID": "1864075",
+      "name": "Szonja Szeker\u00e1k",
+      "character": null
+    },
+    {
+      "personID": "3226118",
+      "name": "Zsolt Tolm\u00e1r",
+      "character": null
+    },
+    {
+      "personID": "3228069",
+      "name": "Ferenc T\u00f3th",
+      "character": null
+    },
+    {
+      "personID": "10995993",
+      "name": "Jozsef Varju",
+      "character": null
+    },
+    {
+      "personID": "0895528",
+      "name": "Caroline Veyssi\u00e8re",
+      "character": null
+    },
+    {
+      "personID": "3226118",
+      "name": "Zsolt Tolm\u00e1r",
+      "character": null
+    }
+  ],
+  "art department": [
+    {
+      "personID": "3190505",
+      "name": "Szedlacsek Balazs",
+      "character": null
+    },
+    {
+      "personID": "0051034",
+      "name": "Istv\u00e1n Balogh",
+      "character": null
+    },
+    {
+      "personID": "7283182",
+      "name": "Petra Balogh",
+      "character": null
+    },
+    {
+      "personID": "2746555",
+      "name": "P\u00e9ter Behan",
+      "character": null
+    },
+    {
+      "personID": "10127427",
+      "name": "Viktor Bel\u00e1gyi",
+      "character": null
+    },
+    {
+      "personID": "6909783",
+      "name": "Herv\u00e9 Berthou",
+      "character": null
+    },
+    {
+      "personID": "5600957",
+      "name": "D\u00e1niel Blik",
+      "character": null
+    },
+    {
+      "personID": "7421678",
+      "name": "Enci Bognar",
+      "character": null
+    },
+    {
+      "personID": "3517572",
+      "name": "Michael Bortz",
+      "character": null
+    },
+    {
+      "personID": "1672838",
+      "name": "Henning Brehm",
+      "character": null
+    },
+    {
+      "personID": "1565862",
+      "name": "L\u00e1szl\u00f3 Brunszk\u00f3",
+      "character": null
+    },
+    {
+      "personID": "2820411",
+      "name": "Zolt\u00e1n Bus",
+      "character": null
+    },
+    {
+      "personID": "9240754",
+      "name": "Hubert B\u00f6ck",
+      "character": null
+    },
+    {
+      "personID": "3014705",
+      "name": "Ricardo Contreras",
+      "character": null
+    },
+    {
+      "personID": "0180203",
+      "name": "Nane Cornelius",
+      "character": null
+    },
+    {
+      "personID": "2282830",
+      "name": "Lars Dicht",
+      "character": null
+    },
+    {
+      "personID": "0248721",
+      "name": "Klaus Eckmann",
+      "character": null
+    },
+    {
+      "personID": "4131051",
+      "name": "Andr\u00e1s Ga\u00e1l",
+      "character": null
+    },
+    {
+      "personID": "1571423",
+      "name": "Dierk Grahlow",
+      "character": null
+    },
+    {
+      "personID": "4003302",
+      "name": "Dennis Gutzeit",
+      "character": null
+    },
+    {
+      "personID": "0406159",
+      "name": "Marcus Haendgen",
+      "character": null
+    },
+    {
+      "personID": "7030451",
+      "name": "J\u00f3zsef Harasztia",
+      "character": null
+    },
+    {
+      "personID": "1448755",
+      "name": "Todd Harris",
+      "character": null
+    },
+    {
+      "personID": "12520314",
+      "name": "L\u00e1szl\u00f3 Heged\u00fcs",
+      "character": null
+    },
+    {
+      "personID": "4480313",
+      "name": "G\u00e1bor Hupp\u00e1n",
+      "character": null
+    },
+    {
+      "personID": "7793123",
+      "name": "Hardy Ilona",
+      "character": null
+    },
+    {
+      "personID": "3544378",
+      "name": "Bence Kalm\u00e1r",
+      "character": null
+    },
+    {
+      "personID": "3957973",
+      "name": "John Kalus",
+      "character": null
+    },
+    {
+      "personID": "12520315",
+      "name": "Csaba Katona",
+      "character": null
+    },
+    {
+      "personID": "12520357",
+      "name": "Ehad Kilic",
+      "character": null
+    },
+    {
+      "personID": "3581845",
+      "name": "G\u00e1bor Kiss",
+      "character": null
+    },
+    {
+      "personID": "1140475",
+      "name": "J\u00f3zsef Kiss",
+      "character": null
+    },
+    {
+      "personID": "0322076",
+      "name": "Roxy Konrad",
+      "character": null
+    },
+    {
+      "personID": "7186790",
+      "name": "Jaroslaw Kozak",
+      "character": null
+    },
+    {
+      "personID": "4168865",
+      "name": "M\u00e1rk Kun",
+      "character": null
+    },
+    {
+      "personID": "2013990",
+      "name": "Bendeg\u00faz K\u00f6rm\u00f6czi",
+      "character": null
+    },
+    {
+      "personID": "4709731",
+      "name": "Miriam M\u00fcller",
+      "character": null
+    },
+    {
+      "personID": "7796538",
+      "name": "Zita Nagy",
+      "character": null
+    },
+    {
+      "personID": "12520313",
+      "name": "Istvan Nemeth",
+      "character": null
+    },
+    {
+      "personID": "12520312",
+      "name": "Zsuzsa Nonn",
+      "character": null
+    },
+    {
+      "personID": "4612645",
+      "name": "L\u00e1szl\u00f3 Oberfrank",
+      "character": null
+    },
+    {
+      "personID": "8014017",
+      "name": "G\u00e1bor Pankasz",
+      "character": null
+    },
+    {
+      "personID": "5207979",
+      "name": "Daniel Plashues",
+      "character": null
+    },
+    {
+      "personID": "5600961",
+      "name": "L\u00e1szl\u00f3 Poly\u00e1k",
+      "character": null
+    },
+    {
+      "personID": "2757303",
+      "name": "Dominik Reindl",
+      "character": null
+    },
+    {
+      "personID": "5517076",
+      "name": "Zalan Sipos",
+      "character": null
+    },
+    {
+      "personID": "0843665",
+      "name": "Zolt\u00e1n Szab\u00f3",
+      "character": null
+    },
+    {
+      "personID": "7794769",
+      "name": "Peter Szilagyi",
+      "character": null
+    },
+    {
+      "personID": "1245929",
+      "name": "L\u00e1szl\u00f3 Szirmai",
+      "character": null
+    },
+    {
+      "personID": "4177791",
+      "name": "Veronika Sz\u00fccs",
+      "character": null
+    },
+    {
+      "personID": "0844616",
+      "name": "Judit S\u00e1gi",
+      "character": null
+    },
+    {
+      "personID": "2163740",
+      "name": "David Thummerer",
+      "character": null
+    },
+    {
+      "personID": "1525305",
+      "name": "B\u00e9la Tollay",
+      "character": null
+    },
+    {
+      "personID": "0879439",
+      "name": "B\u00e9la Zsolt T\u00f3th",
+      "character": null
+    },
+    {
+      "personID": "7323518",
+      "name": "Bal\u00e1zs Uzs\u00e1k",
+      "character": null
+    },
+    {
+      "personID": "2743527",
+      "name": "Zolt\u00e1n Varga",
+      "character": null
+    },
+    {
+      "personID": "9469477",
+      "name": "Simon Vierboom",
+      "character": null
+    },
+    {
+      "personID": "8413323",
+      "name": "Johanna Wagner",
+      "character": null
+    },
+    {
+      "personID": "1723457",
+      "name": "Enzo Enzel",
+      "character": null
+    },
+    {
+      "personID": "4358375",
+      "name": "Rainer Kaufmann",
+      "character": null
+    },
+    {
+      "personID": "8532057",
+      "name": "Balazs Kovacs",
+      "character": null
+    },
+    {
+      "personID": "5975301",
+      "name": "Dalia Salamah",
+      "character": null
+    }
+  ],
+  "sound crew": [
+    {
+      "personID": "0075069",
+      "name": "Dave Bergstrom",
+      "character": null
+    },
+    {
+      "personID": "0134739",
+      "name": "Ed Cantu",
+      "character": null
+    },
+    {
+      "personID": "1028496",
+      "name": "Joe Cappelletti",
+      "character": null
+    },
+    {
+      "personID": "0136369",
+      "name": "Paul Timothy Carden",
+      "character": null
+    },
+    {
+      "personID": "0168884",
+      "name": "Mark Coffey",
+      "character": null
+    },
+    {
+      "personID": "4311718",
+      "name": "Fredrik Dalenfj\u00e4ll",
+      "character": null
+    },
+    {
+      "personID": "1997507",
+      "name": "Mattias Eklund",
+      "character": null
+    },
+    {
+      "personID": "6830521",
+      "name": "\u00c1ron Havasi",
+      "character": null
+    },
+    {
+      "personID": "0401152",
+      "name": "Thomas Huhn",
+      "character": null
+    },
+    {
+      "personID": "2132292",
+      "name": "Jonas Jansson",
+      "character": null
+    },
+    {
+      "personID": "0423971",
+      "name": "Jens Johansson",
+      "character": null
+    },
+    {
+      "personID": "4930378",
+      "name": "Ingela J\u00f6nsson",
+      "character": null
+    },
+    {
+      "personID": "1051779",
+      "name": "Mark Kenna",
+      "character": null
+    },
+    {
+      "personID": "2526648",
+      "name": "Nicklas Lindh",
+      "character": null
+    },
+    {
+      "personID": "0575032",
+      "name": "Bill Meadows",
+      "character": null
+    },
+    {
+      "personID": "0972323",
+      "name": "Gy\u00f6rgy Mih\u00e1lyi",
+      "character": null
+    },
+    {
+      "personID": "0599057",
+      "name": "Frank A. Monta\u00f1o",
+      "character": null
+    },
+    {
+      "personID": "2271320",
+      "name": "Lucas Nilsson",
+      "character": null
+    },
+    {
+      "personID": "0710231",
+      "name": "Alan Rankin",
+      "character": null
+    },
+    {
+      "personID": "0002314",
+      "name": "Mac Ruth",
+      "character": null
+    },
+    {
+      "personID": "0831057",
+      "name": "Mark P. Stoeckinger",
+      "character": null
+    },
+    {
+      "personID": "5427225",
+      "name": "Norbert Szekeres",
+      "character": null
+    },
+    {
+      "personID": "0852656",
+      "name": "Jon Taylor",
+      "character": null
+    },
+    {
+      "personID": "0186783",
+      "name": "Greg Crawford",
+      "character": null
+    },
+    {
+      "personID": "0233542",
+      "name": "Mitch Dorf",
+      "character": null
+    },
+    {
+      "personID": "6690842",
+      "name": "Chase Everett",
+      "character": null
+    },
+    {
+      "personID": "3963094",
+      "name": "Evan J Haley",
+      "character": null
+    },
+    {
+      "personID": "3882848",
+      "name": "Adam Horley",
+      "character": null
+    },
+    {
+      "personID": "0401152",
+      "name": "Thomas Huhn",
+      "character": null
+    },
+    {
+      "personID": "7778941",
+      "name": "Nick Jimenez",
+      "character": null
+    },
+    {
+      "personID": "0423971",
+      "name": "Jens Johansson",
+      "character": null
+    },
+    {
+      "personID": "0564396",
+      "name": "Mark McBryde",
+      "character": null
+    },
+    {
+      "personID": "0588972",
+      "name": "Michael Miller",
+      "character": null
+    },
+    {
+      "personID": "1369323",
+      "name": "Chris Navarro",
+      "character": null
+    },
+    {
+      "personID": "4951544",
+      "name": "M\u00e1t\u00e9 P\u00e9terffy",
+      "character": null
+    },
+    {
+      "personID": "5427225",
+      "name": "Norbert Szekeres",
+      "character": null
+    },
+    {
+      "personID": "4706384",
+      "name": "Balazs Varga",
+      "character": null
+    },
+    {
+      "personID": "2138271",
+      "name": "Martyn Zub",
+      "character": null
+    }
+  ],
+  "special effects": [
+    {
+      "personID": "2240013",
+      "name": "Gy\u00f6rgy Albitz",
+      "character": null
+    },
+    {
+      "personID": "4481658",
+      "name": "B\u00e9la Buzg\u00f3",
+      "character": null
+    },
+    {
+      "personID": "12520322",
+      "name": "Gyorgy Csori",
+      "character": null
+    },
+    {
+      "personID": "3585857",
+      "name": "Gergely Cs\u00f3ri",
+      "character": null
+    },
+    {
+      "personID": "4481785",
+      "name": "Attila G\u00f3cz\u00e1n",
+      "character": null
+    },
+    {
+      "personID": "3869105",
+      "name": "Bal\u00e1zs Hoffmann",
+      "character": null
+    },
+    {
+      "personID": "2647165",
+      "name": "Zsolt Kindl",
+      "character": null
+    },
+    {
+      "personID": "0457472",
+      "name": "Gabor Kiszelly",
+      "character": null
+    },
+    {
+      "personID": "0469960",
+      "name": "Gyula Krasny\u00e1nszky",
+      "character": null
+    },
+    {
+      "personID": "0995522",
+      "name": "Klaus Mielich",
+      "character": null
+    },
+    {
+      "personID": "0624338",
+      "name": "Uli Nefzer",
+      "character": null
+    },
+    {
+      "personID": "1881506",
+      "name": "Norbert Orosz",
+      "character": null
+    },
+    {
+      "personID": "2445385",
+      "name": "L\u00e1szl\u00f3 Pint\u00e9r",
+      "character": null
+    },
+    {
+      "personID": "12520323",
+      "name": "Miklos Rajczy",
+      "character": null
+    },
+    {
+      "personID": "0712194",
+      "name": "Bernd Rautenberg",
+      "character": null
+    },
+    {
+      "personID": "0773335",
+      "name": "Jens Schmiedel",
+      "character": null
+    },
+    {
+      "personID": "5962715",
+      "name": "Adam Szl\u00e1vy",
+      "character": null
+    },
+    {
+      "personID": "3231318",
+      "name": "Furedi Csaba",
+      "character": null
+    },
+    {
+      "personID": "5290058",
+      "name": "Andre Emme",
+      "character": null
+    },
+    {
+      "personID": "3230988",
+      "name": "Szilvassy Istvan",
+      "character": null
+    },
+    {
+      "personID": "3005136",
+      "name": "Tobias Schroeter",
+      "character": null
+    },
+    {
+      "personID": "4145335",
+      "name": "Tibor Skornyak",
+      "character": null
+    }
+  ],
+  "visual effects": [
+    {
+      "personID": "2367791",
+      "name": "Jan Adamczyk",
+      "character": null
+    },
+    {
+      "personID": "8455800",
+      "name": "Felix Angermaier",
+      "character": null
+    },
+    {
+      "personID": "4452786",
+      "name": "Oliver Arnold",
+      "character": null
+    },
+    {
+      "personID": "1304058",
+      "name": "Georgi Atanasov",
+      "character": null
+    },
+    {
+      "personID": "2108691",
+      "name": "Ando Avila",
+      "character": null
+    },
+    {
+      "personID": "3752161",
+      "name": "Ruken Baran",
+      "character": null
+    },
+    {
+      "personID": "4772516",
+      "name": "J\u00fcrgen Bilstein",
+      "character": null
+    },
+    {
+      "personID": "2403512",
+      "name": "Richard Blank",
+      "character": null
+    },
+    {
+      "personID": "7695994",
+      "name": "Miron Blocki",
+      "character": null
+    },
+    {
+      "personID": "2240995",
+      "name": "Peter Colebatch",
+      "character": null
+    },
+    {
+      "personID": "6805410",
+      "name": "Mauricio de Oliveira",
+      "character": null
+    },
+    {
+      "personID": "2203549",
+      "name": "Michael Dohne",
+      "character": null
+    },
+    {
+      "personID": "3884284",
+      "name": "Charlie H. Ellis",
+      "character": null
+    },
+    {
+      "personID": "3812404",
+      "name": "Esther Engel",
+      "character": null
+    },
+    {
+      "personID": "9709181",
+      "name": "Mats Forsberg",
+      "character": null
+    },
+    {
+      "personID": "3050564",
+      "name": "Florian Franke",
+      "character": null
+    },
+    {
+      "personID": "3813106",
+      "name": "Patrick Franz",
+      "character": null
+    },
+    {
+      "personID": "2191969",
+      "name": "Andreas Frickinger",
+      "character": null
+    },
+    {
+      "personID": "7115174",
+      "name": "Martina Gismondo",
+      "character": null
+    },
+    {
+      "personID": "4832157",
+      "name": "Daniel Goertz",
+      "character": null
+    },
+    {
+      "personID": "9319085",
+      "name": "Krzysztof Golon",
+      "character": null
+    },
+    {
+      "personID": "8455820",
+      "name": "Krzysztof Grochowina",
+      "character": null
+    },
+    {
+      "personID": "6438894",
+      "name": "Ragnar Grudd",
+      "character": null
+    },
+    {
+      "personID": "2643061",
+      "name": "Mark Haberpursch",
+      "character": null
+    },
+    {
+      "personID": "8769327",
+      "name": "Hannes Heidenreich",
+      "character": null
+    },
+    {
+      "personID": "8455840",
+      "name": "Daniel Herbst",
+      "character": null
+    },
+    {
+      "personID": "8455841",
+      "name": "Oliver Herz",
+      "character": null
+    },
+    {
+      "personID": "4552464",
+      "name": "Christoph Hoffmann",
+      "character": null
+    },
+    {
+      "personID": "3382856",
+      "name": "Mette Ilene Holmriis",
+      "character": null
+    },
+    {
+      "personID": "8619242",
+      "name": "Stefan H\u00f6chersteiger",
+      "character": null
+    },
+    {
+      "personID": "7370784",
+      "name": "Radoslaw Jamrog",
+      "character": null
+    },
+    {
+      "personID": "8455801",
+      "name": "Hrafn Johannson",
+      "character": null
+    },
+    {
+      "personID": "2633562",
+      "name": "Martin Jurado",
+      "character": null
+    },
+    {
+      "personID": "4859534",
+      "name": "Dziga Kaiser",
+      "character": null
+    },
+    {
+      "personID": "7760667",
+      "name": "Bastian Konradt",
+      "character": null
+    },
+    {
+      "personID": "6756151",
+      "name": "Mathias Kroll",
+      "character": null
+    },
+    {
+      "personID": "3678834",
+      "name": "Tobias Kruppa",
+      "character": null
+    },
+    {
+      "personID": "2879615",
+      "name": "Sebastian Leutner",
+      "character": null
+    },
+    {
+      "personID": "6438895",
+      "name": "Jonas Lindfors",
+      "character": null
+    },
+    {
+      "personID": "6362251",
+      "name": "Bernd Macht",
+      "character": null
+    },
+    {
+      "personID": "4435272",
+      "name": "Igor Majdandzic",
+      "character": null
+    },
+    {
+      "personID": "8455802",
+      "name": "Marco Masotti",
+      "character": null
+    },
+    {
+      "personID": "8380118",
+      "name": "Manuel Mastropirro",
+      "character": null
+    },
+    {
+      "personID": "8455798",
+      "name": "Eva Mularonek",
+      "character": null
+    },
+    {
+      "personID": "1315370",
+      "name": "Fredrik Nord",
+      "character": null
+    },
+    {
+      "personID": "6791248",
+      "name": "Jonathan Nordl\u00f6f",
+      "character": null
+    },
+    {
+      "personID": "8230707",
+      "name": "Ewa Otwinowska",
+      "character": null
+    },
+    {
+      "personID": "3317115",
+      "name": "Sven Peters",
+      "character": null
+    },
+    {
+      "personID": "2024762",
+      "name": "Christian Pundschus",
+      "character": null
+    },
+    {
+      "personID": "7629036",
+      "name": "Noemi Rajczyba",
+      "character": null
+    },
+    {
+      "personID": "8455837",
+      "name": "Nadine Ranftler",
+      "character": null
+    },
+    {
+      "personID": "9149431",
+      "name": "Arka Ray",
+      "character": null
+    },
+    {
+      "personID": "2655461",
+      "name": "Sven Sauer",
+      "character": null
+    },
+    {
+      "personID": "7760674",
+      "name": "Niklas Schneider",
+      "character": null
+    },
+    {
+      "personID": "2247341",
+      "name": "Timo Schumacher",
+      "character": null
+    },
+    {
+      "personID": "3759521",
+      "name": "Christian Schumann",
+      "character": null
+    },
+    {
+      "personID": "5891251",
+      "name": "Tim Sch\u00e4fer",
+      "character": null
+    },
+    {
+      "personID": "8455839",
+      "name": "Konstantinos Skrimizeas",
+      "character": null
+    },
+    {
+      "personID": "4440797",
+      "name": "H\u00e5kan Strandhag",
+      "character": null
+    },
+    {
+      "personID": "2370147",
+      "name": "Fredrik Swerin",
+      "character": null
+    },
+    {
+      "personID": "6756170",
+      "name": "Wojciech Swiatkiewicz",
+      "character": null
+    },
+    {
+      "personID": "6756167",
+      "name": "Tomasz Tejchman",
+      "character": null
+    },
+    {
+      "personID": "0875989",
+      "name": "Robert Tucker",
+      "character": null
+    },
+    {
+      "personID": "1972938",
+      "name": "Peter T\u00f6rnestam",
+      "character": null
+    },
+    {
+      "personID": "2145406",
+      "name": "Oliver Vogel",
+      "character": null
+    },
+    {
+      "personID": "8455819",
+      "name": "Florens Wartenberg",
+      "character": null
+    },
+    {
+      "personID": "8455838",
+      "name": "Matthias Weigel",
+      "character": null
+    },
+    {
+      "personID": "5177908",
+      "name": "Sebastian Wernicke",
+      "character": null
+    },
+    {
+      "personID": "7755337",
+      "name": "Johannes Wetzel",
+      "character": null
+    },
+    {
+      "personID": "1151729",
+      "name": "Michael Wortmann",
+      "character": null
+    },
+    {
+      "personID": "2396536",
+      "name": "Kai Woytke",
+      "character": null
+    },
+    {
+      "personID": "2643528",
+      "name": "Henrik Z\u00e4hringer",
+      "character": null
+    },
+    {
+      "personID": "8476702",
+      "name": "Simon Backlund",
+      "character": null
+    },
+    {
+      "personID": "5384702",
+      "name": "Rayk Hemmerling",
+      "character": null
+    },
+    {
+      "personID": "1149095",
+      "name": "Sam Hencher",
+      "character": null
+    },
+    {
+      "personID": "2894229",
+      "name": "James Johnston",
+      "character": null
+    },
+    {
+      "personID": "4584626",
+      "name": "Ian Kelly",
+      "character": null
+    },
+    {
+      "personID": "5377102",
+      "name": "Dag Kjetsa",
+      "character": null
+    },
+    {
+      "personID": "1514998",
+      "name": "Patrick Kreuser",
+      "character": null
+    },
+    {
+      "personID": "8541462",
+      "name": "Denissa Kulzer",
+      "character": null
+    },
+    {
+      "personID": "4441831",
+      "name": "Michael Kulzer",
+      "character": null
+    },
+    {
+      "personID": "7401238",
+      "name": "Aliz\u00e9e Leroy",
+      "character": null
+    },
+    {
+      "personID": "8455818",
+      "name": "Stefan Mueller",
+      "character": null
+    },
+    {
+      "personID": "7982592",
+      "name": "Stefan M\u00fcller",
+      "character": null
+    },
+    {
+      "personID": "1315370",
+      "name": "Fredrik Nord",
+      "character": null
+    },
+    {
+      "personID": "4450022",
+      "name": "Joseph Towe",
+      "character": null
+    }
+  ],
+  "stunt performer": [
+    {
+      "personID": "0076780",
+      "name": "Daniel Bernhardt",
+      "character": null
+    },
+    {
+      "personID": "3151929",
+      "name": "Kriszti\u00e1n Botka",
+      "character": null
+    },
+    {
+      "personID": "8413787",
+      "name": "Rudi Brandl",
+      "character": null
+    },
+    {
+      "personID": "2467554",
+      "name": "Andrew Comrie-Picard",
+      "character": null
+    },
+    {
+      "personID": "5869795",
+      "name": "Mikl\u00f3s Danka",
+      "character": null
+    },
+    {
+      "personID": "1006206",
+      "name": "Tom Ehrhardt",
+      "character": null
+    },
+    {
+      "personID": "0267555",
+      "name": "Bal\u00e1zs Farkas",
+      "character": null
+    },
+    {
+      "personID": "4747504",
+      "name": "Jozsef Fodor",
+      "character": null
+    },
+    {
+      "personID": "1244650",
+      "name": "Monique Ganderton",
+      "character": null
+    },
+    {
+      "personID": "2379868",
+      "name": "Kinga Gavalda",
+      "character": null
+    },
+    {
+      "personID": "1960748",
+      "name": "Matthias G\u00fcnther",
+      "character": null
+    },
+    {
+      "personID": "5045679",
+      "name": "Daniel Hargrave",
+      "character": null
+    },
+    {
+      "personID": "1092087",
+      "name": "Sam Hargrave",
+      "character": null
+    },
+    {
+      "personID": "2530115",
+      "name": "Gerg\u00f6 Horp\u00e1csi",
+      "character": null
+    },
+    {
+      "personID": "4088805",
+      "name": "Florian Hotz",
+      "character": null
+    },
+    {
+      "personID": "8782370",
+      "name": "Abel Kocsis",
+      "character": null
+    },
+    {
+      "personID": "1896237",
+      "name": "G\u00e9za Kov\u00e1cs",
+      "character": null
+    },
+    {
+      "personID": "2485630",
+      "name": "L\u00e1szl\u00f3 K\u00f3sa",
+      "character": null
+    },
+    {
+      "personID": "3284347",
+      "name": "Balazs Lengyel",
+      "character": null
+    },
+    {
+      "personID": "13522356",
+      "name": "Dave Lovano",
+      "character": null
+    },
+    {
+      "personID": "8092138",
+      "name": "Vanda M\u00f3cz\u00e1r",
+      "character": null
+    },
+    {
+      "personID": "8083912",
+      "name": "Lilla Nemeth",
+      "character": null
+    },
+    {
+      "personID": "9820371",
+      "name": "Lars Noll",
+      "character": null
+    },
+    {
+      "personID": "4068808",
+      "name": "Iv\u00e1n Ors\u00e1nyi",
+      "character": null
+    },
+    {
+      "personID": "1425725",
+      "name": "Domonkos Pardanyi",
+      "character": null
+    },
+    {
+      "personID": "0686563",
+      "name": "Leo Plank",
+      "character": null
+    },
+    {
+      "personID": "4609551",
+      "name": "Greg Rementer",
+      "character": null
+    },
+    {
+      "personID": "9820369",
+      "name": "Konstantin Rutschmann",
+      "character": null
+    },
+    {
+      "personID": "4897417",
+      "name": "Cale Schultz",
+      "character": null
+    },
+    {
+      "personID": "11972360",
+      "name": "Martin Sekiewicz",
+      "character": null
+    },
+    {
+      "personID": "5073121",
+      "name": "Gabor Szeman",
+      "character": null
+    },
+    {
+      "personID": "3288189",
+      "name": "Mikl\u00f3s Szentv\u00e1ry-Luk\u00e1cs",
+      "character": null
+    },
+    {
+      "personID": "8782371",
+      "name": "Szilvia Sz\u00f6ll\u00f6si",
+      "character": null
+    },
+    {
+      "personID": "0848810",
+      "name": "Levente Tam\u00e1si",
+      "character": null
+    },
+    {
+      "personID": "9820370",
+      "name": "Tobias Thomas",
+      "character": null
+    },
+    {
+      "personID": "4115620",
+      "name": "Gyula T\u00f3th",
+      "character": null
+    },
+    {
+      "personID": "0884497",
+      "name": "Jon Valera",
+      "character": null
+    },
+    {
+      "personID": "2544854",
+      "name": "Anne Bergstedt",
+      "character": null
+    },
+    {
+      "personID": "7392293",
+      "name": "T\u00edmea B\u00e1rdi",
+      "character": null
+    },
+    {
+      "personID": "0267555",
+      "name": "Bal\u00e1zs Farkas",
+      "character": null
+    },
+    {
+      "personID": "6041721",
+      "name": "Eniko Fulop",
+      "character": null
+    },
+    {
+      "personID": "1244650",
+      "name": "Monique Ganderton",
+      "character": null
+    },
+    {
+      "personID": "12628944",
+      "name": "Norbert Kov\u00e1cs",
+      "character": null
+    },
+    {
+      "personID": "3005467",
+      "name": "Richard Nagy",
+      "character": null
+    },
+    {
+      "personID": "4451970",
+      "name": "B\u00e9la Ors\u00e1nyi",
+      "character": null
+    },
+    {
+      "personID": "1425725",
+      "name": "Domonkos Pardanyi",
+      "character": null
+    },
+    {
+      "personID": "0685230",
+      "name": "G\u00e1bor Piroch",
+      "character": null
+    },
+    {
+      "personID": "9650289",
+      "name": "Andras Seregi",
+      "character": null
+    },
+    {
+      "personID": "4909833",
+      "name": "P\u00e9ter Sokorai",
+      "character": null
+    },
+    {
+      "personID": "3189640",
+      "name": "L\u00e1szl\u00f3 Ujv\u00e1ri",
+      "character": null
+    }
+  ],
+  "camera and electrical department": [
+    {
+      "personID": "8439905",
+      "name": "Kov\u00e1cs Andr\u00e1s",
+      "character": null
+    },
+    {
+      "personID": "12520320",
+      "name": "Atilla Antal",
+      "character": null
+    },
+    {
+      "personID": "1393038",
+      "name": "Botond Aszal\u00f3s",
+      "character": null
+    },
+    {
+      "personID": "3187149",
+      "name": "Bence Bakos",
+      "character": null
+    },
+    {
+      "personID": "11902217",
+      "name": "D\u00e1niel Balla",
+      "character": null
+    },
+    {
+      "personID": "1578340",
+      "name": "\u00c1d\u00e1m Balogh",
+      "character": null
+    },
+    {
+      "personID": "1940136",
+      "name": "S\u00e1ndor Barta",
+      "character": null
+    },
+    {
+      "personID": "1765226",
+      "name": "Robert Bartz",
+      "character": null
+    },
+    {
+      "personID": "12520361",
+      "name": "Chris Bernutz",
+      "character": null
+    },
+    {
+      "personID": "0083045",
+      "name": "Robert Binnall",
+      "character": null
+    },
+    {
+      "personID": "1051536",
+      "name": "Jan Brun",
+      "character": null
+    },
+    {
+      "personID": "0007078",
+      "name": "Julian Bucknall",
+      "character": null
+    },
+    {
+      "personID": "6721405",
+      "name": "G\u00e1bor B\u00e1r\u00e1ny",
+      "character": null
+    },
+    {
+      "personID": "1602845",
+      "name": "Norbert Csontos",
+      "character": null
+    },
+    {
+      "personID": "5572381",
+      "name": "Kriszti\u00e1n Demeter",
+      "character": null
+    },
+    {
+      "personID": "8653020",
+      "name": "Ben Edlich",
+      "character": null
+    },
+    {
+      "personID": "2053640",
+      "name": "D\u00e1niel Farkas",
+      "character": null
+    },
+    {
+      "personID": "5005353",
+      "name": "Angela Fellenberg",
+      "character": null
+    },
+    {
+      "personID": "9727809",
+      "name": "Zsolt Ficsor",
+      "character": null
+    },
+    {
+      "personID": "1319269",
+      "name": "Korn\u00e9l Fiskovszky",
+      "character": null
+    },
+    {
+      "personID": "10431805",
+      "name": "D\u00e1niel Fridrich",
+      "character": null
+    },
+    {
+      "personID": "3165946",
+      "name": "Kriszti\u00e1n Galanics",
+      "character": null
+    },
+    {
+      "personID": "5050107",
+      "name": "Gabor Gelegonya",
+      "character": null
+    },
+    {
+      "personID": "3357012",
+      "name": "Francesco Luigi Giardiello",
+      "character": null
+    },
+    {
+      "personID": "1062312",
+      "name": "Istv\u00e1n Gottmann",
+      "character": null
+    },
+    {
+      "personID": "2163114",
+      "name": "Tibor Guly\u00e1s",
+      "character": null
+    },
+    {
+      "personID": "0347898",
+      "name": "\u00c1kos Guly\u00e1s",
+      "character": null
+    },
+    {
+      "personID": "12520352",
+      "name": "Dieter Haupt",
+      "character": null
+    },
+    {
+      "personID": "3131271",
+      "name": "Elias Heiduk",
+      "character": null
+    },
+    {
+      "personID": "8548422",
+      "name": "Martin Hemzsel",
+      "character": null
+    },
+    {
+      "personID": "7635343",
+      "name": "D\u00e9nes Herceg",
+      "character": null
+    },
+    {
+      "personID": "0405003",
+      "name": "Mark Hyde",
+      "character": null
+    },
+    {
+      "personID": "2451184",
+      "name": "G\u00e1bor Iv\u00e1ncsik",
+      "character": null
+    },
+    {
+      "personID": "0432062",
+      "name": "Imre Juhasz",
+      "character": null
+    },
+    {
+      "personID": "2358203",
+      "name": "Dan Jung",
+      "character": null
+    },
+    {
+      "personID": "1305320",
+      "name": "Tam\u00e1s J\u00e1nossa",
+      "character": null
+    },
+    {
+      "personID": "4597099",
+      "name": "Adam Kalacsi",
+      "character": null
+    },
+    {
+      "personID": "10007437",
+      "name": "M\u00e1t\u00e9 Kecskem\u00e9ti",
+      "character": null
+    },
+    {
+      "personID": "1227954",
+      "name": "Guszt\u00e1v Kirsch",
+      "character": null
+    },
+    {
+      "personID": "1305446",
+      "name": "Carsten Klockow",
+      "character": null
+    },
+    {
+      "personID": "2693667",
+      "name": "Attila Kolozs",
+      "character": null
+    },
+    {
+      "personID": "5242201",
+      "name": "Andr\u00e1s Kov\u00e1cs",
+      "character": null
+    },
+    {
+      "personID": "6775620",
+      "name": "Emil Kov\u00e1cs",
+      "character": null
+    },
+    {
+      "personID": "0469633",
+      "name": "Peter Kramer",
+      "character": null
+    },
+    {
+      "personID": "1988895",
+      "name": "Tibor Kun",
+      "character": null
+    },
+    {
+      "personID": "3169813",
+      "name": "Christian Kuschmitz",
+      "character": null
+    },
+    {
+      "personID": "13850226",
+      "name": "G\u00e1bor K\u00f6v\u00e1ri",
+      "character": null
+    },
+    {
+      "personID": "3545378",
+      "name": "Zolt\u00e1n Lakatos",
+      "character": null
+    },
+    {
+      "personID": "11032656",
+      "name": "Zolt\u00e1n Lakatos",
+      "character": null
+    },
+    {
+      "personID": "1305606",
+      "name": "Holger Lehnau",
+      "character": null
+    },
+    {
+      "personID": "5572309",
+      "name": "Ferenc Lenke",
+      "character": null
+    },
+    {
+      "personID": "1319404",
+      "name": "Flow Jean Louis",
+      "character": null
+    },
+    {
+      "personID": "5325763",
+      "name": "Bal\u00e1zs L\u00e1szl\u00f3",
+      "character": null
+    },
+    {
+      "personID": "0542902",
+      "name": "Nathan Mann",
+      "character": null
+    },
+    {
+      "personID": "7323529",
+      "name": "P\u00e9ter Manzel",
+      "character": null
+    },
+    {
+      "personID": "10301591",
+      "name": "D\u00e1vid Zsolt Marczel",
+      "character": null
+    },
+    {
+      "personID": "12520354",
+      "name": "Chris Mari\u00ebnthal",
+      "character": null
+    },
+    {
+      "personID": "1310651",
+      "name": "G\u00e1bor Marosi",
+      "character": null
+    },
+    {
+      "personID": "2702548",
+      "name": "J\u00f6rg Mertink",
+      "character": null
+    },
+    {
+      "personID": "0596110",
+      "name": "Istv\u00e1n Moh\u00e1csi",
+      "character": null
+    },
+    {
+      "personID": "0619439",
+      "name": "Attila Nagy",
+      "character": null
+    },
+    {
+      "personID": "12520318",
+      "name": "Ganor Nagy",
+      "character": null
+    },
+    {
+      "personID": "7443347",
+      "name": "G\u00e1bor Nagy",
+      "character": null
+    },
+    {
+      "personID": "5600051",
+      "name": "Kriszti\u00e1n Nagy",
+      "character": null
+    },
+    {
+      "personID": "3070153",
+      "name": "Zsolt Big Nagy",
+      "character": null
+    },
+    {
+      "personID": "0625908",
+      "name": "Csaba Nemesh\u00e1zi",
+      "character": null
+    },
+    {
+      "personID": "9740953",
+      "name": "R\u00f3bert Ny\u00edresi",
+      "character": null
+    },
+    {
+      "personID": "3765881",
+      "name": "M\u00e1rk Ol\u00e1h",
+      "character": null
+    },
+    {
+      "personID": "0648267",
+      "name": "Tam\u00e1s Ol\u00e1h",
+      "character": null
+    },
+    {
+      "personID": "12520351",
+      "name": "Oli Opitz",
+      "character": null
+    },
+    {
+      "personID": "12520355",
+      "name": "Micha Paegel",
+      "character": null
+    },
+    {
+      "personID": "3189862",
+      "name": "Nikolaos Papanikolaou",
+      "character": null
+    },
+    {
+      "personID": "0666687",
+      "name": "Roland Patzelt",
+      "character": null
+    },
+    {
+      "personID": "12520353",
+      "name": "Ken Pearson",
+      "character": null
+    },
+    {
+      "personID": "6176310",
+      "name": "Kenneth Pearson",
+      "character": null
+    },
+    {
+      "personID": "0676469",
+      "name": "Hinrich Peters",
+      "character": null
+    },
+    {
+      "personID": "1567852",
+      "name": "Attila Pfeffer",
+      "character": null
+    },
+    {
+      "personID": "2077345",
+      "name": "Andr\u00e1s Pozs\u00e1r",
+      "character": null
+    },
+    {
+      "personID": "5014655",
+      "name": "Jonathan Prime",
+      "character": null
+    },
+    {
+      "personID": "4520707",
+      "name": "M\u00e1t\u00e9 P\u00e1lla",
+      "character": null
+    },
+    {
+      "personID": "9740952",
+      "name": "Andr\u00e1s P\u00e9ter",
+      "character": null
+    },
+    {
+      "personID": "3883844",
+      "name": "Horv\u00e1th P\u00e9ter",
+      "character": null
+    },
+    {
+      "personID": "6760193",
+      "name": "Kriszti\u00e1n Reinhardt",
+      "character": null
+    },
+    {
+      "personID": "4696061",
+      "name": "Mathias Riemann",
+      "character": null
+    },
+    {
+      "personID": "1461785",
+      "name": "Bal\u00e1zs Rozgonyi",
+      "character": null
+    },
+    {
+      "personID": "8244939",
+      "name": "Stefan R\u00fccker",
+      "character": null
+    },
+    {
+      "personID": "3837628",
+      "name": "Paolo Sanzani",
+      "character": null
+    },
+    {
+      "personID": "4482365",
+      "name": "Andr\u00e9 Schmidt",
+      "character": null
+    },
+    {
+      "personID": "5070587",
+      "name": "Zolt\u00e1n Schrammel",
+      "character": null
+    },
+    {
+      "personID": "1215014",
+      "name": "Robert Schr\u00f6der",
+      "character": null
+    },
+    {
+      "personID": "0782930",
+      "name": "Jonathan Sela",
+      "character": null
+    },
+    {
+      "personID": "2017672",
+      "name": "Tobias Semmelmann",
+      "character": null
+    },
+    {
+      "personID": "1762897",
+      "name": "Dirk Siehlmann",
+      "character": null
+    },
+    {
+      "personID": "0797851",
+      "name": "Albrecht Silberberger",
+      "character": null
+    },
+    {
+      "personID": "5999661",
+      "name": "Adam Skardelli",
+      "character": null
+    },
+    {
+      "personID": "5123714",
+      "name": "J\u00e1nos Steili",
+      "character": null
+    },
+    {
+      "personID": "1957068",
+      "name": "Chris Summers",
+      "character": null
+    },
+    {
+      "personID": "0839853",
+      "name": "Elmar Suska",
+      "character": null
+    },
+    {
+      "personID": "10436936",
+      "name": "Csaba Szab\u00f3",
+      "character": null
+    },
+    {
+      "personID": "6301258",
+      "name": "Gy\u00f6rgy Szab\u00f3",
+      "character": null
+    },
+    {
+      "personID": "4479291",
+      "name": "Szabolcs Szalay",
+      "character": null
+    },
+    {
+      "personID": "5149092",
+      "name": "Ferenc Szalontai",
+      "character": null
+    },
+    {
+      "personID": "1469727",
+      "name": "Istv\u00e1n Szili",
+      "character": null
+    },
+    {
+      "personID": "8670446",
+      "name": "Teszary Szolt",
+      "character": null
+    },
+    {
+      "personID": "9704879",
+      "name": "S\u00e1ndor Tam\u00e1si",
+      "character": null
+    },
+    {
+      "personID": "12520359",
+      "name": "Zsolt Turi",
+      "character": null
+    },
+    {
+      "personID": "2697066",
+      "name": "D\u00e1niel T\u00f3th",
+      "character": null
+    },
+    {
+      "personID": "1467815",
+      "name": "Istv\u00e1n T\u00f6r\u00f6k",
+      "character": null
+    },
+    {
+      "personID": "12520319",
+      "name": "Tamas Varga",
+      "character": null
+    },
+    {
+      "personID": "12520317",
+      "name": "Gabor Vida",
+      "character": null
+    },
+    {
+      "personID": "1258780",
+      "name": "Bal\u00e1zs V\u00e1k\u00e1r",
+      "character": null
+    },
+    {
+      "personID": "2808751",
+      "name": "Bal\u00e1zs V\u00e1rszegi",
+      "character": null
+    },
+    {
+      "personID": "2363744",
+      "name": "Alex Zeihn",
+      "character": null
+    },
+    {
+      "personID": "6818502",
+      "name": "Balga Zolt\u00e1n",
+      "character": null
+    },
+    {
+      "personID": "3966182",
+      "name": "Bal\u00e1zs Balogh",
+      "character": null
+    },
+    {
+      "personID": "9961111",
+      "name": "Frank Buono",
+      "character": null
+    },
+    {
+      "personID": "2481855",
+      "name": "Andr\u00e1s B\u00edr\u00f3",
+      "character": null
+    },
+    {
+      "personID": "1410765",
+      "name": "Florian Emmerich",
+      "character": null
+    },
+    {
+      "personID": "8311909",
+      "name": "Mark Epstein",
+      "character": null
+    },
+    {
+      "personID": "7851553",
+      "name": "Banga Istv\u00e1n",
+      "character": null
+    },
+    {
+      "personID": "8279367",
+      "name": "J\u00f3zsef Kiss",
+      "character": null
+    },
+    {
+      "personID": "4369436",
+      "name": "Markus Kuballa",
+      "character": null
+    },
+    {
+      "personID": "6131158",
+      "name": "Boris Martin",
+      "character": null
+    },
+    {
+      "personID": "3974154",
+      "name": "R\u00f3bert Nagy",
+      "character": null
+    },
+    {
+      "personID": "3070153",
+      "name": "Zsolt Big Nagy",
+      "character": null
+    },
+    {
+      "personID": "4237530",
+      "name": "Laura Nathalie Naschlenas",
+      "character": null
+    },
+    {
+      "personID": "2416183",
+      "name": "Krist\u00f3f P\u00e1rd\u00e1nyi",
+      "character": null
+    },
+    {
+      "personID": "5965739",
+      "name": "Akos Zsolt Radvanyi",
+      "character": null
+    },
+    {
+      "personID": "1247093",
+      "name": "Lars Richter",
+      "character": null
+    },
+    {
+      "personID": "4753381",
+      "name": "Gabor Szucs-Kiraly",
+      "character": null
+    },
+    {
+      "personID": "8588893",
+      "name": "Badonics Titusz",
+      "character": null
+    },
+    {
+      "personID": "2568285",
+      "name": "Istv\u00e1n T\u00f6rzs\u00f6k",
+      "character": null
+    },
+    {
+      "personID": "1984920",
+      "name": "Kata Vermes",
+      "character": null
+    },
+    {
+      "personID": "0002152",
+      "name": "J\u00f6rg Widmer",
+      "character": null
+    },
+    {
+      "personID": "9401088",
+      "name": "D\u00e1vid Zih",
+      "character": null
+    }
+  ],
+  "casting department": [
+    {
+      "personID": "6048283",
+      "name": "Emily Brockmann",
+      "character": null
+    },
+    {
+      "personID": "5020643",
+      "name": "Lisa B\u00f6ttcher",
+      "character": null
+    },
+    {
+      "personID": "0190783",
+      "name": "Zsolt Csutak",
+      "character": null
+    },
+    {
+      "personID": "5073013",
+      "name": "Borsoviczky Gabriella",
+      "character": null
+    },
+    {
+      "personID": "7591804",
+      "name": "Bret Howe",
+      "character": null
+    },
+    {
+      "personID": "2294397",
+      "name": "Ruth Key",
+      "character": null
+    },
+    {
+      "personID": "1142490",
+      "name": "Johanna Ragwitz",
+      "character": null
+    },
+    {
+      "personID": "8153635",
+      "name": "Riva Winningham",
+      "character": null
+    },
+    {
+      "personID": "6562636",
+      "name": "Riva Cahn-Thompson",
+      "character": null
+    },
+    {
+      "personID": "6538805",
+      "name": "Marton Dancz",
+      "character": null
+    },
+    {
+      "personID": "4317509",
+      "name": "Zsolt Ferenc Maier",
+      "character": null
+    },
+    {
+      "personID": "4084540",
+      "name": "Viktor Mitev",
+      "character": null
+    }
+  ],
+  "costume department": [
+    {
+      "personID": "9991372",
+      "name": "Igor Bakos",
+      "character": null
+    },
+    {
+      "personID": "8264594",
+      "name": "Yamay Blanco",
+      "character": null
+    },
+    {
+      "personID": "0092100",
+      "name": "Frank Bohn",
+      "character": null
+    },
+    {
+      "personID": "2899764",
+      "name": "Ildik\u00f3 B\u00edr\u00f3",
+      "character": null
+    },
+    {
+      "personID": "2166337",
+      "name": "Mari Cs\u00e1ki",
+      "character": null
+    },
+    {
+      "personID": "2119907",
+      "name": "S\u00e1ndor Dar\u00f3czi",
+      "character": null
+    },
+    {
+      "personID": "4664208",
+      "name": "Indira Dey",
+      "character": null
+    },
+    {
+      "personID": "4976592",
+      "name": "Erd\u00e9sz D\u00e1niel",
+      "character": null
+    },
+    {
+      "personID": "4683212",
+      "name": "\u00c1gota R\u00e9tin\u00e9 Fogt",
+      "character": null
+    },
+    {
+      "personID": "4869990",
+      "name": "Steffi Friedrich",
+      "character": null
+    },
+    {
+      "personID": "6400004",
+      "name": "Garay Fruzsina",
+      "character": null
+    },
+    {
+      "personID": "9146122",
+      "name": "Nora Gondocs",
+      "character": null
+    },
+    {
+      "personID": "4298870",
+      "name": "Zsuzsi Gyarmathy",
+      "character": null
+    },
+    {
+      "personID": "0389926",
+      "name": "Zsoka Hoka",
+      "character": null
+    },
+    {
+      "personID": "9415335",
+      "name": "Zolt\u00e1n Horv\u00e1th",
+      "character": null
+    },
+    {
+      "personID": "2039914",
+      "name": "Anne Kerstan",
+      "character": null
+    },
+    {
+      "personID": "1523946",
+      "name": "J\u00f3zsef Lender",
+      "character": null
+    },
+    {
+      "personID": "9487949",
+      "name": "Mile Mark",
+      "character": null
+    },
+    {
+      "personID": "1646602",
+      "name": "Maja Meschede",
+      "character": null
+    },
+    {
+      "personID": "4129528",
+      "name": "Krisztina Moskovits",
+      "character": null
+    },
+    {
+      "personID": "3186482",
+      "name": "Bela Nagy-Kazy",
+      "character": null
+    },
+    {
+      "personID": "0663150",
+      "name": "Lisa Parmet",
+      "character": null
+    },
+    {
+      "personID": "1075705",
+      "name": "Peter Paul",
+      "character": null
+    },
+    {
+      "personID": "6849841",
+      "name": "Anne-Charlott Riedzewski",
+      "character": null
+    },
+    {
+      "personID": "3582825",
+      "name": "Orsolya Sallai",
+      "character": null
+    },
+    {
+      "personID": "1082300",
+      "name": "Anja Schulinus",
+      "character": null
+    },
+    {
+      "personID": "8193782",
+      "name": "Ronni Schwenk",
+      "character": null
+    },
+    {
+      "personID": "3565906",
+      "name": "Tamara Sch\u00fcller",
+      "character": null
+    },
+    {
+      "personID": "4683074",
+      "name": "Rajmund Sz\u00f3r\u00e1d",
+      "character": null
+    },
+    {
+      "personID": "3187088",
+      "name": "Adrienn T\u00f3szegi",
+      "character": null
+    },
+    {
+      "personID": "7056374",
+      "name": "Jillian Daidone",
+      "character": null
+    },
+    {
+      "personID": "5488669",
+      "name": "Jen Martin",
+      "character": null
+    },
+    {
+      "personID": "7019325",
+      "name": "Mikl\u00f3s Udvardy",
+      "character": null
+    }
+  ],
+  "location management": [
+    {
+      "personID": "2038952",
+      "name": "Bea Beliczai",
+      "character": null
+    },
+    {
+      "personID": "0344146",
+      "name": "Klaus Gro\u00dfe Darrelmann",
+      "character": null
+    },
+    {
+      "personID": "5573079",
+      "name": "B\u00e9la S\u00e1gi Kis",
+      "character": null
+    },
+    {
+      "personID": "3427814",
+      "name": "Em\u00edlia Kl\u00f6pfler",
+      "character": null
+    },
+    {
+      "personID": "6140775",
+      "name": "\u00c1ron Mail\u00e1th",
+      "character": null
+    },
+    {
+      "personID": "7386904",
+      "name": "Brian Putkkuri",
+      "character": null
+    },
+    {
+      "personID": "0740702",
+      "name": "Laszlo Rorarius",
+      "character": null
+    },
+    {
+      "personID": "0776120",
+      "name": "Sabine Schulmeyer",
+      "character": null
+    },
+    {
+      "personID": "3205494",
+      "name": "Mario Wittmann",
+      "character": null
+    },
+    {
+      "personID": "2737978",
+      "name": "Gerg\u00f6 Bakos",
+      "character": null
+    },
+    {
+      "personID": "3135441",
+      "name": "Charlie Hayes",
+      "character": null
+    },
+    {
+      "personID": "6390229",
+      "name": "Korn\u00e9l Szab\u00f3",
+      "character": null
+    },
+    {
+      "personID": "10017430",
+      "name": "Mate Victor",
+      "character": null
+    }
+  ],
+  "music department": [
+    {
+      "personID": "0061045",
+      "name": "Tyler Bates",
+      "character": null
+    },
+    {
+      "personID": "2718550",
+      "name": "Dieter Hartmann",
+      "character": null
+    },
+    {
+      "personID": "3341997",
+      "name": "Joanne Higginbottom",
+      "character": null
+    },
+    {
+      "personID": "0396545",
+      "name": "John Houlihan",
+      "character": null
+    },
+    {
+      "personID": "2840536",
+      "name": "Roger Kosteck",
+      "character": null
+    },
+    {
+      "personID": "1360253",
+      "name": "Wolfgang Matthes",
+      "character": null
+    },
+    {
+      "personID": "4322225",
+      "name": "Willa Yudell",
+      "character": null
+    }
+  ],
+  "script department": [
+    {
+      "personID": "0429301",
+      "name": "Susie Jones",
+      "character": null
+    },
+    {
+      "personID": "1315856",
+      "name": "Zoe Simijonovic",
+      "character": null
+    },
+    {
+      "personID": "0935222",
+      "name": "Gabriella Winkler",
+      "character": null
+    }
+  ],
+  "transportation department": [
+    {
+      "personID": "3901828",
+      "name": "Quisito Alfandega",
+      "character": null
+    },
+    {
+      "personID": "5434587",
+      "name": "Lutz Algermissel",
+      "character": null
+    },
+    {
+      "personID": "2534645",
+      "name": "Zsolt Bajcz\u00e1r",
+      "character": null
+    },
+    {
+      "personID": "5452882",
+      "name": "Samu Benke",
+      "character": null
+    },
+    {
+      "personID": "2039583",
+      "name": "Soma Benke",
+      "character": null
+    },
+    {
+      "personID": "2219758",
+      "name": "Oliver Bischoff",
+      "character": null
+    },
+    {
+      "personID": "3056753",
+      "name": "Jan Bludau",
+      "character": null
+    },
+    {
+      "personID": "5346213",
+      "name": "Zsolt B\u00e9csi",
+      "character": null
+    },
+    {
+      "personID": "12520330",
+      "name": "Mirko Collatz",
+      "character": null
+    },
+    {
+      "personID": "12520329",
+      "name": "Csaba Cseh",
+      "character": null
+    },
+    {
+      "personID": "5572338",
+      "name": "G\u00e1bor Csereklye",
+      "character": null
+    },
+    {
+      "personID": "12520325",
+      "name": "Botond Demeny",
+      "character": null
+    },
+    {
+      "personID": "7008181",
+      "name": "Elemer Demeny",
+      "character": null
+    },
+    {
+      "personID": "4683929",
+      "name": "G\u00e1bor Dem\u00e9ny",
+      "character": null
+    },
+    {
+      "personID": "9234040",
+      "name": "Sebastian Ennen",
+      "character": null
+    },
+    {
+      "personID": "3950598",
+      "name": "David Flemming",
+      "character": null
+    },
+    {
+      "personID": "11209252",
+      "name": "Tibor F\u00e1bi\u00e1n",
+      "character": null
+    },
+    {
+      "personID": "1236417",
+      "name": "Marian Goepel",
+      "character": null
+    },
+    {
+      "personID": "12520324",
+      "name": "Richard Gyurcsak",
+      "character": null
+    },
+    {
+      "personID": "1385310",
+      "name": "Florian Haeger",
+      "character": null
+    },
+    {
+      "personID": "1492945",
+      "name": "Steffen Haronitis",
+      "character": null
+    },
+    {
+      "personID": "3942992",
+      "name": "Felix Herrmann",
+      "character": null
+    },
+    {
+      "personID": "3982204",
+      "name": "Gregor Hoppe",
+      "character": null
+    },
+    {
+      "personID": "5572392",
+      "name": "G\u00e1bor Hrubos",
+      "character": null
+    },
+    {
+      "personID": "0401146",
+      "name": "Daniel Huhn",
+      "character": null
+    },
+    {
+      "personID": "3771794",
+      "name": "Wolfgang H\u00fctter",
+      "character": null
+    },
+    {
+      "personID": "3187545",
+      "name": "Istv\u00e1n Ivanov",
+      "character": null
+    },
+    {
+      "personID": "12520326",
+      "name": "Zsolt Kokeny",
+      "character": null
+    },
+    {
+      "personID": "3472262",
+      "name": "Andreas Korpel",
+      "character": null
+    },
+    {
+      "personID": "12520356",
+      "name": "Marco Kube",
+      "character": null
+    },
+    {
+      "personID": "5697394",
+      "name": "L\u00e1szl\u00f3 K\u00e1llay",
+      "character": null
+    },
+    {
+      "personID": "1319438",
+      "name": "Gy\u00f6rgy Magyar",
+      "character": null
+    },
+    {
+      "personID": "8288497",
+      "name": "Marvin M\u00fcller",
+      "character": null
+    },
+    {
+      "personID": "3201801",
+      "name": "Csaba Ol\u00e1h",
+      "character": null
+    },
+    {
+      "personID": "12520327",
+      "name": "Balazs Petik",
+      "character": null
+    },
+    {
+      "personID": "3737488",
+      "name": "Mirko Reichwald",
+      "character": null
+    },
+    {
+      "personID": "4048954",
+      "name": "Ali R\u00fczgar",
+      "character": null
+    },
+    {
+      "personID": "1387275",
+      "name": "Andreas Schumacher",
+      "character": null
+    },
+    {
+      "personID": "2039339",
+      "name": "Zsolt Somogyi",
+      "character": null
+    },
+    {
+      "personID": "3982337",
+      "name": "Christoph Stangier",
+      "character": null
+    },
+    {
+      "personID": "4048988",
+      "name": "Alexander Sterling",
+      "character": null
+    },
+    {
+      "personID": "12520328",
+      "name": "Oleg Tankovszki",
+      "character": null
+    },
+    {
+      "personID": "9727834",
+      "name": "Apor Vass",
+      "character": null
+    },
+    {
+      "personID": "5860250",
+      "name": "Eric von Mutius",
+      "character": null
+    },
+    {
+      "personID": "1331512",
+      "name": "Miklas Wittmann",
+      "character": null
+    },
+    {
+      "personID": "1214335",
+      "name": "Ren\u00e9 Zeuner",
+      "character": null
+    },
+    {
+      "personID": "5346126",
+      "name": "Masson Zolt\u00e1n",
+      "character": null
+    },
+    {
+      "personID": "5573440",
+      "name": "G\u00e1bor Zrubk\u00f3",
+      "character": null
+    },
+    {
+      "personID": "3187545",
+      "name": "Istv\u00e1n Ivanov",
+      "character": null
+    },
+    {
+      "personID": "3989623",
+      "name": "Thomas Suess",
+      "character": null
+    }
+  ],
+  "miscellaneous crew": [
+    {
+      "personID": "1108357",
+      "name": "Andrea Arvai",
+      "character": null
+    },
+    {
+      "personID": "7139040",
+      "name": "Sara Baggar",
+      "character": null
+    },
+    {
+      "personID": "5572391",
+      "name": "R\u00f3bert Balogh",
+      "character": null
+    },
+    {
+      "personID": "12520332",
+      "name": "B\u00e9la Bal\u00e1zs",
+      "character": null
+    },
+    {
+      "personID": "0053003",
+      "name": "Elena Baranova",
+      "character": null
+    },
+    {
+      "personID": "1379247",
+      "name": "Bara Barova",
+      "character": null
+    },
+    {
+      "personID": "7872426",
+      "name": "Csilla Bedi",
+      "character": null
+    },
+    {
+      "personID": "1529451",
+      "name": "Grit Belitz",
+      "character": null
+    },
+    {
+      "personID": "1256517",
+      "name": "Csaba Benedek",
+      "character": null
+    },
+    {
+      "personID": "9563351",
+      "name": "Krisztina Berdy",
+      "character": null
+    },
+    {
+      "personID": "0075373",
+      "name": "Barbara Berkery",
+      "character": null
+    },
+    {
+      "personID": "7389749",
+      "name": "Meredith Bohling",
+      "character": null
+    },
+    {
+      "personID": "2169138",
+      "name": "Katia Bokor",
+      "character": null
+    },
+    {
+      "personID": "5798449",
+      "name": "Eleanor Boyce",
+      "character": null
+    },
+    {
+      "personID": "5659753",
+      "name": "Zsolt Bubla",
+      "character": null
+    },
+    {
+      "personID": "6141356",
+      "name": "Gy\u00f6rgy Bucsuh\u00e1zi",
+      "character": null
+    },
+    {
+      "personID": "4683193",
+      "name": "Mikl\u00f3s B\u00e1nfalvi",
+      "character": null
+    },
+    {
+      "personID": "3427188",
+      "name": "Oskar B\u00f6kelmann",
+      "character": null
+    },
+    {
+      "personID": "12520339",
+      "name": "Arthur Cohen",
+      "character": null
+    },
+    {
+      "personID": "6644397",
+      "name": "Talia Cohen",
+      "character": null
+    },
+    {
+      "personID": "4273423",
+      "name": "Peter Cseri",
+      "character": null
+    },
+    {
+      "personID": "4683381",
+      "name": "Endre Cs\u00edk",
+      "character": null
+    },
+    {
+      "personID": "12520334",
+      "name": "Nele Deutsch",
+      "character": null
+    },
+    {
+      "personID": "5241302",
+      "name": "Kendra Dousette",
+      "character": null
+    },
+    {
+      "personID": "8304810",
+      "name": "Alexander Dreissig",
+      "character": null
+    },
+    {
+      "personID": "12520336",
+      "name": "Vincent Gregor Ebneth",
+      "character": null
+    },
+    {
+      "personID": "8614420",
+      "name": "Ivar Edding",
+      "character": null
+    },
+    {
+      "personID": "0254057",
+      "name": "Wendy Ellerker",
+      "character": null
+    },
+    {
+      "personID": "6505545",
+      "name": "Ferenc Farkas",
+      "character": null
+    },
+    {
+      "personID": "12121577",
+      "name": "Krisztina Fenyvesi",
+      "character": null
+    },
+    {
+      "personID": "10870807",
+      "name": "Laura Fenyvesi",
+      "character": null
+    },
+    {
+      "personID": "8947130",
+      "name": "Kelly Gallagher",
+      "character": null
+    },
+    {
+      "personID": "0308442",
+      "name": "Larry Garrison",
+      "character": null
+    },
+    {
+      "personID": "12121554",
+      "name": "\u00c1gnes Gecs",
+      "character": null
+    },
+    {
+      "personID": "12520337",
+      "name": "Patrick Goehler",
+      "character": null
+    },
+    {
+      "personID": "5196899",
+      "name": "Fola Goke-Pariola",
+      "character": null
+    },
+    {
+      "personID": "12520341",
+      "name": "Jenia Gorton",
+      "character": null
+    },
+    {
+      "personID": "12520342",
+      "name": "Antonia Gray",
+      "character": null
+    },
+    {
+      "personID": "0339778",
+      "name": "Constantine Gregory",
+      "character": null
+    },
+    {
+      "personID": "3775973",
+      "name": "Cynthia Griffiths",
+      "character": null
+    },
+    {
+      "personID": "7029650",
+      "name": "Szabina Gyori",
+      "character": null
+    },
+    {
+      "personID": "10870806",
+      "name": "Laszlo Haracsi",
+      "character": null
+    },
+    {
+      "personID": "8847825",
+      "name": "Vivien Haraszti",
+      "character": null
+    },
+    {
+      "personID": "2442391",
+      "name": "Don M. Hardison",
+      "character": null
+    },
+    {
+      "personID": "3614184",
+      "name": "Ian Hartshorn",
+      "character": null
+    },
+    {
+      "personID": "6400337",
+      "name": "Krisztina Hegyi",
+      "character": null
+    },
+    {
+      "personID": "12520331",
+      "name": "Vivien Hrubiak",
+      "character": null
+    },
+    {
+      "personID": "4683459",
+      "name": "Csaba J\u00e1nossy",
+      "character": null
+    },
+    {
+      "personID": "0433413",
+      "name": "G\u00e9za J\u00e1nossy",
+      "character": null
+    },
+    {
+      "personID": "12520343",
+      "name": "Nida Karnani",
+      "character": null
+    },
+    {
+      "personID": "4715393",
+      "name": "M\u00e1rton Katona",
+      "character": null
+    },
+    {
+      "personID": "2945614",
+      "name": "Ellie Kemps",
+      "character": null
+    },
+    {
+      "personID": "2469566",
+      "name": "Jonathan Kier",
+      "character": null
+    },
+    {
+      "personID": "2677164",
+      "name": "Bela Kiss",
+      "character": null
+    },
+    {
+      "personID": "10835170",
+      "name": "Sandor Klaj",
+      "character": null
+    },
+    {
+      "personID": "7617208",
+      "name": "Vikt\u00f3ria Klaj",
+      "character": null
+    },
+    {
+      "personID": "3193205",
+      "name": "Katarina Krave",
+      "character": null
+    },
+    {
+      "personID": "1233083",
+      "name": "Ashley Kravitz",
+      "character": null
+    },
+    {
+      "personID": "8108434",
+      "name": "Lennart Kubenk",
+      "character": null
+    },
+    {
+      "personID": "2362572",
+      "name": "Eric Laciste",
+      "character": null
+    },
+    {
+      "personID": "7573694",
+      "name": "J\u00f6rg Lehmann",
+      "character": null
+    },
+    {
+      "personID": "4101760",
+      "name": "Gavin Levinson",
+      "character": null
+    },
+    {
+      "personID": "5242230",
+      "name": "Veronika L\u00e1szl\u00f3",
+      "character": null
+    },
+    {
+      "personID": "4988927",
+      "name": "Istv\u00e1n Marsi",
+      "character": null
+    },
+    {
+      "personID": "10870808",
+      "name": "Peter Marton",
+      "character": null
+    },
+    {
+      "personID": "6644396",
+      "name": "Jennifer McCullough",
+      "character": null
+    },
+    {
+      "personID": "1958742",
+      "name": "Paul Melzow",
+      "character": null
+    },
+    {
+      "personID": "1323644",
+      "name": "Grit Menzzer",
+      "character": null
+    },
+    {
+      "personID": "10870805",
+      "name": "Gergely Meszaros",
+      "character": null
+    },
+    {
+      "personID": "6505377",
+      "name": "Zs\u00f3fia Mitkov",
+      "character": null
+    },
+    {
+      "personID": "2608298",
+      "name": "Joey Monteiro",
+      "character": null
+    },
+    {
+      "personID": "5148860",
+      "name": "Andr\u00e1s M\u00e1rton",
+      "character": null
+    },
+    {
+      "personID": "12520335",
+      "name": "Jennifer M\u00fcller",
+      "character": null
+    },
+    {
+      "personID": "3871070",
+      "name": "Sophie M\u00fcller",
+      "character": null
+    },
+    {
+      "personID": "1457005",
+      "name": "Vanessa Nagy",
+      "character": null
+    },
+    {
+      "personID": "12520340",
+      "name": "Fiodor Otero",
+      "character": null
+    },
+    {
+      "personID": "0660540",
+      "name": "J\u00e1nos Papp",
+      "character": null
+    },
+    {
+      "personID": "2036926",
+      "name": "Zsolt Pereh\u00e1zi",
+      "character": null
+    },
+    {
+      "personID": "0678824",
+      "name": "Scarlett Pettyjohn",
+      "character": null
+    },
+    {
+      "personID": "6962149",
+      "name": "Jamie Reed",
+      "character": null
+    },
+    {
+      "personID": "0723419",
+      "name": "Emily Rice",
+      "character": null
+    },
+    {
+      "personID": "0773363",
+      "name": "Anna Schmigalla",
+      "character": null
+    },
+    {
+      "personID": "0773364",
+      "name": "Lena Schmigalla",
+      "character": null
+    },
+    {
+      "personID": "6928944",
+      "name": "Peter Schueller",
+      "character": null
+    },
+    {
+      "personID": "4897417",
+      "name": "Cale Schultz",
+      "character": null
+    },
+    {
+      "personID": "7215671",
+      "name": "Steffen Schweizer",
+      "character": null
+    },
+    {
+      "personID": "9727810",
+      "name": "Alana Self",
+      "character": null
+    },
+    {
+      "personID": "1620215",
+      "name": "Carla Self",
+      "character": null
+    },
+    {
+      "personID": "7352663",
+      "name": "Nicholas Sennott",
+      "character": null
+    },
+    {
+      "personID": "12520344",
+      "name": "Nick Sherry",
+      "character": null
+    },
+    {
+      "personID": "3653958",
+      "name": "Andreas Simon",
+      "character": null
+    },
+    {
+      "personID": "4989305",
+      "name": "Luk\u00e1cs Szab\u00f3",
+      "character": null
+    },
+    {
+      "personID": "7395854",
+      "name": "Bernadett Szalai",
+      "character": null
+    },
+    {
+      "personID": "9311676",
+      "name": "Johanna Szalai",
+      "character": null
+    },
+    {
+      "personID": "6718900",
+      "name": "Fruzsina Sz\u00f5ke",
+      "character": null
+    },
+    {
+      "personID": "4508591",
+      "name": "Laurel Thomson",
+      "character": null
+    },
+    {
+      "personID": "12520338",
+      "name": "J\u00fcrgen T\u00f6pfer",
+      "character": null
+    },
+    {
+      "personID": "4683276",
+      "name": "B\u00e1lint T\u00f6r\u00f6k",
+      "character": null
+    },
+    {
+      "personID": "3799454",
+      "name": "Hajnalka Vajay",
+      "character": null
+    },
+    {
+      "personID": "5337912",
+      "name": "Alexandra Vilcsek",
+      "character": null
+    },
+    {
+      "personID": "9727786",
+      "name": "Andras Wagner",
+      "character": null
+    },
+    {
+      "personID": "6810506",
+      "name": "Anja Wernecke",
+      "character": null
+    },
+    {
+      "personID": "0944364",
+      "name": "G\u00e1bor Xantus",
+      "character": null
+    },
+    {
+      "personID": "1713192",
+      "name": "Chris Zerwas",
+      "character": null
+    },
+    {
+      "personID": "2155912",
+      "name": "Badr Zouhir",
+      "character": null
+    },
+    {
+      "personID": "9727787",
+      "name": "Marton Zsichla",
+      "character": null
+    },
+    {
+      "personID": "5332487",
+      "name": "Hajnalka Zsig\u00e1r",
+      "character": null
+    },
+    {
+      "personID": "4683695",
+      "name": "L\u00e1szl\u00f3 \u00c1rvay",
+      "character": null
+    },
+    {
+      "personID": "5354489",
+      "name": "Bors\u00e1nyi Balazs",
+      "character": null
+    },
+    {
+      "personID": "8900451",
+      "name": "Armando Barrios",
+      "character": null
+    },
+    {
+      "personID": "0091441",
+      "name": "Jim Boeven",
+      "character": null
+    },
+    {
+      "personID": "5249336",
+      "name": "Zita Bognar",
+      "character": null
+    },
+    {
+      "personID": "2876957",
+      "name": "Gero Brugmann",
+      "character": null
+    },
+    {
+      "personID": "3138594",
+      "name": "Siham Butakmani",
+      "character": null
+    },
+    {
+      "personID": "4665084",
+      "name": "Patricia D'Intino",
+      "character": null
+    },
+    {
+      "personID": "2937778",
+      "name": "Jerry L. Dasti",
+      "character": null
+    },
+    {
+      "personID": "2891769",
+      "name": "Katharina Dietl",
+      "character": null
+    },
+    {
+      "personID": "9174933",
+      "name": "Addison Duffy",
+      "character": null
+    },
+    {
+      "personID": "1931037",
+      "name": "Henning Fischer",
+      "character": null
+    },
+    {
+      "personID": "4621558",
+      "name": "Suzanne Garnett",
+      "character": null
+    },
+    {
+      "personID": "7174906",
+      "name": "Marcel Genzmer",
+      "character": null
+    },
+    {
+      "personID": "4504783",
+      "name": "Troy Hanson",
+      "character": null
+    },
+    {
+      "personID": "9142179",
+      "name": "Justin Latimer",
+      "character": null
+    },
+    {
+      "personID": "4365433",
+      "name": "Marie Laubsch",
+      "character": null
+    },
+    {
+      "personID": "2730610",
+      "name": "Michael Martinez",
+      "character": null
+    },
+    {
+      "personID": "0567161",
+      "name": "Patrick McCullough",
+      "character": null
+    },
+    {
+      "personID": "6915348",
+      "name": "D\u00e1niel Mertz",
+      "character": null
+    },
+    {
+      "personID": "4084540",
+      "name": "Viktor Mitev",
+      "character": null
+    },
+    {
+      "personID": "0611398",
+      "name": "Susan Muir",
+      "character": null
+    },
+    {
+      "personID": "6763134",
+      "name": "Gergely Orb\u00e1n",
+      "character": null
+    },
+    {
+      "personID": "8196270",
+      "name": "Norbert Palfi",
+      "character": null
+    },
+    {
+      "personID": "6249728",
+      "name": "Janos Prihoda",
+      "character": null
+    },
+    {
+      "personID": "1119455",
+      "name": "Darren Richardson",
+      "character": null
+    },
+    {
+      "personID": "7603735",
+      "name": "Dorottya Ruszka",
+      "character": null
+    },
+    {
+      "personID": "1998284",
+      "name": "Roy Samuelson",
+      "character": null
+    },
+    {
+      "personID": "10974226",
+      "name": "Rebecca Sianez",
+      "character": null
+    },
+    {
+      "personID": "12062455",
+      "name": "Olga Slavina",
+      "character": null
+    },
+    {
+      "personID": "5940292",
+      "name": "Izabella Szabadkai",
+      "character": null
+    },
+    {
+      "personID": "7186826",
+      "name": "Wisinger Tam\u00e1s",
+      "character": null
+    },
+    {
+      "personID": "6902916",
+      "name": "Alexis Tucker",
+      "character": null
+    },
+    {
+      "personID": "2723901",
+      "name": "Heather Tyler",
+      "character": null
+    },
+    {
+      "personID": "5897467",
+      "name": "Christian Wolf",
+      "character": null
+    }
+  ],
+  "thanks": [
+    {
+      "personID": "2359317",
+      "name": "Christian Berg",
+      "character": null
+    },
+    {
+      "personID": "0076006",
+      "name": "Robert Bernacchi",
+      "character": null
+    },
+    {
+      "personID": "0121117",
+      "name": "Mark Burg",
+      "character": null
+    },
+    {
+      "personID": "9418725",
+      "name": "Anise Cheurfa",
+      "character": null
+    },
+    {
+      "personID": "4506157",
+      "name": "Daniel Cohan",
+      "character": null
+    },
+    {
+      "personID": "2248209",
+      "name": "Mike Esola",
+      "character": null
+    },
+    {
+      "personID": "0321721",
+      "name": "James Glander",
+      "character": null
+    },
+    {
+      "personID": "0329071",
+      "name": "Fred Goodman",
+      "character": null
+    },
+    {
+      "personID": "9418726",
+      "name": "Roger Green",
+      "character": null
+    },
+    {
+      "personID": "2595294",
+      "name": "Holly Jeter",
+      "character": null
+    },
+    {
+      "personID": "0439512",
+      "name": "Penny Karlin",
+      "character": null
+    },
+    {
+      "personID": "3592136",
+      "name": "Shanna Maibaum",
+      "character": null
+    },
+    {
+      "personID": "2554114",
+      "name": "Devin Mann",
+      "character": null
+    },
+    {
+      "personID": "9418727",
+      "name": "Rich Marin",
+      "character": null
+    },
+    {
+      "personID": "3425146",
+      "name": "Jeremy Marinas",
+      "character": null
+    },
+    {
+      "personID": "0565383",
+      "name": "Stella McCartney",
+      "character": null
+    },
+    {
+      "personID": "4869106",
+      "name": "Kyle Mclean",
+      "character": null
+    },
+    {
+      "personID": "3538314",
+      "name": "Lawrence Mestel",
+      "character": null
+    },
+    {
+      "personID": "9418728",
+      "name": "Robert Newman",
+      "character": null
+    },
+    {
+      "personID": "2220462",
+      "name": "Philip Raskind",
+      "character": null
+    },
+    {
+      "personID": "0722603",
+      "name": "Anthony Rhulen",
+      "character": null
+    },
+    {
+      "personID": "2811539",
+      "name": "Cliff Roberts",
+      "character": null
+    },
+    {
+      "personID": "2211258",
+      "name": "Scott Seidel",
+      "character": null
+    },
+    {
+      "personID": "9418729",
+      "name": "Kristen Smith",
+      "character": null
+    },
+    {
+      "personID": "0831057",
+      "name": "Mark P. Stoeckinger",
+      "character": null
+    },
+    {
+      "personID": "9418730",
+      "name": "Zach Studin",
+      "character": null
+    },
+    {
+      "personID": "2249670",
+      "name": "Graham Taylor",
+      "character": null
+    },
+    {
+      "personID": "1596656",
+      "name": "Don Thai Theerathada",
+      "character": null
+    },
+    {
+      "personID": "9601935",
+      "name": "Kzar Torres",
+      "character": null
+    },
+    {
+      "personID": "1703646",
+      "name": "George Tzimopoulos",
+      "character": null
+    },
+    {
+      "personID": "9418731",
+      "name": "Carlo Vicenti",
+      "character": null
+    },
+    {
+      "personID": "9418732",
+      "name": "Joseph Vicenti",
+      "character": null
+    }
+  ],
+  "akas": [
+    "The Coldest City (United States)",
+    "Atomsz\u0151ke (Hungary)",
+    "At\u00f3mica (Spain)",
+    "Ptzatza atomit (Israel, Hebrew title)",
+    "Atomska plavu\u0161a (Serbia)"
+  ],
+  "production companies": [
+    {
+      "companyID": "0042399",
+      "name": "Focus Features"
+    },
+    {
+      "companyID": "0224994",
+      "name": "87Eleven"
+    },
+    {
+      "companyID": "0023056",
+      "name": "Chickie the Cop"
+    },
+    {
+      "companyID": "0186526",
+      "name": "Closed on Mondays Entertainment"
+    },
+    {
+      "companyID": "0116500",
+      "name": "Denver and Delilah Productions"
+    },
+    {
+      "companyID": "0001935",
+      "name": "Film i V\u00e4st"
+    },
+    {
+      "companyID": "0525779",
+      "name": "Pioneer Stilking Films"
+    },
+    {
+      "companyID": "0276464",
+      "name": "Sierra / Affinity"
+    },
+    {
+      "companyID": "0638081",
+      "name": "T.G.I.M Films"
+    }
+  ],
+  "distributors": [
+    {
+      "companyID": "0042399",
+      "name": "Focus Features"
+    },
+    {
+      "companyID": "0534411",
+      "name": "Batrax Entertainment"
+    },
+    {
+      "companyID": "0276464",
+      "name": "Sierra / Affinity"
+    },
+    {
+      "companyID": "0200212",
+      "name": "ACME"
+    },
+    {
+      "companyID": "0200181",
+      "name": "ACME"
+    },
+    {
+      "companyID": "0200206",
+      "name": "ACME"
+    },
+    {
+      "companyID": "0164264",
+      "name": "Andes Films"
+    },
+    {
+      "companyID": "0403189",
+      "name": "Blitz Film & Video Distribution"
+    },
+    {
+      "companyID": "0800871",
+      "name": "Blitz Serbija"
+    },
+    {
+      "companyID": "0111139",
+      "name": "Blitz"
+    },
+    {
+      "companyID": "0042829",
+      "name": "Cathay-Keris Films"
+    },
+    {
+      "companyID": "0020442",
+      "name": "Central Partnership"
+    },
+    {
+      "companyID": "0242084",
+      "name": "Chantier Films"
+    },
+    {
+      "companyID": "0727812",
+      "name": "Cinemaxx"
+    },
+    {
+      "companyID": "0081237",
+      "name": "DeAPlaneta"
+    },
+    {
+      "companyID": "0384648",
+      "name": "Forum Film Slovakia"
+    },
+    {
+      "companyID": "0079555",
+      "name": "Future Film"
+    },
+    {
+      "companyID": "0121860",
+      "name": "Golden Scene"
+    },
+    {
+      "companyID": "0547081",
+      "name": "HKC Entertainment"
+    },
+    {
+      "companyID": "0796298",
+      "name": "Italia Film"
+    },
+    {
+      "companyID": "0225966",
+      "name": "Italia Film"
+    },
+    {
+      "companyID": "0801403",
+      "name": "Italia Film"
+    },
+    {
+      "companyID": "0188578",
+      "name": "Italia Films"
+    },
+    {
+      "companyID": "0438076",
+      "name": "Kadokawa"
+    },
+    {
+      "companyID": "0642180",
+      "name": "Lenta"
+    },
+    {
+      "companyID": "0157563",
+      "name": "Long Shong Entertainment Multimedia Company"
+    },
+    {
+      "companyID": "0129668",
+      "name": "Lotte Entertainment"
+    },
+    {
+      "companyID": "0202596",
+      "name": "M Pictures"
+    },
+    {
+      "companyID": "0511252",
+      "name": "Main Title Pictures"
+    },
+    {
+      "companyID": "0318592",
+      "name": "Meloman"
+    },
+    {
+      "companyID": "0235884",
+      "name": "Mis. Label"
+    },
+    {
+      "companyID": "0101982",
+      "name": "Monolith Films"
+    },
+    {
+      "companyID": "0484138",
+      "name": "NOS Audiovisuais"
+    },
+    {
+      "companyID": "0024104",
+      "name": "Noble Entertainment"
+    },
+    {
+      "companyID": "0792562",
+      "name": "Noori"
+    },
+    {
+      "companyID": "0173735",
+      "name": "PVR Pictures"
+    },
+    {
+      "companyID": "0018663",
+      "name": "Panorama Entertainment"
+    },
+    {
+      "companyID": "0135316",
+      "name": "Pioneer Films"
+    },
+    {
+      "companyID": "0404465",
+      "name": "Pro Video Film & Distribution Kft."
+    },
+    {
+      "companyID": "0594877",
+      "name": "Sabay MVP"
+    },
+    {
+      "companyID": "0801600",
+      "name": "Spentzos Films"
+    },
+    {
+      "companyID": "0030651",
+      "name": "Spentzos Films"
+    },
+    {
+      "companyID": "0274871",
+      "name": "Star Media Entertainment"
+    },
+    {
+      "companyID": "0091066",
+      "name": "Ster-Kinekor Pictures"
+    },
+    {
+      "companyID": "0457852",
+      "name": "Ukrainian Film Distribution (UFD)"
+    },
+    {
+      "companyID": "0097402",
+      "name": "United International Pictures (UIP)"
+    },
+    {
+      "companyID": "0187754",
+      "name": "United International Pictures (UIP)"
+    },
+    {
+      "companyID": "0097405",
+      "name": "United International Pictures (UIP)"
+    },
+    {
+      "companyID": "0350163",
+      "name": "United International Pictures (UIP)"
+    },
+    {
+      "companyID": "0043417",
+      "name": "United International Pictures (UIP)"
+    },
+    {
+      "companyID": "0168807",
+      "name": "United International Pictures (UIP)"
+    },
+    {
+      "companyID": "0423006",
+      "name": "United International Pictures (UIP)"
+    },
+    {
+      "companyID": "0037930",
+      "name": "United King Films"
+    },
+    {
+      "companyID": "0816494",
+      "name": "Universal Pictures Argentina"
+    },
+    {
+      "companyID": "0056049",
+      "name": "Universal Pictures Canada"
+    },
+    {
+      "companyID": "0811906",
+      "name": "Universal Pictures International (UPI)"
+    },
+    {
+      "companyID": "0854302",
+      "name": "Universal Pictures International (UPI)"
+    },
+    {
+      "companyID": "0854302",
+      "name": "Universal Pictures International (UPI)"
+    },
+    {
+      "companyID": "0811907",
+      "name": "Universal Pictures International (UPI)"
+    },
+    {
+      "companyID": "0198457",
+      "name": "Universal Pictures International (UPI)"
+    },
+    {
+      "companyID": "0246486",
+      "name": "Universal Pictures International (UPI)"
+    },
+    {
+      "companyID": "0219608",
+      "name": "Universal Pictures International (UPI)"
+    },
+    {
+      "companyID": "0236977",
+      "name": "Universal Pictures International (UPI)"
+    },
+    {
+      "companyID": "0812374",
+      "name": "Universal Pictures International (UPI)"
+    },
+    {
+      "companyID": "0820078",
+      "name": "Universal Pictures International (UPI)"
+    },
+    {
+      "companyID": "0820078",
+      "name": "Universal Pictures International (UPI)"
+    },
+    {
+      "companyID": "0215132",
+      "name": "Universal Pictures do Brazil"
+    },
+    {
+      "companyID": "0798429",
+      "name": "Vertical Entertainment"
+    },
+    {
+      "companyID": "0791040",
+      "name": "Vertical Entertainment"
+    },
+    {
+      "companyID": "0735534",
+      "name": "9Go!"
+    },
+    {
+      "companyID": "0233372",
+      "name": "Audio Visual Entertainment"
+    },
+    {
+      "companyID": "0313320",
+      "name": "Film1"
+    },
+    {
+      "companyID": "0144901",
+      "name": "Netflix"
+    },
+    {
+      "companyID": "0108153",
+      "name": "Panorama Distributions"
+    },
+    {
+      "companyID": "0796240",
+      "name": "Paramount Channel"
+    },
+    {
+      "companyID": "0973208",
+      "name": "The Blu"
+    },
+    {
+      "companyID": "0023827",
+      "name": "Universal Pictures Home Entertainment (UPHE)"
+    },
+    {
+      "companyID": "0023827",
+      "name": "Universal Pictures Home Entertainment (UPHE)"
+    },
+    {
+      "companyID": "0023827",
+      "name": "Universal Pictures Home Entertainment (UPHE)"
+    },
+    {
+      "companyID": "0656151",
+      "name": "Universal Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0656151",
+      "name": "Universal Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0656151",
+      "name": "Universal Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0297627",
+      "name": "Universal Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0297627",
+      "name": "Universal Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0297627",
+      "name": "Universal Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0743251",
+      "name": "Universal Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0743251",
+      "name": "Universal Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0743251",
+      "name": "Universal Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0814477",
+      "name": "Universal Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0814477",
+      "name": "Universal Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0814477",
+      "name": "Universal Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0023299",
+      "name": "Veronica"
+    }
+  ],
+  "special effects companies": [
+    {
+      "companyID": "0653897",
+      "name": "Chimney group"
+    }
+  ],
+  "other companies": [
+    {
+      "companyID": "0543401",
+      "name": "Aperture Media Partners"
+    },
+    {
+      "companyID": "0260421",
+      "name": "Back Lot Music"
+    },
+    {
+      "companyID": "0747059",
+      "name": "COPRA Dailies System"
+    },
+    {
+      "companyID": "0294826",
+      "name": "Codex"
+    },
+    {
+      "companyID": "0296183",
+      "name": "Dilated Pixels"
+    },
+    {
+      "companyID": "0501155",
+      "name": "FILLSCRN"
+    },
+    {
+      "companyID": "0679510",
+      "name": "Fekete Film"
+    },
+    {
+      "companyID": "0007445",
+      "name": "Film Finances"
+    },
+    {
+      "companyID": "0109836",
+      "name": "Fintage CAM"
+    },
+    {
+      "companyID": "0190210",
+      "name": "International Alliance of Theatrical Stage Employees (IATSE)"
+    },
+    {
+      "companyID": "0374148",
+      "name": "Origo Film Group"
+    },
+    {
+      "companyID": "0149876",
+      "name": "Rice Gorton Pictures Ltd."
+    },
+    {
+      "companyID": "0232385",
+      "name": "Road Rebel"
+    },
+    {
+      "companyID": "0294422",
+      "name": "Shotz Picture Vehicles"
+    },
+    {
+      "companyID": "0376826",
+      "name": "Showrisk"
+    },
+    {
+      "companyID": "0167055",
+      "name": "South By Southwest Film Festival (SXSW)"
+    },
+    {
+      "companyID": "0107058",
+      "name": "Studio Babelsberg Motion Pictures"
+    },
+    {
+      "companyID": "0053177",
+      "name": "Studio Babelsberg"
+    },
+    {
+      "companyID": "0061638",
+      "name": "Theaterkunst"
+    },
+    {
+      "companyID": "0008793",
+      "name": "Vantage Film"
+    },
+    {
+      "companyID": "0259108",
+      "name": "Videoassist.hu"
+    },
+    {
+      "companyID": "0140626",
+      "name": "Visual Data Media Services"
+    }
+  ]
+}

@@ -1,3 +1,925 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:405a44dd3958c40dceb17365cc652d0c8d770e8a27080de71090dc5a39a52caf
-size 19041
+{
+  "localized title": "Halloween",
+  "cast": [
+    {
+      "personID": "0000587",
+      "name": "Donald Pleasence",
+      "character": "Loomis"
+    },
+    {
+      "personID": "0000130",
+      "name": "Jamie Lee Curtis",
+      "character": "Laurie"
+    },
+    {
+      "personID": "0477341",
+      "name": "Nancy Kyes",
+      "character": "Annie"
+    },
+    {
+      "personID": "0001753",
+      "name": "P.J. Soles",
+      "character": "Lynda"
+    },
+    {
+      "personID": "0194234",
+      "name": "Charles Cyphers",
+      "character": "Brackett"
+    },
+    {
+      "personID": "0724202",
+      "name": "Kyle Richards",
+      "character": "Lindsey"
+    },
+    {
+      "personID": "0028584",
+      "name": "Brian Andrews",
+      "character": "Tommy"
+    },
+    {
+      "personID": "0334137",
+      "name": "John Michael Graham",
+      "character": "Bob"
+    },
+    {
+      "personID": "0827111",
+      "name": "Nancy Stephens",
+      "character": "Marion"
+    },
+    {
+      "personID": "0539395",
+      "name": "Arthur Malet",
+      "character": "Graveyard Keeper"
+    },
+    {
+      "personID": "0944749",
+      "name": "Mickey Yablans",
+      "character": "Richie"
+    },
+    {
+      "personID": "0494506",
+      "name": "Brent Le Page",
+      "character": "Lonnie"
+    },
+    {
+      "personID": "0390866",
+      "name": "Adam Hollander",
+      "character": "Keith"
+    },
+    {
+      "personID": "0679606",
+      "name": "Robert Phalen",
+      "character": "Dr. Wynn"
+    },
+    {
+      "personID": "0602985",
+      "name": "Tony Moran",
+      "character": "Michael Myers"
+    },
+    {
+      "personID": "0761934",
+      "name": "Will Sandin",
+      "character": "Michael Myers"
+    },
+    {
+      "personID": "0426184",
+      "name": "Sandy Johnson",
+      "character": "Judith Myers"
+    },
+    {
+      "personID": "0477371",
+      "name": "David Kyle",
+      "character": "Boyfriend"
+    },
+    {
+      "personID": "0341582",
+      "name": "Peter Griffith",
+      "character": "Laurie's Father"
+    },
+    {
+      "personID": "0145309",
+      "name": "Nick Castle",
+      "character": "The Shape"
+    },
+    {
+      "personID": "0076444",
+      "name": "Barry Bernardi",
+      "character": "Dead Mechanic"
+    },
+    {
+      "personID": "10517939",
+      "name": "Joseph Cornelius",
+      "character": "Classmate"
+    },
+    {
+      "personID": "0641191",
+      "name": "George O'Hanlon Jr.",
+      "character": "Mr. Peter Myers"
+    },
+    {
+      "personID": "2031440",
+      "name": "Darla Rae",
+      "character": "Student"
+    },
+    {
+      "personID": "0722451",
+      "name": "Jennifer Rhodes",
+      "character": "Psych Ward Nurse"
+    },
+    {
+      "personID": "0885934",
+      "name": "Gwen Van Dam",
+      "character": "Sanitarium Nurse"
+    },
+    {
+      "personID": "0908890",
+      "name": "Tommy Lee Wallace",
+      "character": "Michael Myers"
+    }
+  ],
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "runtimes": [
+    "91"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "country codes": [
+    "us"
+  ],
+  "language codes": [
+    "en"
+  ],
+  "color info": [
+    "Color"
+  ],
+  "aspect ratio": "2.39 : 1",
+  "sound mix": [
+    "Mono"
+  ],
+  "box office": {
+    "Budget": "$300,000 (estimated)",
+    "Cumulative Worldwide Gross": "$70,000,000"
+  },
+  "certificates": [
+    "Argentina:18",
+    "Argentina:13",
+    "Australia:R",
+    "Australia:M::(recommended rating)",
+    "Belgium:16",
+    "Brazil:16",
+    "Canada:R",
+    "Canada:18A::(British Columbia)",
+    "Canada:14A::(British Columbia)",
+    "Canada:R::(Manitoba)",
+    "Canada:R::(Nova Scotia)",
+    "Canada:18A::(Nova Scotia)",
+    "Canada:R::(Ontario)",
+    "Canada:13+::(Quebec)",
+    "Canada:14A::(Ontario)",
+    "Canada:AA::(Ontario)",
+    "Chile:14::(DVD rating)",
+    "Colombia:15",
+    "Czechia:12",
+    "Denmark:15::(DVD rating)",
+    "Egypt:R",
+    "Finland:K-18",
+    "Finland:K-15::(DVD rating)",
+    "France:12::(new rating)",
+    "France:16",
+    "France:12",
+    "Greece:K-16",
+    "Hong Kong:IIB::(recommended rating)",
+    "Hungary:18",
+    "Iceland:16",
+    "India:UA",
+    "India:A",
+    "Ireland:16",
+    "Ireland:18",
+    "Ireland:16::(theatrical)",
+    "Ireland:15::(video)",
+    "Italy:VM14",
+    "Italy:T",
+    "Japan:PG-12",
+    "Malaysia:18PL",
+    "Mexico:B",
+    "Netherlands:16",
+    "New Zealand:R16",
+    "Nigeria:PG",
+    "Norway:15",
+    "Norway:18",
+    "Peru:18",
+    "Poland:16::(self-applied)",
+    "Portugal:M/18",
+    "Portugal:M/16",
+    "Romania:I.M.-18",
+    "Russia:18+",
+    "Russia:16+",
+    "Saudi Arabia:PG",
+    "Singapore:PG",
+    "Singapore:NC-16",
+    "South Africa:16",
+    "South Korea:18",
+    "Soviet Union:16",
+    "Spain:18",
+    "Spain:13",
+    "Sweden:15",
+    "Taiwan:R-12",
+    "Turkey:18+",
+    "United Kingdom:15",
+    "United Kingdom:X",
+    "United Kingdom:15",
+    "United Kingdom:18",
+    "United States:TV-14",
+    "United States:TV-MA::(IFC rating)",
+    "United States:R",
+    "Ukraine:16",
+    "United Arab Emirates:18+::(self-applied)",
+    "West Germany:18::(nf)",
+    "West Germany:16"
+  ],
+  "original air date": "27 Oct 1978 (USA)",
+  "rating": 7.7,
+  "votes": 287821,
+  "cover url": "https://m.media-amazon.com/images/M/MV5BNzk1OGU2NmMtNTdhZC00NjdlLWE5YTMtZTQ0MGExZTQzOGQyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg",
+  "imdbID": "0077651",
+  "videos": [
+    "http://www.imdb.com/title/tt0077651/videoplayer/vi330039577",
+    "http://www.imdb.com/title/tt0077651/videoplayer/vi331072793"
+  ],
+  "plot outline": "The year is 1963, the night: Halloween. Police are called to 43 Lampkin Ln. only to discover that 15 year old Judith Myers has been stabbed to death, by her 6 year-old brother, Michael. After being institutionalized for 15 years, Myers breaks out on the night before Halloween. No one knows, nor wants to find out, what will happen on October 31st 1978 besides Myers' psychiatrist, Dr. Loomis. He knows Michael is coming back to Haddonfield, but by the time the town realizes it, it'll be too late for many people.",
+  "languages": [
+    "English"
+  ],
+  "title": "Halloween",
+  "year": 1978,
+  "kind": "movie",
+  "original title": "Halloween",
+  "director": [
+    {
+      "personID": "0000118",
+      "name": "John Carpenter",
+      "character": null
+    }
+  ],
+  "writer": [
+    {
+      "personID": "0000118",
+      "name": "John Carpenter",
+      "character": null
+    },
+    {
+      "personID": "0384185",
+      "name": "Debra Hill",
+      "character": null
+    }
+  ],
+  "producer": [
+    {
+      "personID": "0002160",
+      "name": "Moustapha Akkad",
+      "character": null
+    },
+    {
+      "personID": "0000118",
+      "name": "John Carpenter",
+      "character": null
+    },
+    {
+      "personID": "0384185",
+      "name": "Debra Hill",
+      "character": null
+    },
+    {
+      "personID": "0527146",
+      "name": "Kool Marder",
+      "character": null
+    },
+    {
+      "personID": "0944748",
+      "name": "Irwin Yablans",
+      "character": null
+    }
+  ],
+  "composer": [
+    {
+      "personID": "0000118",
+      "name": "John Carpenter",
+      "character": null
+    }
+  ],
+  "cinematographer": [
+    {
+      "personID": "0005678",
+      "name": "Dean Cundey",
+      "character": null
+    }
+  ],
+  "editor": [
+    {
+      "personID": "0097132",
+      "name": "Charles Bornstein",
+      "character": null
+    },
+    {
+      "personID": "0908890",
+      "name": "Tommy Lee Wallace",
+      "character": null
+    }
+  ],
+  "production design": [
+    {
+      "personID": "0908890",
+      "name": "Tommy Lee Wallace",
+      "character": null
+    }
+  ],
+  "set decoration": [
+    {
+      "personID": "0824175",
+      "name": "Craig Stearns",
+      "character": null
+    }
+  ],
+  "make up": [
+    {
+      "personID": "0880465",
+      "name": "Erica Ueland",
+      "character": null
+    }
+  ],
+  "production manager": [
+    {
+      "personID": "0067112",
+      "name": "Don Behrns",
+      "character": null
+    }
+  ],
+  "assistant director": [
+    {
+      "personID": "0212453",
+      "name": "Jack De Wolf",
+      "character": null
+    },
+    {
+      "personID": "0908833",
+      "name": "Rick Wallace",
+      "character": null
+    }
+  ],
+  "art department": [
+    {
+      "personID": "0320928",
+      "name": "Dick Girod",
+      "character": null
+    },
+    {
+      "personID": "0003153",
+      "name": "Randy Moore",
+      "character": null
+    },
+    {
+      "personID": "0824175",
+      "name": "Craig Stearns",
+      "character": null
+    },
+    {
+      "personID": "0000387",
+      "name": "Robert Englund",
+      "character": null
+    }
+  ],
+  "sound crew": [
+    {
+      "personID": "0107328",
+      "name": "Joseph F. Brennan",
+      "character": null
+    },
+    {
+      "personID": "0146600",
+      "name": "Thomas Causey",
+      "character": null
+    },
+    {
+      "personID": "0828885",
+      "name": "William L. Stevenson",
+      "character": null
+    },
+    {
+      "personID": "0748839",
+      "name": "Tex Rudloff",
+      "character": null
+    },
+    {
+      "personID": "0835101",
+      "name": "Lee Strosnider",
+      "character": null
+    }
+  ],
+  "special effects": [
+    {
+      "personID": "0745223",
+      "name": "Conrad Rothmann",
+      "character": null
+    }
+  ],
+  "stunt performer": [
+    {
+      "personID": "0934555",
+      "name": "James Winburn",
+      "character": null
+    }
+  ],
+  "camera and electrical department": [
+    {
+      "personID": "0293558",
+      "name": "Reid Freeman",
+      "character": null
+    },
+    {
+      "personID": "0331985",
+      "name": "Kim Gottlieb",
+      "character": null
+    },
+    {
+      "personID": "0384763",
+      "name": "Walt Hill",
+      "character": null
+    },
+    {
+      "personID": "0558942",
+      "name": "Steve Mathis",
+      "character": null
+    },
+    {
+      "personID": "0588676",
+      "name": "Joshua Miller",
+      "character": null
+    },
+    {
+      "personID": "0710568",
+      "name": "Krishna Rao",
+      "character": null
+    },
+    {
+      "personID": "0791706",
+      "name": "Dylan Shephard",
+      "character": null
+    },
+    {
+      "personID": "0826310",
+      "name": "Raymond Stella",
+      "character": null
+    },
+    {
+      "personID": "0896080",
+      "name": "Fred Vickter",
+      "character": null
+    },
+    {
+      "personID": "0910451",
+      "name": "Mark Walthour",
+      "character": null
+    },
+    {
+      "personID": "0646557",
+      "name": "Douglas Olivares",
+      "character": null
+    }
+  ],
+  "costume department": [
+    {
+      "personID": "0734671",
+      "name": "Beth Rodgers",
+      "character": null
+    },
+    {
+      "personID": "1287578",
+      "name": "Joan Joseff",
+      "character": null
+    },
+    {
+      "personID": "9148841",
+      "name": "Tina Joseff",
+      "character": null
+    }
+  ],
+  "music department": [
+    {
+      "personID": "0075016",
+      "name": "Peter Bergren",
+      "character": null
+    },
+    {
+      "personID": "0910185",
+      "name": "Bob Walters",
+      "character": null
+    },
+    {
+      "personID": "0943831",
+      "name": "Dan Wyman",
+      "character": null
+    }
+  ],
+  "script department": [
+    {
+      "personID": "0415464",
+      "name": "Louise Jaffe",
+      "character": null
+    }
+  ],
+  "miscellaneous crew": [
+    {
+      "personID": "0002160",
+      "name": "Moustapha Akkad",
+      "character": null
+    },
+    {
+      "personID": "0076444",
+      "name": "Barry Bernardi",
+      "character": null
+    },
+    {
+      "personID": "0289184",
+      "name": "Paul Fox",
+      "character": null
+    },
+    {
+      "personID": "0908890",
+      "name": "Tommy Lee Wallace",
+      "character": null
+    }
+  ],
+  "akas": [
+    "The Babysitter Murders (United States)",
+    "He Came Home for Halloween (United States)",
+    "John Carpenter's Halloween (United States)",
+    "\u05dc\u05d9\u05dc \u05d4\u05de\u05e1\u05db\u05d5\u05ea (Israel, English title)",
+    "La Nuit des masques (France)"
+  ],
+  "production companies": [
+    {
+      "companyID": "0051701",
+      "name": "Compass International Pictures"
+    },
+    {
+      "companyID": "0756481",
+      "name": "Falcon International Pictures"
+    },
+    {
+      "companyID": "0017847",
+      "name": "Falcon International Productions"
+    }
+  ],
+  "distributors": [
+    {
+      "companyID": "0037217",
+      "name": "Aquarius Releasing"
+    },
+    {
+      "companyID": "0051701",
+      "name": "Compass International Pictures"
+    },
+    {
+      "companyID": "0010132",
+      "name": "Astral Films"
+    },
+    {
+      "companyID": "0009798",
+      "name": "Manson International Pictures"
+    },
+    {
+      "companyID": "0036814",
+      "name": "Joy Pack Film"
+    },
+    {
+      "companyID": "0219502",
+      "name": "Mid-America Releasing"
+    },
+    {
+      "companyID": "0015608",
+      "name": "Miracle Films"
+    },
+    {
+      "companyID": "0009993",
+      "name": "Produzione Intercontinentale Cinematografica (PIC)"
+    },
+    {
+      "companyID": "0053539",
+      "name": "Warner-Columbia Film"
+    },
+    {
+      "companyID": "0118308",
+      "name": "Warner-Columbia Filmverleih"
+    },
+    {
+      "companyID": "0092296",
+      "name": "20th Century Fox India"
+    },
+    {
+      "companyID": "0722589",
+      "name": "Filmes Sandro"
+    },
+    {
+      "companyID": "0221636",
+      "name": "Fox-Stockholm Film Distribution"
+    },
+    {
+      "companyID": "0011950",
+      "name": "Hispamex Films"
+    },
+    {
+      "companyID": "0595385",
+      "name": "T&O Film"
+    },
+    {
+      "companyID": "0057219",
+      "name": "Media Home Entertainment"
+    },
+    {
+      "companyID": "0050640",
+      "name": "Hoyts Distribution"
+    },
+    {
+      "companyID": "0058239",
+      "name": "Producciones Gustavo Alatriste"
+    },
+    {
+      "companyID": "0025931",
+      "name": "Astral Video"
+    },
+    {
+      "companyID": "0376267",
+      "name": "Media Home Entertainment"
+    },
+    {
+      "companyID": "0608064",
+      "name": "Media Home Entertainment"
+    },
+    {
+      "companyID": "0057219",
+      "name": "Media Home Entertainment"
+    },
+    {
+      "companyID": "0072315",
+      "name": "National Broadcasting Company (NBC)"
+    },
+    {
+      "companyID": "0149423",
+      "name": "VideoVisa"
+    },
+    {
+      "companyID": "0108865",
+      "name": "ITC Entertainment"
+    },
+    {
+      "companyID": "0008135",
+      "name": "Reserva Especial"
+    },
+    {
+      "companyID": "0013585",
+      "name": "Image Entertainment"
+    },
+    {
+      "companyID": "0190565",
+      "name": "Veronica Omroep Organisatie"
+    },
+    {
+      "companyID": "0000878",
+      "name": "V\u00eddeo Ban"
+    },
+    {
+      "companyID": "0028560",
+      "name": "CEL Home Video"
+    },
+    {
+      "companyID": "0028557",
+      "name": "Canal+"
+    },
+    {
+      "companyID": "0050480",
+      "name": "August Entertainment"
+    },
+    {
+      "companyID": "0008958",
+      "name": "La Cinq"
+    },
+    {
+      "companyID": "0057219",
+      "name": "Media Home Entertainment"
+    },
+    {
+      "companyID": "0608062",
+      "name": "Norsk Filmindustri A/S"
+    },
+    {
+      "companyID": "0059891",
+      "name": "ProSieben"
+    },
+    {
+      "companyID": "0044076",
+      "name": "The Criterion Collection"
+    },
+    {
+      "companyID": "0234667",
+      "name": "BBC One"
+    },
+    {
+      "companyID": "0073895",
+      "name": "Blockbuster Entertainment Group"
+    },
+    {
+      "companyID": "0067793",
+      "name": "Anchor Bay Entertainment"
+    },
+    {
+      "companyID": "0067793",
+      "name": "Anchor Bay Entertainment"
+    },
+    {
+      "companyID": "0234496",
+      "name": "BBC Two"
+    },
+    {
+      "companyID": "0050978",
+      "name": "HGV Video Productions"
+    },
+    {
+      "companyID": "0073649",
+      "name": "Kabel Eins"
+    },
+    {
+      "companyID": "0073649",
+      "name": "Kabel Eins"
+    },
+    {
+      "companyID": "0024368",
+      "name": "The Sci-Fi Channel"
+    },
+    {
+      "companyID": "0014957",
+      "name": "USA Network"
+    },
+    {
+      "companyID": "0053518",
+      "name": "Video Treasures"
+    },
+    {
+      "companyID": "0079555",
+      "name": "Future Film"
+    },
+    {
+      "companyID": "0395667",
+      "name": "Regie Cassette Video (RCV)"
+    },
+    {
+      "companyID": "0166075",
+      "name": "Indies Home Entertainment"
+    },
+    {
+      "companyID": "0166075",
+      "name": "Indies Home Entertainment"
+    },
+    {
+      "companyID": "0017313",
+      "name": "Astro Distribution"
+    },
+    {
+      "companyID": "0104650",
+      "name": "BBC Choice"
+    },
+    {
+      "companyID": "0086059",
+      "name": "Continental Home V\u00eddeo"
+    },
+    {
+      "companyID": "0079555",
+      "name": "Future Film"
+    },
+    {
+      "companyID": "0067793",
+      "name": "Anchor Bay Entertainment"
+    },
+    {
+      "companyID": "0399177",
+      "name": "BBC Three"
+    },
+    {
+      "companyID": "0182772",
+      "name": "Atlantic Film"
+    },
+    {
+      "companyID": "0274871",
+      "name": "Star Media Entertainment"
+    },
+    {
+      "companyID": "0014456",
+      "name": "ARTE"
+    },
+    {
+      "companyID": "0113373",
+      "name": "Anchor Bay Entertainment (UK)"
+    },
+    {
+      "companyID": "0067793",
+      "name": "Anchor Bay Entertainment"
+    },
+    {
+      "companyID": "0022315",
+      "name": "Opening"
+    },
+    {
+      "companyID": "0122766",
+      "name": "Umbrella Entertainment"
+    },
+    {
+      "companyID": "0200927",
+      "name": "Starlight Film"
+    },
+    {
+      "companyID": "0210003",
+      "name": "Deliverance Pictures"
+    },
+    {
+      "companyID": "0360057",
+      "name": "Fathom Events"
+    },
+    {
+      "companyID": "0296065",
+      "name": "Splendor Films"
+    },
+    {
+      "companyID": "0292919",
+      "name": "Lionsgate Home Entertainment"
+    },
+    {
+      "companyID": "0292909",
+      "name": "Lionsgate Home Entertainment"
+    },
+    {
+      "companyID": "0003079",
+      "name": "Concorde Home Entertainment"
+    },
+    {
+      "companyID": "0003079",
+      "name": "Concorde Home Entertainment"
+    },
+    {
+      "companyID": "0003079",
+      "name": "Concorde Home Entertainment"
+    },
+    {
+      "companyID": "0755477",
+      "name": "CineLife Entertainment"
+    },
+    {
+      "companyID": "0235493",
+      "name": "Scream Factory"
+    }
+  ],
+  "other companies": [
+    {
+      "companyID": "0064215",
+      "name": "Samuel Goldwyn Studios"
+    },
+    {
+      "companyID": "0058364",
+      "name": "Sound Arts"
+    },
+    {
+      "companyID": "0075502",
+      "name": "The Bowling Green Philharmonic Orchestra"
+    },
+    {
+      "companyID": "0019083",
+      "name": "CBS Records"
+    },
+    {
+      "companyID": "0092195",
+      "name": "RKO General"
+    },
+    {
+      "companyID": "0007143",
+      "name": "Metro-Goldwyn-Mayer (MGM)"
+    },
+    {
+      "companyID": "0007143",
+      "name": "Metro-Goldwyn-Mayer (MGM)"
+    },
+    {
+      "companyID": "0178380",
+      "name": "Crest Digital"
+    },
+    {
+      "companyID": "0072759",
+      "name": "Modern VideoFilm"
+    },
+    {
+      "companyID": "0131611",
+      "name": "THX Ltd."
+    }
+  ]
+}

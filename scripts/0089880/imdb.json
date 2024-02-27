@@ -1,3 +1,1622 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ed61df9097f8aee5d2cea57874d667f7c072c780ba93204d5b97509a89f21b50
-size 32571
+{
+  "localized title": "Rambo: First Blood Part II",
+  "cast": [
+    {
+      "personID": "0000230",
+      "name": "Sylvester Stallone",
+      "character": "Rambo"
+    },
+    {
+      "personID": "0001077",
+      "name": "Richard Crenna",
+      "character": "Trautman"
+    },
+    {
+      "personID": "0621008",
+      "name": "Charles Napier",
+      "character": "Murdock"
+    },
+    {
+      "personID": "0000925",
+      "name": "Steven Berkoff",
+      "character": "Podovsky"
+    },
+    {
+      "personID": "0630100",
+      "name": "Julia Nickson",
+      "character": "Co"
+    },
+    {
+      "personID": "0184392",
+      "name": "Martin Kove",
+      "character": "Ericson"
+    },
+    {
+      "personID": "0156475",
+      "name": "George Cheung",
+      "character": "Tay"
+    },
+    {
+      "personID": "0939542",
+      "name": "Andy Wood",
+      "character": "Banks"
+    },
+    {
+      "personID": "0315616",
+      "name": "William Ghent",
+      "character": "Vinh"
+    },
+    {
+      "personID": "0330937",
+      "name": "Vojislav Govedarica",
+      "character": "Yushin"
+    },
+    {
+      "personID": "0497086",
+      "name": "Dana Lee",
+      "character": "Kinh"
+    },
+    {
+      "personID": "0170927",
+      "name": "Baoan Coleman",
+      "character": "Gunboat Captain"
+    },
+    {
+      "personID": "2120639",
+      "name": "Steve Williams",
+      "character": "Lifer"
+    },
+    {
+      "personID": "0172278",
+      "name": "Don Collins",
+      "character": "P.O.W. #1"
+    },
+    {
+      "personID": "0335312",
+      "name": "Christopher Grant",
+      "character": "P.O.W. #2"
+    },
+    {
+      "personID": "0827599",
+      "name": "John Sterlini",
+      "character": "P.O.W. #3"
+    },
+    {
+      "personID": "0387957",
+      "name": "Alain Hocquenghem",
+      "character": "P.O.W. #4"
+    },
+    {
+      "personID": "0745212",
+      "name": "William Rothlein",
+      "character": "P.O.W. #5"
+    },
+    {
+      "personID": "0611154",
+      "name": "Tony Munafo",
+      "character": "Prison Guard Testa"
+    },
+    {
+      "personID": "0311828",
+      "name": "Tom Gehrke",
+      "character": "Russian Pilot"
+    },
+    {
+      "personID": "0136434",
+      "name": "Mason Cardiff",
+      "character": "Russian Soldier"
+    },
+    {
+      "personID": "0191053",
+      "name": "Roger Cudney",
+      "character": "Chief Radio Operator"
+    },
+    {
+      "personID": "0408001",
+      "name": "Jeff Imada",
+      "character": "Tay's Soldier"
+    },
+    {
+      "personID": "0596294",
+      "name": "Harry Mok",
+      "character": "Vietnamese Soldier"
+    },
+    {
+      "personID": "0659601",
+      "name": "John Pankow",
+      "character": "POW #6"
+    },
+    {
+      "personID": "1254777",
+      "name": "John Sabol",
+      "character": "Radio Operator"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "runtimes": [
+    "96"
+  ],
+  "countries": [
+    "United States",
+    "Mexico"
+  ],
+  "country codes": [
+    "us",
+    "mx"
+  ],
+  "language codes": [
+    "en",
+    "vi",
+    "ru"
+  ],
+  "color info": [
+    "Color"
+  ],
+  "aspect ratio": "2.20 : 1 (70 mm prints)",
+  "sound mix": [
+    "70 mm 6-Track::(70 mm prints)",
+    "Dolby Stereo::(35 mm prints)::(4 channels)"
+  ],
+  "box office": {
+    "Budget": "$44,000,000 (estimated)",
+    "Opening Weekend United States": "$25,520,843, 27 May 1985",
+    "Cumulative Worldwide Gross": "$300,400,432"
+  },
+  "certificates": [
+    "Argentina:16",
+    "Australia:M",
+    "Australia:MA15+",
+    "Brazil:14",
+    "Canada:18A",
+    "Canada:R::(Manitoba/Nova Scotia)",
+    "Canada:AA::(Ontario)",
+    "Canada:18+::(Quebec)",
+    "Canada:13+::(Quebec)",
+    "Canada:14A::(Ontario)",
+    "Chile:18",
+    "Colombia:18",
+    "Denmark:15::(Blu-ray rating)",
+    "Finland:K-16",
+    "Finland:K-16",
+    "Finland:K-18",
+    "France:Tous publics",
+    "Germany:Not Rated",
+    "Germany:18",
+    "Iceland:16",
+    "India:U::(TV rating)",
+    "India:A",
+    "India:A",
+    "Ireland:15",
+    "Israel:18::(self-applied)",
+    "Italy:T",
+    "Japan:R15+",
+    "Malaysia:18SG",
+    "Mexico:B15",
+    "Netherlands:16",
+    "New Zealand:R13",
+    "Norway:16::(Netflix self-rating)",
+    "Norway:15::(VOD)",
+    "Norway:18::(cinema rating)",
+    "Peru:18",
+    "Philippines:R-16",
+    "Philippines:SPG::(TV rating)",
+    "Poland:16",
+    "Portugal:M/12",
+    "Russia:16+",
+    "Singapore:PG",
+    "South Africa:16",
+    "South Korea:15",
+    "Soviet Union:(Banned)",
+    "Spain:18",
+    "Sweden:15::(Blu-ray rating)",
+    "Sweden:15::(video rating)",
+    "United Kingdom:15",
+    "United States:TV-14",
+    "United States:R",
+    "United Arab Emirates:18+::(self-applied)",
+    "West Germany:16::(f)",
+    "West Germany:18::(BPjM restricted)"
+  ],
+  "original air date": "22 May 1985 (USA)",
+  "rating": 6.5,
+  "votes": 174642,
+  "cover url": "https://m.media-amazon.com/images/M/MV5BZWFkY2I1ZDAtNmZhNS00NjVlLWJiMGQtMGQ1ZmM0ZDA5ODg5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg",
+  "imdbID": "0089880",
+  "videos": [
+    "http://www.imdb.com/title/tt0089880/videoplayer/vi3970892057",
+    "http://www.imdb.com/title/tt0089880/videoplayer/vi3793995033"
+  ],
+  "plot outline": "Only a few years after the all-out guerrilla war in First Blood (1982), John Rambo's former commanding officer, Colonel Sam Trautman, pulls him out of jail, only to send him back to a place he swore never to return: the impenetrable jungles of Vietnam. Entrusted with the dangerous task of collecting evidence that American POWs are still being held captive, Rambo agrees to infiltrate the unknown zone, and before long, he finds himself double-crossed, marooned behind the enemy lines. Once, John fought for his country. Now, the government has left him for dead in a Soviet-infested land. Can Rambo fulfil his suicide mission? Will he deliver his lethal justice?",
+  "languages": [
+    "English",
+    "Vietnamese",
+    "Russian"
+  ],
+  "title": "Rambo: First Blood Part II",
+  "year": 1985,
+  "kind": "movie",
+  "original title": "Rambo: First Blood Part II",
+  "director": [
+    {
+      "personID": "0181902",
+      "name": "George P. Cosmatos",
+      "character": null
+    }
+  ],
+  "writer": [
+    {
+      "personID": "0606251",
+      "name": "David Morrell",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "0418883",
+      "name": "Kevin Jarre",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "0000230",
+      "name": "Sylvester Stallone",
+      "character": null
+    },
+    {
+      "personID": "0000116",
+      "name": "James Cameron",
+      "character": null
+    }
+  ],
+  "producer": [
+    {
+      "personID": "0217448",
+      "name": "Mel Dellar",
+      "character": null
+    },
+    {
+      "personID": "0270809",
+      "name": "Buzz Feitshans",
+      "character": null
+    },
+    {
+      "personID": "0440830",
+      "name": "Mario Kassar",
+      "character": null
+    },
+    {
+      "personID": "0883351",
+      "name": "Andrew G. Vajna",
+      "character": null
+    }
+  ],
+  "composer": [
+    {
+      "personID": "0000025",
+      "name": "Jerry Goldsmith",
+      "character": null
+    }
+  ],
+  "cinematographer": [
+    {
+      "personID": "0002153",
+      "name": "Jack Cardiff",
+      "character": null
+    }
+  ],
+  "editor": [
+    {
+      "personID": "0003231",
+      "name": "Larry Bock",
+      "character": null
+    },
+    {
+      "personID": "0325358",
+      "name": "Mark Goldblatt",
+      "character": null
+    },
+    {
+      "personID": "0375068",
+      "name": "Mark Helfrich",
+      "character": null
+    },
+    {
+      "personID": "0415445",
+      "name": "Gib Jaffe",
+      "character": null
+    },
+    {
+      "personID": "0422766",
+      "name": "Frank E. Jimenez",
+      "character": null
+    }
+  ],
+  "editorial department": [
+    {
+      "personID": "0060205",
+      "name": "Donah Bassett",
+      "character": null
+    },
+    {
+      "personID": "0114673",
+      "name": "Shelley Brown",
+      "character": null
+    },
+    {
+      "personID": "0650950",
+      "name": "Sergio Ortega",
+      "character": null
+    },
+    {
+      "personID": "0710997",
+      "name": "Robert Raring",
+      "character": null
+    },
+    {
+      "personID": "0720581",
+      "name": "Florent Retz",
+      "character": null
+    },
+    {
+      "personID": "0740379",
+      "name": "Hilarie Roope",
+      "character": null
+    },
+    {
+      "personID": "0816057",
+      "name": "Ron South",
+      "character": null
+    }
+  ],
+  "casting director": [
+    {
+      "personID": "0949982",
+      "name": "Rhonda Young",
+      "character": null
+    }
+  ],
+  "production design": [
+    {
+      "personID": "0448457",
+      "name": "Bill Kenney",
+      "character": null
+    }
+  ],
+  "set decoration": [
+    {
+      "personID": "0804337",
+      "name": "William Ladd Skinner",
+      "character": null
+    },
+    {
+      "personID": "0863964",
+      "name": "Sig Tingloff",
+      "character": null
+    }
+  ],
+  "costume designer": [
+    {
+      "personID": "0111537",
+      "name": "Tom Bronson",
+      "character": null
+    }
+  ],
+  "make up": [
+    {
+      "personID": "0158381",
+      "name": "Bertha Chiu",
+      "character": null
+    },
+    {
+      "personID": "0170634",
+      "name": "Kay Cole",
+      "character": null
+    },
+    {
+      "personID": "0257255",
+      "name": "Leonard Engelman",
+      "character": null
+    },
+    {
+      "personID": "0650401",
+      "name": "Elvira Oropeza",
+      "character": null
+    },
+    {
+      "personID": "0922882",
+      "name": "Pamela S. Westmore",
+      "character": null
+    }
+  ],
+  "production manager": [
+    {
+      "personID": "0046151",
+      "name": "Anuar Badin",
+      "character": null
+    },
+    {
+      "personID": "0738392",
+      "name": "Fred Rollin",
+      "character": null
+    }
+  ],
+  "assistant director": [
+    {
+      "personID": "0162839",
+      "name": "Mario Cisneros",
+      "character": null
+    },
+    {
+      "personID": "0455758",
+      "name": "Patrick Kinney",
+      "character": null
+    },
+    {
+      "personID": "0738392",
+      "name": "Fred Rollin",
+      "character": null
+    },
+    {
+      "personID": "0003423",
+      "name": "Peter MacDonald",
+      "character": null
+    }
+  ],
+  "art department": [
+    {
+      "personID": "0055766",
+      "name": "Roy Barnes",
+      "character": null
+    },
+    {
+      "personID": "0125327",
+      "name": "Dennis Butterworth",
+      "character": null
+    },
+    {
+      "personID": "0194590",
+      "name": "Mart\u00edn C\u00e1rdenas Moreno",
+      "character": null
+    },
+    {
+      "personID": "0261956",
+      "name": "Enrique Est\u00e9vez",
+      "character": null
+    },
+    {
+      "personID": "0381676",
+      "name": "Howard Hester",
+      "character": null
+    },
+    {
+      "personID": "0411817",
+      "name": "Agust\u00edn Ituarte",
+      "character": null
+    },
+    {
+      "personID": "0524777",
+      "name": "Fred Lucky",
+      "character": null
+    },
+    {
+      "personID": "0663524",
+      "name": "Dennis J. Parrish",
+      "character": null
+    },
+    {
+      "personID": "0920669",
+      "name": "Ward Welton",
+      "character": null
+    },
+    {
+      "personID": "0684037",
+      "name": "Moises Pineda",
+      "character": null
+    }
+  ],
+  "sound crew": [
+    {
+      "personID": "0113578",
+      "name": "Fred J. Brown",
+      "character": null
+    },
+    {
+      "personID": "0254932",
+      "name": "Juno J. Ellis",
+      "character": null
+    },
+    {
+      "personID": "0336561",
+      "name": "David W. Gray",
+      "character": null
+    },
+    {
+      "personID": "0395376",
+      "name": "Denise Horta",
+      "character": null
+    },
+    {
+      "personID": "0459662",
+      "name": "Rick Kline",
+      "character": null
+    },
+    {
+      "personID": "0593290",
+      "name": "Donald O. Mitchell",
+      "character": null
+    },
+    {
+      "personID": "0640114",
+      "name": "Kevin O'Connell",
+      "character": null
+    },
+    {
+      "personID": "0641757",
+      "name": "Margie O'Malley",
+      "character": null
+    },
+    {
+      "personID": "0687133",
+      "name": "Michelle Pleis",
+      "character": null
+    },
+    {
+      "personID": "0789113",
+      "name": "Michele Sharp",
+      "character": null
+    },
+    {
+      "personID": "0949997",
+      "name": "Rob Young",
+      "character": null
+    }
+  ],
+  "special effects": [
+    {
+      "personID": "5681681",
+      "name": "Brian \"Pyro\" Adams",
+      "character": null
+    },
+    {
+      "personID": "0267274",
+      "name": "Federico Farf\u00e1n",
+      "character": null
+    },
+    {
+      "personID": "0279812",
+      "name": "Thomas L. Fisher",
+      "character": null
+    },
+    {
+      "personID": "0454826",
+      "name": "Jay King",
+      "character": null
+    },
+    {
+      "personID": "0700777",
+      "name": "William Purcell",
+      "character": null
+    },
+    {
+      "personID": "0920960",
+      "name": "Cliff Wenger Jr.",
+      "character": null
+    }
+  ],
+  "stunt performer": [
+    {
+      "personID": "0092365",
+      "name": "Simone Boisseree",
+      "character": null
+    },
+    {
+      "personID": "0100590",
+      "name": "Brad Bovee",
+      "character": null
+    },
+    {
+      "personID": "0159067",
+      "name": "Phil Chong",
+      "character": null
+    },
+    {
+      "personID": "0172755",
+      "name": "Yukio Collins",
+      "character": null
+    },
+    {
+      "personID": "0182117",
+      "name": "Danny Costa",
+      "character": null
+    },
+    {
+      "personID": "0206905",
+      "name": "Mark De Alessandro",
+      "character": null
+    },
+    {
+      "personID": "0267889",
+      "name": "Diamond Farnsworth",
+      "character": null
+    },
+    {
+      "personID": "0279510",
+      "name": "George Fisher",
+      "character": null
+    },
+    {
+      "personID": "0383226",
+      "name": "Joseph Hieu",
+      "character": null
+    },
+    {
+      "personID": "0408001",
+      "name": "Jeff Imada",
+      "character": null
+    },
+    {
+      "personID": "0416713",
+      "name": "Loren Janes",
+      "character": null
+    },
+    {
+      "personID": "0419445",
+      "name": "Robert Jauregui",
+      "character": null
+    },
+    {
+      "personID": "0424965",
+      "name": "Mike Johnson",
+      "character": null
+    },
+    {
+      "personID": "0447086",
+      "name": "Steve Kelso",
+      "character": null
+    },
+    {
+      "personID": "0497224",
+      "name": "Eric Lee",
+      "character": null
+    },
+    {
+      "personID": "0596294",
+      "name": "Harry Mok",
+      "character": null
+    },
+    {
+      "personID": "0613250",
+      "name": "Dan Munson",
+      "character": null
+    },
+    {
+      "personID": "0726388",
+      "name": "Vernon Rieta",
+      "character": null
+    },
+    {
+      "personID": "0753492",
+      "name": "Bill M. Ryusaki",
+      "character": null
+    },
+    {
+      "personID": "0778874",
+      "name": "Ben Scott",
+      "character": null
+    },
+    {
+      "personID": "0779372",
+      "name": "John-Clay Scott",
+      "character": null
+    },
+    {
+      "personID": "0939023",
+      "name": "Daniel Wong",
+      "character": null
+    },
+    {
+      "personID": "0147656",
+      "name": "Anthony Cecere",
+      "character": null
+    },
+    {
+      "personID": "0206905",
+      "name": "Mark De Alessandro",
+      "character": null
+    },
+    {
+      "personID": "0454826",
+      "name": "Jay King",
+      "character": null
+    }
+  ],
+  "camera and electrical department": [
+    {
+      "personID": "0116264",
+      "name": "Franco Bruni",
+      "character": null
+    },
+    {
+      "personID": "0136431",
+      "name": "John Cardiff",
+      "character": null
+    },
+    {
+      "personID": "0170192",
+      "name": "Aldo Colanzi",
+      "character": null
+    },
+    {
+      "personID": "0170193",
+      "name": "Bruno Colanzi",
+      "character": null
+    },
+    {
+      "personID": "0295187",
+      "name": "Dave Friedman",
+      "character": null
+    },
+    {
+      "personID": "0127855",
+      "name": "Mariano Garc\u00eda Cabrera",
+      "character": null
+    },
+    {
+      "personID": "0503045",
+      "name": "Luciano Leoni",
+      "character": null
+    },
+    {
+      "personID": "0003423",
+      "name": "Peter MacDonald",
+      "character": null
+    },
+    {
+      "personID": "0687354",
+      "name": "Fiorangelo Plocco",
+      "character": null
+    },
+    {
+      "personID": "0762957",
+      "name": "Massimiliano Sano",
+      "character": null
+    },
+    {
+      "personID": "0785619",
+      "name": "Salvador 'Apache' Serrano",
+      "character": null
+    },
+    {
+      "personID": "0904835",
+      "name": "Salvador V\u00e1zquez",
+      "character": null
+    },
+    {
+      "personID": "0565623",
+      "name": "Stan McClain",
+      "character": null
+    }
+  ],
+  "casting department": [
+    {
+      "personID": "0346201",
+      "name": "Jes\u00fas Guerrero",
+      "character": null
+    },
+    {
+      "personID": "0742688",
+      "name": "Donna Rosenstein",
+      "character": null
+    },
+    {
+      "personID": "0346203",
+      "name": "Jorge Guerrero",
+      "character": null
+    }
+  ],
+  "costume department": [
+    {
+      "personID": "0392434",
+      "name": "Haleen K. Holt",
+      "character": null
+    }
+  ],
+  "location management": [
+    {
+      "personID": "0698773",
+      "name": "Juan Clemente Prosper",
+      "character": null
+    }
+  ],
+  "music department": [
+    {
+      "personID": "0098567",
+      "name": "Bruce Botnick",
+      "character": null
+    },
+    {
+      "personID": "0355792",
+      "name": "Kenneth Hall",
+      "character": null
+    },
+    {
+      "personID": "0607925",
+      "name": "Arthur Morton",
+      "character": null
+    },
+    {
+      "personID": "0077444",
+      "name": "Mark Berrow",
+      "character": null
+    },
+    {
+      "personID": "2036352",
+      "name": "Tom Boyd",
+      "character": null
+    },
+    {
+      "personID": "0000025",
+      "name": "Jerry Goldsmith",
+      "character": null
+    },
+    {
+      "personID": "3350595",
+      "name": "National Philharmonic Orchestra",
+      "character": null
+    },
+    {
+      "personID": "0724079",
+      "name": "Emil Richards",
+      "character": null
+    },
+    {
+      "personID": "0743942",
+      "name": "Mike Ross-Trevor",
+      "character": null
+    },
+    {
+      "personID": "1320320",
+      "name": "Louise Di Tullio",
+      "character": null
+    }
+  ],
+  "script department": [
+    {
+      "personID": "0779299",
+      "name": "Jeanne Scott",
+      "character": null
+    }
+  ],
+  "transportation department": [
+    {
+      "personID": "0087946",
+      "name": "Moe Blay",
+      "character": null
+    },
+    {
+      "personID": "0128670",
+      "name": "John Cahill",
+      "character": null
+    },
+    {
+      "personID": "0139386",
+      "name": "Jon Carpenter",
+      "character": null
+    },
+    {
+      "personID": "0172790",
+      "name": "Donald Collis",
+      "character": null
+    },
+    {
+      "personID": "0172803",
+      "name": "Terry Collis",
+      "character": null
+    },
+    {
+      "personID": "0190968",
+      "name": "Vic Cuccia",
+      "character": null
+    },
+    {
+      "personID": "0223199",
+      "name": "Bob Dewitt",
+      "character": null
+    },
+    {
+      "personID": "0240810",
+      "name": "Joe Dugan",
+      "character": null
+    },
+    {
+      "personID": "0397010",
+      "name": "Russell H. Hoverson",
+      "character": null
+    },
+    {
+      "personID": "0715521",
+      "name": "Kendall A. Reed",
+      "character": null
+    },
+    {
+      "personID": "0829006",
+      "name": "Michael Stevenson",
+      "character": null
+    }
+  ],
+  "miscellaneous crew": [
+    {
+      "personID": "0007742",
+      "name": "Teri Abastado",
+      "character": null
+    },
+    {
+      "personID": "0061264",
+      "name": "Frank Batt",
+      "character": null
+    },
+    {
+      "personID": "0132592",
+      "name": "John Campbell",
+      "character": null
+    },
+    {
+      "personID": "0162839",
+      "name": "Mario Cisneros",
+      "character": null
+    },
+    {
+      "personID": "0173372",
+      "name": "Franco Columbu",
+      "character": null
+    },
+    {
+      "personID": "0174037",
+      "name": "Gary Compton",
+      "character": null
+    },
+    {
+      "personID": "1528956",
+      "name": "Violet Crane",
+      "character": null
+    },
+    {
+      "personID": "0203266",
+      "name": "Charlie Davidson",
+      "character": null
+    },
+    {
+      "personID": "0203374",
+      "name": "Jim Davidson",
+      "character": null
+    },
+    {
+      "personID": "0215815",
+      "name": "Arturo del R\u00edo",
+      "character": null
+    },
+    {
+      "personID": "0251616",
+      "name": "Bruce Eidahl",
+      "character": null
+    },
+    {
+      "personID": "0255248",
+      "name": "Joe Ellithorpe",
+      "character": null
+    },
+    {
+      "personID": "0270810",
+      "name": "Erick Feitshans",
+      "character": null
+    },
+    {
+      "personID": "0286447",
+      "name": "Hugh Forn",
+      "character": null
+    },
+    {
+      "personID": "0311828",
+      "name": "Tom Gehrke",
+      "character": null
+    },
+    {
+      "personID": "0341559",
+      "name": "Kevin Griffith",
+      "character": null
+    },
+    {
+      "personID": "0362401",
+      "name": "Steve Harding",
+      "character": null
+    },
+    {
+      "personID": "0369625",
+      "name": "Harry Hauss",
+      "character": null
+    },
+    {
+      "personID": "0423551",
+      "name": "Jeanne Joe",
+      "character": null
+    },
+    {
+      "personID": "0440830",
+      "name": "Mario Kassar",
+      "character": null
+    },
+    {
+      "personID": "0453011",
+      "name": "Steve Kilfoy",
+      "character": null
+    },
+    {
+      "personID": "4012837",
+      "name": "Linda Lawrence",
+      "character": null
+    },
+    {
+      "personID": "0509309",
+      "name": "Richard Liebegott",
+      "character": null
+    },
+    {
+      "personID": "0510185",
+      "name": "Jimmy Lile",
+      "character": null
+    },
+    {
+      "personID": "0523604",
+      "name": "Norah Lozano",
+      "character": null
+    },
+    {
+      "personID": "0003423",
+      "name": "Peter MacDonald",
+      "character": null
+    },
+    {
+      "personID": "0535534",
+      "name": "Tony Maffatone",
+      "character": null
+    },
+    {
+      "personID": "0585330",
+      "name": "Robert Mickey",
+      "character": null
+    },
+    {
+      "personID": "0611154",
+      "name": "Tony Munafo",
+      "character": null
+    },
+    {
+      "personID": "0673476",
+      "name": "Edwin L. Perez",
+      "character": null
+    },
+    {
+      "personID": "0675465",
+      "name": "Susan Persily",
+      "character": null
+    },
+    {
+      "personID": "0721936",
+      "name": "Ross Reynolds",
+      "character": null
+    },
+    {
+      "personID": "0725425",
+      "name": "Nigel Rick",
+      "character": null
+    },
+    {
+      "personID": "0745929",
+      "name": "Frank Rousseau",
+      "character": null
+    },
+    {
+      "personID": "0827324",
+      "name": "Steve Stephenson",
+      "character": null
+    },
+    {
+      "personID": "0843157",
+      "name": "Ken Sylvia",
+      "character": null
+    },
+    {
+      "personID": "0845877",
+      "name": "Concepcion 'Conchita' Taboada",
+      "character": null
+    },
+    {
+      "personID": "0883352",
+      "name": "Ceci Vajna",
+      "character": null
+    },
+    {
+      "personID": "0908004",
+      "name": "Marichu Walker",
+      "character": null
+    },
+    {
+      "personID": "0908376",
+      "name": "Barry Wall",
+      "character": null
+    },
+    {
+      "personID": "0926957",
+      "name": "Karl A. Wickman",
+      "character": null
+    },
+    {
+      "personID": "0953291",
+      "name": "Anna Zappia",
+      "character": null
+    },
+    {
+      "personID": "0012717",
+      "name": "Frans J. Afman",
+      "character": null
+    },
+    {
+      "personID": "0168566",
+      "name": "Bill Cody",
+      "character": null
+    },
+    {
+      "personID": "0383226",
+      "name": "Joseph Hieu",
+      "character": null
+    },
+    {
+      "personID": "0668913",
+      "name": "Derry J. Pearce",
+      "character": null
+    }
+  ],
+  "thanks": [
+    {
+      "personID": "0920960",
+      "name": "Cliff Wenger Jr.",
+      "character": null
+    }
+  ],
+  "akas": [
+    "Rambo: First Blood Part 2 (United States)",
+    "Rambo (United States)",
+    "Rambo II: La misi\u00f3n (Mexico)",
+    "Rambo II (Mexico)",
+    "Rambo: First Blood Part 2 (World-wide, English title)"
+  ],
+  "production companies": [
+    {
+      "companyID": "0091365",
+      "name": "Estudios Churubusco Azteca S.A."
+    },
+    {
+      "companyID": "0055376",
+      "name": "Anabasis N.V."
+    }
+  ],
+  "distributors": [
+    {
+      "companyID": "0094459",
+      "name": "Carolco Pictures"
+    },
+    {
+      "companyID": "0147234",
+      "name": "Gaurav Arts"
+    },
+    {
+      "companyID": "0060952",
+      "name": "Adams Filmi"
+    },
+    {
+      "companyID": "0812318",
+      "name": "Apex"
+    },
+    {
+      "companyID": "0051881",
+      "name": "Concorde Film"
+    },
+    {
+      "companyID": "0052678",
+      "name": "Izaro Films"
+    },
+    {
+      "companyID": "0838320",
+      "name": "Lotus Films International"
+    },
+    {
+      "companyID": "0838320",
+      "name": "Lotus Films International"
+    },
+    {
+      "companyID": "0064614",
+      "name": "Medusa Distribuzione"
+    },
+    {
+      "companyID": "0049592",
+      "name": "Rialto Pictures"
+    },
+    {
+      "companyID": "0042482",
+      "name": "Scotia International Filmverleih"
+    },
+    {
+      "companyID": "0050989",
+      "name": "Svensk Filmindustri (SF)"
+    },
+    {
+      "companyID": "0103551",
+      "name": "Thorn EMI Screen Entertainment"
+    },
+    {
+      "companyID": "0064457",
+      "name": "Toho-Towa"
+    },
+    {
+      "companyID": "0005883",
+      "name": "TriStar Pictures"
+    },
+    {
+      "companyID": "0053539",
+      "name": "Warner-Columbia Film"
+    },
+    {
+      "companyID": "0390891",
+      "name": "7Mate"
+    },
+    {
+      "companyID": "0014903",
+      "name": "Artisan Entertainment"
+    },
+    {
+      "companyID": "0014903",
+      "name": "Artisan Entertainment"
+    },
+    {
+      "companyID": "0006126",
+      "name": "Audio Visual Enterprises"
+    },
+    {
+      "companyID": "0068880",
+      "name": "Bridge Entertainment Group"
+    },
+    {
+      "companyID": "0068880",
+      "name": "Bridge Entertainment Group"
+    },
+    {
+      "companyID": "0226201",
+      "name": "CBS/Fox"
+    },
+    {
+      "companyID": "0497258",
+      "name": "Carolco Home Video"
+    },
+    {
+      "companyID": "0043096",
+      "name": "Carolco Home Video"
+    },
+    {
+      "companyID": "0231842",
+      "name": "Concorde Video"
+    },
+    {
+      "companyID": "0061709",
+      "name": "Delta Vid\u00e9o Diffusion"
+    },
+    {
+      "companyID": "0690440",
+      "name": "Diskino Media"
+    },
+    {
+      "companyID": "0117434",
+      "name": "Divisa Home Video"
+    },
+    {
+      "companyID": "0371331",
+      "name": "Egmont Film"
+    },
+    {
+      "companyID": "0629096",
+      "name": "Elokuvapalvelu J. Suomalainen"
+    },
+    {
+      "companyID": "0440497",
+      "name": "FOX"
+    },
+    {
+      "companyID": "0055529",
+      "name": "Fuji Television Network"
+    },
+    {
+      "companyID": "0044350",
+      "name": "Gativideo"
+    },
+    {
+      "companyID": "0044350",
+      "name": "Gativideo"
+    },
+    {
+      "companyID": "0044350",
+      "name": "Gativideo"
+    },
+    {
+      "companyID": "0006042",
+      "name": "Guild Home Video"
+    },
+    {
+      "companyID": "0167627",
+      "name": "HBO Zone"
+    },
+    {
+      "companyID": "0048760",
+      "name": "Home Video Hellas (HVH)"
+    },
+    {
+      "companyID": "0013585",
+      "name": "Image Entertainment"
+    },
+    {
+      "companyID": "0013585",
+      "name": "Image Entertainment"
+    },
+    {
+      "companyID": "0184314",
+      "name": "Imperial"
+    },
+    {
+      "companyID": "0019532",
+      "name": "Kinowelt Home Entertainment"
+    },
+    {
+      "companyID": "0475541",
+      "name": "Kutonen"
+    },
+    {
+      "companyID": "0090510",
+      "name": "Live Home Video"
+    },
+    {
+      "companyID": "0090510",
+      "name": "Live Home Video"
+    },
+    {
+      "companyID": "0314234",
+      "name": "MTV3"
+    },
+    {
+      "companyID": "0160046",
+      "name": "Momentum Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0075477",
+      "name": "Mongrel Media"
+    },
+    {
+      "companyID": "0072315",
+      "name": "National Broadcasting Company (NBC)"
+    },
+    {
+      "companyID": "0003850",
+      "name": "Nippon Television Network (NTV)"
+    },
+    {
+      "companyID": "0716033",
+      "name": "Palermo"
+    },
+    {
+      "companyID": "0057237",
+      "name": "Paramount Domestic Television"
+    },
+    {
+      "companyID": "0023400",
+      "name": "Paramount Pictures"
+    },
+    {
+      "companyID": "0052747",
+      "name": "Pioneer"
+    },
+    {
+      "companyID": "0054537",
+      "name": "Pioneer LDC"
+    },
+    {
+      "companyID": "0054537",
+      "name": "Pioneer LDC"
+    },
+    {
+      "companyID": "0071838",
+      "name": "RTL Plus"
+    },
+    {
+      "companyID": "0131809",
+      "name": "Rete 4"
+    },
+    {
+      "companyID": "0006451",
+      "name": "Roadshow Home Video"
+    },
+    {
+      "companyID": "0050310",
+      "name": "Sandrew Metronome Distribution"
+    },
+    {
+      "companyID": "0110137",
+      "name": "Sandrew Metronome Norge"
+    },
+    {
+      "companyID": "0077687",
+      "name": "Sandrews"
+    },
+    {
+      "companyID": "0047476",
+      "name": "StudioCanal"
+    },
+    {
+      "companyID": "0047476",
+      "name": "StudioCanal"
+    },
+    {
+      "companyID": "0047476",
+      "name": "StudioCanal"
+    },
+    {
+      "companyID": "0025002",
+      "name": "TV Asahi"
+    },
+    {
+      "companyID": "0375601",
+      "name": "TV5"
+    },
+    {
+      "companyID": "0092912",
+      "name": "Thorn EMI Video"
+    },
+    {
+      "companyID": "0092912",
+      "name": "Thorn EMI Video"
+    },
+    {
+      "companyID": "0031966",
+      "name": "Thorn EMI/HBO Video"
+    },
+    {
+      "companyID": "0446962",
+      "name": "Thorn-EMI Video"
+    },
+    {
+      "companyID": "0072133",
+      "name": "Tokyo Broadcasting System (TBS)"
+    },
+    {
+      "companyID": "0227113",
+      "name": "Towa Video"
+    },
+    {
+      "companyID": "0179321",
+      "name": "Transworld Video"
+    },
+    {
+      "companyID": "0420728",
+      "name": "Trifecta Entertainment and Media"
+    },
+    {
+      "companyID": "0388514",
+      "name": "Universal Pictures Finland"
+    },
+    {
+      "companyID": "0005073",
+      "name": "Universal Pictures"
+    },
+    {
+      "companyID": "0005073",
+      "name": "Universal Pictures"
+    },
+    {
+      "companyID": "0005073",
+      "name": "Universal Pictures"
+    },
+    {
+      "companyID": "0005073",
+      "name": "Universal Pictures"
+    },
+    {
+      "companyID": "0005073",
+      "name": "Universal Pictures"
+    },
+    {
+      "companyID": "0005073",
+      "name": "Universal Pictures"
+    },
+    {
+      "companyID": "0295614",
+      "name": "Universal Studios Home Video"
+    },
+    {
+      "companyID": "0068056",
+      "name": "Video Film Express"
+    },
+    {
+      "companyID": "0099406",
+      "name": "Visionary Thinking"
+    },
+    {
+      "companyID": "0017401",
+      "name": "WGN"
+    },
+    {
+      "companyID": "0077674",
+      "name": "Warner Home Video"
+    },
+    {
+      "companyID": "0080243",
+      "name": "Worldvision Enterprises"
+    }
+  ],
+  "other companies": [
+    {
+      "companyID": "0105296",
+      "name": "CBS Studios, London"
+    },
+    {
+      "companyID": "0008022",
+      "name": "Chapman/Leonard Studio Equipment"
+    },
+    {
+      "companyID": "0014724",
+      "name": "Credit Lyonnais Bank (Nederland) N.V."
+    },
+    {
+      "companyID": "0047023",
+      "name": "Dolby Laboratories"
+    },
+    {
+      "companyID": "0017270",
+      "name": "Fred Griggs & Company"
+    },
+    {
+      "companyID": "0094042",
+      "name": "Goldwyn Sound Facility"
+    },
+    {
+      "companyID": "0006663",
+      "name": "Hoyt/Easton, USA"
+    },
+    {
+      "companyID": "0105261",
+      "name": "National Philharmonic Orchestra"
+    },
+    {
+      "companyID": "0074974",
+      "name": "Patsa Productions S.A."
+    },
+    {
+      "companyID": "0124353",
+      "name": "Record Plant"
+    },
+    {
+      "companyID": "0009868",
+      "name": "Stembridge Gun Rental Inc."
+    },
+    {
+      "companyID": "0094046",
+      "name": "Yamaha"
+    }
+  ]
+}

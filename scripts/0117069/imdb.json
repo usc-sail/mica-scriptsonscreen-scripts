@@ -1,3 +1,981 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8e5899a27b4836ddf5ae7616029ef875337d3d73dfa99b6a02ccbb3058d13195
-size 21086
+{
+  "localized title": "Moebius",
+  "cast": [
+    {
+      "personID": "0029522",
+      "name": "Guillermo Angelelli",
+      "character": "Daniel Pratt"
+    },
+    {
+      "personID": "0138612",
+      "name": "Roberto Carnaghi",
+      "character": "Marcos Blasi"
+    },
+    {
+      "personID": "0506331",
+      "name": "Annabella Levy",
+      "character": "Abril"
+    },
+    {
+      "personID": "0677753",
+      "name": "Jorge Petraglia",
+      "character": "Mistein"
+    },
+    {
+      "personID": "0658839",
+      "name": "Miguel \u00c1ngel Paludi",
+      "character": "Aguirre"
+    },
+    {
+      "personID": "0515889",
+      "name": "Fernando Llosa",
+      "character": "Nazar"
+    },
+    {
+      "personID": "0012033",
+      "name": "Mart\u00edn Adjemi\u00e1n",
+      "character": "Canotti"
+    },
+    {
+      "personID": "0223668",
+      "name": "Daniel Di Biase",
+      "character": "Kenn"
+    },
+    {
+      "personID": "0716755",
+      "name": "Jean Pierre Reguerraz",
+      "character": "Deckes"
+    },
+    {
+      "personID": "0667892",
+      "name": "Mart\u00edn Pavlovsky",
+      "character": "Conductor 101"
+    },
+    {
+      "personID": "0579049",
+      "name": "Felipe M\u00e9ndez",
+      "character": "Jefe de Trasbordos"
+    },
+    {
+      "personID": "0161730",
+      "name": "Fernando Cia",
+      "character": "Figas"
+    },
+    {
+      "personID": "0763920",
+      "name": "Osvaldo Santoro",
+      "character": "Vega"
+    },
+    {
+      "personID": "0733557",
+      "name": "Horacio Roca",
+      "character": "Edmundo"
+    },
+    {
+      "personID": "0957074",
+      "name": "Nora Zinski",
+      "character": "Profesora"
+    },
+    {
+      "personID": "3211012",
+      "name": "Sammy Lerner",
+      "character": "Viejito del Archivo"
+    },
+    {
+      "personID": "0290776",
+      "name": "Rodolfo Franghi",
+      "character": "Mussio"
+    },
+    {
+      "personID": "0486894",
+      "name": "Samuel Lankes",
+      "character": "Guarda Final"
+    },
+    {
+      "personID": "0580934",
+      "name": "Ricardo Merkin",
+      "character": "Maloni"
+    },
+    {
+      "personID": "0630597",
+      "name": "Aldo Niebur",
+      "character": "Bandoneonista"
+    },
+    {
+      "personID": "0899165",
+      "name": "Alejandro Viola",
+      "character": "Asistente de Blasi"
+    },
+    {
+      "personID": "0306189",
+      "name": "Javier Garc\u00eda",
+      "character": "Ayudante de Vega"
+    },
+    {
+      "personID": "0637512",
+      "name": "Jorge Noya",
+      "character": "Chofer Unimog"
+    },
+    {
+      "personID": "0836389",
+      "name": "Luis Sturla",
+      "character": "Empleado Estaci\u00f3n Parque"
+    },
+    {
+      "personID": "0093309",
+      "name": "John Bolster",
+      "character": "Ascensorista"
+    },
+    {
+      "personID": "0897481",
+      "name": "Jorge Vilela",
+      "character": "Ayudante de Maloni"
+    },
+    {
+      "personID": "0813933",
+      "name": "N\u00e9stor Somma",
+      "character": "Empleado Estaci\u00f3n Bol\u00edvar"
+    },
+    {
+      "personID": "0850196",
+      "name": "Paolo Taramasco",
+      "character": "Alumno Ciudad Universitaria"
+    },
+    {
+      "personID": "0753851",
+      "name": "Sergio R\u00edos",
+      "character": "Pasajero Estaci\u00f3n Dock Sud"
+    },
+    {
+      "personID": "0539215",
+      "name": "Gabriel Maldonado",
+      "character": "Pasajero Estaci\u00f3n Dock Sud"
+    },
+    {
+      "personID": "0880586",
+      "name": "Diego Ullua",
+      "character": "Pasajero Estaci\u00f3n Dock Sud"
+    },
+    {
+      "personID": "0818450",
+      "name": "Ignacio Spiaggiari",
+      "character": "Pasajero Estaci\u00f3n Dock Sud"
+    },
+    {
+      "personID": "0530208",
+      "name": "Julio L\u00f3pez",
+      "character": "Pasajero Estaci\u00f3n Dock Sud"
+    },
+    {
+      "personID": "0463092",
+      "name": "Fabian Kogan",
+      "character": "Operario Cochera"
+    },
+    {
+      "personID": "0273531",
+      "name": "H\u00e9ctor Fern\u00e1ndez",
+      "character": "Operario Cochera"
+    },
+    {
+      "personID": "0532446",
+      "name": "Gustavo Machado",
+      "character": "Operario Cochera"
+    },
+    {
+      "personID": "0946604",
+      "name": "Alejandro Yasinski",
+      "character": "Yupie: Pasajero del 86"
+    },
+    {
+      "personID": "0623957",
+      "name": "Mabel Necol",
+      "character": "Maestra: Pasajero del 86"
+    },
+    {
+      "personID": "0617631",
+      "name": "Adri\u00e1n M\u00e9ndez",
+      "character": "Chico: Pasajero del 86"
+    },
+    {
+      "personID": "0273742",
+      "name": "Rodrigo Fern\u00e1ndez",
+      "character": "Marinero: Pasajero del 86"
+    },
+    {
+      "personID": "0623958",
+      "name": "Viviana Necol",
+      "character": "Bailarina: Pasajero del 86"
+    },
+    {
+      "personID": "0027899",
+      "name": "Alfredo Andino",
+      "character": "Lector: Pasajero del 86"
+    },
+    {
+      "personID": "0040918",
+      "name": "Cynthia Att",
+      "character": "Embarazada: Pasajero del 86"
+    },
+    {
+      "personID": "0623955",
+      "name": "Fernando Necol",
+      "character": "Heavy: Pasajero del 86"
+    },
+    {
+      "personID": "0411627",
+      "name": "Silvia Italiano",
+      "character": "Se\u00f1orita de Minifalda: Pasajero del 86"
+    },
+    {
+      "personID": "0007589",
+      "name": "Maria Teresa Abad"
+    },
+    {
+      "personID": "0215796",
+      "name": "Paula del Real",
+      "character": "Deportista: Pasajero del 86"
+    },
+    {
+      "personID": "0503607",
+      "name": "Edy Lerner",
+      "character": "Buscado: Pasajero del 86"
+    },
+    {
+      "personID": "0438654",
+      "name": "Yamila Kar",
+      "character": "Punk: Pasajero del 86"
+    },
+    {
+      "personID": "1232441",
+      "name": "Mois\u00e9s Galacovsky",
+      "character": "Jubilado: Pasajero del 86"
+    },
+    {
+      "personID": "0484798",
+      "name": "Mirta Landini",
+      "character": "Bienuda: Pasajero del 86"
+    },
+    {
+      "personID": "0582135",
+      "name": "Pablo Messiez",
+      "character": "Suicida"
+    },
+    {
+      "personID": "0622703",
+      "name": "Natalia Nava",
+      "character": "Secretaria"
+    },
+    {
+      "personID": "0109289",
+      "name": "Fabi\u00e1n Bril",
+      "character": "Asesina"
+    },
+    {
+      "personID": "0896561",
+      "name": "D\u00e9borah Vidret",
+      "character": "Prostituta"
+    },
+    {
+      "personID": "0140060",
+      "name": "Juan Carrasco",
+      "character": "Yupie del Celular"
+    },
+    {
+      "personID": "0599370",
+      "name": "Paulina Montenegro",
+      "character": "Colegiala"
+    },
+    {
+      "personID": "0450174",
+      "name": "Manuel Keselman",
+      "character": "Ciego"
+    },
+    {
+      "personID": "0661070",
+      "name": "Claudio Pardini",
+      "character": "Provinciano"
+    },
+    {
+      "personID": "0333156",
+      "name": "Sebasti\u00e1n Go\u00f1i",
+      "character": "Borracho"
+    },
+    {
+      "personID": "0255982",
+      "name": "Guillermo El\u00edas",
+      "character": "Obrero Autopista"
+    },
+    {
+      "personID": "0096253",
+      "name": "H\u00e9ctor Bordoni",
+      "character": "Obrero Autopista"
+    },
+    {
+      "personID": "0309742",
+      "name": "Juan Jose Gatt",
+      "character": "Obrero Autopista"
+    },
+    {
+      "personID": "0173072",
+      "name": "Raul Colombo",
+      "character": "Obrero Autopista"
+    },
+    {
+      "personID": "0137571",
+      "name": "Cesar Carlino",
+      "character": "Obrero Autopista"
+    },
+    {
+      "personID": "0336027",
+      "name": "Jose Luis Gratti",
+      "character": "Obrero Autopista"
+    },
+    {
+      "personID": "0115990",
+      "name": "Claudia Brun",
+      "character": "Empleada Ciudad Universitaria"
+    },
+    {
+      "personID": "0267465",
+      "name": "Pablo Farina",
+      "character": "Voz en T\u00faneles"
+    },
+    {
+      "personID": "0623956",
+      "name": "Karina Necol",
+      "character": "Voz en Andenes"
+    }
+  ],
+  "genres": [
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "runtimes": [
+    "88"
+  ],
+  "countries": [
+    "Argentina"
+  ],
+  "country codes": [
+    "ar"
+  ],
+  "language codes": [
+    "es"
+  ],
+  "color info": [
+    "Color"
+  ],
+  "aspect ratio": "1.66 : 1",
+  "sound mix": [
+    "Dolby Digital::(2.0)"
+  ],
+  "box office": {
+    "Budget": "$250,000 (estimated)"
+  },
+  "certificates": [
+    "Argentina:Atp",
+    "Austria:6",
+    "Germany:6",
+    "Italy:T",
+    "Singapore:PG",
+    "Spain:7"
+  ],
+  "original air date": "17 Oct 1996 (Argentina)",
+  "rating": 6.8,
+  "votes": 2056,
+  "cover url": "https://m.media-amazon.com/images/M/MV5BYWIwZjg5NzQtMzViYS00Y2NjLTg2NDEtZjQ2MGY0NWMyOTY2XkEyXkFqcGdeQXVyMDM5ODIyNw@@._V1_SX101_CR0,0,101,150_.jpg",
+  "imdbID": "0117069",
+  "plot outline": "Recent stories, fears and oblivion seen through a metaphor. A 30-passenger convoy vanishes in the closed circuit of the Buenos Aires underground system. Research will be initiated towards finding the cause of this dematerialization. A young topologist (surfaces mathematician) leads the investigation based on some lost maps and technical data sheets. He cannot find the whereabouts of the old scientist who designed the intricate weft of the subway web, until the unexpected aid from a young girl will ease the obtention of the first clues. Everyting seems to be futile, but a random event that will risk his life gets him into an impossible train, were he will face up the amazing final revelation.",
+  "languages": [
+    "Spanish"
+  ],
+  "title": "Moebius",
+  "year": 1996,
+  "kind": "movie",
+  "original title": "Moebius",
+  "director": [
+    {
+      "personID": "0608879",
+      "name": "Gustavo Mosquera R.",
+      "character": null
+    }
+  ],
+  "writer": [
+    {
+      "personID": "0188103",
+      "name": "Pedro Cristiani",
+      "character": null
+    },
+    {
+      "personID": "0509831",
+      "name": "Gabriel Lifschitz",
+      "character": null
+    },
+    {
+      "personID": "0654885",
+      "name": "Arturo O\u00f1atavia",
+      "character": null
+    },
+    {
+      "personID": "0882112",
+      "name": "Natalia Urruty",
+      "character": null
+    },
+    {
+      "personID": "0591944",
+      "name": "Mar\u00eda \u00c1ngeles Mira",
+      "character": null
+    },
+    {
+      "personID": "0608879",
+      "name": "Gustavo Mosquera R.",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "5663016",
+      "name": "Armin Deutsch",
+      "character": null
+    }
+  ],
+  "producer": [
+    {
+      "personID": "0591944",
+      "name": "Mar\u00eda \u00c1ngeles Mira",
+      "character": null
+    },
+    {
+      "personID": "0608879",
+      "name": "Gustavo Mosquera R.",
+      "character": null
+    }
+  ],
+  "composer": [
+    {
+      "personID": "0006857",
+      "name": "Mariano Nu\u00f1ez West",
+      "character": null
+    }
+  ],
+  "cinematographer": [
+    {
+      "personID": "0679262",
+      "name": "Abel Pe\u00f1alba",
+      "character": null
+    }
+  ],
+  "editor": [
+    {
+      "personID": "0110851",
+      "name": "Alejandro Brodersohn",
+      "character": null
+    },
+    {
+      "personID": "0313652",
+      "name": "Pablo Giorgelli",
+      "character": null
+    }
+  ],
+  "editorial department": [
+    {
+      "personID": "0328108",
+      "name": "Cristina Gonz\u00e1lez",
+      "character": null
+    },
+    {
+      "personID": "0704382",
+      "name": "Soledad Quiroga",
+      "character": null
+    },
+    {
+      "personID": "0727916",
+      "name": "Walter R\u00edos",
+      "character": null
+    }
+  ],
+  "casting director": [
+    {
+      "personID": "0623956",
+      "name": "Karina Necol",
+      "character": null
+    }
+  ],
+  "production design": [
+    {
+      "personID": "0591944",
+      "name": "Mar\u00eda \u00c1ngeles Mira",
+      "character": null
+    }
+  ],
+  "art direction": [
+    {
+      "personID": "0591944",
+      "name": "Mar\u00eda \u00c1ngeles Mira",
+      "character": null
+    },
+    {
+      "personID": "0652539",
+      "name": "Frederico Ostrovsky",
+      "character": null
+    }
+  ],
+  "make up": [
+    {
+      "personID": "0157681",
+      "name": "Mariela Chimales",
+      "character": null
+    }
+  ],
+  "production manager": [
+    {
+      "personID": "0192587",
+      "name": "Ver\u00f3nica Cura",
+      "character": null
+    }
+  ],
+  "assistant director": [
+    {
+      "personID": "0868623",
+      "name": "Emiliano Torres",
+      "character": null
+    },
+    {
+      "personID": "0882112",
+      "name": "Natalia Urruty",
+      "character": null
+    }
+  ],
+  "art department": [
+    {
+      "personID": "0119420",
+      "name": "Silvana Bufone",
+      "character": null
+    },
+    {
+      "personID": "0209603",
+      "name": "Alfonso de Lazzari",
+      "character": null
+    },
+    {
+      "personID": "0267494",
+      "name": "Ana Farini",
+      "character": null
+    },
+    {
+      "personID": "0303139",
+      "name": "Ricardo Galloso",
+      "character": null
+    },
+    {
+      "personID": "0348721",
+      "name": "Ileana Gurovich",
+      "character": null
+    },
+    {
+      "personID": "0500041",
+      "name": "Alejandra Leibovich",
+      "character": null
+    },
+    {
+      "personID": "0596589",
+      "name": "Hernan Molica",
+      "character": null
+    },
+    {
+      "personID": "0608363",
+      "name": "Rodrigo Moscoso",
+      "character": null
+    },
+    {
+      "personID": "0836837",
+      "name": "Jesica Suarez",
+      "character": null
+    }
+  ],
+  "sound crew": [
+    {
+      "personID": "0082587",
+      "name": "Federico Billordo",
+      "character": null
+    },
+    {
+      "personID": "0129212",
+      "name": "Mario Calabrese",
+      "character": null
+    },
+    {
+      "personID": "0206857",
+      "name": "Marcos De Aguirre",
+      "character": null
+    },
+    {
+      "personID": "0261089",
+      "name": "Roberto Espinoza",
+      "character": null
+    },
+    {
+      "personID": "0267465",
+      "name": "Pablo Farina",
+      "character": null
+    },
+    {
+      "personID": "0282260",
+      "name": "Javier Flichman",
+      "character": null
+    },
+    {
+      "personID": "0341851",
+      "name": "Mart\u00edn Grignaschi",
+      "character": null
+    },
+    {
+      "personID": "0411823",
+      "name": "Lucio Iturbe",
+      "character": null
+    },
+    {
+      "personID": "0592078",
+      "name": "David Miranda-Hardy",
+      "character": null
+    },
+    {
+      "personID": "0022524",
+      "name": "Magdalena Ripa Alsina",
+      "character": null
+    },
+    {
+      "personID": "0892768",
+      "name": "Oscar Velzi",
+      "character": null
+    }
+  ],
+  "special effects": [
+    {
+      "personID": "0119161",
+      "name": "Rub\u00e9n Buelta",
+      "character": null
+    },
+    {
+      "personID": "0608879",
+      "name": "Gustavo Mosquera R.",
+      "character": null
+    },
+    {
+      "personID": "0783600",
+      "name": "Marta Selvi",
+      "character": null
+    }
+  ],
+  "visual effects": [
+    {
+      "personID": "1032729",
+      "name": "Adri\u00e1n Sinclair",
+      "character": null
+    },
+    {
+      "personID": "1033218",
+      "name": "\u00d3scar Trench",
+      "character": null
+    }
+  ],
+  "camera and electrical department": [
+    {
+      "personID": "0168104",
+      "name": "Martin Coceres",
+      "character": null
+    },
+    {
+      "personID": "0214807",
+      "name": "Gilbert Degrand",
+      "character": null
+    },
+    {
+      "personID": "0515499",
+      "name": "Mariela Lizzoli",
+      "character": null
+    },
+    {
+      "personID": "0581764",
+      "name": "Mat\u00edas Mesa",
+      "character": null
+    },
+    {
+      "personID": "0591937",
+      "name": "Guillermo Mira",
+      "character": null
+    },
+    {
+      "personID": "0704382",
+      "name": "Soledad Quiroga",
+      "character": null
+    },
+    {
+      "personID": "0708754",
+      "name": "Pablo Ramos",
+      "character": null
+    },
+    {
+      "personID": "0729015",
+      "name": "Federico Rivar\u00e9s",
+      "character": null
+    },
+    {
+      "personID": "0729855",
+      "name": "Paola Rizzi",
+      "character": null
+    },
+    {
+      "personID": "0758332",
+      "name": "Sebastian Gutierrez Salin",
+      "character": null
+    },
+    {
+      "personID": "4096568",
+      "name": "C\u00e9sar Seghezzo",
+      "character": null
+    },
+    {
+      "personID": "0782128",
+      "name": "Cesar Seguezzo",
+      "character": null
+    },
+    {
+      "personID": "0901958",
+      "name": "Juan von Bernard",
+      "character": null
+    }
+  ],
+  "animation department": [
+    {
+      "personID": "0221607",
+      "name": "Oscar Desplast",
+      "character": null
+    },
+    {
+      "personID": "0221608",
+      "name": "Ricardo Desplast",
+      "character": null
+    }
+  ],
+  "casting department": [
+    {
+      "personID": "0505598",
+      "name": "Eugenia Levin",
+      "character": null
+    }
+  ],
+  "costume department": [
+    {
+      "personID": "0231535",
+      "name": "Maria Dominguez",
+      "character": null
+    },
+    {
+      "personID": "0503900",
+      "name": "Lucia Leschinsky",
+      "character": null
+    }
+  ],
+  "music department": [
+    {
+      "personID": "0453185",
+      "name": "Silvio Killian",
+      "character": null
+    },
+    {
+      "personID": "0592078",
+      "name": "David Miranda-Hardy",
+      "character": null
+    },
+    {
+      "personID": "0596683",
+      "name": "Ernesto V. Molina",
+      "character": null
+    },
+    {
+      "personID": "0621110",
+      "name": "Gustavo Napoli",
+      "character": null
+    },
+    {
+      "personID": "0006857",
+      "name": "Mariano Nu\u00f1ez West",
+      "character": null
+    },
+    {
+      "personID": "0735999",
+      "name": "Mariano Rodr\u00edguez",
+      "character": null
+    },
+    {
+      "personID": "0760929",
+      "name": "Damian Sanchez",
+      "character": null
+    },
+    {
+      "personID": "0952983",
+      "name": "Andrea Zanfranzesqui",
+      "character": null
+    }
+  ],
+  "script department": [
+    {
+      "personID": "0593917",
+      "name": "Miguel Mitlag",
+      "character": null
+    }
+  ],
+  "miscellaneous crew": [
+    {
+      "personID": "1231320",
+      "name": "Paco Alfons\u00edn",
+      "character": null
+    },
+    {
+      "personID": "0119161",
+      "name": "Rub\u00e9n Buelta",
+      "character": null
+    },
+    {
+      "personID": "0124786",
+      "name": "Bucky Butkovic",
+      "character": null
+    },
+    {
+      "personID": "0224974",
+      "name": "Emilce Diaz",
+      "character": null
+    },
+    {
+      "personID": "0265119",
+      "name": "Jose Luis Fagin",
+      "character": null
+    },
+    {
+      "personID": "0275874",
+      "name": "Leon Fiel",
+      "character": null
+    },
+    {
+      "personID": "0275875",
+      "name": "Lidia Fiel",
+      "character": null
+    },
+    {
+      "personID": "0328491",
+      "name": "Susana Gonz\u00e1lez",
+      "character": null
+    },
+    {
+      "personID": "0333156",
+      "name": "Sebasti\u00e1n Go\u00f1i",
+      "character": null
+    },
+    {
+      "personID": "0342740",
+      "name": "Jorge Gri\u00f1evich",
+      "character": null
+    },
+    {
+      "personID": "0509831",
+      "name": "Gabriel Lifschitz",
+      "character": null
+    },
+    {
+      "personID": "0511028",
+      "name": "Lucas Orlando Linares",
+      "character": null
+    },
+    {
+      "personID": "0581892",
+      "name": "Leonardo Mesiti",
+      "character": null
+    },
+    {
+      "personID": "0615592",
+      "name": "Andy Muschietti",
+      "character": null
+    },
+    {
+      "personID": "0684727",
+      "name": "Nito Pintos",
+      "character": null
+    },
+    {
+      "personID": "0685284",
+      "name": "Cristina Pirovano",
+      "character": null
+    },
+    {
+      "personID": "0726744",
+      "name": "Paula Righi",
+      "character": null
+    },
+    {
+      "personID": "0763447",
+      "name": "Rub\u00e9n Santeiro",
+      "character": null
+    },
+    {
+      "personID": "0783600",
+      "name": "Marta Selvi",
+      "character": null
+    },
+    {
+      "personID": "0837271",
+      "name": "Mar\u00eda Eugenia Sueiro",
+      "character": null
+    },
+    {
+      "personID": "0897956",
+      "name": "Carlos Marcelo Villar",
+      "character": null
+    },
+    {
+      "personID": "0897978",
+      "name": "Juan Carlos Villar",
+      "character": null
+    },
+    {
+      "personID": "0898845",
+      "name": "Claudio Vinciguerra",
+      "character": null
+    }
+  ],
+  "akas": [
+    "M\u00f6bius (Germany)",
+    "\u039c\u03bf\u03ad\u03bc\u03c0\u03b9\u03bf\u03c5\u03c2 (Greece)",
+    "\u0412\u043b\u0430\u043a\u044a\u0442 \u043f\u0440\u0438\u0437\u0440\u0430\u043a (Bulgaria, Bulgarian title)",
+    "\u041c\u0435\u0431\u0438\u0443\u0441 (Russia)",
+    "A Moebius-metr\u00f3 (Hungary)"
+  ],
+  "production companies": [
+    {
+      "companyID": "0037142",
+      "name": "Universidad del Cine"
+    }
+  ],
+  "distributors": [
+    {
+      "companyID": "0031085",
+      "name": "Argentina Video Home"
+    },
+    {
+      "companyID": "0000373",
+      "name": "Fama Films"
+    },
+    {
+      "companyID": "0081202",
+      "name": "General Video Recording (GVR)"
+    },
+    {
+      "companyID": "0043212",
+      "name": "Sherlock Media S.L."
+    }
+  ]
+}

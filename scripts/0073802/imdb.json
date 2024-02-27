@@ -1,3 +1,958 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d7f81e31b6a0810d211706f8fbe27d782f9b40efc8cbe0af3346eecc1440e36d
-size 19041
+{
+  "localized title": "Three Days of the Condor",
+  "cast": [
+    {
+      "personID": "0000602",
+      "name": "Robert Redford",
+      "character": "Turner"
+    },
+    {
+      "personID": "0001159",
+      "name": "Faye Dunaway",
+      "character": "Kathy"
+    },
+    {
+      "personID": "0731772",
+      "name": "Cliff Robertson",
+      "character": "Higgins"
+    },
+    {
+      "personID": "0001884",
+      "name": "Max von Sydow",
+      "character": "Joubert"
+    },
+    {
+      "personID": "0002144",
+      "name": "John Houseman",
+      "character": "Mr. Wabash"
+    },
+    {
+      "personID": "0693994",
+      "name": "Addison Powell",
+      "character": "Atwood"
+    },
+    {
+      "personID": "0569350",
+      "name": "Walter McGinn",
+      "character": "Barber"
+    },
+    {
+      "personID": "0155395",
+      "name": "Tina Chen",
+      "character": "Janice"
+    },
+    {
+      "personID": "0437395",
+      "name": "Michael Kane",
+      "character": "Wicks"
+    },
+    {
+      "personID": "0570407",
+      "name": "Don McHenry",
+      "character": "Dr. Lappe"
+    },
+    {
+      "personID": "0588969",
+      "name": "Michael Miller",
+      "character": "Fowler"
+    },
+    {
+      "personID": "0652600",
+      "name": "Jess Osuna",
+      "character": "The Major"
+    },
+    {
+      "personID": "0621468",
+      "name": "Dino Narizzano",
+      "character": "Harold"
+    },
+    {
+      "personID": "0826523",
+      "name": "Helen Stenborg",
+      "character": "Mrs. Russell"
+    },
+    {
+      "personID": "0331112",
+      "name": "Patrick Gorman",
+      "character": "Martin"
+    },
+    {
+      "personID": "0746525",
+      "name": "Hansford Rowe",
+      "character": "Jennings"
+    },
+    {
+      "personID": "0323344",
+      "name": "Carlin Glynn",
+      "character": "Mae Barber"
+    },
+    {
+      "personID": "0308056",
+      "name": "Hank Garrett",
+      "character": "Mailman"
+    },
+    {
+      "personID": "0294043",
+      "name": "Arthur French",
+      "character": "Messenger"
+    },
+    {
+      "personID": "0222793",
+      "name": "Jay Devlin",
+      "character": "Tall Thin Man"
+    },
+    {
+      "personID": "0767750",
+      "name": "Frank Savino",
+      "character": "Jimmy"
+    },
+    {
+      "personID": "0679606",
+      "name": "Robert Phalen",
+      "character": "Newberry"
+    },
+    {
+      "personID": "0428438",
+      "name": "John Randolph Jones",
+      "character": "Beefy Man"
+    },
+    {
+      "personID": "0680406",
+      "name": "Garrison Phillips",
+      "character": "Hutton"
+    },
+    {
+      "personID": "0824613",
+      "name": "Lee Steele",
+      "character": "Heidegger"
+    },
+    {
+      "personID": "0189726",
+      "name": "Ed Crowley",
+      "character": "Ordinance Man"
+    },
+    {
+      "personID": "0174995",
+      "name": "John Connell",
+      "character": "TV Reporter"
+    },
+    {
+      "personID": "0124183",
+      "name": "Norman Bush",
+      "character": "Alice Lieutenant"
+    },
+    {
+      "personID": "0443856",
+      "name": "James Keane",
+      "character": "Store Clerk"
+    },
+    {
+      "personID": "0786085",
+      "name": "Ed Setrakian",
+      "character": "Customer"
+    },
+    {
+      "personID": "0622452",
+      "name": "Myron Natwick",
+      "character": "Civilian"
+    },
+    {
+      "personID": "0697686",
+      "name": "Michael Prince",
+      "character": "Civilian"
+    },
+    {
+      "personID": "0348966",
+      "name": "Carol Gustafson",
+      "character": "Landlady"
+    },
+    {
+      "personID": "0771735",
+      "name": "Sal Schillizzi",
+      "character": "Locksmith"
+    },
+    {
+      "personID": "0929904",
+      "name": "Harmon William",
+      "character": "CIA Agent"
+    },
+    {
+      "personID": "0101307",
+      "name": "David Bowman",
+      "character": "Telephone Worker"
+    },
+    {
+      "personID": "0330166",
+      "name": "Eileen Gordon",
+      "character": "CIA Receptionist"
+    },
+    {
+      "personID": "0196872",
+      "name": "Robert Dahdah",
+      "character": "Santa Claus"
+    },
+    {
+      "personID": "0094700",
+      "name": "Steve Bonino",
+      "character": "Kid"
+    },
+    {
+      "personID": "0741464",
+      "name": "Jennifer Rose",
+      "character": "Kid"
+    },
+    {
+      "personID": "0020424",
+      "name": "David Allen",
+      "character": "Kid"
+    },
+    {
+      "personID": "0272443",
+      "name": "Glenn Ferguson",
+      "character": "Kid"
+    },
+    {
+      "personID": "0245526",
+      "name": "Paul Dwyer",
+      "character": "Kid"
+    },
+    {
+      "personID": "0841607",
+      "name": "Marian Swan",
+      "character": "Nurse"
+    },
+    {
+      "personID": "0288963",
+      "name": "Dorothi Fox",
+      "character": "Nurse"
+    },
+    {
+      "personID": "0362085",
+      "name": "Ernest Harden Jr.",
+      "character": "Teenager"
+    },
+    {
+      "personID": "0838151",
+      "name": "Sean Collins",
+      "character": "CIA Agent"
+    },
+    {
+      "personID": "0329019",
+      "name": "Beverly Goodman",
+      "character": "Girl"
+    },
+    {
+      "personID": "0426157",
+      "name": "Russell Johnson",
+      "character": "Intelligence Officer at Briefing"
+    },
+    {
+      "personID": "0603894",
+      "name": "Bruce Moreno",
+      "character": "Computer Operator"
+    },
+    {
+      "personID": "0761687",
+      "name": "Richard Sanders",
+      "character": "Sarge"
+    },
+    {
+      "personID": "0800241",
+      "name": "Lauren Simon",
+      "character": "Neighbor in Elevator"
+    }
+  ],
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "runtimes": [
+    "117"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "country codes": [
+    "us"
+  ],
+  "language codes": [
+    "en",
+    "fr"
+  ],
+  "color info": [
+    "Color::(Technicolor)"
+  ],
+  "aspect ratio": "2.39 : 1",
+  "sound mix": [
+    "Mono",
+    "Dolby Digital"
+  ],
+  "box office": {
+    "Budget": "$20,000,000 (estimated)"
+  },
+  "certificates": [
+    "Argentina:18",
+    "Argentina:13::(DVD rating)",
+    "Australia:M",
+    "Brazil:14",
+    "Canada:14A",
+    "Canada:13+::(Quebec)",
+    "Denmark:15",
+    "Finland:K-16",
+    "France:Tous publics",
+    "Hungary:16",
+    "Italy:T",
+    "Netherlands:12",
+    "New Zealand:M",
+    "Norway:16::(cinema rating)",
+    "Poland:16::(TV rating)",
+    "South Korea:18::(VHS/DVD rating)",
+    "South Korea:15::(theatrical rating)",
+    "Spain:12",
+    "Sweden:15",
+    "United Kingdom:AA",
+    "United Kingdom:15",
+    "United States:R",
+    "West Germany:16"
+  ],
+  "original air date": "25 Sep 1975 (USA)",
+  "rating": 7.4,
+  "votes": 58507,
+  "cover url": "https://m.media-amazon.com/images/M/MV5BMjQ1MmI4ODYtMTQwYi00OWM3LWFkOTQtZGJmMjViNTI4MDBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX101_CR0,0,101,150_.jpg",
+  "imdbID": "0073802",
+  "videos": [
+    "http://www.imdb.com/title/tt0073802/videoplayer/vi721796633",
+    "http://www.imdb.com/title/tt0073802/videoplayer/vi906672921"
+  ],
+  "plot outline": "A mild mannered CIA researcher, paid to read books, returns from lunch to find all of his co-workers assassinated. \"Condor\" must find out who did this and get in from the cold before the hitmen get him.",
+  "languages": [
+    "English",
+    "French"
+  ],
+  "title": "Three Days of the Condor",
+  "year": 1975,
+  "kind": "movie",
+  "original title": "Three Days of the Condor",
+  "director": [
+    {
+      "personID": "0001628",
+      "name": "Sydney Pollack",
+      "character": null
+    }
+  ],
+  "writer": [
+    {
+      "personID": "0333600",
+      "name": "James Grady",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "0783913",
+      "name": "Lorenzo Semple Jr.",
+      "character": null
+    },
+    {
+      "personID": "0713128",
+      "name": "David Rayfiel",
+      "character": null
+    }
+  ],
+  "producer": [
+    {
+      "personID": "0209569",
+      "name": "Dino De Laurentiis",
+      "character": null
+    },
+    {
+      "personID": "0001628",
+      "name": "Sydney Pollack",
+      "character": null
+    },
+    {
+      "personID": "3602469",
+      "name": "Stanley Schneider",
+      "character": null
+    }
+  ],
+  "composer": [
+    {
+      "personID": "0006115",
+      "name": "Dave Grusin",
+      "character": null
+    }
+  ],
+  "cinematographer": [
+    {
+      "personID": "0005845",
+      "name": "Owen Roizman",
+      "character": null
+    }
+  ],
+  "editor": [
+    {
+      "personID": "0346756",
+      "name": "Don Guidice",
+      "character": null
+    }
+  ],
+  "editorial department": [
+    {
+      "personID": "0826114",
+      "name": "Fredric Steinkamp",
+      "character": null
+    },
+    {
+      "personID": "2556028",
+      "name": "Julie Keye",
+      "character": null
+    }
+  ],
+  "casting director": [
+    {
+      "personID": "0723714",
+      "name": "Shirley Rich",
+      "character": null
+    }
+  ],
+  "production design": [
+    {
+      "personID": "0342242",
+      "name": "Stephen B. Grimes",
+      "character": null
+    }
+  ],
+  "art direction": [
+    {
+      "personID": "0748908",
+      "name": "Gene Rudolf",
+      "character": null
+    }
+  ],
+  "set decoration": [
+    {
+      "personID": "0221891",
+      "name": "George DeTitta Sr.",
+      "character": null
+    }
+  ],
+  "costume designer": [
+    {
+      "personID": "0042053",
+      "name": "Joseph G. Aulisi",
+      "character": null
+    }
+  ],
+  "make up": [
+    {
+      "personID": "0314511",
+      "name": "Susan Germaine",
+      "character": null
+    },
+    {
+      "personID": "0363419",
+      "name": "Lee Harman",
+      "character": null
+    },
+    {
+      "personID": "0509188",
+      "name": "Gary Liddiard",
+      "character": null
+    },
+    {
+      "personID": "0639363",
+      "name": "Bob O'Bradovich",
+      "character": null
+    }
+  ],
+  "production manager": [
+    {
+      "personID": "0304083",
+      "name": "Paul Ganapoler",
+      "character": null
+    }
+  ],
+  "assistant director": [
+    {
+      "personID": "0355112",
+      "name": "Michael Haley",
+      "character": null
+    },
+    {
+      "personID": "0476087",
+      "name": "Kim Kurumada",
+      "character": null
+    },
+    {
+      "personID": "0778697",
+      "name": "Peter R. Scoppa",
+      "character": null
+    },
+    {
+      "personID": "0802326",
+      "name": "Ralph S. Singleton",
+      "character": null
+    }
+  ],
+  "art department": [
+    {
+      "personID": "0505757",
+      "name": "Alan Levine",
+      "character": null
+    },
+    {
+      "personID": "0733428",
+      "name": "Bruno Robotti",
+      "character": null
+    }
+  ],
+  "sound crew": [
+    {
+      "personID": "0537946",
+      "name": "Dennis Maitland",
+      "character": null
+    },
+    {
+      "personID": "0681250",
+      "name": "Arthur Piantadosi",
+      "character": null
+    },
+    {
+      "personID": "0903067",
+      "name": "Josef von Stroheim",
+      "character": null
+    }
+  ],
+  "special effects": [
+    {
+      "personID": "0517846",
+      "name": "Augie Lohman",
+      "character": null
+    }
+  ],
+  "stunt performer": [
+    {
+      "personID": "0197845",
+      "name": "Harry Daley",
+      "character": null
+    },
+    {
+      "personID": "0807911",
+      "name": "Dean Smith",
+      "character": null
+    }
+  ],
+  "camera and electrical department": [
+    {
+      "personID": "0106070",
+      "name": "Enrique Bravo",
+      "character": null
+    },
+    {
+      "personID": "0908617",
+      "name": "Dusty Wallace",
+      "character": null
+    },
+    {
+      "personID": "0911809",
+      "name": "Robert Ward",
+      "character": null
+    },
+    {
+      "personID": "0100966",
+      "name": "Holly Bower",
+      "character": null
+    },
+    {
+      "personID": "0356603",
+      "name": "James Halligan",
+      "character": null
+    },
+    {
+      "personID": "0004413",
+      "name": "Brian Hamill",
+      "character": null
+    },
+    {
+      "personID": "0003601",
+      "name": "Gary Muller",
+      "character": null
+    },
+    {
+      "personID": "0697357",
+      "name": "Tom Priestley Jr.",
+      "character": null
+    }
+  ],
+  "costume department": [
+    {
+      "personID": "0214987",
+      "name": "Joseph W. Dehn",
+      "character": null
+    },
+    {
+      "personID": "0689360",
+      "name": "Bernie Pollack",
+      "character": null
+    }
+  ],
+  "location management": [
+    {
+      "personID": "0110212",
+      "name": "Michael Britton",
+      "character": null
+    },
+    {
+      "personID": "0627127",
+      "name": "Stuart Neumann",
+      "character": null
+    }
+  ],
+  "music department": [
+    {
+      "personID": "0925961",
+      "name": "Ted Whitfield",
+      "character": null
+    },
+    {
+      "personID": "1179904",
+      "name": "Vince De Rosa",
+      "character": null
+    },
+    {
+      "personID": "1529015",
+      "name": "Chuck Findley",
+      "character": null
+    },
+    {
+      "personID": "0006115",
+      "name": "Dave Grusin",
+      "character": null
+    },
+    {
+      "personID": "3049582",
+      "name": "The Hollywood Studio Symphony",
+      "character": null
+    },
+    {
+      "personID": "2482917",
+      "name": "Tommy Johnson",
+      "character": null
+    },
+    {
+      "personID": "0724079",
+      "name": "Emil Richards",
+      "character": null
+    },
+    {
+      "personID": "0828755",
+      "name": "Sally Stevens",
+      "character": null
+    },
+    {
+      "personID": "0881005",
+      "name": "Ian Underwood",
+      "character": null
+    }
+  ],
+  "script department": [
+    {
+      "personID": "0416725",
+      "name": "Maggie James",
+      "character": null
+    }
+  ],
+  "miscellaneous crew": [
+    {
+      "personID": "0017649",
+      "name": "Theoni V. Aldredge",
+      "character": null
+    },
+    {
+      "personID": "0209569",
+      "name": "Dino De Laurentiis",
+      "character": null
+    },
+    {
+      "personID": "0209572",
+      "name": "Federico De Laurentiis",
+      "character": null
+    },
+    {
+      "personID": "0325972",
+      "name": "Sam Goldrich",
+      "character": null
+    },
+    {
+      "personID": "0780497",
+      "name": "Adeline Leonard Seakwood",
+      "character": null
+    },
+    {
+      "personID": "0635603",
+      "name": "Phill Norman",
+      "character": null
+    },
+    {
+      "personID": "0012717",
+      "name": "Frans J. Afman",
+      "character": null
+    },
+    {
+      "personID": "0321763",
+      "name": "Stephen A. Glanzrock",
+      "character": null
+    },
+    {
+      "personID": "5110221",
+      "name": "Stephen A. Kallis Jr.",
+      "character": null
+    }
+  ],
+  "akas": [
+    "3 Days of the Condor (United States)",
+    "Les trois jours du Condor (France)",
+    "Les 3 jours du Condor (France)",
+    "Die drei Tage des Condor (Germany)",
+    "Los tres d\u00edas del c\u00f3ndor (Spain)"
+  ],
+  "production companies": [
+    {
+      "companyID": "0034515",
+      "name": "Wildwood Enterprises"
+    },
+    {
+      "companyID": "0014380",
+      "name": "Dino De Laurentiis Company"
+    }
+  ],
+  "distributors": [
+    {
+      "companyID": "0023400",
+      "name": "Paramount Pictures"
+    },
+    {
+      "companyID": "0534543",
+      "name": "Cinema International Corporation (CIC)"
+    },
+    {
+      "companyID": "0058792",
+      "name": "Roadshow Films"
+    },
+    {
+      "companyID": "0032224",
+      "name": "Titanus"
+    },
+    {
+      "companyID": "0000756",
+      "name": "Twentieth Century Fox"
+    },
+    {
+      "companyID": "0220007",
+      "name": "Fox Film"
+    },
+    {
+      "companyID": "0174267",
+      "name": "Fox Films"
+    },
+    {
+      "companyID": "0029000",
+      "name": "Fox-Lira"
+    },
+    {
+      "companyID": "0064457",
+      "name": "Toho-Towa"
+    },
+    {
+      "companyID": "0007180",
+      "name": "20th Century Fox Argentina"
+    },
+    {
+      "companyID": "0221123",
+      "name": "Columbia Pictures of Argentina"
+    },
+    {
+      "companyID": "0160549",
+      "name": "Hafbo"
+    },
+    {
+      "companyID": "0221636",
+      "name": "Fox-Stockholm Film Distribution"
+    },
+    {
+      "companyID": "0070627",
+      "name": "CBS"
+    },
+    {
+      "companyID": "0008003",
+      "name": "Sonoro Filme"
+    },
+    {
+      "companyID": "0244801",
+      "name": "CBS/Fox Video"
+    },
+    {
+      "companyID": "0075693",
+      "name": "VPS Video"
+    },
+    {
+      "companyID": "0245758",
+      "name": "Video Classics"
+    },
+    {
+      "companyID": "0051891",
+      "name": "Paramount Home Entertainment"
+    },
+    {
+      "companyID": "0069920",
+      "name": "Mainostelevisio (MTV3)"
+    },
+    {
+      "companyID": "0029644",
+      "name": "Nelonen"
+    },
+    {
+      "companyID": "0051891",
+      "name": "Paramount Home Entertainment"
+    },
+    {
+      "companyID": "0019532",
+      "name": "Kinowelt Home Entertainment"
+    },
+    {
+      "companyID": "0013526",
+      "name": "Yleisradio (YLE)"
+    },
+    {
+      "companyID": "0005073",
+      "name": "Universal Pictures"
+    },
+    {
+      "companyID": "0044350",
+      "name": "Gativideo"
+    },
+    {
+      "companyID": "0388514",
+      "name": "Universal Pictures Finland"
+    },
+    {
+      "companyID": "0005073",
+      "name": "Universal Pictures"
+    },
+    {
+      "companyID": "0005073",
+      "name": "Universal Pictures"
+    },
+    {
+      "companyID": "0608555",
+      "name": "Arthaus"
+    },
+    {
+      "companyID": "0047476",
+      "name": "StudioCanal"
+    },
+    {
+      "companyID": "0005073",
+      "name": "Universal Pictures"
+    },
+    {
+      "companyID": "0608555",
+      "name": "Arthaus"
+    },
+    {
+      "companyID": "0051891",
+      "name": "Paramount Home Entertainment"
+    },
+    {
+      "companyID": "0005073",
+      "name": "Universal Pictures"
+    },
+    {
+      "companyID": "0005073",
+      "name": "Universal Pictures"
+    },
+    {
+      "companyID": "0608555",
+      "name": "Arthaus"
+    },
+    {
+      "companyID": "0187355",
+      "name": "Eureka Entertainment"
+    },
+    {
+      "companyID": "0131809",
+      "name": "Rete 4"
+    },
+    {
+      "companyID": "0598720",
+      "name": "Bibliotheque"
+    },
+    {
+      "companyID": "0117434",
+      "name": "Divisa Home Video"
+    },
+    {
+      "companyID": "0122766",
+      "name": "Umbrella Entertainment"
+    },
+    {
+      "companyID": "0608555",
+      "name": "Arthaus"
+    },
+    {
+      "companyID": "0608555",
+      "name": "Arthaus"
+    },
+    {
+      "companyID": "0608555",
+      "name": "Arthaus"
+    },
+    {
+      "companyID": "0754095",
+      "name": "HBO Max"
+    },
+    {
+      "companyID": "0804141",
+      "name": "The Criterion Channel"
+    },
+    {
+      "companyID": "0118316",
+      "name": "Alliance Vid\u00e9o"
+    },
+    {
+      "companyID": "0362804",
+      "name": "Cin\u00e9Cin\u00e9mas"
+    },
+    {
+      "companyID": "0008958",
+      "name": "La Cinq"
+    },
+    {
+      "companyID": "0796240",
+      "name": "Paramount Channel"
+    },
+    {
+      "companyID": "0135307",
+      "name": "Rautakirja"
+    },
+    {
+      "companyID": "0090054",
+      "name": "Tec Home V\u00eddeo"
+    }
+  ],
+  "other companies": [
+    {
+      "companyID": "0003755",
+      "name": "Creative Film Arts"
+    },
+    {
+      "companyID": "0141769",
+      "name": "Tom Ward Enterprises"
+    }
+  ]
+}

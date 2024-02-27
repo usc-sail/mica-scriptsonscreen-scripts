@@ -1,3 +1,1785 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:10eaaffa76a24783512cc35e5c2a46a979c619d287bfb43962a09d4cec443439
-size 36686
+{
+  "localized title": "The Thing",
+  "cast": [
+    {
+      "personID": "0000621",
+      "name": "Kurt Russell",
+      "character": "MacReady"
+    },
+    {
+      "personID": "0000979",
+      "name": "Wilford Brimley",
+      "character": "Dr. Blair"
+    },
+    {
+      "personID": "0141953",
+      "name": "T.K. Carter",
+      "character": "Nauls"
+    },
+    {
+      "personID": "0166359",
+      "name": "David Clennon",
+      "character": "Palmer"
+    },
+    {
+      "personID": "0202966",
+      "name": "Keith David",
+      "character": "Childs"
+    },
+    {
+      "personID": "0246004",
+      "name": "Richard Dysart",
+      "character": "Dr. Copper"
+    },
+    {
+      "personID": "0356251",
+      "name": "Charles Hallahan",
+      "character": "Vance Norris"
+    },
+    {
+      "personID": "0540595",
+      "name": "Peter Maloney",
+      "character": "George Bennings"
+    },
+    {
+      "personID": "0557956",
+      "name": "Richard Masur",
+      "character": "Clark"
+    },
+    {
+      "personID": "0595567",
+      "name": "Donald Moffat",
+      "character": "Garry"
+    },
+    {
+      "personID": "0689177",
+      "name": "Joel Polis",
+      "character": "Fuchs"
+    },
+    {
+      "personID": "0906640",
+      "name": "Thomas G. Waites",
+      "character": "Windows"
+    },
+    {
+      "personID": "0919256",
+      "name": "Norbert Weisser",
+      "character": "Norwegian"
+    },
+    {
+      "personID": "0290581",
+      "name": "Larry Franco",
+      "character": "Norwegian Passenger with Rifle"
+    },
+    {
+      "personID": "0410429",
+      "name": "Nate Irwin",
+      "character": "Helicopter Pilot"
+    },
+    {
+      "personID": "0954730",
+      "name": "William Zeman",
+      "character": "Pilot"
+    },
+    {
+      "personID": "0000105",
+      "name": "Adrienne Barbeau",
+      "character": "Computer"
+    },
+    {
+      "personID": "0000118",
+      "name": "John Carpenter",
+      "character": "Norwegian"
+    },
+    {
+      "personID": "1058600",
+      "name": "Jed",
+      "character": "Dog Thing"
+    },
+    {
+      "personID": "0484111",
+      "name": "Bill Lancaster",
+      "character": "Norwegian"
+    },
+    {
+      "personID": "0006441",
+      "name": "Dick Warlock",
+      "character": "Norwegian"
+    }
+  ],
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "runtimes": [
+    "109"
+  ],
+  "countries": [
+    "United States",
+    "Canada"
+  ],
+  "country codes": [
+    "us",
+    "ca"
+  ],
+  "language codes": [
+    "en",
+    "no"
+  ],
+  "color info": [
+    "Color"
+  ],
+  "aspect ratio": "2.20 : 1 (70 mm prints)",
+  "sound mix": [
+    "Dolby Stereo::(35 mm prints)",
+    "70 mm 6-Track::(70 mm prints)",
+    "DTS::(DTS: X)"
+  ],
+  "box office": {
+    "Budget": "$15,000,000 (estimated)",
+    "Opening Weekend United States": "$3,107,897, 02 Jul 1982",
+    "Cumulative Worldwide Gross": "$7,821,228"
+  },
+  "certificates": [
+    "Argentina:18",
+    "Australia:MA15+",
+    "Australia:M",
+    "Australia:MA",
+    "Austria:16",
+    "Belgium:16",
+    "Brazil:14",
+    "Bulgaria:D",
+    "Canada:18A::(Alberta)",
+    "Canada:18A::(British Columbia)",
+    "Canada:14A::(Manitoba)",
+    "Canada:R::(Nova Scotia/Ontario)",
+    "Canada:13+::(Quebec)",
+    "Chile:14",
+    "Colombia:12",
+    "Czechia:15",
+    "Denmark:15",
+    "Egypt:18+",
+    "Finland:K-16",
+    "Finland:K-16",
+    "Finland:K-18",
+    "France:12::(new rating)",
+    "France:13",
+    "Germany:12::(Google Play)",
+    "Germany:16",
+    "Greece:K-16",
+    "Hong Kong:III",
+    "Hong Kong:IIB",
+    "Hungary:18",
+    "Iceland:16",
+    "India:A",
+    "Indonesia:D",
+    "Ireland:18",
+    "Ireland:16::(recommended rating)",
+    "Israel:16::(self-applied)",
+    "Italy:VM18",
+    "Italy:T::(recommended rating)",
+    "Japan:R-15",
+    "Japan:PG12",
+    "Lebanon:18+",
+    "Malaysia:18",
+    "Maldives:18+::(self-applied)",
+    "Mexico:C",
+    "Mexico:B",
+    "Nepal:A",
+    "Netherlands:16",
+    "New Zealand:R16",
+    "Nigeria:15",
+    "Norway:11",
+    "Norway:15::(iTunes rating)",
+    "Norway:11",
+    "Norway:18::(cinema rating)",
+    "Philippines:R-18",
+    "Poland:18::(self-applied)",
+    "Portugal:M/12",
+    "Portugal:M/16::(TV rating)",
+    "Romania:I.C.-14::(15+)",
+    "Russia:18+",
+    "Saudi Arabia:R18",
+    "Singapore:M18",
+    "South Africa:18",
+    "South Korea:(Banned)",
+    "South Korea:18",
+    "Spain:13",
+    "Spain:12",
+    "Sweden:15",
+    "Taiwan:R::(self-applied)",
+    "Thailand:u 18+::(self-applied)",
+    "Turkey:18+::(self-applied)",
+    "United Kingdom:X",
+    "United Kingdom:18",
+    "United States:TV-14::(DLSV)",
+    "United States:TV-MA::(IFC rating)",
+    "United States:R",
+    "Ukraine:16",
+    "United Arab Emirates:18+",
+    "West Germany:Not Rated::(SPIO/JK)",
+    "West Germany:16",
+    "West Germany:18::(198?)"
+  ],
+  "original air date": "25 Jun 1982 (USA)",
+  "rating": 8.2,
+  "votes": 436731,
+  "cover url": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX101_CR0,0,101,150_.jpg",
+  "imdbID": "0084787",
+  "videos": [
+    "http://www.imdb.com/title/tt0084787/videoplayer/vi2298151193",
+    "http://www.imdb.com/title/tt0084787/videoplayer/vi1739308825"
+  ],
+  "plot outline": "A US research station, Antarctica, early-winter 1982. The base is suddenly buzzed by a helicopter from the nearby Norwegian research station. They are trying to kill a dog that has escaped from their base. After the destruction of the Norwegian chopper the members of the US team fly to the Norwegian base, only to discover them all dead or missing. They do find the remains of a strange creature the Norwegians burned. The Americans take it to their base and deduce that it is an alien life form. After a while it is apparent that the alien can take over and assimilate into other life forms, including humans, and can spread like a virus. This means that anyone at the base could be inhabited by The Thing, and tensions escalate.",
+  "languages": [
+    "English",
+    "Norwegian"
+  ],
+  "title": "The Thing",
+  "year": 1982,
+  "kind": "movie",
+  "original title": "The Thing",
+  "director": [
+    {
+      "personID": "0000118",
+      "name": "John Carpenter",
+      "character": null
+    }
+  ],
+  "writer": [
+    {
+      "personID": "0484111",
+      "name": "Bill Lancaster",
+      "character": null
+    },
+    {
+      "personID": null,
+      "name": null,
+      "character": null
+    },
+    {
+      "personID": "0132168",
+      "name": "John W. Campbell Jr.",
+      "character": null
+    }
+  ],
+  "producer": [
+    {
+      "personID": "0169801",
+      "name": "Stuart Cohen",
+      "character": null
+    },
+    {
+      "personID": "0287759",
+      "name": "David Foster",
+      "character": null
+    },
+    {
+      "personID": "0290581",
+      "name": "Larry Franco",
+      "character": null
+    },
+    {
+      "personID": "0823283",
+      "name": "Wilbur Stark",
+      "character": null
+    },
+    {
+      "personID": "0877274",
+      "name": "Lawrence Turman",
+      "character": null
+    }
+  ],
+  "composer": [
+    {
+      "personID": "0001553",
+      "name": "Ennio Morricone",
+      "character": null
+    }
+  ],
+  "cinematographer": [
+    {
+      "personID": "0005678",
+      "name": "Dean Cundey",
+      "character": null
+    }
+  ],
+  "editor": [
+    {
+      "personID": "0708916",
+      "name": "Todd C. Ramsay",
+      "character": null
+    }
+  ],
+  "editorial department": [
+    {
+      "personID": "0712896",
+      "name": "Kimberly Ray",
+      "character": null
+    },
+    {
+      "personID": "0921742",
+      "name": "Jan Wesley",
+      "character": null
+    }
+  ],
+  "casting director": [
+    {
+      "personID": "0200335",
+      "name": "Anita Dann",
+      "character": null
+    }
+  ],
+  "production design": [
+    {
+      "personID": "0516038",
+      "name": "John J. Lloyd",
+      "character": null
+    }
+  ],
+  "art direction": [
+    {
+      "personID": "0488607",
+      "name": "Henry Larrecq",
+      "character": null
+    }
+  ],
+  "set decoration": [
+    {
+      "personID": "0245501",
+      "name": "John M. Dwyer",
+      "character": null
+    }
+  ],
+  "make up": [
+    {
+      "personID": "0027052",
+      "name": "Lance Anderson",
+      "character": null
+    },
+    {
+      "personID": "0001964",
+      "name": "Rob Bottin",
+      "character": null
+    },
+    {
+      "personID": "0103598",
+      "name": "Dale Brady",
+      "character": null
+    },
+    {
+      "personID": "0122201",
+      "name": "Rob Burman",
+      "character": null
+    },
+    {
+      "personID": "0148163",
+      "name": "David Robert Cellitti",
+      "character": null
+    },
+    {
+      "personID": "0151352",
+      "name": "Don Chandler",
+      "character": null
+    },
+    {
+      "personID": "0153793",
+      "name": "Ken Chase",
+      "character": null
+    },
+    {
+      "personID": "0170748",
+      "name": "Robert Cole",
+      "character": null
+    },
+    {
+      "personID": "0177083",
+      "name": "Jan Cook",
+      "character": null
+    },
+    {
+      "personID": "0192009",
+      "name": "James Cummins",
+      "character": null
+    },
+    {
+      "personID": "0205752",
+      "name": "Richard Davison",
+      "character": null
+    },
+    {
+      "personID": "0225004",
+      "name": "Ken Diaz",
+      "character": null
+    },
+    {
+      "personID": "0272256",
+      "name": "Gunnar Ferdinandsen",
+      "character": null
+    },
+    {
+      "personID": "0287806",
+      "name": "Frank Foster",
+      "character": null
+    },
+    {
+      "personID": "0318645",
+      "name": "Danny Gill",
+      "character": null
+    },
+    {
+      "personID": "0318990",
+      "name": "Archie L. Gillet",
+      "character": null
+    },
+    {
+      "personID": "0319007",
+      "name": "Tim Gillet",
+      "character": null
+    },
+    {
+      "personID": "0329491",
+      "name": "John Goodwin",
+      "character": null
+    },
+    {
+      "personID": "0421409",
+      "name": "Erik Jensen",
+      "character": null
+    },
+    {
+      "personID": "0434610",
+      "name": "James Kagel",
+      "character": null
+    },
+    {
+      "personID": "0448405",
+      "name": "Jeff Kennemore",
+      "character": null
+    },
+    {
+      "personID": "0379206",
+      "name": "Phyllis Newman",
+      "character": null
+    },
+    {
+      "personID": "0642432",
+      "name": "Derek O'Reilly",
+      "character": null
+    },
+    {
+      "personID": "0683732",
+      "name": "Art Pimentel",
+      "character": null
+    },
+    {
+      "personID": "0078642",
+      "name": "Margaret Prentice",
+      "character": null
+    },
+    {
+      "personID": "0696026",
+      "name": "Vincent Prentice",
+      "character": null
+    },
+    {
+      "personID": "0811579",
+      "name": "William Snyder",
+      "character": null
+    },
+    {
+      "personID": "0846482",
+      "name": "Michiko Tagawa",
+      "character": null
+    },
+    {
+      "personID": "0877669",
+      "name": "Josephine Turner",
+      "character": null
+    },
+    {
+      "personID": "0905395",
+      "name": "Brian Wade",
+      "character": null
+    },
+    {
+      "personID": "0908295",
+      "name": "Vivienne Walker",
+      "character": null
+    },
+    {
+      "personID": "0926502",
+      "name": "Willie Whitten",
+      "character": null
+    },
+    {
+      "personID": "0941776",
+      "name": "Robert K. Worthington",
+      "character": null
+    },
+    {
+      "personID": "0721842",
+      "name": "Lynn F. Reynolds",
+      "character": null
+    },
+    {
+      "personID": "0836308",
+      "name": "Bill Sturgeon",
+      "character": null
+    },
+    {
+      "personID": "0935644",
+      "name": "Stan Winston",
+      "character": null
+    }
+  ],
+  "production manager": [
+    {
+      "personID": "0114556",
+      "name": "Robert Latham Brown",
+      "character": null
+    },
+    {
+      "personID": "0128325",
+      "name": "Fitch Cady",
+      "character": null
+    }
+  ],
+  "assistant director": [
+    {
+      "personID": "0155942",
+      "name": "Jeffrey Chernov",
+      "character": null
+    },
+    {
+      "personID": "0290581",
+      "name": "Larry Franco",
+      "character": null
+    },
+    {
+      "personID": "0401902",
+      "name": "Bruce Humphrey",
+      "character": null
+    },
+    {
+      "personID": "0824627",
+      "name": "Michael E. Steele",
+      "character": null
+    }
+  ],
+  "art department": [
+    {
+      "personID": "0130280",
+      "name": "Jim Callan",
+      "character": null
+    },
+    {
+      "personID": "0304482",
+      "name": "Michael R. Gannon",
+      "character": null
+    },
+    {
+      "personID": "0327574",
+      "name": "Richard A. Gonzales",
+      "character": null
+    },
+    {
+      "personID": "0392143",
+      "name": "Bill Holmquist",
+      "character": null
+    },
+    {
+      "personID": "0400031",
+      "name": "Mentor Huebner",
+      "character": null
+    },
+    {
+      "personID": "0583123",
+      "name": "Gary Meyer",
+      "character": null
+    },
+    {
+      "personID": "0614967",
+      "name": "Graeme Murray",
+      "character": null
+    },
+    {
+      "personID": "0634123",
+      "name": "Bob Nohles",
+      "character": null
+    },
+    {
+      "personID": "0662245",
+      "name": "Frank Parker",
+      "character": null
+    },
+    {
+      "personID": "0687396",
+      "name": "Michael G. Ploog",
+      "character": null
+    },
+    {
+      "personID": "0767834",
+      "name": "Joseph R. Savko",
+      "character": null
+    },
+    {
+      "personID": "0839875",
+      "name": "Barton M. Susman",
+      "character": null
+    },
+    {
+      "personID": "0933879",
+      "name": "Milton Wilson",
+      "character": null
+    },
+    {
+      "personID": "0954743",
+      "name": "John Zemansky",
+      "character": null
+    },
+    {
+      "personID": "0023264",
+      "name": "Henry Alvarez",
+      "character": null
+    },
+    {
+      "personID": "0592721",
+      "name": "Robert Misetich",
+      "character": null
+    },
+    {
+      "personID": "0835405",
+      "name": "Drew Struzan",
+      "character": null
+    }
+  ],
+  "sound crew": [
+    {
+      "personID": "0011086",
+      "name": "John K. Adams",
+      "character": null
+    },
+    {
+      "personID": "0107328",
+      "name": "Joseph F. Brennan",
+      "character": null
+    },
+    {
+      "personID": "0146600",
+      "name": "Thomas Causey",
+      "character": null
+    },
+    {
+      "personID": "0331460",
+      "name": "Jack Gosden",
+      "character": null
+    },
+    {
+      "personID": "0357701",
+      "name": "Warren Hamilton Jr.",
+      "character": null
+    },
+    {
+      "personID": "0378081",
+      "name": "Duane Hensel",
+      "character": null
+    },
+    {
+      "personID": "0441668",
+      "name": "David Katz",
+      "character": null
+    },
+    {
+      "personID": "0484414",
+      "name": "Gregg Landaker",
+      "character": null
+    },
+    {
+      "personID": "0555997",
+      "name": "Ernesto Mas",
+      "character": null
+    },
+    {
+      "personID": "0556541",
+      "name": "Steve Maslow",
+      "character": null
+    },
+    {
+      "personID": "0609620",
+      "name": "Colin C. Mouat",
+      "character": null
+    },
+    {
+      "personID": "0692836",
+      "name": "John Post",
+      "character": null
+    },
+    {
+      "personID": "0842278",
+      "name": "Kendrick Sweet",
+      "character": null
+    },
+    {
+      "personID": "0890106",
+      "name": "Bill Varney",
+      "character": null
+    },
+    {
+      "personID": "0947884",
+      "name": "David Lewis Yewdall",
+      "character": null
+    },
+    {
+      "personID": "0397697",
+      "name": "Alan Howarth",
+      "character": null
+    }
+  ],
+  "special effects": [
+    {
+      "personID": "0033405",
+      "name": "Roy Arbogast",
+      "character": null
+    },
+    {
+      "personID": "0081781",
+      "name": "Hal Bigger",
+      "character": null
+    },
+    {
+      "personID": "0166666",
+      "name": "Michael Clifford",
+      "character": null
+    },
+    {
+      "personID": "0447038",
+      "name": "David P. Kelsey",
+      "character": null
+    },
+    {
+      "personID": "0498451",
+      "name": "William Lee",
+      "character": null
+    },
+    {
+      "personID": "0582687",
+      "name": "Hans Metz",
+      "character": null
+    },
+    {
+      "personID": "0746155",
+      "name": "Lee Routly",
+      "character": null
+    },
+    {
+      "personID": "0830514",
+      "name": "John K. Stirber",
+      "character": null
+    },
+    {
+      "personID": "0587885",
+      "name": "Andrew Miller",
+      "character": null
+    },
+    {
+      "personID": "0888356",
+      "name": "Bruno Van Zeebroeck",
+      "character": null
+    },
+    {
+      "personID": "0956987",
+      "name": "Gary Zink",
+      "character": null
+    }
+  ],
+  "visual effects": [
+    {
+      "personID": "0042138",
+      "name": "Jim Aupperle",
+      "character": null
+    },
+    {
+      "personID": "0069406",
+      "name": "James Belohovek",
+      "character": null
+    },
+    {
+      "personID": "0177241",
+      "name": "Randall William Cook",
+      "character": null
+    },
+    {
+      "personID": "0267495",
+      "name": "Ernest Farino",
+      "character": null
+    },
+    {
+      "personID": "0353314",
+      "name": "James Hagedorn",
+      "character": null
+    },
+    {
+      "personID": "0443807",
+      "name": "Katherine Kean",
+      "character": null
+    },
+    {
+      "personID": "0475571",
+      "name": "Peter Kuran",
+      "character": null
+    },
+    {
+      "personID": "0516973",
+      "name": "George Lockwood",
+      "character": null
+    },
+    {
+      "personID": "0839616",
+      "name": "Carl Surges",
+      "character": null
+    },
+    {
+      "personID": "0852041",
+      "name": "Bill Taylor",
+      "character": null
+    },
+    {
+      "personID": "0875913",
+      "name": "Keith Tucker",
+      "character": null
+    },
+    {
+      "personID": "0877883",
+      "name": "Susan Turner",
+      "character": null
+    },
+    {
+      "personID": "0926087",
+      "name": "Albert Whitlock",
+      "character": null
+    },
+    {
+      "personID": "0199453",
+      "name": "Jim Danforth",
+      "character": null
+    },
+    {
+      "personID": "0774494",
+      "name": "Henry Schoessler",
+      "character": null
+    }
+  ],
+  "stunt performer": [
+    {
+      "personID": "0147656",
+      "name": "Anthony Cecere",
+      "character": null
+    },
+    {
+      "personID": "0371626",
+      "name": "Kent Hays",
+      "character": null
+    },
+    {
+      "personID": "0392470",
+      "name": "Larry Holt",
+      "character": null
+    },
+    {
+      "personID": "0428816",
+      "name": "Melvin Jones",
+      "character": null
+    },
+    {
+      "personID": "0543877",
+      "name": "Eric Mansker",
+      "character": null
+    },
+    {
+      "personID": "0560460",
+      "name": "Denver Mattson",
+      "character": null
+    },
+    {
+      "personID": "0746487",
+      "name": "Clint Rowe",
+      "character": null
+    },
+    {
+      "personID": "12022848",
+      "name": "Ken Strain",
+      "character": null
+    },
+    {
+      "personID": "0908167",
+      "name": "Rock A. Walker",
+      "character": null
+    },
+    {
+      "personID": "0006441",
+      "name": "Dick Warlock",
+      "character": null
+    },
+    {
+      "personID": "0932660",
+      "name": "Jerry Wills",
+      "character": null
+    },
+    {
+      "personID": "0006441",
+      "name": "Dick Warlock",
+      "character": null
+    }
+  ],
+  "camera and electrical department": [
+    {
+      "personID": "0026601",
+      "name": "David R. Anderson",
+      "character": null
+    },
+    {
+      "personID": "0031608",
+      "name": "Jon Antunovich",
+      "character": null
+    },
+    {
+      "personID": "0088702",
+      "name": "Cyrus Block",
+      "character": null
+    },
+    {
+      "personID": "0109684",
+      "name": "Dillard Brinson",
+      "character": null
+    },
+    {
+      "personID": "0116919",
+      "name": "Clyde E. Bryan",
+      "character": null
+    },
+    {
+      "personID": "0311454",
+      "name": "David Geddes",
+      "character": null
+    },
+    {
+      "personID": "0330118",
+      "name": "Dave Gordon",
+      "character": null
+    },
+    {
+      "personID": "0374889",
+      "name": "Chris Helcermanas-Benge",
+      "character": null
+    },
+    {
+      "personID": "0395755",
+      "name": "L\u00e1szl\u00f3 Horv\u00e1th",
+      "character": null
+    },
+    {
+      "personID": "0403371",
+      "name": "James L. Hurford",
+      "character": null
+    },
+    {
+      "personID": "0455956",
+      "name": "Ray Kinzer",
+      "character": null
+    },
+    {
+      "personID": "0472319",
+      "name": "Kris Krosskove",
+      "character": null
+    },
+    {
+      "personID": "0551204",
+      "name": "Terry Marshall",
+      "character": null
+    },
+    {
+      "personID": "0551205",
+      "name": "Thomas Marshall",
+      "character": null
+    },
+    {
+      "personID": "0632531",
+      "name": "Charles E. Nippell",
+      "character": null
+    },
+    {
+      "personID": "0649630",
+      "name": "Michael Orefice",
+      "character": null
+    },
+    {
+      "personID": "0697700",
+      "name": "Paul Prince",
+      "character": null
+    },
+    {
+      "personID": "0699293",
+      "name": "Douglas Pruss",
+      "character": null
+    },
+    {
+      "personID": "0717186",
+      "name": "Barrett J. Reid",
+      "character": null
+    },
+    {
+      "personID": "0826310",
+      "name": "Raymond Stella",
+      "character": null
+    },
+    {
+      "personID": "0851200",
+      "name": "Steve Tate",
+      "character": null
+    },
+    {
+      "personID": "0910451",
+      "name": "Mark Walthour",
+      "character": null
+    },
+    {
+      "personID": "0938097",
+      "name": "Len Wolfe",
+      "character": null
+    },
+    {
+      "personID": "0940982",
+      "name": "Ronald Woodward",
+      "character": null
+    },
+    {
+      "personID": "0221909",
+      "name": "Frank Detone Jr.",
+      "character": null
+    },
+    {
+      "personID": "0002927",
+      "name": "Michael Hofstein",
+      "character": null
+    },
+    {
+      "personID": "0646557",
+      "name": "Douglas Olivares",
+      "character": null
+    }
+  ],
+  "costume department": [
+    {
+      "personID": "0135233",
+      "name": "Ronald I. Caplan",
+      "character": null
+    },
+    {
+      "personID": "0444152",
+      "name": "Trish Keating",
+      "character": null
+    },
+    {
+      "personID": "0517181",
+      "name": "Gilbert Loe",
+      "character": null
+    }
+  ],
+  "music department": [
+    {
+      "personID": "0364566",
+      "name": "Craig Harris",
+      "character": null
+    },
+    {
+      "personID": "0463354",
+      "name": "Cliff Kohlweck",
+      "character": null
+    },
+    {
+      "personID": "0000118",
+      "name": "John Carpenter",
+      "character": null
+    },
+    {
+      "personID": "0397697",
+      "name": "Alan Howarth",
+      "character": null
+    },
+    {
+      "personID": "0573522",
+      "name": "Malcolm McNab",
+      "character": null
+    },
+    {
+      "personID": "1320320",
+      "name": "Louise Di Tullio",
+      "character": null
+    }
+  ],
+  "script department": [
+    {
+      "personID": "0037929",
+      "name": "Candy Artmont",
+      "character": null
+    },
+    {
+      "personID": "0373647",
+      "name": "Joyce Heftel",
+      "character": null
+    }
+  ],
+  "transportation department": [
+    {
+      "personID": "0029892",
+      "name": "Dan Anglin",
+      "character": null
+    },
+    {
+      "personID": "0180221",
+      "name": "Bob Cornell",
+      "character": null
+    },
+    {
+      "personID": "0493217",
+      "name": "George Lawson",
+      "character": null
+    },
+    {
+      "personID": "0833236",
+      "name": "Alois Stranan",
+      "character": null
+    }
+  ],
+  "miscellaneous crew": [
+    {
+      "personID": "0044760",
+      "name": "Yervant Babasin",
+      "character": null
+    },
+    {
+      "personID": "0071300",
+      "name": "Ellen Benjamin",
+      "character": null
+    },
+    {
+      "personID": "0171893",
+      "name": "Debbie Collier",
+      "character": null
+    },
+    {
+      "personID": "0173202",
+      "name": "James T. Colovin",
+      "character": null
+    },
+    {
+      "personID": "0181121",
+      "name": "Rocky Corsini",
+      "character": null
+    },
+    {
+      "personID": "0381743",
+      "name": "Shelby Hetherington",
+      "character": null
+    },
+    {
+      "personID": "0405023",
+      "name": "Spencer Hyde",
+      "character": null
+    },
+    {
+      "personID": "0410429",
+      "name": "Nate Irwin",
+      "character": null
+    },
+    {
+      "personID": "0436239",
+      "name": "Karen Kalton",
+      "character": null
+    },
+    {
+      "personID": "2100199",
+      "name": "Debbie Kennard",
+      "character": null
+    },
+    {
+      "personID": "0455309",
+      "name": "Susan King",
+      "character": null
+    },
+    {
+      "personID": "0461266",
+      "name": "Robert Knoechel",
+      "character": null
+    },
+    {
+      "personID": "0532826",
+      "name": "Ron MacInnes",
+      "character": null
+    },
+    {
+      "personID": "0588702",
+      "name": "Karen Miller",
+      "character": null
+    },
+    {
+      "personID": "0588950",
+      "name": "Maynard M. Miller",
+      "character": null
+    },
+    {
+      "personID": "0609841",
+      "name": "Robin Mounsey",
+      "character": null
+    },
+    {
+      "personID": "0675159",
+      "name": "Lawrence Perry",
+      "character": null
+    },
+    {
+      "personID": "0746487",
+      "name": "Clint Rowe",
+      "character": null
+    },
+    {
+      "personID": "0797894",
+      "name": "Peter J. Silbermann",
+      "character": null
+    },
+    {
+      "personID": "12022848",
+      "name": "Ken Strain",
+      "character": null
+    },
+    {
+      "personID": "0865057",
+      "name": "Tana Tocher",
+      "character": null
+    },
+    {
+      "personID": "0903298",
+      "name": "Linda Von",
+      "character": null
+    },
+    {
+      "personID": "0915802",
+      "name": "Robert Weatherwax",
+      "character": null
+    },
+    {
+      "personID": "0933181",
+      "name": "Christine Wilson",
+      "character": null
+    },
+    {
+      "personID": "0009620",
+      "name": "Tonino Accolla",
+      "character": null
+    },
+    {
+      "personID": "0114556",
+      "name": "Robert Latham Brown",
+      "character": null
+    },
+    {
+      "personID": "0287759",
+      "name": "David Foster",
+      "character": null
+    },
+    {
+      "personID": "0290581",
+      "name": "Larry Franco",
+      "character": null
+    },
+    {
+      "personID": "0484111",
+      "name": "Bill Lancaster",
+      "character": null
+    },
+    {
+      "personID": "0003653",
+      "name": "Craig Miller",
+      "character": null
+    },
+    {
+      "personID": "0826310",
+      "name": "Raymond Stella",
+      "character": null
+    },
+    {
+      "personID": "0006441",
+      "name": "Dick Warlock",
+      "character": null
+    }
+  ],
+  "thanks": [
+    {
+      "personID": "0935644",
+      "name": "Stan Winston",
+      "character": null
+    }
+  ],
+  "akas": [
+    "John Carpenter's The Thing (United States)",
+    "L'effroyable chose (Canada, French title)",
+    "Yuuseikara no Buutai X (Japan, English title)",
+    "La Chose (France)",
+    "Das Ding aus einer anderen Welt (Germany)"
+  ],
+  "top 250 rank": 152,
+  "production companies": [
+    {
+      "companyID": "0005073",
+      "name": "Universal Pictures"
+    },
+    {
+      "companyID": "0004522",
+      "name": "Turman-Foster Company"
+    },
+    {
+      "companyID": "0220554",
+      "name": "Province of BC, Ministry of Tourism, Film Promotion Office"
+    }
+  ],
+  "distributors": [
+    {
+      "companyID": "0005073",
+      "name": "Universal Pictures"
+    },
+    {
+      "companyID": "0074139",
+      "name": "United International Pictures (UIP)"
+    },
+    {
+      "companyID": "0113995",
+      "name": "United International Pictures (UIP)"
+    },
+    {
+      "companyID": "0008693",
+      "name": "Home Box Office (HBO)"
+    },
+    {
+      "companyID": "0371559",
+      "name": "Cinema International Corporation (CIC)"
+    },
+    {
+      "companyID": "0016600",
+      "name": "United International Pictures (UIP)"
+    },
+    {
+      "companyID": "0080445",
+      "name": "United International Pictures (UIP)"
+    },
+    {
+      "companyID": "0070627",
+      "name": "CBS"
+    },
+    {
+      "companyID": "0142899",
+      "name": "United International Pictures (UIP)"
+    },
+    {
+      "companyID": "0112572",
+      "name": "United International Pictures (UIP)"
+    },
+    {
+      "companyID": "0106040",
+      "name": "CIC Video"
+    },
+    {
+      "companyID": "0304136",
+      "name": "Nova Film"
+    },
+    {
+      "companyID": "0917448",
+      "name": "Mosfilm"
+    },
+    {
+      "companyID": "0112372",
+      "name": "Cinema International Corporation (CIC)"
+    },
+    {
+      "companyID": "0060214",
+      "name": "MCA/Universal Home Video"
+    },
+    {
+      "companyID": "0234432",
+      "name": "Cinema International Corporation (CIC)"
+    },
+    {
+      "companyID": "0036998",
+      "name": "Cinema International Corporation (CIC)"
+    },
+    {
+      "companyID": "0646535",
+      "name": "Cinema International Corporation (CIC)"
+    },
+    {
+      "companyID": "0794561",
+      "name": "Universal Films of India"
+    },
+    {
+      "companyID": "0060214",
+      "name": "MCA/Universal Home Video"
+    },
+    {
+      "companyID": "0021304",
+      "name": "CIC Video"
+    },
+    {
+      "companyID": "0021294",
+      "name": "Universal Studios Home Video"
+    },
+    {
+      "companyID": "0558402",
+      "name": "FilmNet"
+    },
+    {
+      "companyID": "0021294",
+      "name": "Universal Studios Home Video"
+    },
+    {
+      "companyID": "0021294",
+      "name": "Universal Studios Home Video"
+    },
+    {
+      "companyID": "0021294",
+      "name": "Universal Studios Home Video"
+    },
+    {
+      "companyID": "0008958",
+      "name": "La Cinq"
+    },
+    {
+      "companyID": "0057552",
+      "name": "Belgische Radio en Televisie (BRT)"
+    },
+    {
+      "companyID": "0011677",
+      "name": "Radio T\u00e9l\u00e9vision Belge Francophone (RTBF)"
+    },
+    {
+      "companyID": "0197220",
+      "name": "TV3"
+    },
+    {
+      "companyID": "0021294",
+      "name": "Universal Studios Home Video"
+    },
+    {
+      "companyID": "0225291",
+      "name": "CIC Victor Video"
+    },
+    {
+      "companyID": "0179262",
+      "name": "Esselte Video"
+    },
+    {
+      "companyID": "0112383",
+      "name": "RTL Entertainment"
+    },
+    {
+      "companyID": "0031085",
+      "name": "Argentina Video Home"
+    },
+    {
+      "companyID": "0315145",
+      "name": "Esselte CIC Video"
+    },
+    {
+      "companyID": "0076366",
+      "name": "MCA Videocassette"
+    },
+    {
+      "companyID": "0105063",
+      "name": "Universal Pictures"
+    },
+    {
+      "companyID": "0021294",
+      "name": "Universal Studios Home Video"
+    },
+    {
+      "companyID": "0023827",
+      "name": "Universal Pictures Home Entertainment (UPHE)"
+    },
+    {
+      "companyID": "0021294",
+      "name": "Universal Studios Home Video"
+    },
+    {
+      "companyID": "0023827",
+      "name": "Universal Pictures Home Entertainment (UPHE)"
+    },
+    {
+      "companyID": "0105063",
+      "name": "Universal Pictures"
+    },
+    {
+      "companyID": "0110681",
+      "name": "Universal Home Entertainment"
+    },
+    {
+      "companyID": "0023827",
+      "name": "Universal Pictures Home Entertainment (UPHE)"
+    },
+    {
+      "companyID": "0023827",
+      "name": "Universal Pictures Home Entertainment (UPHE)"
+    },
+    {
+      "companyID": "0145658",
+      "name": "CIC-Taft Home Video"
+    },
+    {
+      "companyID": "0069920",
+      "name": "Mainostelevisio (MTV3)"
+    },
+    {
+      "companyID": "0295614",
+      "name": "Universal Studios Home Video"
+    },
+    {
+      "companyID": "0189864",
+      "name": "Columbia TriStar Home Video"
+    },
+    {
+      "companyID": "0135306",
+      "name": "Egmont Entertainment"
+    },
+    {
+      "companyID": "0137854",
+      "name": "Nordisk Film"
+    },
+    {
+      "companyID": "0023827",
+      "name": "Universal Pictures Home Entertainment (UPHE)"
+    },
+    {
+      "companyID": "0001850",
+      "name": "Columbia TriStar Home Video"
+    },
+    {
+      "companyID": "0754095",
+      "name": "HBO Max"
+    },
+    {
+      "companyID": "0854530",
+      "name": "Studio Distribution Services (SDS)"
+    },
+    {
+      "companyID": "0854530",
+      "name": "Studio Distribution Services (SDS)"
+    },
+    {
+      "companyID": "0804141",
+      "name": "The Criterion Channel"
+    },
+    {
+      "companyID": "0023827",
+      "name": "Universal Pictures Home Entertainment (UPHE)"
+    },
+    {
+      "companyID": "0023827",
+      "name": "Universal Pictures Home Entertainment (UPHE)"
+    },
+    {
+      "companyID": "0752504",
+      "name": "Universal Pictures Home Video"
+    },
+    {
+      "companyID": "0055622",
+      "name": "Universal Pictures Spain"
+    },
+    {
+      "companyID": "0388514",
+      "name": "Universal Pictures Finland"
+    },
+    {
+      "companyID": "0824424",
+      "name": "Universal Pictures Video"
+    },
+    {
+      "companyID": "0219620",
+      "name": "Universal Pictures Video"
+    },
+    {
+      "companyID": "0031085",
+      "name": "Argentina Video Home"
+    },
+    {
+      "companyID": "0824424",
+      "name": "Universal Pictures Video"
+    },
+    {
+      "companyID": "0186281",
+      "name": "AXN"
+    },
+    {
+      "companyID": "0180647",
+      "name": "Universal Pictures Home Video"
+    },
+    {
+      "companyID": "0108183",
+      "name": "Universal Home Entertainment"
+    },
+    {
+      "companyID": "0429910",
+      "name": "Universal Studios Home Entertainment"
+    },
+    {
+      "companyID": "0219620",
+      "name": "Universal Pictures Video"
+    },
+    {
+      "companyID": "0121774",
+      "name": "Universal Home Entertainment"
+    },
+    {
+      "companyID": "0824424",
+      "name": "Universal Pictures Video"
+    },
+    {
+      "companyID": "0388514",
+      "name": "Universal Pictures Finland"
+    },
+    {
+      "companyID": "0055622",
+      "name": "Universal Pictures Spain"
+    },
+    {
+      "companyID": "0095832",
+      "name": "Prem'er Video Fil'm"
+    },
+    {
+      "companyID": "0429910",
+      "name": "Universal Studios Home Entertainment"
+    },
+    {
+      "companyID": "0068056",
+      "name": "Video Film Express"
+    },
+    {
+      "companyID": "0297627",
+      "name": "Universal Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0258711",
+      "name": "Chapel Distribution"
+    },
+    {
+      "companyID": "0210003",
+      "name": "Deliverance Pictures"
+    },
+    {
+      "companyID": "0296065",
+      "name": "Splendor Films"
+    },
+    {
+      "companyID": "0235493",
+      "name": "Scream Factory"
+    },
+    {
+      "companyID": "0188209",
+      "name": "The Horror Channel"
+    },
+    {
+      "companyID": "0125153",
+      "name": "Turbine Medien"
+    },
+    {
+      "companyID": "0796240",
+      "name": "Paramount Channel"
+    },
+    {
+      "companyID": "0840675",
+      "name": "Universal Pictures"
+    },
+    {
+      "companyID": "0080094",
+      "name": "CIC V\u00eddeo"
+    },
+    {
+      "companyID": "0297627",
+      "name": "Universal Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0752505",
+      "name": "Universal Pictures Home Entertainment"
+    },
+    {
+      "companyID": "0149423",
+      "name": "VideoVisa"
+    }
+  ],
+  "special effects companies": [
+    {
+      "companyID": "0030120",
+      "name": "Motion Graphics"
+    },
+    {
+      "companyID": "0050036",
+      "name": "Visual Concept Engineering (VCE)"
+    },
+    {
+      "companyID": "0121413",
+      "name": "Universal Hartland"
+    }
+  ],
+  "other companies": [
+    {
+      "companyID": "0108500",
+      "name": "Universal Title"
+    },
+    {
+      "companyID": "0087122",
+      "name": "Pickwick/Maslansky/Koenigsberg Inc."
+    },
+    {
+      "companyID": "0022079",
+      "name": "RGB Optical"
+    },
+    {
+      "companyID": "0220554",
+      "name": "Province of BC, Ministry of Tourism, Film Promotion Office"
+    },
+    {
+      "companyID": "0322260",
+      "name": "People of Stewart, British Columbia"
+    },
+    {
+      "companyID": "0350852",
+      "name": "Tongass National Forest, Juneau, Alaska"
+    },
+    {
+      "companyID": "0069003",
+      "name": "American Humane Association"
+    },
+    {
+      "companyID": "0042246",
+      "name": "MCA Records"
+    },
+    {
+      "companyID": "0190210",
+      "name": "International Alliance of Theatrical Stage Employees (IATSE)"
+    },
+    {
+      "companyID": "0300363",
+      "name": "BT Industrial Supply"
+    },
+    {
+      "companyID": "0321535",
+      "name": "Descriptive Video Works"
+    },
+    {
+      "companyID": "0259215",
+      "name": "Private Island Audio"
+    },
+    {
+      "companyID": "0841124",
+      "name": "Waxwork Records"
+    }
+  ]
+}
